@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Son Haberler</title>
+<meta name="description" content="Türkiye ve dünyadan son dakika haberleri, otomatik güncellenir.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&display=swap" rel="stylesheet">
+<!-- Reklam için: AdSense kodunu buraya ekle
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXX" crossorigin="anonymous"></script> -->
+<style>
+:root{
+  --bg:#EEF1F5; --surface:#FFFFFF; --ink:#0F1B2D; --muted:#5B6678; --line:#D5DBE5; --accent:#0A5CFF; --live:#E5322D;
+  --head:"Bricolage Grotesque",system-ui,sans-serif; --body:"Source Serif 4",Georgia,serif;
+}
+@media (prefers-color-scheme:dark){
+  :root{--bg:#0C131F; --surface:#141E2E; --ink:#EAF0F8; --muted:#97A3B8; --line:#27344A; --accent:#6EA2FF; --live:#FF6A64;}
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:70px}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.5}
+a{color:inherit;text-decoration:none}
+a:focus-visible,button:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+header{position:sticky;top:0;z-index:5;background:var(--surface);border-bottom:1px solid var(--line)}
+.bar{max-width:1120px;margin:0 auto;padding:12px 20px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.brand{font-family:var(--head);font-weight:800;font-size:26px;letter-spacing:-.02em}
+.live{display:inline-flex;align-items:center;gap:7px;font-family:var(--head);font-weight:600;font-size:14px;color:var(--muted);margin-left:auto}
+.dot{width:9px;height:9px;border-radius:50%;background:var(--live);animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.dot{animation:none}}
+nav{max-width:1120px;margin:0 auto;padding:0 20px 12px;display:flex;gap:8px;overflow-x:auto}
+nav button{font:600 15px var(--head);border:1px solid var(--line);background:transparent;color:var(--ink);padding:6px 14px;border-radius:99px;cursor:pointer;white-space:nowrap}
+nav button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+main{max-width:1120px;margin:0 auto;padding:24px 20px 60px}
+.lead{display:grid;grid-template-columns:1.4fr 1fr;gap:0;background:var(--surface);border:1px solid var(--line);border-radius:6px;overflow:hidden;margin-bottom:28px}
+.lead .img{background:var(--line) center/cover no-repeat;min-height:280px}
+.lead .txt{padding:28px}
+.lead h2{font:800 clamp(26px,3.4vw,38px)/1.1 var(--head);letter-spacing:-.02em;margin:10px 0 12px}
+.lead p{margin:0;color:var(--muted)}
+.meta{font:600 14px var(--head);color:var(--muted);display:flex;gap:10px;align-items:center}
+.meta .src{color:var(--accent)}
+.feed{display:grid;grid-template-columns:repeat(2,1fr);gap:0 28px}
+.item{display:grid;grid-template-columns:1fr 112px;gap:16px;padding:18px 0;border-top:1px solid var(--line)}
+.item.noimg{grid-template-columns:1fr}
+.item h3{font:700 20px/1.22 var(--head);letter-spacing:-.01em;margin:6px 0 6px}
+.item:hover h3,.lead:hover h2{color:var(--accent)}
+.item p{margin:0;font-size:15.5px;color:var(--muted)}
+.item .thumb{width:112px;height:84px;border-radius:4px;background:var(--line) center/cover no-repeat}
+.ad{grid-column:1/-1;margin:14px 0;min-height:96px;border:1px dashed var(--line);border-radius:6px;display:flex;align-items:center;justify-content:center;color:var(--muted);font:500 13px var(--head)}
+.state{padding:60px 0;text-align:center;color:var(--muted);font-family:var(--head)}
+footer{max-width:1120px;margin:0 auto;padding:0 20px 40px;color:var(--muted);font:14px var(--head)}
+@media (max-width:760px){
+  .lead{grid-template-columns:1fr}.lead .img{min-height:190px}
+  .feed{grid-template-columns:1fr}
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="bar">
+    <a class="brand" href="./">Son Haberler</a>
+    <span class="live" aria-live="polite"><span class="dot"></span><span id="updated">Yükleniyor…</span></span>
+  </div>
+  <nav id="cats" aria-label="Kategoriler"></nav>
+</header>
+<main>
+  <div id="lead"></div>
+  <div class="feed" id="feed"></div>
+  <div class="state" id="state" hidden></div>
+</main>
+<footer>Haberler kaynak sitelerden otomatik derlenir; başlık ve özet gösterilir, haberin tamamı kaynak sitede okunur.</footer>
+
+<script>
+const REFRESH_MS = 5 * 60 * 1000;   // sayfa 5 dakikada bir kendini yeniler
+const AD_EVERY = 8;                 // kaç haberde bir reklam alanı
+let data = null, active = "Tümü";
+
+const $ = id => document.getElementById(id);
+const safe = u => /^https?:\/\//i.test(u || "") ? u : "#";
+
+function ago(iso){
+  const s = Math.max(0, (Date.now() - new Date(iso)) / 1000);
+  if (s < 60) return "az önce";
+  if (s < 3600) return Math.floor(s/60) + " dk önce";
+  if (s < 86400) return Math.floor(s/3600) + " sa önce";
+  return new Date(iso).toLocaleDateString("tr-TR", {day:"numeric", month:"long"});
+}
+function el(tag, cls, text){
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text) e.textContent = text;
+  return e;
+}
+function metaRow(it){
+  const m = el("div","meta");
+  m.append(el("span","src",it.source), el("span","",it.category), el("span","",ago(it.published)));
+  return m;
+}
+function card(it){
+  const a = el("a","item" + (it.image ? "" : " noimg"));
+  a.href = safe(it.link); a.target = "_blank"; a.rel = "noopener noreferrer";
+  const t = el("div");
+  t.append(metaRow(it), el("h3","",it.title));
+  if (it.summary) t.append(el("p","",it.summary));
+  a.append(t);
+  if (it.image){
+    const th = el("div","thumb");
+    th.style.backgroundImage = `url("${safe(it.image).replace(/"/g,"%22")}")`;
+    a.append(th);
+  }
+  return a;
+}
+function adSlot(){
+  const d = el("div","ad","Reklam alanı");
+  /* AdSense: bu div'in içine <ins class="adsbygoogle" ...></ins> koy */
+  return d;
+}
+function render(){
+  if (!data) return;
+  const cats = ["Tümü", ...new Set(data.items.map(i => i.category))];
+  const nav = $("cats"); nav.replaceChildren();
+  cats.forEach(c => {
+    const b = el("button","",c);
+    b.setAttribute("aria-pressed", String(c === active));
+    b.onclick = () => { active = c; render(); };
+    nav.append(b);
+  });
+  const list = data.items.filter(i => active === "Tümü" || i.category === active);
+  const lead = $("lead"), feed = $("feed"), state = $("state");
+  lead.replaceChildren(); feed.replaceChildren();
+  state.hidden = list.length > 0;
+  if (!list.length){ state.textContent = "Bu kategoride haber yok."; return; }
+
+  const first = list.find(i => i.image) || list[0];
+  const a = el("a","lead");
+  a.href = safe(first.link); a.target = "_blank"; a.rel = "noopener noreferrer";
+  const img = el("div","img");
+  if (first.image) img.style.backgroundImage = `url("${safe(first.image).replace(/"/g,"%22")}")`;
+  const txt = el("div","txt");
+  txt.append(metaRow(first), el("h2","",first.title));
+  if (first.summary) txt.append(el("p","",first.summary));
+  if (first.image) a.append(img);
+  a.append(txt);
+  if (!first.image) a.style.gridTemplateColumns = "1fr";
+  lead.append(a);
+
+  list.filter(i => i !== first).slice(0, 60).forEach((it, n) => {
+    if (n > 0 && n % AD_EVERY === 0) feed.append(adSlot());
+    feed.append(card(it));
+  });
+  $("updated").textContent = "Son güncelleme: " + new Date(data.updated)
+    .toLocaleTimeString("tr-TR", {hour:"2-digit", minute:"2-digit"});
+}
+async function load(){
+  try{
+    const r = await fetch("news.json?t=" + Date.now(), {cache:"no-store"});
+    if (!r.ok) throw new Error(r.status);
+    data = await r.json();
+    render();
+  }catch(e){
+    if (!data){
+      const s = $("state"); s.hidden = false;
+      s.textContent = "Haberler yüklenemedi. news.json dosyası var mı ve sayfa bir sunucudan mı açıldı?";
+      $("updated").textContent = "Bağlantı yok";
+    }
+  }
+}
+load();
+setInterval(load, REFRESH_MS);
+setInterval(() => data && render(), 60 * 1000);   // "x dk önce" yazıları güncel kalsın
+</script>
+</body>
+</html>
