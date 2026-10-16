@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-16T22:19:18.647938+00:00",
+ "updated": "2026-10-16T22:54:03.455845+00:00",
  "items": [
+  {
+   "title": "AFAD: Ülke genelinde müdahale çalışmalarında 60 bin 395 personel ve 8 bin 927 araç görev yapmaktadır",
+   "link": "https://www.trthaber.com/haber/turkiye/afad-ulke-genelinde-mudahale-calismalarinda-60-bin-395-personel-ve-8-bin-927-arac-gorev-yapmaktadir-960369.html",
+   "summary": "Afet ve Acil Durum Yönetimi Başkanlığı, ülke genelinde etkili olan yağışlarla mücadelede 60 bin 395 personel ve 1060 AFAD gönüllüsü ile 8 bin 927 aracın görev yaptığını bildirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T22:19:00+00:00"
+  },
+  {
+   "title": "AFAD: Sağanakla mücadele çalışmalarında 60 bin 395 personel ile 8 bin 927 araç görev yapmaktadır",
+   "link": "https://www.aa.com.tr/tr/gundem/afad-saganakla-mucadele-calismalarinda-60-bin-395-personel-ile-8-bin-927-arac-gorev-yapmaktadir/4091584",
+   "summary": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), ülke genelinde etkili olan yağışlarla mücadelede 60 bin 395 personel ve 1060 AFAD gönüllüsü ile 8 bin 927 aracın görev yaptığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T22:16:53+00:00"
+  },
+  {
+   "title": "Arap Koalisyonu, Husilerin silah kaçakçılığı yaptığı bot ve araçların hedef alındığı görüntüleri yayınladı",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-silah-kacakciligi-yaptigi-bot-ve-araclarin-hedef-alindigi-goruntuleri-yayinladi/4091578",
+   "summary": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Husilerin Hudeyde'ye deniz yoluyla silah kaçırmak için kullandığı deniz araçları ve kara nakil vasıtalarının hedef alındığı anlara…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T21:55:09+00:00"
+  },
+  {
+   "title": "Panama'da 9 Ekim'deki 7,7'lik deprem sonrası 746 artçı sarsıntı meydana geldi",
+   "link": "https://www.aa.com.tr/tr/dunya/panamada-9-ekimdeki-7-7lik-deprem-sonrasi-746-artci-sarsinti-meydana-geldi/4091577",
+   "summary": "Orta Amerika ülkesi Panama'da, 9 Ekim'deki 7,7 büyüklüğünde deprem sonrası 746 artçı sarsıntının meydana geldiği bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T21:54:49+00:00"
+  },
   {
    "title": "16 ilde yasa dışı bahis ve sanal kumar operasyonu: 29 zanlı tutuklandı",
    "link": "https://www.trthaber.com/haber/turkiye/16-ilde-yasa-disi-bahis-ve-sanal-kumar-operasyonu-29-zanli-tutuklandi-960368.html",
@@ -72,6 +108,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-16T21:34:27+00:00"
+  },
+  {
+   "title": "İklim değişikliği Afrika'da tarım yöntemlerini dönüştürüyor",
+   "link": "https://www.aa.com.tr/tr/dunya/iklim-degisikligi-afrikada-tarim-yontemlerini-donusturuyor/4091556",
+   "summary": "İklim değişikliği, artan gıda ihtiyacını karşılamaya çalışan Afrikalı çiftçileri yerel tohumlardan geleneksel tarım bilgisine ve yapay zekaya uzanan farklı çözümleri bir arada kullanmaya yönelterek kıtada tarım…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T21:33:47+00:00"
   },
   {
    "title": "Halk TV sahibi Cafer Mahiroğlu soruşturmasında 4 zanlı tutuklandı",
@@ -339,18 +384,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-hazirliyor/4091391",
    "summary": "AB Komisyonu Başkanı Von der Leyen, yüksek enerji fiyatlarının etkilerini hafifletmek için metan düzenlemesinin uygulanmasını 1 yıl erteleyeceklerini, ve geçici kamu yardımı çerçevesini genişleteceklerini söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-16T18:03:10+00:00"
-  },
-  {
-   "title": "TİHEK'ten ilkokul öğrencilerine yönelik \"İnsan Hakları Atölyesi\"",
-   "link": "https://www.aa.com.tr/tr/gundem/tihekten-ilkokul-ogrencilerine-yonelik-insan-haklari-atolyesi/4091387",
-   "summary": "Türkiye İnsan Hakları ve Eşitlik Kurumu (TİHEK), insan hakları alanında toplumsal duyarlılığı eğitim yoluyla geliştirmek amacıyla \"İnsan Hakları Atölyesi\" düzenledi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T17:57:00+00:00"
   },
   {
    "title": "ÖSYM İstanbul'da hafta sonu yapılacak sınavları erteledi",
@@ -722,15 +758,6 @@
    "published": "2026-10-16T14:11:00+00:00"
   },
   {
-   "title": "IDA TÜRKİYE 2026 sona erdi",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ida-turkiye-2026-sona-erdi/4091142",
-   "summary": "IDA TÜRKİYE 2026 Savunma ve Havacılıkta Endüstriyel İş Birliği Günleri, havacılıkta kalite yönetimi ve tedarik zinciri güvenliğinin ele alındığı panelle tamamlandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T14:06:07+00:00"
-  },
-  {
    "title": "Berlin’de öğrenciler Fransa’daki öğrencilerle dayanışma için üç okulun önünde gösteri yaptı",
    "link": "https://www.aa.com.tr/tr/dunya/berlin-de-ogrenciler-fransa-daki-ogrencilerle-dayanisma-icin-uc-okulun-onunde-gosteri-yapti/4091112",
    "summary": "Almanya’nın başkenti Berlin’de öğrenciler, eğitimdeki kesintilere ve zorunlu askerliğe karşı çıkarak Fransa’daki öğrencilerle dayanışma göstermek için üç okulun önünde gösteri yaptı.",
@@ -974,15 +1001,6 @@
    "published": "2026-10-16T12:32:06+00:00"
   },
   {
-   "title": "Meteoroloji uyardı: İstanbul için risk devam ediyor",
-   "link": "https://www.trthaber.com/haber/turkiye/meteoroloji-uyardi-istanbul-icin-risk-devam-ediyor-960318.html",
-   "summary": "Meteoroloji Genel Müdürlüğü hava tahmin uzmanı Abdullah Macit, İstanbul'da toprağın doygunluğa ulaşması nedeniyle sel ve su baskını riskinin devam ettiğini belirterek, vatandaşları cumartesi günü beklenen kuvvetli…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T12:31:00+00:00"
-  },
-  {
    "title": "Çözüm sürecinde dönüş takvimi: DEM Parti'nin beklentisi ne?",
    "link": "https://www.bbc.com/turkce/articles/crz98kgldqxxo?at_medium=RSS&at_campaign=rss",
    "summary": "Silahsızlanma sürecinin ardından PKK'lıların dönüşünün nasıl ve ne zaman gerçekleşeceği tartışılıyor. DEM Parti kaynakları, ilk etapta 200 ila 400 kişinin dönüşünün söz konusu olabileceğini öngörüyor. Ankara'dan Ayşe…",
@@ -1055,15 +1073,6 @@
    "published": "2026-10-16T10:51:45+00:00"
   },
   {
-   "title": "İran’dan Trump rotasına tepki: ABD’nin bölgedeki varlığından endişeliyiz",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-dan-trump-rotasina-tepki-abd-nin-bolgedeki-varligindan-endiseliyiz/4090851",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, \"Zengezur Koridoru\" olarak da bilinen Uluslararası Barış ve Refah İçin Trump Rotası'na (TRIPP) ilişkin, \"Bölgemizde ve çevremizde ABD'nin herhangi bir varlık göstermesinden endişe…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T10:48:01+00:00"
-  },
-  {
    "title": "Bursa Ticaret ve Sanayi Odası Başkanı seçilen Matlı, görevi Burkay'dan devraldı",
    "link": "https://www.aa.com.tr/tr/ekonomi/bursa-ticaret-ve-sanayi-odasi-baskani-secilen-matli-gorevi-burkaydan-devraldi/4090849",
    "summary": "Bursa Ticaret ve Sanayi Odası (BTSO) Başkanı seçilen Özer Matlı, görevi eski BTSO Başkanı İbrahim Burkay'dan devraldı.",
@@ -1071,15 +1080,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-16T10:46:40+00:00"
-  },
-  {
-   "title": "İsrail saldırılarının yıkıcı etkisi altındaki Gazze Şeridi'nde açlık seviyesi \"felaket düzeyinde\"",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilarinin-yikici-etkisi-altindaki-gazze-seridinde-aclik-seviyesi-felaket-duzeyinde/4090840",
-   "summary": "Gazze'deki Filistin Sağlık Bakanlığı, İsrail'in soykırım ve savaş suçları işlediği Gazze Şeridi'nde açlığın \"felaket düzeyine\" ulaştığını özellikle çocuklar, yaşlılar ve hamilelerin ciddi yetersiz beslenme sorunuyla…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T10:37:40+00:00"
   },
   {
    "title": "Ticaret Bakanı Bolat: Türkiye ekonomik istikrarını korudu",
@@ -1098,15 +1098,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ce59/live/36678580-c940-11f1-8c38-abe947e72d6d.jpg",
    "published": "2026-10-16T10:08:28+00:00"
-  },
-  {
-   "title": "Suudi Arabistan'ın Yenbu kentinde \"erken uyarı\" sistemleri devreye girdi",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-yenbu-kentinde-erken-uyari-sistemleri-devreye-girdi/4090814",
-   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, Kızıldeniz kıyısındaki Yenbu kentinde erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T10:04:32+00:00"
   },
   {
    "title": "İstanbul'daki yağışlarda can kaybı dörde çıktı",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-15T21:33:19+00:00"
+  },
+  {
+   "title": "UEFA Konferans Ligi'nin ilk haftası, 8 maçla sona erdi",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginin-ilk-haftasi-8-macla-sona-erdi/4090425",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvasının ilk haftasında TSİ 22.00'de başlayan karşılaşmalar tamamlandı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-15T21:10:33+00:00"
   }
  ]
 }
