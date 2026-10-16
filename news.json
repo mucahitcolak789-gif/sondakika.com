@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-16T20:56:14.843478+00:00",
+ "updated": "2026-10-16T21:20:45.518952+00:00",
  "items": [
+  {
+   "title": "İçişleri Bakanlığı yurtta beklenen sağanak ve fırtınaya karşı uyardı",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakanligi-yurtta-beklenen-saganak-ve-firtinaya-karsi-uyardi/4091545",
+   "summary": "İçişleri Bakanlığı, bugün yurt genelinde beklenen kuvvetli yağış ve fırtına nedeniyle vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T21:07:37+00:00"
+  },
+  {
+   "title": "İçişleri Bakanlığı'ndan sağanak ve fırtına uyarısı",
+   "link": "https://www.trthaber.com/haber/turkiye/icisleri-bakanligindan-saganak-ve-firtina-uyarisi-960363.html",
+   "summary": "İçişleri Bakanlığı, bugün yurt genelinde beklenen kuvvetli yağış ve fırtına nedeniyle vatandaşları dikkatli ve tedbirli olmaları konusunda uyardı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T21:07:00+00:00"
+  },
+  {
+   "title": "Burdur'da motosikletlerin trafiğe çıkışı yasaklandı",
+   "link": "https://www.trthaber.com/haber/turkiye/burdurda-motosikletlerin-trafige-cikisi-yasaklandi-960362.html",
+   "summary": "Burdur Valiliği, bugün sağanak nedeniyle motokuryelik faaliyetlerinin durdurulmasına, motosiklet ve elektrikli skuter türü araçların trafiğe çıkışlarının geçici olarak yasaklanmasına karar verildiğini açıkladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T21:02:00+00:00"
+  },
+  {
+   "title": "Isparta'da çekici ile minibüs çarpıştı: 17 yaralı",
+   "link": "https://www.trthaber.com/haber/turkiye/ispartada-cekici-ile-minibus-carpisti-17-yarali-960361.html",
+   "summary": "Isparta'da çekici ve minibüsün çarpışması sonucu 17 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T20:47:00+00:00"
+  },
   {
    "title": "Beşiktaş'ta Orkun Kökçü'nün sağ ayak tabanında kısmi yırtık tespit edildi",
    "link": "https://www.aa.com.tr/tr/spor/besiktasta-orkun-kokcunun-sag-ayak-tabaninda-kismi-yirtik-tespit-edildi/4091532",
@@ -339,7 +375,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilin-hapishanelerde-alikoydugu-filistinli-cocuklarin-coguna-hucre-cezasi-verdigi-ortaya-cikti/4091340",
    "summary": "İsrail hapishanelerinde alıkonulan Filistinli çocukların yarısından fazlasının 2025'te en az bir kez hücrelere atıldığı ortaya çıktı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-16T17:01:52+00:00"
   },
@@ -938,24 +974,6 @@
    "published": "2026-10-16T11:53:00+00:00"
   },
   {
-   "title": "Erdoğan: Sermaye piyasalarını terörize etmek, ekonominin altını oymaktır",
-   "link": "https://www.trthaber.com/haber/gundem/erdogan-sermaye-piyasalarini-terorize-etmek-ekonominin-altini-oymaktir-960313.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Sermaye piyasası araçlarını terörize etmek; bakın açık konuşuyorum, Türkiye ekonomisinin altını oymak olur, ülkemizin kalkınma yürüyüşüne sabotaj düzenlemek olur. Buna ister…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T11:53:00+00:00"
-  },
-  {
-   "title": "Sınıf arkadaşını darp ederek yaralayan çocuğa 5 yıl 9 ay hapis cezası",
-   "link": "https://www.trthaber.com/haber/turkiye/sinif-arkadasini-darp-ederek-yaralayan-cocuga-5-yil-9-ay-hapis-cezasi-960311.html",
-   "summary": "Çanakkale'nin Biga ilçesindeki bir lisede çıkan kavgada, sınıf arkadaşı M.D.Y'yi darp ederek ağır yaraladığı iddiasıyla yargılanan adli süreçteki çocuğa, 5 yıl 9 ay hapis cezası verildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T11:50:00+00:00"
-  },
-  {
    "title": "CHP'de 48 kişi partiden ihraç edildi: Listede kimler var?",
    "link": "https://www.bbc.com/turkce/articles/ck5yn9vgpdlqo?at_medium=RSS&at_campaign=rss",
    "summary": "Kemal Kılıçdaroğlu yönetimi, CHP üyelikleri devam ederken Yeni Parti ile hareket ettikleri gerekçesiyle bu isimleri, kesin ihraç istemiyle YDK'ya sevketmişti.",
@@ -972,15 +990,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-16T11:43:48+00:00"
-  },
-  {
-   "title": "Fransa'da pencereden İsrail bayrağı sallayarak eylemcilere silah doğrultan kadına hapis cezası",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-pencereden-israil-bayragi-sallayarak-eylemcilere-silah-dogrultan-kadina-hapis-cezasi-960312.html",
-   "summary": "Fransa'da liselilerin daha iyi eğitim koşulları talebiyle düzenlediği eylemler sırasında pencereden İsrail bayrağı sallayarak eylemcilere silah doğrultan kadın hakkında 8 ay ertelenmiş hapis cezası verildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T11:38:00+00:00"
   },
   {
    "title": "Irak'ta Devlet Bakanlığına seçilen Türkmen Seman Ağa, AA'ya konuştu",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-15T20:55:33+00:00"
-  },
-  {
-   "title": "Beşiktaş, UEFA Avrupa Ligi'nde 2'de 2 yaptı",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-2de-2-yapti/4090409",
-   "summary": "UEFA Avrupa Ligi'nin ikinci haftasında Beşiktaş, deplasmanda Almanya ekibi Hoffenheim'ı 3-2 mağlup etti.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-15T20:52:23+00:00"
   }
  ]
 }
