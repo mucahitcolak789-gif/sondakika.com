@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-16T18:46:04.331724+00:00",
+ "updated": "2026-10-16T19:20:50.860168+00:00",
  "items": [
+  {
+   "title": "Pakistan, İstanbul'daki sel felaketi nedeniyle Türkçe taziye mesajı yayımladı",
+   "link": "https://www.aa.com.tr/tr/dunya/pakistan-istanbuldaki-sel-felaketi-nedeniyle-turkce-taziye-mesaji-yayimladi/4091457",
+   "summary": "Pakistan Başbakanı Şahbaz Şerif, İstanbul'da meydana gelen sel felaketi nedeniyle Türkçe taziye mesajı yayımlayarak, Pakistan'ın Türkiye ile dayanışma içinde olduğunu bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T19:05:56+00:00"
+  },
+  {
+   "title": "ABD Dışişleri Bakanlığı: Batı Şeria'da WP'nin foto muhabirine yönelik saldırıdan endişe duyuyoruz",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakanligi-bati-seriada-wpnin-foto-muhabirine-yonelik-saldiridan-endise-duyuyoruz/4091456",
+   "summary": "ABD Dışişleri Bakanlığı, işgal altındaki Batı Şeria'da Washington Post (WP) gazetesinin foto muhabirinin İsrailli yerleşimciler tarafından saldırıya uğramasından endişe duyduklarını açıkladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T19:04:21+00:00"
+  },
+  {
+   "title": "ABD'nin bütçe açığı 2026 mali yılında 2 trilyon dolara yaklaştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-butce-acigi-2026-mali-yilinda-2-trilyon-dolara-yaklasti/4091441",
+   "summary": "ABD federal hükümetinin bütçe açığı, 2026 mali yılında önceki yıla kıyasla yüzde 12 artarak 1,99 trilyon dolara yükseldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:53:49+00:00"
+  },
   {
    "title": "Üsküdar Belediye Başkan Vekili seçimi 20 Ekim'de yapılacak",
    "link": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekili-secimi-20-ekimde-yapilacak/4091431",
@@ -63,6 +90,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
    "published": "2026-10-16T18:20:56+00:00"
+  },
+  {
+   "title": "Süper Lig'de haftanın açılış maçında Çorum FK, Çaykur Rizespor'u 2-1 yendi",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligde-haftanin-acilis-macinda-corum-fk-caykur-rizesporu-2-1-yendi/4091401",
+   "summary": "Trendyol Süper Lig'de 8. haftanın açılış maçında Arca Çorum FK, konuk ettiği Çaykur Rizespor'u 2-1 yendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:15:56+00:00"
   },
   {
    "title": "AB, yüksek enerji fiyatlarına karşı yeni önlemler hazırlıyor",
@@ -326,15 +362,6 @@
    "published": "2026-10-16T15:58:00+00:00"
   },
   {
-   "title": "İstanbul'da hafta sonu bazı eğitim faaliyetlerine ara verilecek",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-hafta-sonu-bazi-egitim-faaliyetlerine-ara-verilecek/4091247",
-   "summary": "İstanbul Valiliği, kentte beklenen şiddetli yağış nedeniyle yarın ve 18 Ekim'de bazı eğitim faaliyetlerine ara verileceğini bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T15:55:06+00:00"
-  },
-  {
    "title": "ABD, Sudan'daki çatışmalar için insani ateşkes çağrısı yaptı",
    "link": "https://www.trthaber.com/haber/dunya/abd-sudandaki-catismalar-icin-insani-ateskes-cagrisi-yapti-960345.html",
    "summary": "ABD'nin Birleşmiş Milletler BM Daimi Temsilciliğinden BM Yönetim ve Reform Sorumlusu Büyükelçi Jeffrey Bartos, Sudan'da devam eden çatışmaları \"kabul edilemez\" olarak niteleyerek, insani ateşkes çağrısı yaptı.",
@@ -357,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/spor/turkiye-bisiklet-federasyonunun-7-mali-genel-kurulu-yapildi/4091246",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-16T15:51:28+00:00"
   },
@@ -432,15 +459,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-16T14:46:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: Kamboçya'yı, Güneydoğu Asya bölgesinde önemli bir ortağımız olarak görüyorum",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kambocyayi-guneydogu-asya-bolgesinde-onemli-bir-ortagimiz-olarak-goruyorum/4091188",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Özellikle son yıllarda hızla gelişen ilişkilere sahip olduğumuz Kamboçya'yı Güneydoğu Asya bölgesinde önemli bir ortağımız olarak görüyorum.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T14:43:01+00:00"
   },
   {
    "title": "Arap Koalisyonu: Suudi Arabistan'a yönelik 6 füze ve İHA saldırısı önlendi",
@@ -1055,15 +1073,6 @@
    "published": "2026-10-16T09:19:06+00:00"
   },
   {
-   "title": "Trudy Kasırgası'nın, Meksika'nın pasifik kıyılarına yaklaşması bekleniyor",
-   "link": "https://www.aa.com.tr/tr/dunya/trudy-kasirgasinin-meksikanin-pasifik-kiyilarina-yaklasmasi-bekleniyor/4090750",
-   "summary": "Trudy Kasırgası’nın Meksika'nın Pasifik kıyıları açıklarına yaklaşmasının beklendiği bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T09:05:06+00:00"
-  },
-  {
    "title": "Artistik Cimnastik Dünya Şampiyonası yarın Hollanda'da başlayacak",
    "link": "https://www.aa.com.tr/tr/spor/artistik-cimnastik-dunya-sampiyonasi-yarin-hollandada-baslayacak/4090746",
    "summary": "Türkiye'nin 7 milli sporcu ile madalya mücadelesi vereceği Artistik Cimnastik Dünya Şampiyonası, yarın Hollanda'da başlayacak. Organizasyonda Türkiye'yi 7 milli sporcu temsil edecek.",
@@ -1071,15 +1080,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-16T09:00:25+00:00"
-  },
-  {
-   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki beldelere topçu saldırıları düzenledi",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi/4090744",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırılarını sürdürdü.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T08:59:40+00:00"
   },
   {
    "title": "Türk şirketlerinin Romanya'daki güneş ve batarya yatırımları büyüyor",
@@ -1217,15 +1217,6 @@
    "published": "2026-10-16T07:52:14+00:00"
   },
   {
-   "title": "Konut Fiyat Endeksi eylülde yüzde 1,2 arttı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/konut-fiyat-endeksi-eylulde-yuzde-1-2-artti/4090631",
-   "summary": "Konut Fiyat Endeksi (KFE), eylülde aylık bazda yüzde 1,2, yıllık bazda ise yüzde 22,3 arttı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-16T07:41:21+00:00"
-  },
-  {
    "title": "Futbolda haftanın programı",
    "link": "https://www.aa.com.tr/tr/spor/futbolda-haftanin-programi/4090616",
    "summary": "Futbolda Trendyol Süper Lig'e 8, Trendyol 1. Lig'e 11, Nesine 2. Lig ve Nesine 3. Lig'e ise 7. hafta maçlarıyla devam edilecek.",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-15T19:31:33+00:00"
+  },
+  {
+   "title": "UEFA Avrupa Ligi'nin ikinci haftasında 8 maç yapıldı",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-avrupa-liginin-ikinci-haftasinda-8-mac-yapildi/4090346",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki iki numaralı turnuvasının ikinci haftasında TSİ 19.45'te başlayan karşılaşmalar sona erdi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-15T19:19:21+00:00"
   }
  ]
 }
