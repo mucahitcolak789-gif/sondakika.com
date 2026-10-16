@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-16T20:16:21.785483+00:00",
+ "updated": "2026-10-16T20:56:14.843478+00:00",
  "items": [
+  {
+   "title": "Beşiktaş'ta Orkun Kökçü'nün sağ ayak tabanında kısmi yırtık tespit edildi",
+   "link": "https://www.aa.com.tr/tr/spor/besiktasta-orkun-kokcunun-sag-ayak-tabaninda-kismi-yirtik-tespit-edildi/4091532",
+   "summary": "Beşiktaş'ın milli futbolcusu Orkun Kökçü'nün sağ ayak tabanında kısmi plantar fasya yırtığı ve topuk yağ yastığı travmatik ayrışma tespit edildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T20:45:14+00:00"
+  },
+  {
+   "title": "Rusya: Dizel ticaretindeki arz açığı dünya ticaretinin yüzde 25'ine ulaştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ticaretindeki-arz-acigi-dunya-ticaretinin-yuzde-25ine-ulasti/4091523",
+   "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, küresel dizel piyasasındaki arz açığının dünya ticaretinin yaklaşık yüzde 25'ine ulaştığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T20:35:26+00:00"
+  },
+  {
+   "title": "Putin, Donetsk için önemli Dobropolye şehrini aldıklarını bildirdi",
+   "link": "https://www.aa.com.tr/tr/dunya/putin-donetsk-icin-onemli-dobropolye-sehrini-aldiklarini-bildirdi/4091511",
+   "summary": "Rusya Devlet Başkanı Putin, Rus ordusunun Donetsk bölgesindeki Dobropolye şehrini kontrol altına aldığını belirterek, \"Bu durum, Donetsk Halk Cumhuriyeti'nin sınırlarına ulaşmak için doğrudan bir yol açmaktadır.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T20:16:36+00:00"
+  },
   {
    "title": "Bakan Göktaş, selden etkilenen Sarıyer Ayazağa'yı ziyaret etti",
    "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-selden-etkilenen-sariyer-ayazagayi-ziyaret-etti/4091506",
@@ -54,6 +81,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-16T19:33:35+00:00"
+  },
+  {
+   "title": "\"4. Uluslararası Digital Film Festival İstanbul\" başladı",
+   "link": "https://www.aa.com.tr/tr/kultur/4-uluslararasi-digital-film-festival-istanbul-basladi/4091475",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T19:33:02+00:00"
   },
   {
    "title": "Kamu personeline gelecek yıl 6,3 trilyon lira ödeme yapılacak",
@@ -312,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/bmden-bati-seriada-abdli-gazeteciye-yapilan-saldirinin-sorusturulmasi-cagrisi/4091331",
    "summary": "Birleşmiş Milletler (BM), işgal altındaki Batı Şeria'da Filistinlilerin topraklarını gasbetmeye çalışan İsrailliler tarafından ABD'li bir gazeteciye yönelik saldırının soruşturulması çağrısında bulundu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-16T16:55:02+00:00"
   },
@@ -324,6 +360,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-16T16:53:00+00:00"
+  },
+  {
+   "title": "Güney Amerikada El Nino selleri: Binlerce kişi tahliye edildi",
+   "link": "https://www.trthaber.com/haber/dunya/guney-amerikada-el-nino-selleri-binlerce-kisi-tahliye-edildi-960360.html",
+   "summary": "Arjantin, Paraguay ve Uruguay'da, El Nino hava olayının etkisiyle meydana gelen şiddetli yağışların yol açtığı seller nedeniyle binlerce kişi tahliye edildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T16:41:00+00:00"
   },
   {
    "title": "BUDO'nun yarınki 12 seferi iptal edildi",
@@ -339,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/endonezyada-orman-yanginlari-sonucu-olusan-duman-tabakasinin-kuru-buzla-dagitilmasi-hedefleniyor/4091314",
    "summary": "Endonezya'da aylardır süren orman yangınlarının yol açtığı yoğun duman tabakasını dağıtmak amacıyla kuru buz kullanılarak atmosferik müdahale denemeleri başlatıldı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-16T16:38:32+00:00"
   },
@@ -357,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusya-ve-abd-ortak-veri-merkezleri-kurmayi-gorusuyor/4091296",
    "summary": "Rusya Devlet Başkanı Putin'in Özel Temsilcisi Dmitriyev, ABD ile nükleer santrallerden yararlanılarak \"ortak veri merkezleri\" kurulmasına yönelik projeleri görüştüklerini bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-16T16:26:35+00:00"
   },
@@ -375,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-enerjide-kuresel-zorluklar-karsisinda-isbirliginin-sart-oldugunu-soyledi/4091290",
    "summary": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar, küresel enerji piyasalarında yaşanan zorlukların aşılması için ülkeler arasında daha geniş kapsamlı işbirliğine ihtiyaç duyulduğunu belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-16T16:20:29+00:00"
   },
@@ -929,15 +974,6 @@
    "published": "2026-10-16T11:43:48+00:00"
   },
   {
-   "title": "131 ilaç daha geri ödeme listesine eklendi",
-   "link": "https://www.trthaber.com/haber/guncel/131-ilac-daha-geri-odeme-listesine-eklendi-960310.html",
-   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, Sosyal Güvenlik Kurumu SGK aracılığıyla 119'u yerli üretim olmak üzere 131 ilacı daha geri ödeme listesine aldıklarını bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T11:43:00+00:00"
-  },
-  {
    "title": "Fransa'da pencereden İsrail bayrağı sallayarak eylemcilere silah doğrultan kadına hapis cezası",
    "link": "https://www.trthaber.com/haber/dunya/fransada-pencereden-israil-bayragi-sallayarak-eylemcilere-silah-dogrultan-kadina-hapis-cezasi-960312.html",
    "summary": "Fransa'da liselilerin daha iyi eğitim koşulları talebiyle düzenlediği eylemler sırasında pencereden İsrail bayrağı sallayarak eylemcilere silah doğrultan kadın hakkında 8 ay ertelenmiş hapis cezası verildi.",
@@ -1055,15 +1091,6 @@
    "published": "2026-10-16T09:57:13+00:00"
   },
   {
-   "title": "İsrail'in ateşkese rağmen Gazze'deki saldırılarında 3 Filistinli hayatını kaybetti",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzedeki-saldirilarinda-3-filistinli-hayatini-kaybetti/4090811",
-   "summary": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'nde sürdürdüğü saldırılarda 3 Filistinlinin yaşamını yitirdiği, 9 kişinin yaralandığı bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T09:54:36+00:00"
-  },
-  {
    "title": "Güreşte Dünya Şampiyonası kadrosu belli oldu",
    "link": "https://www.aa.com.tr/tr/spor/gureste-dunya-sampiyonasi-kadrosu-belli-oldu/4090794",
    "summary": "Türkiye'yi grekoromen stil 130 kiloda, Avrupa şampiyonalarında 13. altın madalyasını kazanarak rekor kıran Rıza Kayaalp temsil edecek.",
@@ -1125,15 +1152,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-16T08:25:59+00:00"
-  },
-  {
-   "title": "5G abone sayısı 6 ayda 48 milyona yaklaştı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/5g-abone-sayisi-6-ayda-48-milyona-yaklasti/4090700",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, tam bir yıl önce ihalesi yapılan ve 6 ay önce kullanıma sunulan 5G'de abone sayısının eylül sonu itibarıyla 47 milyon 661 bin 726'ya ulaştığını bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-16T08:21:43+00:00"
   },
   {
    "title": "Ülker Basketbol Gençler Ligi'nde sezon yarın başlıyor",
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-15T20:52:23+00:00"
-  },
-  {
-   "title": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın Zalgiris Kaunas'a konuk olacak",
-   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-basketbol-avrupa-liginde-yarin-zalgiris-kaunasa-konuk-olacak/4090372",
-   "summary": "Anadolu Efes, Basketbol Avrupa Ligi'nin (EuroLeague) 6. haftasında yarın Litvanya temsilcisi Zalgiris Kaunas'la deplasmanda karşılaşacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-15T19:55:33+00:00"
-  },
-  {
-   "title": "Muhammed Salah, Trabzonspor formasıyla Avrupa kupalarında ilk golünü attı",
-   "link": "https://www.aa.com.tr/tr/spor/muhammed-salah-trabzonspor-formasiyla-avrupa-kupalarinda-ilk-golunu-atti/4090362",
-   "summary": "UEFA Konferans Ligi'nin ilk haftasında Finlandiya'nın KuPS Kuopio takımını 4-2 mağlup eden Trabzonspor'da Mısırlı yıldız oyuncu Muhammed Salah, bordo-mavili formayla Avrupa kupalarındaki ilk golünü attı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-15T19:43:56+00:00"
   }
  ]
 }
