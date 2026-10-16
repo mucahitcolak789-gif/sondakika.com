@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-16T18:07:00.255562+00:00",
+ "updated": "2026-10-16T18:46:04.331724+00:00",
  "items": [
+  {
+   "title": "Üsküdar Belediye Başkan Vekili seçimi 20 Ekim'de yapılacak",
+   "link": "https://www.aa.com.tr/tr/gundem/uskudar-belediye-baskan-vekili-secimi-20-ekimde-yapilacak/4091431",
+   "summary": "İstanbul Valiliği, Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin'in trafik kazasında hayatını kaybetmesi nedeniyle Belediye Meclisinin yeni başkan vekilinin seçilmesi için 20 Ekim'de toplanacağını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:41:01+00:00"
+  },
+  {
+   "title": "Trump, Beyaz Saray Sözcüsü Zacharia'nın görevden ayrılabileceğini açıkladı",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-beyaz-saray-sozcusu-zacharianin-gorevden-ayrilabilecegini-acikladi/4091430",
+   "summary": "ABD Başkanı Trump, kısa süre önce göreve başlayan Beyaz Saray Sözcüsü Katie Zacharia'nın hakkındaki tartışmaların yoğunlaşmasının ardından \"görevden ayrılabileceği\" sinyalini verdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:40:24+00:00"
+  },
+  {
+   "title": "Şehit yakınları ve gaziler için 2027 yılı bütçesinde 30 milyar lira ayrıldı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sehit-yakinlari-ve-gaziler-icin-2027-yili-butcesinde-30-milyar-lira-ayrildi/4091423",
+   "summary": "Merkezi yönetim bütçesinden 2027 yılı için şehit yakınları ve gazilere 30 milyar 25 milyon 113 bin lira tahsis edilmesi planlandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:35:58+00:00"
+  },
+  {
+   "title": "Memurun fazla mesai ücreti belli oldu",
+   "link": "https://www.trthaber.com/haber/ekonomi/memurun-fazla-mesai-ucreti-belli-oldu-960358.html",
+   "summary": "Devlet memurlarının saat başına fazla mesai ücretleri yeni yılda 16 lira 55 kuruştan 19 lira 85 kuruşa çıkacak.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:26:00+00:00"
+  },
+  {
+   "title": "Yunanistan Batı Trakya Türklerinin okullarını kapattı",
+   "link": "https://www.trthaber.com/haber/turk-dunyasi/yunanistan-bati-trakya-turklerinin-okullarini-kapatti-960351.html",
+   "summary": "Yunanistan'daki Batı Trakya Türk azınlığı, öğrenci azlığı gerekçesiyle azınlık okullarının kapatılmasının, çocukların ana dillerinde eğitim almasını ve toplumun kültürel değerlerinin gelecek nesillere aktarılmasını…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:25:00+00:00"
+  },
+  {
+   "title": "Trump \"Starlink'in Ukrayna ordusuna sağladığı internetin kesilmesini emrettiği\" iddialarını yalanladı",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-starlinkin-ukrayna-ordusuna-sagladigi-internetin-kesilmesini-emrettigi-iddialarini-yalanladi/4091408",
+   "summary": "ABD Başkanı Donald Trump, \"Starlink'in Ukrayna ordusuna sağladığı internetin kesilmesi ya da yavaşlatılmasını emrettiği\" yönündeki haberlerin doğru olmadığını belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-16T18:22:25+00:00"
+  },
+  {
+   "title": "Batı Şeria'da, Yahudi yerleşimciler zeytin hasadına saldırdı",
+   "link": "https://www.bbc.com/turkce/articles/cq8rzpez6p31o?at_medium=RSS&at_campaign=rss",
+   "summary": "İşgal altındaki Batı Şeria'da her yıl yapılan zeytin hasadı sırasında, onlarca maskeli Yahudi yerleşimci Filistinlilere saldırdı, araçları ve zeytin ağaçlarını ateşe verdi. BBC ekibi, Filistin'in Ebu Falah köyü…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-16T18:20:56+00:00"
+  },
   {
    "title": "AB, yüksek enerji fiyatlarına karşı yeni önlemler hazırlıyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/ab-yuksek-enerji-fiyatlarina-karsi-yeni-onlemler-hazirliyor/4091391",
@@ -312,7 +375,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4091228",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,89 değer kaybederek 11.721,72 puandan tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-16T15:34:31+00:00"
   },
@@ -326,20 +389,11 @@
    "published": "2026-10-16T15:32:58+00:00"
   },
   {
-   "title": "Bakan Çiftçi: Turuncu uyarı verilen illerde vatandaşlarımız mümkün mertebe evlerinden dışarıya çıkmasınlar",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-turuncu-uyari-verilen-illerde-vatandaslarimiz-mumkun-mertebe-evlerinden-disariya-cikmasinlar/4091227",
-   "summary": "İçişleri Bakanı Çiftçi, \"Vatandaşlarımıza çağrım var. Turuncu uyarı verilen illerimizde vatandaşlarımız lütfen mümkün mertebe evlerinden dışarıya çıkmasınlar. Araçlarını güvenli yerlere park etsinler.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T15:30:45+00:00"
-  },
-  {
    "title": "Türkiye Sigorta Birliğinden sel ve su baskını sonrasında yapılması gerekenlere ilişkin açıklama",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-sigorta-birliginden-sel-ve-su-baskini-sonrasinda-yapilmasi-gerekenlere-iliskin-aciklama/4091218",
    "summary": "Türkiye Sigorta Birliği (TSB), sel ve su baskınlarının ardından can güvenliğinin korunması, hasarların belgelenmesi, sigorta süreçlerinin yürütülmesi ve olası zararların azaltılması için dikkat edilmesi gerekenleri…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-16T15:21:53+00:00"
   },
@@ -357,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-turkiye-uc-biyocografik-bolgenin-kesisiminde-yer-alan-zengin-biyolojik-cesitlilige-sahip-bir-ulke/4091208",
    "summary": "Bakan Yumaklı, Türkiye'nin üç biyocoğrafik bölgenin kesişiminde yer alan, zengin biyolojik çeşitliliğe sahip bir ülke olduğuna işaret ederek, \"Bu zenginliği korumayı gelecek nesillere karşı sorumluluğumuz olarak…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-16T15:08:45+00:00"
   },
@@ -839,15 +893,6 @@
    "published": "2026-10-16T11:30:15+00:00"
   },
   {
-   "title": "Şarkıcı Alpay son yolculuğuna uğurlandı",
-   "link": "https://www.trthaber.com/haber/turkiye/sarkici-alpay-son-yolculuguna-ugurlandi-960308.html",
-   "summary": "Antalya'da 91 yaşında hayatını kaybeden Türk müziğinin usta isimlerinden şarkıcı ve besteci Alpay Nazikioğlu, Ankara'da son yolculuğuna uğurlandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T11:26:00+00:00"
-  },
-  {
    "title": "Milli otomobil sporcusu Aksoy, Ferrari Sürücü Akademisi'ne kabul edildi",
    "link": "https://www.aa.com.tr/tr/spor/milli-otomobil-sporcusu-aksoy-ferrari-surucu-akademisine-kabul-edildi/4090889",
    "summary": "Milli otomobil sporcusu Alp Aksoy, 2027 sezonunda Ferrari Sürücü Akademisi pilotu olarak Formula Bölgesel Avrupa Şampiyonası'nda (FIA FRECA) mücadele edecek.",
@@ -855,15 +900,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-16T11:23:22+00:00"
-  },
-  {
-   "title": "Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin, son yolculuğuna uğurlandı",
-   "link": "https://www.trthaber.com/haber/gundem/uskudar-belediye-baskan-vekili-dundar-ziya-gultekin-son-yolculuguna-ugurlandi-960307.html",
-   "summary": "Düzce'de trafik kazası sonucu hayatını kaybeden Üsküdar Belediye Başkan Vekili Dündar Ziya Gültekin için Marmara İlahiyat Camii'nde cenaze töreni düzenlendi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-16T11:06:00+00:00"
   },
   {
    "title": "Türkiye Innovation Week 2026'da İnovaLİG Ödülleri sahiplerini buldu",
@@ -1019,15 +1055,6 @@
    "published": "2026-10-16T09:19:06+00:00"
   },
   {
-   "title": "Tesla roket teknolojisi destekli 'uçan' spor aracını tanıttı",
-   "link": "https://www.bbc.com/turkce/articles/cj93z97r50lxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Elektriki araç devi Tesla, 15 Ekim'de yaptığı sunumda, yeniden tasarlanmış \"uçan\" Roadster modelini dikkat çeken bir gösteriyle tanıttı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c696/live/4c13cfa0-c941-11f1-bc2e-018d645d8d21.png",
-   "published": "2026-10-16T09:16:47+00:00"
-  },
-  {
    "title": "Trudy Kasırgası'nın, Meksika'nın pasifik kıyılarına yaklaşması bekleniyor",
    "link": "https://www.aa.com.tr/tr/dunya/trudy-kasirgasinin-meksikanin-pasifik-kiyilarina-yaklasmasi-bekleniyor/4090750",
    "summary": "Trudy Kasırgası’nın Meksika'nın Pasifik kıyıları açıklarına yaklaşmasının beklendiği bildirildi.",
@@ -1053,24 +1080,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-16T08:59:40+00:00"
-  },
-  {
-   "title": "Putin, 5 yabancı şirketin Rusya’daki varlıklarını geçici yönetime devreden kararnameyi imzaladı",
-   "link": "https://www.aa.com.tr/tr/dunya/putin-5-yabanci-sirketin-rusya-daki-varliklarini-gecici-yonetime-devreden-kararnameyi-imzaladi/4090743",
-   "summary": "Rusya Devlet Başkanı Vladimir Putin, Fransa merkezli Tarkett ve Belçika merkezli Ontex dahil 5 yabancı şirketin Rusya’daki varlıklarının yerel bir şirketin geçici yönetimine devredilmesini öngören kararnameyi imzaladı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T08:58:57+00:00"
-  },
-  {
-   "title": "CBS: ABD'de görevden alınan Kara Kuvvetleri Komutanı, İran saldırıları öncesi mühimmat sıkıntısını haber vermiş",
-   "link": "https://www.aa.com.tr/tr/dunya/cbs-abdde-gorevden-alinan-kara-kuvvetleri-komutani-iran-saldirilari-oncesi-muhimmat-sikintisini-haber-vermis/4090730",
-   "summary": "ABD'de görevden alınan Kara Kuvvetleri Komutanı Randy George'un, ABD ve İsrail'in İran'a saldırılarından yaklaşık iki ay önce THAAD bataryaları ve Patriot füzesi stoklarının yetersizliği konusunda uyarıda bulunduğu…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-16T08:45:34+00:00"
   },
   {
    "title": "Türk şirketlerinin Romanya'daki güneş ve batarya yatırımları büyüyor",
@@ -1226,24 +1235,6 @@
    "published": "2026-10-16T07:32:29+00:00"
   },
   {
-   "title": "Türkiye'de eylülde 142 bin 390 konut satıldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-eylulde-142-bin-390-konut-satildi/4090610",
-   "summary": "Türkiye genelinde eylülde satılan toplam konut sayısı, geçen yılın aynı ayına göre yüzde 9,3 azalışla 142 bin 390 olarak hesaplandı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-16T07:28:34+00:00"
-  },
-  {
-   "title": "Reklam Kurulu aldatıcı reklamlar için 9 ayda 249 milyon lirayı aşkın ceza kesti",
-   "link": "https://www.aa.com.tr/tr/ekonomi/reklam-kurulu-aldatici-reklamlar-icin-9-ayda-249-milyon-lirayi-askin-ceza-kesti/4090534",
-   "summary": "Reklam Kurulu, tüketicileri yanıltıcı reklamlar ile haksız ticari uygulamalara karşı yılın 9 ayında 33 binin üzerinde başvuruyu değerlendirirken, 249 milyon liradan fazla idari para cezası uygulanmasını kararlaştırdı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-16T06:38:53+00:00"
-  },
-  {
    "title": "AKP yönetiminden Azerbaycan açıklaması: Sorunlarımızı aile içinde konuşuruz",
    "link": "https://www.bbc.com/turkce/articles/cmrly08xjerro?at_medium=RSS&at_campaign=rss",
    "summary": "AKP Genel Başkan Yardımcısı Kürşad Zorlu, Türkiye ve Azerbaycan ilişkilerinde gerilim yaratan konulara değinmeden, \"Devletlerimizin ilerleyiş tarzında farklılıklar olabilir\" açıklaması yaptı.",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-15T19:43:56+00:00"
+  },
+  {
+   "title": "UEFA Konferans Ligi'nde 2026-2027 sezonu 10 maçla başladı",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginde-2026-2027-sezonu-10-macla-basladi/4090353",
+   "summary": "Avrupa futbolunun kulüp düzeyindeki üç numaralı turnuvasının ilk haftasında 10 karşılaşma oynandı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-15T19:31:33+00:00"
   }
  ]
 }
