@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-17T12:04:14.331370+00:00",
+ "updated": "2026-10-17T12:43:58.724896+00:00",
  "items": [
+  {
+   "title": "İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
+   "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasına dördüncü gününde devam etti.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
+   "published": "2026-10-17T12:41:20+00:00"
+  },
+  {
+   "title": "Bakan Kurum'dan İstanbul'daki sele ilişkin paylaşım",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-istanbuldaki-sele-iliskin-paylasim/4091948",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Dönüşümü isteyen vatandaşımızın yanında olacak, destek verecek, süreci birlikte yürüteceğiz. İstanbul için kentsel dönüşüm artık ertelenebilecek bir mesele…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-17T12:03:32+00:00"
+  },
   {
    "title": "1. Tıp ve Adalet Sempozyumu İstanbul'da başladı",
    "link": "https://www.aa.com.tr/tr/gundem/1-tip-ve-adalet-sempozyumu-istanbulda-basladi/4091941",
@@ -18,15 +36,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-17T11:49:57+00:00"
-  },
-  {
-   "title": "İmamoğlu savunmasının dördüncü günü: 'Bu bir siyasi davadır'",
-   "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasına dördüncü gününde devam etti.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
-   "published": "2026-10-17T11:48:41+00:00"
   },
   {
    "title": "Bakan Memişoğlu: Vatandaşlarımızın sağlık hizmetlerine erişimini kolaylaştırdık",
@@ -128,9 +137,9 @@
    "published": "2026-10-17T10:23:19+00:00"
   },
   {
-   "title": "CANLI- Cumhurbaşkanı Erdoğan konuşuyor",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4091871",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, İstanbul Üniversitesi Hastanesi Çapa Yerleşkesi Toplu Temel Atma ve Toplu Açılış Töreni'nde konuşuyor.",
+   "title": "Cumhurbaşkanı Erdoğan: 2026 yılı bitmeden 38 bin hekim dışı personel alma ilanına çıkacağız",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-2026-yili-bitmeden-38-bin-hekim-disi-personel-alma-ilanina-cikacagiz/4091871",
+   "summary": "Cumhurbaşkanı Erdoğan, \"2026 yılı bitmeden 38 bin hekim dışı personel alma ilanına çıkacağımızın müjdesini burada sizlerle paylaşıyorum.\" dedi.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -213,7 +222,7 @@
    "link": "https://www.aa.com.tr/tr/spor/kulupler-birliginden-super-lig-yayinciliginda-yeni-donem-icin-kapsamli-calisma/4091826",
    "summary": "Kulüpler Birliği Vakfı, Trendyol Süper Lig'in yeni dönem yayın ihalesi hazırlıkları kapsamında, maçların yayın ve görüntü kalitesini uluslararası standartlara taşımayı amaçlayan kapsamlı bir teknik çalışma…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-17T09:45:04+00:00"
   },
@@ -542,8 +551,8 @@
    "published": "2026-10-17T06:27:34+00:00"
   },
   {
-   "title": "Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda bir süper tanker mayına çarptı",
-   "link": "https://www.aa.com.tr/tr/dunya/devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-bir-super-tanker-mayina-carpti/4091621",
+   "title": "İran Devrim Muhafızları Ordusundan “Hürmüz Boğazı kapalıdır” uyarısı",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusundan-hurmuz-bogazi-kapalidir-uyarisi/4091621",
    "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı’nda alternatif güney rotası üzerinden ayrılmaya çalışan bir süper tankerin deniz mayınına çarptığını ve çarpma sonrası patlama meydana geldiğini duyurdu.",
    "source": "AA",
    "category": "Dünya",
