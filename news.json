@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-17T18:25:20.310177+00:00",
+ "updated": "2026-10-17T18:54:23.544815+00:00",
  "items": [
+  {
+   "title": "Belçika'da eğitim politikaları karşıtı protestolar yine olaylı geçti",
+   "link": "https://www.aa.com.tr/tr/dunya/belcikada-egitim-politikalari-karsiti-protestolar-yine-olayli-gecti/4092245",
+   "summary": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı düzenlenen protestolarda şiddet olayları yaşandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-17T18:44:14+00:00"
+  },
+  {
+   "title": "Hindistan'ın Kalküta kentinde dini festivalde çıkan izdihamda 17 kişi öldü",
+   "link": "https://www.aa.com.tr/tr/dunya/hindistanin-kalkuta-kentinde-dini-festivalde-cikan-izdihamda-17-kisi-oldu/4092233",
+   "summary": "Hindistan'ın Batı Bengal eyaletinin Kalküta kentinde dini festivalde çıkan izdihamda 17 kişinin hayatını kaybettiği belirtildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-17T18:28:08+00:00"
+  },
   {
    "title": "Türkiye'nin Bakü Büyükelçiliğinden Bakan Fidan hakkındaki iddialara yalanlama",
    "link": "https://www.aa.com.tr/tr/dunya/turkiyenin-baku-buyukelciliginden-bakan-fidan-hakkindaki-iddialara-yalanlama/4092215",
@@ -182,6 +200,15 @@
    "published": "2026-10-17T14:40:55+00:00"
   },
   {
+   "title": "Anadolu Ajansı Strateji ve Vizyon Kampı Antalya'da yapıldı",
+   "link": "https://www.aa.com.tr/tr/kurumsal-haberler/anadolu-ajansi-strateji-ve-vizyon-kampi-antalyada-yapildi-/4092073",
+   "summary": "Anadolu Ajansı (AA) Strateji ve Vizyon Kampı-AA Autumn Camp 26, Antalya'da yapıldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-17T14:19:27+00:00"
+  },
+  {
    "title": "Amed Sportif Faaliyetler, sahasında TÜMOSAN Konyaspor'u 1-0 yendi",
    "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-sahasinda-tumosan-konyasporu-1-0-yendi/4092062",
    "summary": "Trendyol Süper Lig'in 8. haftasında Amed Sportif Faaliyetler, sahasında TÜMOSAN Konyaspor'u 1-0 mağlup etti.",
@@ -204,25 +231,16 @@
    "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-batili-diplomatlarin-araclarina-saldirdi/4092033",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-17T13:39:46+00:00"
-  },
-  {
-   "title": "Terörist Mihraç Ural'ın yakalanması Reyhanlı saldırısında yakınlarını kaybedenlerin acısını hafifletti",
-   "link": "https://www.aa.com.tr/tr/gundem/terorist-mihrac-uralin-yakalanmasi-reyhanli-saldirisinda-yakinlarini-kaybedenlerin-acisini-hafifletti/4092032",
-   "summary": "Hatay'ın Reyhanlı ilçesinde 2013 yılında 53 kişinin hayatını kaybettiği bombalı saldırıların sanığı terörist Mihraç Ural'ın yakalanması, yakınlarını kaybeden ailelere buruk sevinç yaşattı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-17T13:39:16+00:00"
   },
   {
    "title": "Milli motosikletçi Can Öncü, İspanya'da 3'üncü oldu",
    "link": "https://www.aa.com.tr/tr/spor/milli-motosikletci-can-oncu-ispanyada-3uncu-oldu-/4092027",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-17T13:37:14+00:00"
   },
@@ -249,7 +267,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-yedi-gunluk-programi-acikladik-secim-abdnin/4091989",
    "summary": "İran Dışişleri Bakanı Abbas Erakçi, ülkesinin Hürmüz Boğazı’nın açılması için öne sürdüğü şartlara ilişkin, “Yedi günlük programı açıkladık, seçim ABD'nin.” dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-17T13:00:49+00:00"
   },
@@ -560,15 +578,6 @@
    "published": "2026-10-17T07:20:39+00:00"
   },
   {
-   "title": "İsrail'in ateşkese rağmen Gazze'deki saldırılarında 6 Filistinli hayatını kaybetti",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzedeki-saldirilarinda-6-filistinli-hayatini-kaybetti/4091658",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği hava saldırıları ve açtığı ateş sonucu 6 Filistinli yaşamını yitirdi, aralarında 3 yaşındaki bir kız çocuğunun da bulunduğu çok sayıda kişi yaralandı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-17T07:18:12+00:00"
-  },
-  {
    "title": "Starlink interneti Ukrayna savaş alanında neden bu kadar önemli?",
    "link": "https://www.bbc.com/turkce/articles/cx1l3dz05r8go?at_medium=RSS&at_campaign=rss",
    "summary": "Ukrayna'daki askeri iletişimin omurgasını oluşturan Starlink, ülke genelindeki askeri güçlere hayati önem taşıyan yüksek hızlı internet hizmeti sağlıyor.",
@@ -603,15 +612,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16ac/live/e9683150-c9fb-11f1-bb10-89ce65f72e2c.jpg",
    "published": "2026-10-17T07:14:29+00:00"
-  },
-  {
-   "title": "ABD Başkanı Trump'tan \"Obama ve Clintonların itibarını halen yerle bir edebileceği\" yorumu",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-obama-ve-clintonlarin-itibarini-halen-yerle-bir-edebilecegi-yorumu/4091653",
-   "summary": "ABD Başkanı Donald Trump, eski ABD başkanları Barack Obama ve Bill Clinton'ın yanı sıra eski Dışişleri Bakanı Hillary Clinton'ın itibarını halen \"yerle bir edebilme şansına sahip olduğunu\" savundu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-17T07:08:54+00:00"
   },
   {
    "title": "Türkiye Sigorta Basketbol Süper Ligi'nde yarın derbi heyecanı yaşanacak",
