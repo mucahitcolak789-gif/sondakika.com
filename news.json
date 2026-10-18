@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-18T18:46:23.561429+00:00",
+ "updated": "2026-10-18T19:15:00.362091+00:00",
  "items": [
+  {
+   "title": "İçişleri Bakanı Çiftçi vefatının 5. yılında Özdemir Bayraktar'ı andı",
+   "link": "https://www.trthaber.com/haber/gundem/icisleri-bakani-ciftci-vefatinin-5-yilinda-ozdemir-bayraktari-andi-960480.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının beşinci yılında andı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T19:04:00+00:00"
+  },
   {
    "title": "Fransa'da protestolar: 1800'den fazla gözaltı, binalar ateşe verildi",
    "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo?at_medium=RSS&at_campaign=rss",
@@ -375,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-in-yeni-savunma-bakani-ahlakiden-ilk-aciklama-siyonistlerle-savasmak-icin-parmagimiz-tetikte-haziriz/4092678",
    "summary": "İran’ın yeni Savunma Bakanı Mehrdad Ahlaki Kitapçi, İsrail’in İran’a yönelik olası saldırılarına karşı hazırlık içerisinde olduklarını belirterek, \"Siyonistlerle savaşmak için parmağımız tetikte hazırız.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-18T12:52:18+00:00"
   },
@@ -956,15 +965,6 @@
    "published": "2026-10-18T04:44:00+00:00"
   },
   {
-   "title": "İsrail askerleri Batı Şeria ve Doğu Kudüs'te düzenledikleri baskınlarda 2 Filistinliyi gözaltına aldı",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seria-ve-dogu-kuduste-duzenledikleri-baskinlarda-2-filistinliyi-gozaltina-aldi/4092338",
-   "summary": "İsrail ordusunun, işgal altındaki Batı Şeria ve Doğu Kudüs'ün çeşitli bölgelerine düzenlediği baskınlarda 2 Filistinli gözaltına alındı, atılan göz yaşartıcı gazdan etkilenen çocuklar boğulma tehlikesi geçirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-18T01:42:50+00:00"
-  },
-  {
    "title": "Manisaya mevsimin ilk karı düştü",
    "link": "https://www.trthaber.com/haber/turkiye/manisaya-mevsimin-ilk-kari-dustu-960440.html",
    "summary": "Manisanın Alaşehir ilçesinde mevsimin ilk karı yağdı. Horzum Alakaya Mahallesinin yaylalar mevkiinde saat 16.00 sıralarında başlayan kar yağışı, yüksek kesimleri beyaza bürüdü.",
@@ -1098,15 +1098,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-17T16:24:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan'dan Cevat Özkaya için taziye mesajı",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-cevat-ozkaya-icin-taziye-mesaji-960430.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Yaşantısıyla, karakteriyle, çalışmalarıyla düşünce dünyamızda önemli izler bırakan Pınar Yayınları editörü Cevat Özkaya Beyefendiye Allahtan rahmet niyaz ediyor; ailesine,…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-17T16:13:00+00:00"
   },
   {
    "title": "Savunma Sanayii Başkanlığından sektör buluşması",
@@ -1350,6 +1341,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/16ac/live/e9683150-c9fb-11f1-bb10-89ce65f72e2c.jpg",
    "published": "2026-10-17T07:14:29+00:00"
+  },
+  {
+   "title": "Türkiye Sigorta Basketbol Süper Ligi'nde bugün derbi heyecanı yaşanacak",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-sigorta-basketbol-super-liginde-bugun-derbi-heyecani-yasanacak/4091652",
+   "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 4. haftasındaki derbide Beşiktaş, bugün Galatasaray MCT Technic'i konuk edecek.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-17T07:04:36+00:00"
   }
  ]
 }
