@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-18T11:03:50.797792+00:00",
+ "updated": "2026-10-18T11:36:21.791399+00:00",
  "items": [
+  {
+   "title": "Kuyumculardan \"ikinci baskı altın\" uyarısı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuyumculardan-ikinci-baski-altin-uyarisi/4092614",
+   "summary": "Ankara Kuyumcular ve Saatçiler Odası Başkanı Sönmez, piyasada daha düşük fiyata satılan ve orijinalinden ayırt edilmesi zor olan ikinci baskı altınlara karşı tüketicileri dikkatli olmaları konusunda uyardı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T11:30:42+00:00"
+  },
+  {
+   "title": "Güneydoğu'nun tekstil ihracatında kumaş zirvede yer aldı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/guneydogunun-tekstil-ihracatinda-kumas-zirvede-yer-aldi/4092613",
+   "summary": "Güneydoğu Anadolu Bölgesi'nden yılın 9 ayında gerçekleştirilen tekstil ihracatında kumaş, yüzde 5,3 artış ve 731 milyon 861 bin dolarla ilk sırada yer aldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T11:27:42+00:00"
+  },
+  {
+   "title": "Fed'e ilişkin \"şahin\" beklentiler ve küresel büyümeye yönelik endişeler emtia piyasasını baskıladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-sahin-beklentiler-ve-kuresel-buyumeye-yonelik-endiseler-emtia-piyasasini-baskiladi/4092610",
+   "summary": "Emtia piyasasında bu hafta ABD Merkez Bankasının (Fed) para politikasına ilişkin \"şahin\" beklentiler ve küresel büyümeye ilişkin endişelerle satış baskısı hakim oldu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T11:18:11+00:00"
+  },
+  {
+   "title": "AK Parti Genel Başkan Yardımcısı Zorlu, Azerbaycan'ın bağımsızlığının yıl dönümünü kutladı",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-azerbaycanin-bagimsizliginin-yil-donumunu-kutladi/4092609",
+   "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Azerbaycan'ın bağımsızlığının yeniden kazanılmasının yıl dönümünü kutladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T11:13:11+00:00"
+  },
+  {
+   "title": "Sakarya'da dere taşkınında bebeği halat düzeneğiyle kurtaran AFAD personeli, o anları anlattı",
+   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-dere-taskininda-bebegi-halat-duzenegiyle-kurtaran-afad-personeli-o-anlari-anlatti/4092602",
+   "summary": "Sakarya'da sağanak sonucu dere taşkınında aralarında bir bebeğin de olduğu 8 kişiyi halat düzeneğiyle kurtaran AFAD personelinin sorumlu ekip amiri, o an yaşadıklarını paylaştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T11:07:21+00:00"
+  },
+  {
+   "title": "'İyilik Var'da bir ayda gönüllü sayısı 20 bine ulaştı",
+   "link": "https://www.trthaber.com/haber/yasam/iyilik-varda-bir-ayda-gonullu-sayisi-20-bine-ulasti-960464.html",
+   "summary": "Aile ve Sosyal Hizmetler Bakanlığı tarafından, gönüllülük faaliyetlerine katılımın artırılması ve bireylerle kurumların toplumsal dayanışmaya katkı sunmasının sağlanması amacıyla hayata geçirilen \"İyilik Var\" ile bir…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T11:03:00+00:00"
+  },
+  {
+   "title": "İstanbul'daki selde kaybolan 1 kişinin daha cansız bedenine ulaşıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbuldaki-selde-kaybolan-1-kisinin-daha-cansiz-bedenine-ulasildi/4092595",
+   "summary": "İstanbul'daki selde kaybolan bir kişinin daha cansız bedeninin bulunmasıyla afette hayatını kaybedenlerin sayısı 5'e yükseldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T10:56:38+00:00"
+  },
   {
    "title": "Gazze'de yaklaşık 3 yıl sonra enkazdan çıkarılan 75 Filistinlinin naaşı toprağa verildi",
    "link": "https://www.aa.com.tr/tr/dunya/gazzede-yaklasik-3-yil-sonra-enkazdan-cikarilan-75-filistinlinin-naasi-topraga-verildi/4092593",
@@ -58,7 +121,7 @@
   {
    "title": "İstanbul'daki selde can kaybı 5'e yükseldi",
    "link": "https://www.trthaber.com/haber/gundem/istanbuldaki-selde-can-kaybi-5e-yukseldi-960463.html",
-   "summary": "İstanbuldaki selde can kaybı 5e yükseldi. Kayıp olarak aranan bir kişinin cansız bedeni Haliç'te bulundu.",
+   "summary": "İstanbul'daki selde kaybolan bir kişinin daha cesedi bulunmasıyla afette hayatını kaybedenlerin sayısı 5'e yükseldi.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -258,7 +321,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/abddeki-ara-secimlerin-ardindan-ticaret-savaslarinin-yogunlasmasi-ongoruluyor/4092493",
    "summary": "Küresel ticarette korumacı politikalar ve tarife belirsizlikleri sürerken, ABD'de kasım ayındaki ara seçimlerin ardından Trump yönetiminin ticaret politikalarını sertleştirip ticaret savaşlarını yoğunlaştırabileceği…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-18T09:04:03+00:00"
   },
@@ -285,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/belcikanin-liege-kentindeki-protestolarda-45-kisi-gozaltina-alindi/4092470",
    "summary": "Belçika'nın Brüksel ve Liege kentlerinde eğitim politikalarına ve bütçe kesintilerine karşı dün düzenlenen protestolarda şiddet olayları yaşanmasının ardından Liege polisi, 45 kişinin gözaltına alındığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-18T08:48:13+00:00"
   },
@@ -297,15 +360,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-18T08:48:00+00:00"
-  },
-  {
-   "title": "Dışişleri Bakanlığı, Azerbaycan'ın bağımsızlığını yeniden kazanmasının 35. yılını kutladı",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakanligi-azerbaycanin-bagimsizligini-yeniden-kazanmasinin-35-yilini-kutladi/4092462",
-   "summary": "",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T08:33:19+00:00"
   },
   {
    "title": "Fenerbahçe-Slavia Prag maçında İspanyol hakem Ricardo de Burgos düdük çalacak",
@@ -353,15 +407,6 @@
    "published": "2026-10-18T08:24:50+00:00"
   },
   {
-   "title": "Kocaeli'de sağanağın ardından bazı bölgelerde tarım arazileri ve yollar su altında kaldı",
-   "link": "https://www.aa.com.tr/tr/gundem/kocaelide-saganagin-ardindan-bazi-bolgelerde-tarim-arazileri-ve-yollar-su-altinda-kaldi/4092451",
-   "summary": "Kocaeli'de gece boyunca etkili olan sağanağın ardından bazı bölgelerde tarım arazileri, yollar ve evlerin bahçeleri suyla doldu.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T08:20:04+00:00"
-  },
-  {
    "title": "AFAD ekibinin selde mahsur kalanları halat düzeneğiyle kurtarma anları kask kamerasında",
    "link": "https://www.aa.com.tr/tr/gundem/afad-ekibinin-selde-mahsur-kalanlari-halat-duzenegiyle-kurtarma-anlari-kask-kamerasinda/4092449",
    "summary": "Sakarya'nın Sapanca ilçesinde etkili olan sağanağın ardından mahsur kalan vatandaşların kurtarılma anları, AFAD ekibinin kask kameraları tarafından kaydedildi.",
@@ -378,24 +423,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-18T08:14:37+00:00"
-  },
-  {
-   "title": "Uzmanlar, okullarda şiddeti önlemede aile-okul işbirliğinin önemini anlattı",
-   "link": "https://www.aa.com.tr/tr/gundem/uzmanlar-okullarda-siddeti-onlemede-aile-okul-isbirliginin-onemini-anlatti/4092446",
-   "summary": "Uzmanlar, okullarda yaşanan şiddet olaylarının önlenmesinde öğrencilerin davranışlarındaki risk işaretlerinin erken fark edilmesinin ve ebeveynlerle okul yönetimleri arasındaki iletişimin güçlendirilmesinin önemine…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T08:14:02+00:00"
-  },
-  {
-   "title": "Daskyleion Antik Kenti'ndeki fırında 2 bin 600 yıllık karbonlaşmış tohumlar bulundu",
-   "link": "https://www.aa.com.tr/tr/kultur/daskyleion-antik-kentindeki-firinda-2-bin-600-yillik-karbonlasmis-tohumlar-bulundu/4092444",
-   "summary": "Balıkesir'in Bandırma ilçesindeki Manyas Gölü'nün kıyısında yer alan antik kentteki kazılarda ortaya çıkarılan fırında bulunan karbonlaşmış tohumlar, o dönemin beslenme ve mutfak alışkanlıklarına ilişkin ipuçları…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T08:12:36+00:00"
   },
   {
    "title": "Türkiye'nin ticari araç ihracatı 5 milyar doları aştı",
@@ -1091,15 +1118,6 @@
    "published": "2026-10-17T10:36:00+00:00"
   },
   {
-   "title": "Ukrayna: Rusya enerji sektörümüze yönelik en yoğun saldırılardan birini gerçekleştirdi",
-   "link": "https://www.trthaber.com/haber/dunya/ukrayna-rusya-enerji-sektorumuze-yonelik-en-yogun-saldirilardan-birini-gerceklestirdi-960413.html",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun ülkesinin enerji sektörüne en yoğun saldırılardan birini düzenlediğini bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-17T10:33:00+00:00"
-  },
-  {
    "title": "Milli güreşçi Şevval Çayır, 23 yaş altında dünya ikincisi oldu",
    "link": "https://www.aa.com.tr/tr/spor/milli-guresci-sevval-cayir-23-yas-altinda-dunya-ikincisi-oldu/4091859",
    "summary": "Dünya 23 Yaş Altı Güreş Şampiyonası'nda kadınlar 53 kiloda Türkiye'yi temsil eden Şevval Çayır, gümüş madalya aldı.",
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-16T21:38:28+00:00"
-  },
-  {
-   "title": "Milli kick boksçu Berat, dünya şampiyonluğu hayalini gerçekleştirdiği için gururlu",
-   "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscu-berat-dunya-sampiyonlugu-hayalini-gerceklestirdigi-icin-gururlu/4091566",
-   "summary": "Kariyerinde 60'tan fazla madalya bulunan milli kick boksçu Berat Önal, İtalya'da düzenlenen Gençler Dünya Şampiyonası'nda 6 maç kazanarak altın madalyaya ulaştı ve yıllardır kurduğu dünya şampiyonluğu hayalini…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-16T21:38:08+00:00"
-  },
-  {
-   "title": "İşitme engelli badmintoncular Avrupa başarısının ardından dünya şampiyonasına hazırlanıyor",
-   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-badmintoncular-avrupa-basarisinin-ardindan-dunya-sampiyonasina-hazirlaniyor/4091561",
-   "summary": "Eskişehir'de aynı spor kulübünde badmintonla tanışan 4 işitme engelli milli sporcu, Avrupa'da elde ettikleri derecelerin ardından 2027'de düzenlenmesi planlanan Dünya İşitme Engelliler Badminton Şampiyonası'na…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-16T21:35:26+00:00"
   }
  ]
 }
