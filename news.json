@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-18T15:51:00.449495+00:00",
+ "updated": "2026-10-18T16:16:26.374268+00:00",
  "items": [
+  {
+   "title": "Elon Musk'ın Cumhuriyetçilere yaptığı milyonlarca dolarlık bağış ne anlatıyor?",
+   "link": "https://www.bbc.com/turkce/articles/c620r7vg0e7wo?at_medium=RSS&at_campaign=rss",
+   "summary": "Elon Musk, ABD’deki ara seçimler öncesinde Cumhuriyetçilere 200 milyon dolardan fazla bağış yaparken, desteğin özellikle şirketlerini taşıdığı Teksas’ta yoğunlaşması dikkat çekiyor",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg",
+   "published": "2026-10-18T16:10:56+00:00"
+  },
+  {
+   "title": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-altinci-fon-kurulu-toplantisina-iliskin-aciklama/4092808",
+   "summary": "İletişim Başkanlığı, A1 Portföy Yönetim Şirketi AŞ, Bulls Portföy Yönetim Şirketi AŞ ve Pardus Portföy Yönetim Şirketi AŞ'nin yönetimindeki 45 binin üzerindeki kişiye 40,8 milyar lira tutarında ayni ve nakdi tasfiye…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T16:06:53+00:00"
+  },
   {
    "title": "Altıncı Fon Kurulu Toplantısı gerçekleştirdi",
    "link": "https://www.trthaber.com/haber/gundem/altinci-fon-kurulu-toplantisi-gerceklestirdi-960475.html",
@@ -38,9 +56,9 @@
    "published": "2026-10-18T14:59:26+00:00"
   },
   {
-   "title": "Kırklareli'nde ilaç fabrikasında çıkan yangına müdahale ediliyor",
-   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangina-mudahale-ediliyor/4092747",
-   "summary": "Kırklareli'nin Vize ilçesinde bir ilaç fabrikasında çıkan yangına müdahale ediliyor.",
+   "title": "Kırklareli'nde ilaç fabrikasında çıkan yangın kontrol altına alındı",
+   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangin-kontrol-altina-alindi/4092747",
+   "summary": "Kırklareli'nin Vize ilçesinde ilaç fabrikasında çıkan yangın, kontrol altına alındı.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -375,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/guneydogunun-tekstil-ihracatinda-kumas-zirvede-yer-aldi/4092613",
    "summary": "Güneydoğu Anadolu Bölgesi'nden yılın 9 ayında gerçekleştirilen tekstil ihracatında kumaş, yüzde 5,3 artış ve 731 milyon 861 bin dolarla ilk sırada yer aldı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-18T11:27:42+00:00"
   },
@@ -384,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-sahin-beklentiler-ve-kuresel-buyumeye-yonelik-endiseler-emtia-piyasasini-baskiladi/4092610",
    "summary": "Emtia piyasasında bu hafta ABD Merkez Bankasının (Fed) para politikasına ilişkin \"şahin\" beklentiler ve küresel büyümeye ilişkin endişelerle satış baskısı hakim oldu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-18T11:18:11+00:00"
   },
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-17T06:48:11+00:00"
-  },
-  {
-   "title": "Kurallara aykırı bozulabilir gıda taşımacılığı yapanlara 12 bin 758 lira ceza verilecek",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kurallara-aykiri-bozulabilir-gida-tasimaciligi-yapanlara-12-bin-758-lira-ceza-verilecek/4091633",
-   "summary": "Bozulabilir gıda maddelerinin taşınmasına ilişkin kurallara aykırı hareket edenlere 12 bin 758 lira idari para cezası uygulanacak.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-17T06:36:19+00:00"
-  },
-  {
-   "title": "Kocaelispor, Süper Lig'de bugün Göztepe'yi konuk edecek",
-   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-bugun-goztepeyi-konuk-edecek/4091627",
-   "summary": "Kocaelispor, Trendyol Süper Lig'in 8. haftasında bugün sahasında Göztepe ile karşılaşacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-17T06:27:34+00:00"
   }
  ]
 }
