@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-18T14:15:57.083166+00:00",
+ "updated": "2026-10-18T14:51:40.575107+00:00",
  "items": [
+  {
+   "title": "Kırklareli'nde ilaç fabrikasında çıkan yangına müdahale ediliyor",
+   "link": "https://www.aa.com.tr/tr/gundem/kirklarelinde-ilac-fabrikasinda-cikan-yangina-mudahale-ediliyor/4092747",
+   "summary": "Kırklareli'nin Vize ilçesinde bir ilaç fabrikasında çıkan yangına müdahale ediliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T14:33:19+00:00"
+  },
+  {
+   "title": "Fransa'da protestolar: Bin 800'den fazla gözaltı, binalar ateşe verildi",
+   "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo?at_medium=RSS&at_campaign=rss",
+   "summary": "Fransa'da okullardaki zor koşulları ve hayat pahalılığını protesto etmek için Cumartesi günü düzenlenen gösteriler sırasında ülke genelinde şiddet olayları yaşandı",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e74b/live/9f3e6fb0-cad5-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-18T14:32:10+00:00"
+  },
+  {
+   "title": "İran Dışişleri Bakanı Arakçi: Tehditler karşısında boyun eğmeyeceğiz",
+   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-tehditler-karsisinda-boyun-egmeyecegiz-960473.html",
+   "summary": "İran Dışişleri Bakanı Abbas Arakçi, ABD'den gelen saldırı tehditlerine ilişkin, \"Tehditler karşısında boyun eğmeyeceğiz.\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T14:12:00+00:00"
+  },
+  {
+   "title": "Milli tenisçi İpek Öz, Bulgaristan'daki turnuvada şampiyon oldu",
+   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-ipek-oz-bulgaristandaki-turnuvada-sampiyon-oldu/4092726",
+   "summary": "Milli tenisçi Öz, 6 numaralı seribaşı olarak katıldığı Eski Zağra Kadınlar Tenis Turnuvası'nın finalinde 8 numaralı seribaşı Çek Alena Kovackova’yı 2-0 yenerek şampiyonluğa ulaştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T14:11:53+00:00"
+  },
   {
    "title": "Okul bahçesinde cinayet: Travma, kayıp ve yıllara direnen bir aşk",
    "link": "https://www.bbc.com/turkce/articles/cmzxjyynqp50o?at_medium=RSS&at_campaign=rss",
@@ -27,6 +63,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-18T13:48:24+00:00"
+  },
+  {
+   "title": "Erzincan-Erzurum kara yolundaki heyelan ve ekiplerin çalışması dronla görüntülendi",
+   "link": "https://www.aa.com.tr/tr/gundem/erzincan-erzurum-kara-yolundaki-heyelan-ve-ekiplerin-calismasi-dronla-goruntulendi/4092716",
+   "summary": "Erzincan-Erzurum kara yolundaki heyelanın büyüklüğü ve ekiplerin heyelan nedeniyle kapanan yolun bir şeridini ulaşıma açmak için yürüttüğü çalışmalar dronla görüntülendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T13:46:01+00:00"
   },
   {
    "title": "Cumhurbaşkanı Erdoğan'dan Nuri Pakdil için anma mesajı",
@@ -339,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ab-bati-seriada-avrupali-diplomatlara-ve-filistinlilere-yonelik-saldirilari-kinadi/4092590",
    "summary": "Avrupa Birliği (AB), işgal altındaki Batı Şeria'nın Taybe beldesinde Filistin topraklarını gasbeden maskeli İsraillilerin Avrupalı diplomatları da hedef alan son saldırılarını güçlü şekilde kınadığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-18T10:47:50+00:00"
   },
@@ -348,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/spor/17-zeytinburnu-cumhuriyet-kosusu-gerceklestirildi/4092588",
    "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak'ın da katıldığı koşuda erkeklerde Ali Kaya, kadınlarda ise Emebet Ejigu Bizuneh birinci oldu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-18T10:44:03+00:00"
   },
@@ -366,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-tehditler-karsisinda-boyun-egmeyecegiz/4092585",
    "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD'den gelen saldırı tehditlerine ilişkin, \"Tehditler karşısında boyun eğmeyeceğiz.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-18T10:39:18+00:00"
   },
@@ -378,15 +423,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-18T10:37:00+00:00"
-  },
-  {
-   "title": "Fransa'da protestolar: Bin 800'den fazla gözaltı, binalar ateşe verildi",
-   "link": "https://www.bbc.com/turkce/articles/cw8rzp2e2v5xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fransa'da okullardaki zor koşulları ve hayat pahalılığını protesto etmek için Cumartesi günü düzenlenen gösteriler sırasında ülke genelinde şiddet olayları yaşandı",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e74b/live/9f3e6fb0-cad5-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-18T10:35:18+00:00"
   },
   {
    "title": "Tekerlekli Sandalye Basketbol Kadın Milli Takımı, Avrupa'da şampiyon oldu",
@@ -1064,15 +1100,6 @@
    "published": "2026-10-17T13:15:00+00:00"
   },
   {
-   "title": "İran Dışişleri Bakanı Arakçi: Yedi günlük programı açıkladık, seçim ABD'nin",
-   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-yedi-gunluk-programi-acikladik-secim-abdnin-960423.html",
-   "summary": "İran Dışişleri Bakanı Abbas Arakçi, ülkesinin Hürmüz Boğazının açılması için öne sürdüğü şartlara ilişkin, \"Yedi günlük programı açıkladık, seçim ABD'nin.\" dedi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-17T13:09:00+00:00"
-  },
-  {
    "title": "Erzurumspor, sahasında Eyüpspor'u 2-0 mağlup etti",
    "link": "https://www.aa.com.tr/tr/spor/erzurumspor-sahasinda-eyupsporu-2-0-maglup-etti/4091972",
    "summary": "Erzurumspor FK, Trendyol Süper Lig'in 8. haftasında konuk ettiği Eyüpspor'u 2-0 mağlup etti.",
@@ -1323,33 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-17T06:27:34+00:00"
-  },
-  {
-   "title": "Anonim ve limited şirketlerin asgari sermaye uyum süresi 2027 sonuna uzatıldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/anonim-ve-limited-sirketlerin-asgari-sermaye-uyum-suresi-2027-sonuna-uzatildi/4091612",
-   "summary": "Anonim ve limited şirketlerin yeni asgari sermaye tutarlarına uyum süresinin 31 Aralık 2027'ye kadar uzatılması kararlaştırıldı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-17T05:08:46+00:00"
-  },
-  {
-   "title": "Otizmli Ahsen, sosyalleşmesi için yönlendirildiği atletizmde şampiyonluklara imza attı",
-   "link": "https://www.aa.com.tr/tr/spor/otizmli-ahsen-sosyallesmesi-icin-yonlendirildigi-atletizmde-sampiyonluklara-imza-atti/4091568",
-   "summary": "Osmaniye'de atletizme başlayan 15 yaşındaki otizmli Ahsen Tuana Kurt, uzun atlama, 400 ve 800 metre yarışlarında Türkiye şampiyonluklarının yanı sıra rekorlar da kırdı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-16T21:38:28+00:00"
-  },
-  {
-   "title": "Milli kick boksçu Berat, dünya şampiyonluğu hayalini gerçekleştirdiği için gururlu",
-   "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscu-berat-dunya-sampiyonlugu-hayalini-gerceklestirdigi-icin-gururlu/4091566",
-   "summary": "Kariyerinde 60'tan fazla madalya bulunan milli kick boksçu Berat Önal, İtalya'da düzenlenen Gençler Dünya Şampiyonası'nda 6 maç kazanarak altın madalyaya ulaştı ve yıllardır kurduğu dünya şampiyonluğu hayalini…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-16T21:38:08+00:00"
   }
  ]
 }
