@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-18T12:01:23.677794+00:00",
+ "updated": "2026-10-18T12:44:19.581461+00:00",
  "items": [
+  {
+   "title": "İletişim Başkanı Duran, Özdemir Bayraktar'ı vefatının 5. yılında andı",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-ozdemir-bayraktari-vefatinin-5-yilinda-andi/4092670",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Milli Teknoloji Hamlesi idealinin ve milli SİHA'ların öncü ismi Özdemir Bayraktar'ı vefatının beşinci yılında rahmetle andı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T12:31:04+00:00"
+  },
+  {
+   "title": "Avrupalı diplomatlar Batı Şeria'da İsrailli yerleşimcilerin saldırısına uğradı",
+   "link": "https://www.bbc.com/turkce/articles/cq8rzpez6p31o?at_medium=RSS&at_campaign=rss",
+   "summary": "Avrupalı diplomatlardan oluşan bir heyet, İsrail'in işgali altındaki Batı Şeria'da maskeli İsrailli yerleşimcilerin saldırısına uğradı",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8edc/live/b015e1c0-caed-11f1-bc2e-018d645d8d21.png",
+   "published": "2026-10-18T12:20:35+00:00"
+  },
+  {
+   "title": "İletişim Başkanı Duran, vefatının 7. yılında Nuri Pakdil'i andı",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-vefatinin-7-yilinda-nuri-pakdili-andi/4092662",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Kudüs şairi\" olarak tanınan şair ve yazar Nuri Pakdil'i vefatının 7. yılında andı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T12:19:37+00:00"
+  },
+  {
+   "title": "Soykırımcı İsrail'in Gazze'ye saldırılarında 2'si çocuk 5 kişi hayatını kaybetti",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israilin-gazzeye-saldirilarinda-2si-cocuk-5-kisi-hayatini-kaybetti-960468.html",
+   "summary": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda ikisi çocuk 5 Filistinli hayatını kaybetti, en az 8 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T12:02:00+00:00"
+  },
+  {
+   "title": "Nevşehir'de düzenlenen Salomon Kapadokya Ultra Trail sona erdi",
+   "link": "https://www.aa.com.tr/tr/spor/nevsehirde-duzenlenen-salomon-kapadokya-ultra-trail-sona-erdi/4092634",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T12:00:14+00:00"
+  },
   {
    "title": "Cumhurbaşkanı Erdoğan, Azerbaycan’ın \"Bağımsızlığın Yeniden Sağlanması Günü\"nü kutladı",
    "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycan-in-bagimsizligin-yeniden-saglanmasi-gununu-kutladi/4092633",
@@ -45,6 +90,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-18T11:47:00+00:00"
+  },
+  {
+   "title": "Kasımpaşa sahasından 3 puanla ayrıldı",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-sahasindan-3-puanla-ayrildi/4092624",
+   "summary": "Kasımpaşa, Trendyol Süper Lig'in 8. haftasında konuk ettiği Samsunspor'u 4-1 yendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T11:46:08+00:00"
   },
   {
    "title": "Belçika'nın Liege kentindeki protestolarda 45 kişi gözaltına alındı",
@@ -164,6 +218,15 @@
    "published": "2026-10-18T10:44:03+00:00"
   },
   {
+   "title": "Uşak, Karabük ve Kastamonu'nun yüksek kesimleri karla kaplandı",
+   "link": "https://www.aa.com.tr/tr/gundem/usak-karabuk-ve-kastamonunun-yuksek-kesimleri-karla-kaplandi/4092587",
+   "summary": "Uşak, Karabük ve Kastamonu'da yüksek kesimler etkili olan kar yağışı sonrası beyaza büründü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T10:41:41+00:00"
+  },
+  {
    "title": "İran Dışişleri Bakanı Erakçi: Tehditler karşısında boyun eğmeyeceğiz",
    "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-tehditler-karsisinda-boyun-egmeyecegiz/4092585",
    "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD'den gelen saldırı tehditlerine ilişkin, \"Tehditler karşısında boyun eğmeyeceğiz.\" dedi.",
@@ -182,9 +245,9 @@
    "published": "2026-10-18T10:37:34+00:00"
   },
   {
-   "title": "İstanbul'daki selde can kaybı 5'e yükseldi",
-   "link": "https://www.trthaber.com/haber/gundem/istanbuldaki-selde-can-kaybi-5e-yukseldi-960463.html",
-   "summary": "İstanbul'daki selde kaybolan bir kişinin daha cesedi bulunmasıyla afette hayatını kaybedenlerin sayısı 5'e yükseldi.",
+   "title": "Selde can kaybı 6'ya yükseldi",
+   "link": "https://www.trthaber.com/haber/gundem/selde-can-kaybi-6ya-yukseldi-960463.html",
+   "summary": "İstanbul ve Kocaeli'deki selde kaybolan iki kişinin daha cesedinin bulunmasıyla afette hayatını kaybedenlerin sayısı 6'ya yükseldi.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -285,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-baskenti-riyadda-yapilmasi-planlanan-ab-korfez-isbirligi-konseyi-zirvesi-ertelendi/4092531",
    "summary": "Suudi Arabistan'ın başkenti Riyad'da 24 Ekim'de düzenlenmesi planlanan ikinci Avrupa Birliği (AB)-Körfez İşbirliği Konseyi (KİK) Zirvesi'nin ertelendiği bildirildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-18T09:45:11+00:00"
   },
@@ -294,18 +357,9 @@
    "link": "https://www.aa.com.tr/tr/spor/galatasaraydan-rafael-leaonun-sakatligiyla-ilgili-aciklama/4092528",
    "summary": "Galatasaray, Trendyol Süper Lig'de Gençlerbirliği ile oynanan maçta sakatlanan Rafael Leao'nun durumunun yarın yapılacak tetkiklerin ardından netleşeceğini duyurdu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-18T09:45:02+00:00"
-  },
-  {
-   "title": "İstanbul Valisi Gül: Sel sularına kapılan 2 kişiyi 17 kilometrelik dere hattında arıyoruz",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gul-sel-sularina-kapilan-2-kisiyi-17-kilometrelik-dere-hattinda-ariyoruz/4092522",
-   "summary": "Vali Gül, dün gece sel sularına kapılan 2 kişinin bulunması için başlatılan çalışmalara ilişkin, \"Pendik'te aradıklarımızın olay yeri Gebze. Burada da 17 kilometrelik bir dere hattı var. Bunun her aşamasında…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T09:42:25+00:00"
   },
   {
    "title": "Hindistan'da kamyon, kalabalığa daldı: 15 ölü",
@@ -324,24 +378,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-18T09:21:00+00:00"
-  },
-  {
-   "title": "TBMM Başkanı Kurtulmuş, TÜRKPA 15. Genel Kurulu'na katılmak üzere Kırgızistan'a gidecek",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-turkpa-15-genel-kuruluna-katilmak-uzere-kirgizistana-gidecek/4092507",
-   "summary": "TBMM Başkanı Numan Kurtulmuş, beraberindeki parlamento heyetiyle Türk Devletleri Parlamenter Asamblesi (TÜRKPA) 15. Genel Kurulu'na katılmak üzere 19-20 Ekim'de Kırgızistan'a resmi ziyaret gerçekleştirecek.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T09:19:29+00:00"
-  },
-  {
-   "title": "Sigara hem sağlığı hem çevreyi etkiliyor",
-   "link": "https://www.aa.com.tr/tr/gundem/sigara-hem-sagligi-hem-cevreyi-etkiliyor/4092505",
-   "summary": "Akdeniz Üniversitesi Tıp Fakültesi Öğretim Üyesi Prof. Dr. Ali İhsan Bozkurt, sigaranın başta akciğer kanseri ve kalp hastalıkları olmak üzere ciddi sağlık sorunlarına yol açtığını, izmaritlerin ise toprağı ve denizleri…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T09:19:11+00:00"
   },
   {
    "title": "Rusya'da yoğun İHA saldırılarında petrol terminali ve veri merkezi hedef alındı",
@@ -380,15 +416,6 @@
    "published": "2026-10-18T08:58:00+00:00"
   },
   {
-   "title": "Ankara-Kayseri seyahat süresini 1 saat 45 dakikaya düşürecek projede fiziki ilerleme yüzde 50'yi geçti",
-   "link": "https://www.aa.com.tr/tr/gundem/ankara-kayseri-seyahat-suresini-1-saat-45-dakikaya-dusurecek-projede-fiziki-ilerleme-yuzde-50yi-gecti/4092482",
-   "summary": "Ulaştırma ve Altyapı Bakanı Uraloğlu, \"(Yerköy-Kayseri Yüksek Hızlı Tren Hattı) 142 kilometrelik hattımızı saatte 250 kilometre hıza uygun, çift hatlı, elektrikli ve sinyalli olarak inşa ediyoruz.\" ifadesini kullandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T08:55:20+00:00"
-  },
-  {
    "title": "Gelecek yıl ulaştırma programlarına 1 trilyon liranın üzerinde ödenek ayrıldı",
    "link": "https://www.trthaber.com/haber/ekonomi/gelecek-yil-ulastirma-programlarina-1-trilyon-liranin-uzerinde-odenek-ayrildi-960456.html",
    "summary": "Türkiye, gelecek yıl demir yolu ulaşımı, kara yolu ulaşımı, bilgi ve iletişim, deniz yolu ulaşımı ile kombine taşımacılık, lojistik ve tehlikeli mal taşımacılığı programları için 1 trilyon lirayı aşkın harcama yapmayı…",
@@ -407,9 +434,9 @@
    "published": "2026-10-18T08:31:31+00:00"
   },
   {
-   "title": "Fransa'da sarı yeleklilerin gösterileri nedeniyle 1200 kişi gözaltına alındı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-gosterileri-nedeniyle-1200-kisi-gozaltina-alindi/4092458",
-   "summary": "Fransa'da dün sokaklara inen sarı yeleklilerin gösterileri sırasında 1200 kişinin gözaltına alındığı bildirildi.",
+   "title": "Fransa'da sarı yeleklilerin gösterilerinde 2 binden fazla kişi gözaltına alındı",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-gosterilerinde-2-binden-fazla-kisi-gozaltina-alindi/4092458",
+   "summary": "Fransa'da dün sokaklara inen sarı yeleklilerin gösterilerinde 2 binden fazla kişinin gözaltına alındığı bildirildi.",
    "source": "AA",
    "category": "Dünya",
    "image": null,
@@ -477,6 +504,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-18T08:10:00+00:00"
+  },
+  {
+   "title": "\"Atatürk\" adının verildiği ilk lise, 141 yıldır eğitim meşalesini taşıyor",
+   "link": "https://www.aa.com.tr/tr/kultur/-ataturk-adinin-verildigi-ilk-lise-141-yildir-egitim-mesalesini-tasiyor/4092440",
+   "summary": "\"Ankara İdadisi\" adıyla 1886'da kurulan Ankara Atatürk Lisesi, Osmanlı'dan Cumhuriyet'e uzanan köklü geçmişiyle Türkiye'nin eğitim ve kültür hafızasını geleceğe taşımaya devam ediyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T08:09:21+00:00"
   },
   {
    "title": "Emniyet ve jandarma ekipleri geçmiş yıllara ait 60 cinayeti aydınlattı",
@@ -839,15 +875,6 @@
    "published": "2026-10-17T17:37:00+00:00"
   },
   {
-   "title": "İmamoğlu İBB davasındaki savunmasını dördüncü günde tamamladı",
-   "link": "https://www.bbc.com/turkce/articles/cmlyd2xp1jxwo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tutuklandıktan sonra görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, 14 Ekim'de başladığı İBB davasındaki savunmasını dördüncü gününde tamamladı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b208/live/956aaff0-ca1f-11f1-a718-8f4bc8d2cdf5.jpg",
-   "published": "2026-10-17T17:09:34+00:00"
-  },
-  {
    "title": "Bakan Kurum: 10 ilde turuncu, 26 ilde sarı kodlu uyarı var",
    "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-10-ilde-turuncu-26-ilde-sari-kodlu-uyari-var-960433.html",
    "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, yarın 10 il için turuncu, 26 il için sarı kodlu meteorolojik uyarı yapıldığını belirterek, vatandaşlardan olası olumsuzluklara karşı dikkatli olmalarını istedi.",
@@ -1062,15 +1089,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-17T11:25:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: Sağlıkta 38 bin personel alınacak",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-saglikta-38-bin-personel-alinacak-960417.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, \"Sağlık hizmetlerinin en nitelikli şekilde vatandaşlarımıza sunulması bizim her zaman önceliğimiz olmuştur. Bu amaçla yeni bir adım daha atıyor, 2026 yılı bitmeden 38 bin hekim dışı…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-17T11:19:00+00:00"
   },
   {
    "title": "TESK Genel Başkanı Yiğiner'den esnafın prim gün sayısının 7 bin 200'e düşürülmesi talebi",
@@ -1332,24 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62ad/live/a3f113b0-c953-11f1-8879-9d9deeb686e1.jpg",
    "published": "2026-10-16T23:31:02+00:00"
-  },
-  {
-   "title": "Otizmli Ahsen, sosyalleşmesi için yönlendirildiği atletizmde şampiyonluklara imza attı",
-   "link": "https://www.aa.com.tr/tr/spor/otizmli-ahsen-sosyallesmesi-icin-yonlendirildigi-atletizmde-sampiyonluklara-imza-atti/4091568",
-   "summary": "Osmaniye'de atletizme başlayan 15 yaşındaki otizmli Ahsen Tuana Kurt, uzun atlama, 400 ve 800 metre yarışlarında Türkiye şampiyonluklarının yanı sıra rekorlar da kırdı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-16T21:38:28+00:00"
-  },
-  {
-   "title": "Milli kick boksçu Berat, dünya şampiyonluğu hayalini gerçekleştirdiği için gururlu",
-   "link": "https://www.aa.com.tr/tr/spor/milli-kick-bokscu-berat-dunya-sampiyonlugu-hayalini-gerceklestirdigi-icin-gururlu/4091566",
-   "summary": "Kariyerinde 60'tan fazla madalya bulunan milli kick boksçu Berat Önal, İtalya'da düzenlenen Gençler Dünya Şampiyonası'nda 6 maç kazanarak altın madalyaya ulaştı ve yıllardır kurduğu dünya şampiyonluğu hayalini…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-16T21:38:08+00:00"
   }
  ]
 }
