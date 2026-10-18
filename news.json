@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-18T07:06:01.977283+00:00",
+ "updated": "2026-10-18T07:37:59.834964+00:00",
  "items": [
+  {
+   "title": "ABD Dışişleri Bakanı Rubio, Trump'ın Rusya'ya yaptırımların ekonomik etkilerini değerlendireceğini belirtti",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-trumpin-rusyaya-yaptirimlarin-ekonomik-etkilerini-degerlendirecegini-belirtti/4092403",
+   "summary": "ABD Dışişleri Bakanı Marco Rubio, Başkan Donald Trump'ın Rusya'ya yönelik yaptırım ve gümrük tarifelerinin etkilerini değerlendirmek için 60 günlük süreyi kullanmak istediğini söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T07:17:57+00:00"
+  },
+  {
+   "title": "Nordik dillerde neden 'lütfen' kelimesi bulunmuyor?",
+   "link": "https://www.bbc.com/turkce/articles/cwn73x7zpr5yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Seyahat ederken nazik ve saygılı olmak çok önemli bir özellik, ancak \"lütfen\" kelimesinin bir karşılığının olmadığı bir yerde kendinizi nasıl kibarca ifade edebilirsiniz? Peki bu ülkelerde yaşayanlar kaba mı?",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d609/live/c3139240-c7af-11f1-a64c-550be9e3c66b.jpg",
+   "published": "2026-10-18T07:08:12+00:00"
+  },
+  {
+   "title": "Neandertallerin yaşamında şiddet ne kadar yaygındı?",
+   "link": "https://www.bbc.com/turkce/articles/cq3dj43dr8vdo?at_medium=RSS&at_campaign=rss",
+   "summary": "Arkeologlar, Kuzey Irak'taki bir mağarada bulunan, 75 bin yıl önce ölmüş bir Neandertal'in göğsünde açılan yaranın, en eski şiddet kanıtlarından biri olabileceğini söylüyor.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/052f/live/ca6f9ca0-c8a4-11f1-929c-0b57deb4f9df.jpg",
+   "published": "2026-10-18T07:07:07+00:00"
+  },
+  {
+   "title": "BBC araştırması: İsrail ordusu yüzlerce iç soruşturmasının sonuçlarını kamuoyuna açıklamadı",
+   "link": "https://www.bbc.com/turkce/articles/cqdjv982nl4eo?at_medium=RSS&at_campaign=rss",
+   "summary": "BBC'nin doğrulama birimi BBC Verify, İsrail ordusunun insanları öldürmek ve yaralamakla suçlandığı 254 olayla ilgili açılan soruşturmaların sonuçlarının kamuoyuna açıklanmadığını tespit etti. Bu olaylar, Gazze, işgal…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2cd5/live/6628d920-c7e4-11f1-a64c-550be9e3c66b.png",
+   "published": "2026-10-18T07:05:49+00:00"
+  },
   {
    "title": "Nobel ödüllerinde cinsiyet ayrımı var mı: 'İstatistiklere göre cevap: Evet'",
    "link": "https://www.bbc.com/turkce/articles/c63el5jql99po?at_medium=RSS&at_campaign=rss",
@@ -45,6 +81,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-18T06:38:46+00:00"
+  },
+  {
+   "title": "İstanbul polisi, firari 3 FETÖ'cüyü operasyonla yakaladı",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-polisi-firari-3-fetocuyu-operasyonla-yakaladi/4092361",
+   "summary": "İstanbul polisi, haklarında arama kaydı bulunan Fetullahçı Terör Örgütü (FETÖ) üyesi 3 firari şüpheliyi eş zamanlı operasyonlarla yakaladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-18T06:13:12+00:00"
   },
   {
    "title": "Beşiktaş, Süper Lig'de yarın Trabzonspor'a konuk olacak",
@@ -213,7 +258,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/berlindeki-ogrencilerden-fransada-eylem-yapan-ogrencilere-destek-yuruyusu/4092247",
    "summary": "Almanya'nın başkenti Berlin'de öğrenciler, Fransa'da daha iyi eğitim koşulları talebiyle gösteriler yapan öğrencilerle dayanışma için yürüyüş düzenledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-17T18:56:12+00:00"
   },
@@ -231,7 +276,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/italyada-hukumet-karsiti-protestolar-olayli-gecti/4092238",
    "summary": "İtalya'da hayat pahalılığına ve Giorgia Meloni liderliğindeki sağ koalisyon hükümetine karşı farklı kentlerde düzenlenen protestolarda olaylar çıktı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-17T18:33:09+00:00"
   },
@@ -315,15 +360,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5ea5/live/869d9790-ca2d-11f1-a64c-550be9e3c66b.jpg",
    "published": "2026-10-17T15:44:02+00:00"
-  },
-  {
-   "title": "Bağdat’ta Haşdi Şabi karargahı yakınında patlama meydana geldi",
-   "link": "https://www.aa.com.tr/tr/dunya/bagdat-ta-hasdi-sabi-karargahi-yakininda-patlama-meydana-geldi/4092116",
-   "summary": "Irak’ın başkenti Bağdat’ta Haşdi Şabi güçlerinin konuşlandığı karargahın yakınında patlama meydana geldi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-17T15:20:48+00:00"
   },
   {
    "title": "Savunma Sanayii Başkanlığından sektör buluşması",
@@ -650,15 +686,6 @@
    "published": "2026-10-16T23:31:02+00:00"
   },
   {
-   "title": "Fransa'daki öğrenci eylemleri: Ülke kırılma noktasında mı?",
-   "link": "https://www.bbc.com/turkce/articles/c51kd8vm9912o?at_medium=RSS&at_campaign=rss",
-   "summary": "Fransa Başbakanı, öğrenci öfkesinin bir silah olarak kullanıldığını öne sürdü. Sendikalar ve diğer protestocular da bugün yeniden sokaklara çıkmaya hazırlanıyor.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4304/live/031ef450-c946-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-16T23:29:36+00:00"
-  },
-  {
    "title": "Otizmli Ahsen, sosyalleşmesi için yönlendirildiği atletizmde şampiyonluklara imza attı",
    "link": "https://www.aa.com.tr/tr/spor/otizmli-ahsen-sosyallesmesi-icin-yonlendirildigi-atletizmde-sampiyonluklara-imza-atti/4091568",
    "summary": "Osmaniye'de atletizme başlayan 15 yaşındaki otizmli Ahsen Tuana Kurt, uzun atlama, 400 ve 800 metre yarışlarında Türkiye şampiyonluklarının yanı sıra rekorlar da kırdı.",
@@ -758,15 +785,6 @@
    "published": "2026-10-16T18:21:26+00:00"
   },
   {
-   "title": "Batı Şeria'da, Yahudi yerleşimciler zeytin hasadına saldırdı",
-   "link": "https://www.bbc.com/turkce/articles/cq8rzpez6p31o?at_medium=RSS&at_campaign=rss",
-   "summary": "İşgal altındaki Batı Şeria'da her yıl yapılan zeytin hasadı sırasında, onlarca maskeli Yahudi yerleşimci Filistinlilere saldırdı, araçları ve zeytin ağaçlarını ateşe verdi. BBC ekibi, Filistin'in Ebu Falah köyü…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc2e/live/1a3bde40-c96f-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-16T18:20:56+00:00"
-  },
-  {
    "title": "Süper Lig'de haftanın açılış maçında Çorum FK, Çaykur Rizespor'u 2-1 yendi",
    "link": "https://www.aa.com.tr/tr/spor/super-ligde-haftanin-acilis-macinda-corum-fk-caykur-rizesporu-2-1-yendi/4091401",
    "summary": "Trendyol Süper Lig'de 8. haftanın açılış maçında Arca Çorum FK, konuk ettiği Çaykur Rizespor'u 2-1 yendi.",
@@ -819,15 +837,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-16T15:51:28+00:00"
-  },
-  {
-   "title": "MSCI'dan Türkiye kararı: Piyasa sınıflandırması nasıl değişebilir?",
-   "link": "https://www.bbc.com/turkce/articles/cm75przp0ldvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Küresel endeks şirketi Morgan Stanley Capital International (MSCI), Türkiye'deki endekslerine dair bazı işlemleri dondurduğunu açıkladı. Şirket, Türkiye'de hisse senetleri konusunda gerekli önlemlerin alınmaması…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb4a/live/4ef8cdb0-c96e-11f1-a6e6-417671ef62cb.jpg",
-   "published": "2026-10-16T15:06:22+00:00"
   },
   {
    "title": "Dünya Etnospor Birliği Başkanı Necmeddin Bilal Erdoğan: Gerçek başarı sabır ve emek ister",
