@@ -1,8 +1,143 @@
 {
- "updated": "2026-10-19T12:26:10.549833+00:00",
+ "updated": "2026-10-19T13:14:49.964604+00:00",
  "items": [
   {
-   "title": "Fransa Başbakanından bazı şehirlere 'kısmi sokağa çıkma yasağı' çağrısı",
+   "title": "Gaziantep'in tescilli yöresel ürün sayısı 112'ye ulaştı",
+   "link": "https://www.trthaber.com/haber/turkiye/gaziantepin-tescilli-yoresel-urun-sayisi-112ye-ulasti-960541.html",
+   "summary": "UNESCO'nun Gastronomi alanındaki Yaratıcı Şehirler Ağı'nda yer alan Gaziantep'te sakız helvası, avrat salatası ve diş hediğinin tescillenmesiyle coğrafi işaret belgeli ürün sayısı 112'ye ulaştı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T13:04:00+00:00"
+  },
+  {
+   "title": "Bangladeş'te kızamık şüphesiyle ölen çocuk sayısı 1201'e yükseldi",
+   "link": "https://www.aa.com.tr/tr/dunya/bangladeste-kizamik-suphesiyle-olen-cocuk-sayisi-1201e-yukseldi/4093548",
+   "summary": "Bangladeş'te mart ayı ortasından bu yana devam eden salgında kızamık şüphesiyle hayatını kaybeden çocuk sayısının 1201'e yükseldiği bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T13:01:44+00:00"
+  },
+  {
+   "title": "Galatasaray'da Rafael Leao'nun adalesinde hafif-orta düzey zorlanma tespit edildi",
+   "link": "https://www.aa.com.tr/tr/spor/galatasarayda-rafael-leaonun-adalesinde-hafif-orta-duzey-zorlanma-tespit-edildi/4093543",
+   "summary": "Galatasaray'da Portekizli futbolcu Rafael Leao'nun kasık adalesinde hafif-orta düzey zorlanma tespit edildiği açıklandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:58:38+00:00"
+  },
+  {
+   "title": "İstanbul ve 5 ildeki sel ve su baskınlarının sigorta maliyeti 2 milyar liraya yaklaştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ve-5-ildeki-sel-ve-su-baskinlarinin-sigorta-maliyeti-2-milyar-liraya-yaklasti/4093540",
+   "summary": "İstanbul ve 5 ilde etkili olan şiddetli yağış ve su baskınları nedeniyle, 2 bin 379 hasar için yangın ve kasko branşlarında ayrılan toplam muallak tazminat karşılığı 1 milyar 904 milyon 994 bin 494 lira oldu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:57:59+00:00"
+  },
+  {
+   "title": "Suudi Arabistan'ın Necran bölgesinde erken uyarı sistemi devreye alındı",
+   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-necran-bolgesinde-erken-uyari-sistemi-devreye-alindi/4093537",
+   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, ülkenin güneyindeki Necran bölgesinde erken uyarı sisteminin tehlike alarmı verdiğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:55:31+00:00"
+  },
+  {
+   "title": "Fenerbahçe Teknik Direktörü İsmail Kartal: Rakibe karşı 3 farklı kurgumuz var",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktoru-ismail-kartal-rakibe-karsi-3-farkli-kurgumuz-var/4093528",
+   "summary": "UEFA Şampiyonlar Ligi'nin 3. haftasında yarın Çekya'nın Slavia Prag ekibini konuk edecek Fenerbahçe'de teknik direktör İsmail Kartal, rakibe karşı 3 farklı kurguyla sahaya çıkıp kazanmak istediklerini belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:50:52+00:00"
+  },
+  {
+   "title": "Dolandırıcılıkla mücadelede 24 saat esaslı merkez kuruluyor",
+   "link": "https://www.trthaber.com/haber/gundem/dolandiricilikla-mucadelede-24-saat-esasli-merkez-kuruluyor-960539.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, dolandırıcılık olaylarının önlenmesi, mağdurların maddi kayıplarının azaltılması ve suç gelirlerine hızlı müdahale edilmesi amacıyla Dolandırıcılıkla Mücadele Merkezinin DOLUNAY…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:46:00+00:00"
+  },
+  {
+   "title": "Bakan Çiftçi: Muhtarlarımız devletimizin sahadaki en yakın yol arkadaşlarıdır",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-muhtarlarimiz-devletimizin-sahadaki-en-yakin-yol-arkadaslaridir-960540.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, Türkiye Yüzyılı vizyonunun, devletin bütün kurumlarıyla millete daha iyi hizmet sunma iradesinin yol haritası olduğunu dile getirerek, \"Bu büyük yürüyüşte muhtarlarımız, devletimizin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:42:00+00:00"
+  },
+  {
+   "title": "İçişleri Bakanı Çiftçi: Ülkemizin her köşesinde huzuru ve güveni hakim kılmaya kararlılıkla devam edeceğiz",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-ulkemizin-her-kosesinde-huzuru-ve-guveni-hakim-kilmaya-kararlilikla-devam-edecegiz/4093515",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Terörsüz Türkiye hedefimiz doğrultusunda milli birliğimizi tahkim etmeye, kardeşlik bağımızı güçlendirmeye, ülkemizin her köşesinde huzuru ve güveni hakim kılmaya kararlılıkla devam…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:40:36+00:00"
+  },
+  {
+   "title": "Bakan Kurum, Kazakistan Ekoloji ve Doğal Kaynaklar Bakanı Kuantyrov ile bir araya geldi",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-kazakistan-ekoloji-ve-dogal-kaynaklar-bakani-kuantyrov-ile-bir-araya-geldi/4093507",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Kazakistan Ekoloji ve Doğal Kaynaklar Bakanı Alibek Kuantyrov ile görüştü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:36:55+00:00"
+  },
+  {
+   "title": "Çin'in başkenti Pekin'in nüfusunun üçte birinin 2035'te 60 yaş ve üstü olacağı öngörülüyor",
+   "link": "https://www.aa.com.tr/tr/dunya/cinin-baskenti-pekinin-nufusunun-ucte-birinin-2035te-60-yas-ve-ustu-olacagi-ongoruluyor/4093506",
+   "summary": "Çin'de başkent Pekin'in nüfusunun yaklaşık üçte birinin 60 yaş ve üstü olacağı tahmin ediliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:36:42+00:00"
+  },
+  {
+   "title": "Teknik direktörü Şenol Güneş, Trabzon'da gençlerle buluştu",
+   "link": "https://www.aa.com.tr/tr/spor/teknik-direktoru-senol-gunes-trabzonda-genclerle-bulustu/4093505",
+   "summary": "A Milli Futbol Takımı ve Trabzonspor'un eski teknik direktörü Şenol Güneş, \"Oyuncu da antrenör de benim için Türk olsun. Milli takımlarda kesinlikle antrenörümüzü kendimiz üretebilmeliyiz ve bulmalıyız.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:36:01+00:00"
+  },
+  {
+   "title": "Sağanağın taşıdığı atıklar Zonguldak Limanı'nı kapladı",
+   "link": "https://www.trthaber.com/haber/turkiye/saganagin-tasidigi-atiklar-zonguldak-limanini-kapladi-960538.html",
+   "summary": "Zonguldak'ta sağanak nedeniyle sürüklenen evsel atıklar ve ağaç parçaları limanda birikerek su yüzeyini kapladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:35:00+00:00"
+  },
+  {
+   "title": "AK Parti Genel Başkan Yardımcısı Zorlu: Kurultay kavramı, kadim Türk tarihinin ayrılmaz bir parçasıdır",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-zorlu-kurultay-kavrami-kadim-turk-tarihinin-ayrilmaz-bir-parcasidir/4093501",
+   "summary": "AK Parti Genel Başkan Yardımcısı, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, \"Kurultay kavramı, kadim Türk tarihinin ve yönetim tarihinin ayrılmaz bir parçasıdır.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:29:32+00:00"
+  },
+  {
+   "title": "İsrail, ekim ayında Doğu Kudüs'te binden fazla yasa dışı yerleşim konutu için iki ihale açtı",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ekim-ayinda-dogu-kuduste-binden-fazla-yasa-disi-yerlesim-konutu-icin-iki-ihale-acti/4093498",
+   "summary": "Filistin Ayrım (Utanç) Duvarı ve Yahudi Yerleşim Birimleriyle Mücadele Konseyi, İsrail makamlarının ekim ayında işgal altındaki Doğu Kudüs ve çevresinde yasa dışı 1080 yerleşim konutu için iki ihale açtığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:27:54+00:00"
+  },
+  {
+   "title": "Fransa'da eylemler: Başbakandan 'kısmi sokağa çıkma yasağı' çağrısı",
    "link": "https://www.bbc.com/turkce/articles/cqgm02rx8ng3o?at_medium=RSS&at_campaign=rss",
    "summary": "Fransa Başbakanı Sébastien Lecornu, hafta sonu yaşanan protestolar ve yağma olaylarıyla ilgili olağanüstü kabine toplantısı düzenledi. Başbakan, toplantının ardından yaptığı açıklamada, ülkenin bazı bölgelerinde…",
    "source": "BBC Türkçe",
@@ -18,6 +153,24 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T12:24:39+00:00"
+  },
+  {
+   "title": "TCMB, perşembe günü faiz kararını açıklayacak",
+   "link": "https://www.trthaber.com/haber/ekonomi/tcmb-persembe-gunu-faiz-kararini-aciklayacak-960536.html",
+   "summary": "Yurt içinde gözler bu hafta Türkiye Cumhuriyet Merkez Bankasının TCMB faiz kararına çevrilirken, perşembe günü açıklanacak karar öncesi beklenti anketine katılan ekonomistler, ekim ayında TCMB'nin politika faizini 1…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:22:00+00:00"
+  },
+  {
+   "title": "Gazze'de enkaz altından çıkarılan 75 Filistinlinin cenazesi defnedildi",
+   "link": "https://www.trthaber.com/haber/dunya/gazzede-enkaz-altindan-cikarilan-75-filistinlinin-cenazesi-defnedildi-960537.html",
+   "summary": "Gazze kentinde işgalci İsrail'in yıktığı evlerin enkazından çıkarılan, aralarında kadın ve çocukların da bulunduğu 75 Filistinli toprağa verildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:20:00+00:00"
   },
   {
    "title": "Dışişleri Bakanı Fidan, Suudi mevkidaşı Bin Ferhan'la telefonda görüştü",
@@ -108,6 +261,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T11:59:00+00:00"
+  },
+  {
+   "title": "İsrail gazetecileri reklamlardan gözetledi",
+   "link": "https://www.trthaber.com/haber/dunya/israil-gazetecileri-reklamlardan-gozetledi-960529.html",
+   "summary": "Katar merkezli uluslararası haber ağı Al Jazeeranın gazetecilerine ait en az 45 cihazın, İsrailli Candiru şirketinin geliştirdiği casus yazılımlarla hedef alındığı ortaya çıktı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:57:00+00:00"
   },
   {
    "title": "Rüzgar ve güneş enerjisine dayalı YEKA yarışmaları 2-3 Kasım'da yapılacak",
@@ -236,31 +398,13 @@
    "published": "2026-10-19T11:18:00+00:00"
   },
   {
-   "title": "Yeryüzü Doktorları, üç ülkede sağlık hizmetleri kapasitesini artırıyor",
-   "link": "https://www.aa.com.tr/tr/gundem/yeryuzu-doktorlari-uc-ulkede-saglik-hizmetleri-kapasitesini-artiriyor/4093354",
-   "summary": "Yeryüzü Doktorları, Yemen, Somali ve Suriye'de hizmet kapasitesini artırarak ihtiyaç sahiplerinin sağlık hizmetlerine erişimini güçlendiriyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T11:10:51+00:00"
-  },
-  {
    "title": "Katar, savunma sanayisini geliştirmek için yerli üretim merkezi kuracağını duyurdu",
    "link": "https://www.aa.com.tr/tr/dunya/katar-savunma-sanayisini-gelistirmek-icin-yerli-uretim-merkezi-kuracagini-duyurdu/4093349",
    "summary": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Suud bin Abdurrahman Al Sani, ülkesinin savunma kapasitesini güçlendirmek amacıyla yakında yerli bir savunma üretim merkezi kuracağını açıkladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-19T11:08:26+00:00"
-  },
-  {
-   "title": "İstanbul Valisi Gül: İstanbul'da selden etkilenenlerin zararları bugün ödenmeye başlanacak",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-valisi-gul-istanbulda-selden-etkilenenlerin-zararlari-bugun-odenmeye-baslanacak/4093343",
-   "summary": "İstanbul Valisi Davut Gül, kentte meydana gelen sel ve su baskınlarına ilişkin, \"Kabaca 3 bin ev ve iş yerinin ciddi anlamda zarar gördüğünü tespit ettik ve bunların zarar ziyanları da bugün itibarıyla ödenmeye…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T11:04:21+00:00"
   },
   {
    "title": "Nutuk için 8 dilde özel baskı hazırlandı",
@@ -294,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ab-abdnin-ucm-yaptirimlarina-karsi-engelleme-tuzugu-dahil-her-secenek-masada/4093329",
    "summary": "Avrupa Birliği (AB) Komisyonu, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yönelik yaptırımlarına karşı \"Engelleme Tüzüğü\" dahil her seçeneğin masada olduğunu bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-19T10:54:31+00:00"
   },
@@ -303,27 +447,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/lubnan-cumhurbaskani-avn-israil-cerceve-anlasmasina-uymadi-ulkenin-guneyi-gunluk-ihlallere-maruz-kaliyor/4093326",
    "summary": "Lübnan Cumhurbaşkanı Joseph Avn, \"İsrail çerçeve anlaşmasına uymadı, ülkenin güneyi günlük ihlallere maruz kalıyor.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-19T10:52:53+00:00"
-  },
-  {
-   "title": "Atatürk'ün eseri \"Nutuk\" sekiz dilde dünyaya ulaşacak",
-   "link": "https://www.aa.com.tr/tr/kultur/ataturkun-eseri-nutuk-sekiz-dilde-dunyaya-ulasacak/4093324",
-   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Atatürk'ün eseri Nutuk'un İngilizce, Almanca, Fransızca, Kazakça, Rusça, Urduca, Farsça ve Türkmence özel baskılarının hazırlandığını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T10:49:20+00:00"
-  },
-  {
-   "title": "Yemen basını: Husilerin Yemen'deki askeri kampa düzenlediği saldırıda 50'den fazla kişi öldü ve yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-basini-husilerin-yemendeki-askeri-kampa-duzenledigi-saldirida-50den-fazla-kisi-oldu-ve-yaralandi/4093322",
-   "summary": "Yemen basını, Yemen'de İran destekli Husilerin Şebve vilayetindeki El-Alam Askeri Eğitim Kampı'na düzenlediği balistik füze saldırısında 50'den fazla kişinin hayatını kaybettiğini ve yaralandığını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T10:47:52+00:00"
   },
   {
    "title": "İstanbul Valisi Gül: 3 bin ev ve iş yeri zarar gördü",
@@ -333,15 +459,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T10:47:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin kılına zarar gelmemesi için gecemizi gündüzümüze katıyoruz",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiyenin-kilina-zarar-gelmemesi-icin-gecemizi-gunduzumuze-katiyoruz/4093319",
-   "summary": "Cumhurbaşkanı Erdoğan, \"Biz, kaos ve kriz ortamında Türkiye'nin kılına zarar gelmemesi için gecemizi gündüzümüze katıyoruz. Şimdiye kadar bunda da başarılı olduk.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T10:46:43+00:00"
   },
   {
    "title": "Belçika Kraliyet Ailesi ve siyasetçiler yapay zeka ürünü sahte görsellerin hedefi oldu",
@@ -366,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-nihai-cozum-kievin-katilimi-olmadan-mumkun-degil/4093312",
    "summary": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna'daki çatışmaların çözümünde Kiev'in katılımının gerekli olduğunu belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-19T10:42:31+00:00"
   },
@@ -378,15 +495,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T10:42:00+00:00"
-  },
-  {
-   "title": "\"Spot\" yayın hayatına başladı",
-   "link": "https://www.aa.com.tr/tr/gundem/spot-yayin-hayatina-basladi/4093310",
-   "summary": "Anadolu Ajansının yeni dijital markası \"aaspot.com\" yayın hayatına girdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T10:41:36+00:00"
   },
   {
    "title": "Mersin'de Çeşmeli-Taşucu Otoyolu'nun yapımı tamamlanan Kızkalesi kesimi trafiğe açıldı",
@@ -758,15 +866,6 @@
    "published": "2026-10-19T08:09:26+00:00"
   },
   {
-   "title": "Yabancı uyruklu gençler projeleriyle Türk savunma sanayisine katkı sunmak istiyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yabanci-uyruklu-gencler-projeleriyle-turk-savunma-sanayisine-katki-sunmak-istiyor/4093114",
-   "summary": "Yıldız Teknik Üniversitesi (YTÜ) Mekatronik Mühendisliği Bölümü 4. sınıf öğrencisi Mısırlı Abdullah Osama, takım arkadaşı Suriyeli Talal Bakour ile katıldığı TEKNOFEST Havacılıkta Yapay Zeka Yarışması'nda birincilik…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T08:09:21+00:00"
-  },
-  {
    "title": "Fenerbahçe, Çek takımlarıyla 17. kez karşılaşacak",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-cek-takimlariyla-17-kez-karsilasacak/4093111",
    "summary": "Sarı-lacivertli takım, Avrupa organizasyonlarında Çek ekipleriyle oynadığı 16 müsabakada 6 galibiyet, 3 beraberlik ve 7 yenilgi yaşadı.",
@@ -1028,15 +1127,6 @@
    "published": "2026-10-19T06:50:23+00:00"
   },
   {
-   "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da Filistinlilerin evlerine saldırdı",
-   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-filistinlilerin-evlerine-saldirdi/4093020",
-   "summary": "",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T06:46:14+00:00"
-  },
-  {
    "title": "Brent petrolün varili 107,34 dolardan işlem görüyor",
    "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10734-dolardan-islem-goruyor-960498.html",
    "summary": "Brent petrolün varil fiyatı, bugün saat 09.30 itibarıyla kapanışa göre yüzde 2,2 düşerek 107,34 dolara geriledi.",
@@ -1044,15 +1134,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T06:42:00+00:00"
-  },
-  {
-   "title": "Ekvador'da ayin sırasında üzerine haç devrilen rahip hayatını kaybetti",
-   "link": "https://www.aa.com.tr/tr/dunya/ekvadorda-ayin-sirasinda-uzerine-hac-devrilen-rahip-hayatini-kaybetti/4093016",
-   "summary": "Güney Amerika ülkesi Ekvador'da canlı yayınlanan ayin sırasında üzerine büyük bir ahşap haç devrilen rahip yaşamını yitirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T06:40:10+00:00"
   },
   {
    "title": "Yeni haftada pastırma yazı havası geliyor",
@@ -1089,15 +1170,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-19T06:30:44+00:00"
-  },
-  {
-   "title": "Tayland'da şiddetli yağışların yol açtığı sellerde son bir ayda 80 kişi öldü",
-   "link": "https://www.aa.com.tr/tr/dunya/taylandda-siddetli-yagislarin-yol-actigi-sellerde-son-bir-ayda-80-kisi-oldu/4093004",
-   "summary": "Tayland'da ülke genelinde şiddetli yağışlar sonucu meydana gelen sellerde son bir ayda 80 kişi hayatını kaybetti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T06:29:29+00:00"
   },
   {
    "title": "Macron: Cumhuriyeti devirmeye çalışanlar bunun hesabını vermeli",
@@ -1163,15 +1235,6 @@
    "published": "2026-10-19T06:04:55+00:00"
   },
   {
-   "title": "'Alihan Kuriş Suç Örgütü' soruşturmasında 22 gözaltı",
-   "link": "https://www.trthaber.com/haber/gundem/alihan-kuris-suc-orgutu-sorusturmasinda-22-gozalti-960489.html",
-   "summary": "Ankara merkezli 12 ilde 'Alihan Kuriş Suç Örgütü'ne yönelik düzenlenen operasyonda, haklarında gözaltı kararı verilen 38 şüpheliden 22si gözaltına alındı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T05:55:00+00:00"
-  },
-  {
    "title": "İstanbul'da kara para aklama soruşturmasında 17 şüpheli adliyede",
    "link": "https://www.trthaber.com/haber/gundem/istanbulda-kara-para-aklama-sorusturmasinda-17-supheli-adliyede-960491.html",
    "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin soruşturma kapsamında gözaltına alınan 17 şüpheli adliyeye sevk edildi. Hakkında…",
@@ -1181,51 +1244,6 @@
    "published": "2026-10-19T05:42:00+00:00"
   },
   {
-   "title": "İstanbuldaki selde can kaybı 6ya yükseldi",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-selde-can-kaybi-6ya-yukseldi-960490.html",
-   "summary": "İstanbul'daki selde can kaybı 6'ya yükseldi. Ayvansaray Vapur İskelesi yakınlarında bir erkeğin cansız bedeni bulundu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T05:31:00+00:00"
-  },
-  {
-   "title": "Filistin Eğitim Bakanlığı, İsrail saldırılarına maruz kalan öğrencilere uluslararası koruma istedi",
-   "link": "https://www.trthaber.com/haber/dunya/filistin-egitim-bakanligi-israil-saldirilarina-maruz-kalan-ogrencilere-uluslararasi-koruma-istedi-960488.html",
-   "summary": "Filistin Eğitim Bakanlığı, İsrail'in son 24 saatte Gazze'de 3 öğrenciyi öldürdüğünü belirterek, çocukların korunması için uluslararası eylem çağrısında bulundu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T04:58:00+00:00"
-  },
-  {
-   "title": "Trump, Ukrayna'nın Rusya'daki dizel rafinerilerini hedef almasını eleştirdi",
-   "link": "https://www.trthaber.com/haber/dunya/trump-ukraynanin-rusyadaki-dizel-rafinerilerini-hedef-almasini-elestirdi-960487.html",
-   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasındaki barış görüşmelerinde \"büyük ilerleme\" kaydedildiğini ileri sürerek, öte yandan Ukrayna Devlet Başkanı Vladimir Zelenskiyi dünya dizel pazarlarına ciddi zarar veren…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T04:54:00+00:00"
-  },
-  {
-   "title": "İran Dışişleri Bakanı Arakçi: Netanyahu, hapse girmemek için ABD'yi savaşa sürüklüyor",
-   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-arakci-netanyahu-hapse-girmemek-icin-abdyi-savasa-surukluyor-960486.html",
-   "summary": "İran Dışişleri Bakanı Abbas Arakçi, İsrail Başbakanı Binyamin Netanyahu'yu, hapse girmemek için ABD'yi İran ile bir başka savaşa sürüklemekle suçladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T03:25:00+00:00"
-  },
-  {
-   "title": "Isparta'da kanyonda mahsur kalan İHH gönüllülerinden 3'ü kurtarıldı",
-   "link": "https://www.trthaber.com/haber/turkiye/ispartada-kanyonda-mahsur-kalan-ihh-gonullulerinden-3u-kurtarildi-960485.html",
-   "summary": "Isparta'nın Sütçüler ilçesindeki Yazılı Kanyon mevkisinde mahsur kalan İHH gönüllü grubundan 3 kişi kurtarıldı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T22:58:00+00:00"
-  },
-  {
    "title": "Karşıyaka Basketbol'da öncelik güvenli bölge, sonraki hedef play-off",
    "link": "https://www.aa.com.tr/tr/spor/karsiyaka-basketbolda-oncelik-guvenli-bolge-sonraki-hedef-play-off/4092931",
    "summary": "Mali sıkıntılar ve borç yüküne rağmen Türkiye Sigorta Basketbol Süper Ligi'nde sezona 2 galibiyetle başlayan Karşıyaka Basketbol, öncelikle ligde kalma endişesi yaşamadan sezonu tamamlamayı, ardından play-off yarışında…",
@@ -1233,15 +1251,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-18T21:36:24+00:00"
-  },
-  {
-   "title": "Trabzon'daki silahlı saldırının şüphelileri İstanbul'da yakalandı",
-   "link": "https://www.trthaber.com/haber/turkiye/trabzondaki-silahli-saldirinin-suphelileri-istanbulda-yakalandi-960484.html",
-   "summary": "Trabzon'da yaşanan silahlı saldırıyla ilişkili 2 şüpheli, İstanbul'da yakalandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T21:20:00+00:00"
   },
   {
    "title": "Milli futbolcu Arda Güler'in gol attığı maçta Real Madrid, Sevilla'yı 4-1 yendi",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-18T11:46:08+00:00"
-  },
-  {
-   "title": "Dünyada yeni elektrik ihtiyacının karşılanmasında temiz enerjinin rolü artıyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/dunyada-yeni-elektrik-ihtiyacinin-karsilanmasinda-temiz-enerjinin-rolu-artiyor/4092620",
-   "summary": "Ember'in Türkiye ve Kafkasya Bölge Lideri Alparslan, yenilenebilir enerji kaynaklarının fosil yakıtlara alternatif olmanın ötesine geçerek dünyada artan elektrik talebinin karşılanmasında daha belirleyici hale geldiğini…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-18T11:37:53+00:00"
   }
  ]
 }
