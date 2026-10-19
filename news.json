@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-19T11:12:37.362581+00:00",
+ "updated": "2026-10-19T11:46:25.875836+00:00",
  "items": [
+  {
+   "title": "Sakarya'da sağanak nedeniyle su altında kalan iki mahallede tahliye çalışmaları sürüyor",
+   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-saganak-nedeniyle-su-altinda-kalan-iki-mahallede-tahliye-calismalari-suruyor/4093436",
+   "summary": "Sakarya'nın Kocaali ilçesinde aralıklarla 4 gün süren sağanaktan etkilenen iki mahallede belediye ekipleri su tahliye işlemleri yürütüyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:43:32+00:00"
+  },
+  {
+   "title": "Fransa nefesini tutmuş bekliyor: Şimdi ne olacak?",
+   "link": "https://www.bbc.com/turkce/articles/cqm26kmrx4vro?at_medium=RSS&at_campaign=rss",
+   "summary": "Cumartesi günü yaşananlar, Fransa genelinde insanları sarstı ve kaygılandırdı. Göz yaşartıcı gazla kaplanan kentlerin, görünüşe göre hiçbir engelle karşılaşmadan hareket eden yağmacıların ve yanan kamu binalarının…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4bb0/live/1d010cd0-cba0-11f1-a64c-550be9e3c66b.png",
+   "published": "2026-10-19T11:42:35+00:00"
+  },
+  {
+   "title": "MEB \"Bireysel Öğrenme Etkinlikleri\" kitaplarını erişime açtı",
+   "link": "https://www.aa.com.tr/tr/gundem/meb-bireysel-ogrenme-etkinlikleri-kitaplarini-erisime-acti/4093401",
+   "summary": "Milli Eğitim Bakanlığı (MEB), eğitimde fırsat eşitliğini güçlendirmek, öğrenmenin sürekliliğini desteklemek ve öğrencilerin bireysel öğrenme becerilerini geliştirmek amacıyla hazırlanan \"Bireysel Öğrenme Etkinlikleri\"…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:33:48+00:00"
+  },
+  {
+   "title": "Savunma sanayisinin stratejik malzemesi kompozit, İstanbul'da gündeme taşınacak",
+   "link": "https://www.aa.com.tr/tr/ekonomi/savunma-sanayisinin-stratejik-malzemesi-kompozit-istanbulda-gundeme-tasinacak/4093382",
+   "summary": "Kompozit Sanayicileri Derneği (KSD) ile CNG Expo işbirliğinde Uluslararası Kompozit Fuarı (TURKCOMPOSITE 2026), 21-23 Ekim'de İstanbul Fuar Merkezi'nde kompozit üreticileriyle bu teknolojileri kullanan sektörleri…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:28:31+00:00"
+  },
+  {
+   "title": "Cindy Crawford'dan 27 yaşında ölen oğluna veda paylaşımı: 'Kalbimiz paramparça'",
+   "link": "https://www.bbc.com/turkce/articles/cm0qklj05v5xo?at_medium=RSS&at_campaign=rss",
+   "summary": "Süper model Cindy Crawford, oğlu Presley Gerber'in ölümü nedeniyle kendisi ve ailesinin çok büyük bir üzüntü içinde olduğunu söyledi.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7bf/live/01c95af0-cbad-11f1-821f-c5d07d801cca.jpg",
+   "published": "2026-10-19T11:27:53+00:00"
+  },
+  {
+   "title": "Volkswagen'den 660 bin çalışanına \"2030'a kadar sıfır zam\" planı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/volkswagenden-660-bin-calisanina-2030a-kadar-sifir-zam-plani/4093380",
+   "summary": "Almanya'nın en büyük sendikası IG Metall, Alman otomotiv üreticisi Volkswagen (VW) Grubu’nun, dünya genelindeki yaklaşık 660 bin çalışanının maaşlarına 2030'a kadar zam yapmamayı planladığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:27:43+00:00"
+  },
+  {
+   "title": "Sakarya'da selden etkilenen hanelere 10 bin lira ödeme yapılacak",
+   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-selden-etkilenen-hanelere-10-bin-lira-odeme-yapilacak/4093368",
+   "summary": "Aile ve Sosyal Hizmetler Bakanlığının desteği, selden zarar gören hanelere kaymakamlıklar aracılığıyla ulaştırılacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:21:24+00:00"
+  },
+  {
+   "title": "Selden zarar gören hanelere 10 bin lira nakdi destek",
+   "link": "https://www.trthaber.com/haber/turkiye/selden-zarar-goren-hanelere-10-bin-lira-nakdi-destek-960528.html",
+   "summary": "Aile ve Sosyal Hizmetler Bakanlığınca, Sakarya'da sel felaketinden etkilenen vatandaşların ihtiyaçlarına katkı sağlamak amacıyla hane başına 10 bin lira nakdi destek verilecek. Destekler, kaymakamlıklar koordinasyonunda…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:18:00+00:00"
+  },
+  {
+   "title": "Yeryüzü Doktorları, üç ülkede sağlık hizmetleri kapasitesini artırıyor",
+   "link": "https://www.aa.com.tr/tr/gundem/yeryuzu-doktorlari-uc-ulkede-saglik-hizmetleri-kapasitesini-artiriyor/4093354",
+   "summary": "Yeryüzü Doktorları, Yemen, Somali ve Suriye'de hizmet kapasitesini artırarak ihtiyaç sahiplerinin sağlık hizmetlerine erişimini güçlendiriyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:10:51+00:00"
+  },
   {
    "title": "Katar, savunma sanayisini geliştirmek için yerli üretim merkezi kuracağını duyurdu",
    "link": "https://www.aa.com.tr/tr/dunya/katar-savunma-sanayisini-gelistirmek-icin-yerli-uretim-merkezi-kuracagini-duyurdu/4093349",
@@ -20,9 +101,18 @@
    "published": "2026-10-19T11:04:21+00:00"
   },
   {
-   "title": "Cumhurbaşkanı Erdoğan konuşuyor",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-konusuyor-960525.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde düzenlenen Muhtarlar Günü buluşmasında konuşuyor.",
+   "title": "Nutuk için 8 dilde özel baskı hazırlandı",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/nutuk-icin-8-dilde-ozel-baski-hazirlandi-960527.html",
+   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Atatürk'ün eseri Nutuk'un İngilizce, Almanca, Fransızca, Kazakça, Rusça, Urduca, Farsça ve Türkmence özel baskılarının hazırlandığını söyledi. Eser, görme ve işitme engelliler…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T11:03:00+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan: Demokrasinin uç beyi muhtarlar ile bağı diri tuttuk",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-demokrasinin-uc-beyi-muhtarlar-ile-bagi-diri-tuttuk-960525.html",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde düzenlenen Muhtarlar Günü buluşmasında, bugüne kadar 40 bini aşkın muhtarla bir araya geldiklerini belirterek, \"12 yıl boyunca demokrasinin uç beyi olan…",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -83,9 +173,9 @@
    "published": "2026-10-19T10:47:00+00:00"
   },
   {
-   "title": "CANLI - Cumhurbaşkanı Erdoğan konuşuyor",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4093319",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, “Muhtarlar Günü Buluşması” programında konuşuyor.",
+   "title": "Cumhurbaşkanı Erdoğan: Türkiye'nin kılına zarar gelmemesi için gecemizi gündüzümüze katıyoruz",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkiyenin-kilina-zarar-gelmemesi-icin-gecemizi-gunduzumuze-katiyoruz/4093319",
+   "summary": "Cumhurbaşkanı Erdoğan, \"Biz, kaos ve kriz ortamında Türkiye'nin kılına zarar gelmemesi için gecemizi gündüzümüze katıyoruz. Şimdiye kadar bunda da başarılı olduk.\" dedi.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -126,6 +216,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T10:42:00+00:00"
+  },
+  {
+   "title": "\"Spot\" yayın hayatına başladı",
+   "link": "https://www.aa.com.tr/tr/gundem/spot-yayin-hayatina-basladi/4093310",
+   "summary": "Anadolu Ajansının yeni dijital markası \"aaspot.com\" yayın hayatına girdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T10:41:36+00:00"
   },
   {
    "title": "İtalya'da şiddet olayları sonrası Meloni'den acil durum toplantısı",
@@ -189,15 +288,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T10:02:26+00:00"
-  },
-  {
-   "title": "'Alihan Kuriş' soruşturmasında 22 kişi daha gözaltına alındı",
-   "link": "https://www.bbc.com/turkce/articles/cjejpp92gw8o?at_medium=RSS&at_campaign=rss",
-   "summary": "Alihan Kuriş'in liderliğinde \"çıkar amaçlı suç örgütü kurma ve örgüte üye olma\" gibi iddialarla yürütülen soruşturma kapsamında düzenlenen yeni dalga operasyonda 22 kişi daha gözaltına alındı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b495/live/137df010-96df-11f1-a7ab-8b30adf0800a.png",
-   "published": "2026-10-19T09:59:17+00:00"
   },
   {
    "title": "İletişim Başkanı Duran Aliya İzetbegoviç'i andı",
@@ -285,7 +375,7 @@
    "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takiminin-yeni-basantrenoru-frederic-dusart-oldu/4093209",
    "summary": "A Milli Kadın Basketbol Takımı'nda başantrenörlük görevine Frederic Dusart getirildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-19T09:18:53+00:00"
   },
@@ -294,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/spor/afrikanin-ilk-olimpiyat-etkinligi-dakar-2026-icin-geri-sayim-basladi/4093207",
    "summary": "Dakar, Diamniadio ve Saly’de düzenlenecek oyunlarda 35 branşta 2 bin 700 sporcu ağırlanacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-19T09:16:33+00:00"
   },
@@ -303,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/yunan-basini-sahil-guvenlik-gemisi-duzensiz-gocmenleri-tasiyan-tekneye-carpti-6-kisi-oldu/4093202",
    "summary": "Midilli Adası açıklarında, Yunanistan Sahil Güvenlik gemisinin düzensiz göçmenleri taşıyan bir tekneye \"kovalama sırasında\" çarpması sonucu biri bebek 6 göçmenin hayatını kaybettiği ifade edildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-19T09:12:52+00:00"
   },
@@ -312,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/abdden-abye-stratejik-uydu-frekansi-uyarisi/4093201",
    "summary": "ABD yönetimi, AB Komisyonunun stratejik uydu haberleşme frekanslarını yerli firmalara ayırma planına ilişkin, Amerikan şirketlerinin pazara erişiminin kısıtlanması durumunda AB'yi milyarlarca dolarlık kayba…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-19T09:12:23+00:00"
   },
@@ -321,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurulu-toplu-yemek-hizmeti-sunan-10-sirket-hakkinda-sorusturma-baslatti/4093198",
    "summary": "Rekabet Kurulu, kamu kurumlarına toplu yemek hizmeti sağlayan 10 şirket hakkında soruşturma başlatılmasına karar verdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-19T09:11:00+00:00"
   },
@@ -339,7 +429,7 @@
    "link": "https://www.aa.com.tr/tr/spor/acun-ilicali-uefa-baskani-aleksander-ceferin-ile-bir-araya-geldi/4093194",
    "summary": "Hull City ve Maribor kulüplerinin sahibi, Türk iş insanı Acun Ilıcalı, UEFA Başkanı Aleksander Ceferin ile bir araya geldi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-19T09:10:08+00:00"
   },
@@ -456,7 +546,7 @@
    "link": "https://www.aa.com.tr/tr/spor/milli-satrancci-isik-can-abdde-5te-5-yaparak-sampiyonluga-ulasti/4093140",
    "summary": "Milli satranççı Büyükusta (GM) Işık Can, ABD'de düzenlenen 2026 Güney Dakota Valilik Kupası'nı (South Dakota Governor’s Cup) 5'te 5 yaparak şampiyon tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-19T08:30:09+00:00"
   },
@@ -542,6 +632,15 @@
    "published": "2026-10-19T08:09:26+00:00"
   },
   {
+   "title": "Yabancı uyruklu gençler projeleriyle Türk savunma sanayisine katkı sunmak istiyor",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yabanci-uyruklu-gencler-projeleriyle-turk-savunma-sanayisine-katki-sunmak-istiyor/4093114",
+   "summary": "Yıldız Teknik Üniversitesi (YTÜ) Mekatronik Mühendisliği Bölümü 4. sınıf öğrencisi Mısırlı Abdullah Osama, takım arkadaşı Suriyeli Talal Bakour ile katıldığı TEKNOFEST Havacılıkta Yapay Zeka Yarışması'nda birincilik…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T08:09:21+00:00"
+  },
+  {
    "title": "Fenerbahçe, Çek takımlarıyla 17. kez karşılaşacak",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-cek-takimlariyla-17-kez-karsilasacak/4093111",
    "summary": "Sarı-lacivertli takım, Avrupa organizasyonlarında Çek ekipleriyle oynadığı 16 müsabakada 6 galibiyet, 3 beraberlik ve 7 yenilgi yaşadı.",
@@ -567,15 +666,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T08:07:00+00:00"
-  },
-  {
-   "title": "İstanbul'da bu yıl 125 bin kişiye meme kanseri taraması yapıldı",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-bu-yil-125-bin-kisiye-meme-kanseri-taramasi-yapildi/4093109",
-   "summary": "İstanbul İl Sağlık Müdürü Abdullah Emre Güner, bu yıl 125 bin kişiye tarama yaptıklarını, riskli bulunan 8 bin kişiden 500'üne herhangi bir şikayeti bulunmadığı halde meme kanseri tanısı konulduğunu bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T08:06:47+00:00"
   },
   {
    "title": "Hazine arazileriyle yatırım, tarımsal üretim ve kentsel dönüşüme katkı sağlanacak",
@@ -686,9 +776,9 @@
    "published": "2026-10-19T07:33:25+00:00"
   },
   {
-   "title": "Fransa İçişleri Bakanı Nunez, sarı yeleklilerin gösterilerinin ardından istifasını sundu",
-   "link": "https://www.aa.com.tr/tr/dunya/fransa-icisleri-bakani-nunez-sari-yeleklilerin-gosterilerinin-ardindan-istifasini-sundu/4093069",
-   "summary": "Fransa İçişleri Bakanı Laurent Nunez, sarı yeleklilerin gösterilerini iyi yönetemediği yönündeki eleştirilerin ardından istifasını sunduğunu bildirdi. Fransa Cumhurbaşkanı Macron, Nunez'in istifasını reddetti.",
+   "title": "Fransa Başbakanı, ülkede bazı yerlerde kısmi sokağa çıkma yasağı uygulanması talimatı verdi",
+   "link": "https://www.aa.com.tr/tr/dunya/fransa-basbakani-ulkede-bazi-yerlerde-kismi-sokaga-cikma-yasagi-uygulanmasi-talimati-verdi/4093069",
+   "summary": "Fransa Başbakanı Sebastien Lecornu, hafta sonu şiddet ve yağmalama sahnelerinin yaşandığı gösterilerin ardından valilere bu akşamdan itibaren ülkede bazı yerlerde kısmi sokağa çıkma yasağı uygulamaları talimatı verdi.",
    "source": "AA",
    "category": "Dünya",
    "image": null,
@@ -796,7 +886,7 @@
   {
    "title": "Ekonomi Koordinasyon Kurulu toplandı",
    "link": "https://www.trthaber.com/haber/ekonomi/ekonomi-koordinasyon-kurulu-toplandi-960499.html",
-   "summary": "Ekonomi Koordinasyon Kurulu, ekim ayı gündemi ile Beştepe'de toplandı. Toplantıya Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlık ediyor.",
+   "summary": "Ekonomi Koordinasyon Kurulu, ekim ayı gündemi ile Beştepe'de toplandı. Toplantıya Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlık etti.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -1145,15 +1235,6 @@
    "published": "2026-10-18T17:45:00+00:00"
   },
   {
-   "title": "Düzce'de köprüden düşen tırda çıkan yangın söndürüldü",
-   "link": "https://www.trthaber.com/haber/turkiye/duzcede-kopruden-dusen-tirda-cikan-yangin-sonduruldu-960477.html",
-   "summary": "Anadolu Otoyolu Düzce kesiminde otomobille çarpışıp viyadükten düştükten sonra yangın çıkan tır kullanılamaz hale geldi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T17:28:00+00:00"
-  },
-  {
    "title": "Süper Lig'de Başakşehir, Gaziantep FK'yı mağlup etti",
    "link": "https://www.aa.com.tr/tr/spor/super-ligde-basaksehir-gaziantep-fkyi-maglup-etti/4092853",
    "summary": "İstanbul Başakşehir, Trendyol Süper Lig'in 8. haftasında konuk ettiği Gaziantep FK'yi 2-1 yendi.",
@@ -1170,24 +1251,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-18T17:00:15+00:00"
-  },
-  {
-   "title": "Bakan Çiftçi, Keskin Nişancı Yarışması'nda dereceye giren takımları kutladı",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-keskin-nisanci-yarismasinda-dereceye-giren-takimlari-kutladi-960476.html",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, İzmir Foça Jandarma Komando Eğitim Komutanlığında düzenlenen BORAN8 Uluslararası Keskin Nişancı Yarışması'nda dereceye giren takımları tebrik etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-18T16:46:00+00:00"
-  },
-  {
-   "title": "Elon Musk'ın Cumhuriyetçilere yaptığı milyonlarca dolarlık bağış ne anlatıyor?",
-   "link": "https://www.bbc.com/turkce/articles/c620r7vg0e7wo?at_medium=RSS&at_campaign=rss",
-   "summary": "Elon Musk, ABD’deki ara seçimler öncesinde Cumhuriyetçilere 200 milyon dolardan fazla bağış yaparken, desteğin özellikle şirketlerini taşıdığı Teksas’ta yoğunlaşması dikkat çekiyor",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fb9c/live/ffd0d920-c9a5-11f1-ad54-aba20166b422.jpg",
-   "published": "2026-10-18T16:10:56+00:00"
   },
   {
    "title": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
@@ -1287,69 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-18T11:18:11+00:00"
-  },
-  {
-   "title": "17. Zeytinburnu Cumhuriyet Koşusu gerçekleştirildi",
-   "link": "https://www.aa.com.tr/tr/spor/17-zeytinburnu-cumhuriyet-kosusu-gerceklestirildi/4092588",
-   "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak'ın da katıldığı koşuda erkeklerde Ali Kaya, kadınlarda ise Emebet Ejigu Bizuneh birinci oldu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-18T10:44:03+00:00"
-  },
-  {
-   "title": "Tekerlekli Sandalye Basketbol Kadın Milli Takımı, Avrupa'da şampiyon oldu",
-   "link": "https://www.aa.com.tr/tr/spor/tekerlekli-sandalye-basketbol-kadin-milli-takimi-avrupada-sampiyon-oldu/4092567",
-   "summary": "",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-18T10:25:20+00:00"
-  },
-  {
-   "title": "Manifest'in Wembley konserinde neler yaşandı?",
-   "link": "https://www.bbc.com/turkce/articles/cwly348ymv1do?at_medium=RSS&at_campaign=rss",
-   "summary": "Kıyafetleri ve dansları nedeniyle Türkiye’de yargılanan Manifest, Londra’daki Wembley Arena’da sahneye çıkarken Türkçe şarkılarıyla dünyaya ulaşmayı ve kız çocuklarına ilham vermeyi hedefliyor",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1182/live/ee2b5bb0-ca1c-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-18T10:19:02+00:00"
-  },
-  {
-   "title": "Galatasaray'dan Rafael Leao'nun sakatlığıyla ilgili açıklama",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaraydan-rafael-leaonun-sakatligiyla-ilgili-aciklama/4092528",
-   "summary": "Galatasaray, Trendyol Süper Lig'de Gençlerbirliği ile oynanan maçta sakatlanan Rafael Leao'nun durumunun yarın yapılacak tetkiklerin ardından netleşeceğini duyurdu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-18T09:45:02+00:00"
-  },
-  {
-   "title": "ABD'deki ara seçimlerin ardından ticaret savaşlarının yoğunlaşması öngörülüyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abddeki-ara-secimlerin-ardindan-ticaret-savaslarinin-yogunlasmasi-ongoruluyor/4092493",
-   "summary": "Küresel ticarette korumacı politikalar ve tarife belirsizlikleri sürerken, ABD'de kasım ayındaki ara seçimlerin ardından Trump yönetiminin ticaret politikalarını sertleştirip ticaret savaşlarını yoğunlaştırabileceği…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-18T09:04:03+00:00"
-  },
-  {
-   "title": "Fenerbahçe-Slavia Prag maçında İspanyol hakem Ricardo de Burgos düdük çalacak",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-macinda-ispanyol-hakem-ricardo-de-burgos-duduk-calacak/4092460",
-   "summary": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nin 3. haftasında 20 Ekim Salı günü sahasında Çekya temsilcisi Slavia Prag ile karşılaşacağı mücadeleyi İspanyol hakem Ricardo de Burgos yönetecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-18T08:31:31+00:00"
-  },
-  {
-   "title": "Türkiye'nin yumurta ihracatı 9 ayda 418 milyon doları aştı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yumurta-ihracati-9-ayda-418-milyon-dolari-asti/4092456",
-   "summary": "Türkiye'nin yumurta ihracatı, bu yılın ocak-eylül döneminde geçen senenin aynı dönemine göre yüzde 54 artarak 418 milyon 676 bin dolara ulaştı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-18T08:26:12+00:00"
   }
  ]
 }
