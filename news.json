@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-19T15:26:23.729189+00:00",
+ "updated": "2026-10-19T15:59:49.813944+00:00",
  "items": [
+  {
+   "title": "Gençlik ve Spor Bakanlığından dolandırıcılığa karşı uyarı",
+   "link": "https://www.trthaber.com/haber/gundem/genclik-ve-spor-bakanligindan-dolandiriciliga-karsi-uyari-960556.html",
+   "summary": "Gençlik ve Spor Bakanlığı, Kredi ve Yurtlar Genel Müdürlüğünün adını kullanarak öğrenim kredisi borcu veya icra dosyası bulunduğu iddiasıyla ödeme talep eden kişilere itibar edilmemesi uyarısında bulundu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T15:43:00+00:00"
+  },
+  {
+   "title": "Borsa günü düşüşle tamamladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4093726",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,49 değer kaybederek 11.430,14 puandan tamamladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T15:35:55+00:00"
+  },
+  {
+   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine topçu saldırıları düzenledi",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-topcu-saldirilari-duzenledi/4093720",
+   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere topçu saldırılarını sürdürdü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T15:25:49+00:00"
+  },
   {
    "title": "14. Boğaziçi Film Festivali'nde ulusal yarışmada 10 film yarışacak",
    "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinde-ulusal-yarismada-10-film-yarisacak/4093719",
@@ -357,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ve-5-ildeki-sel-ve-su-baskinlarinin-sigorta-maliyeti-2-milyar-liraya-yaklasti/4093540",
    "summary": "İstanbul ve 5 ilde etkili olan şiddetli yağış ve su baskınları nedeniyle, 2 bin 379 hasar için yangın ve kasko branşlarında ayrılan toplam muallak tazminat karşılığı 1 milyar 904 milyon 994 bin 494 lira oldu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-19T12:57:59+00:00"
   },
@@ -1127,24 +1154,6 @@
    "published": "2026-10-19T08:03:27+00:00"
   },
   {
-   "title": "İsrail muhalefeti, Trump'ın seçimlerde Netanyahu'ya desteğini açıklamasını eleştirdi",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-muhalefeti-trumpin-secimlerde-netanyahuya-destegini-aciklamasini-elestirdi/4093096",
-   "summary": "ABD Başkanı Donald Trump'ın İsrail'de 27 Ekim'de yapılacak seçimlere kısa bir süre kala mevcut Başbakan Binyamin Netanyahu'ya desteğini açıklaması, muhalefetin tepkisine neden oldu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T07:55:33+00:00"
-  },
-  {
-   "title": "Erciyes'te 2 dağcı için arama kurtarma çalışması başlatıldı",
-   "link": "https://www.trthaber.com/haber/turkiye/erciyeste-2-dagci-icin-arama-kurtarma-calismasi-baslatildi-960506.html",
-   "summary": "Kayseri'de, Erciyes Dağı'na zirve tırmanışı yapan yabancı uyruklu 2 dağcı için arama kurtarma çalışması başlatıldı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T07:48:00+00:00"
-  },
-  {
    "title": "Düzce'de offroad tutkunlarının sonbahar turu kar safarisine dönüştü",
    "link": "https://www.aa.com.tr/tr/gundem/duzcede-offroad-tutkunlarinin-sonbahar-turu-kar-safarisine-donustu/4093089",
    "summary": "Düzce'de sonbahar turu düzenleyen offroad tutkunları, kentin yüksek kesimlerinde yağan kar nedeniyle zor anlar yaşadı.",
@@ -1341,15 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1c/live/1b496550-a053-11f0-b687-23a5afa8b42e.jpg",
    "published": "2026-10-18T13:06:36+00:00"
-  },
-  {
-   "title": "Nevşehir'de düzenlenen Salomon Kapadokya Ultra Trail sona erdi",
-   "link": "https://www.aa.com.tr/tr/spor/nevsehirde-duzenlenen-salomon-kapadokya-ultra-trail-sona-erdi/4092634",
-   "summary": "",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-18T12:00:14+00:00"
   }
  ]
 }
