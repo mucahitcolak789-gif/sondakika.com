@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-19T14:00:33.685755+00:00",
+ "updated": "2026-10-19T14:46:00.971283+00:00",
  "items": [
+  {
+   "title": "SPK Başkanı Mahmut Sütcü istifa etti",
+   "link": "https://www.bbc.com/turkce/articles/cmpqg5j2yw18o?at_medium=RSS&at_campaign=rss",
+   "summary": "Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü'nün, sağlık sorunları nedeniyle istifa ettiği açıklandı. Hazine ve Maliye Bakan Yardımcısı Osman Çelik'in de Bakan Mehmet Şimşek'e emeklilik dilekçesini sunduğu…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a9a/live/1a3ec670-cbca-11f1-bc2e-018d645d8d21.png",
+   "published": "2026-10-19T14:37:39+00:00"
+  },
+  {
+   "title": "Sakarya'da ekimdeki yağışlar kente 4,5 ay yetecek içme suyu sağladı",
+   "link": "https://www.aa.com.tr/tr/gundem/sakaryada-ekimdeki-yagislar-kente-4-5-ay-yetecek-icme-suyu-sagladi/4093679",
+   "summary": "Marmara Bölgesi'nin önemli içme suyu kaynaklarından Sapanca Gölü'ndeki su seviyesi, ekim ayında etkili olan yağışlarla 30,51 metreye çıktı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T14:36:42+00:00"
+  },
+  {
+   "title": "Bodrum'da gıda güvenliği denetimleri: 8 işletmeye kapatma cezası",
+   "link": "https://www.trthaber.com/haber/turkiye/bodrumda-gida-guvenligi-denetimleri-8-isletmeye-kapatma-cezasi-960553.html",
+   "summary": "Muğla'nın Bodrum ilçesinde belediye ekiplerince gerçekleştirilen denetimlerde, son kullanma tarihi geçmiş ürün sattığı belirlenen 8 işletmeye 3'er gün kapatma cezası uygulandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T14:35:00+00:00"
+  },
+  {
+   "title": "Hazine ve Maliye Bakan Yardımcısı Çelik emekliliğini sundu",
+   "link": "https://www.trthaber.com/haber/ekonomi/hazine-ve-maliye-bakan-yardimcisi-celik-emekliligini-sundu-960552.html",
+   "summary": "Hazine ve Maliye Bakan Yardımcısı Osman Çelik, Bakan Şimşek'e bugünden geçerli olmak üzere emeklilik dilekçesini sundu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T14:33:00+00:00"
+  },
+  {
+   "title": "SPK Başkanı Sütçü istifasını sundu",
+   "link": "https://www.trthaber.com/haber/ekonomi/spk-baskani-sutcu-istifasini-sundu-960551.html",
+   "summary": "Sermaye Piyasası Kurulu SPK Başkanı Mahmut Sütçü, sağlık sorunları nedeniyle istifasını sundu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T14:22:00+00:00"
+  },
+  {
+   "title": "Hazine ve Maliye Bakan Yardımcısı Çelik emeklilik dilekçesini, SPK Başkanı Sütcü istifasını sundu",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakan-yardimcisi-celik-emeklilik-dilekcesini-spk-baskani-sutcu-istifasini-sundu/4093661",
+   "summary": "Hazine ve Maliye Bakan Yardımcısı Osman Çelik, Bakan Mehmet Şimşek'e bugünden geçerli olmak üzere emeklilik dilekçesini verirken Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü, sağlık sorunları nedeniyle istifasını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T14:21:01+00:00"
+  },
+  {
+   "title": "Ege Üniversitesi'ndeki köpeklerin toplatılmasında taraflar ne diyor?",
+   "link": "https://www.bbc.com/turkce/articles/cmn4e74v2ex3o?at_medium=RSS&at_campaign=rss",
+   "summary": "Ege Üniversitesi'ndeki bakım alanında yaşayan 170 köpekten 86'sı 16 Ekim'i 17 Ekim'e bağlayan gece yarısı toplatıldı. Üniversitesinin hayvan hakları topluluğu, Bornova'daki bir yerleşkeye götürülen köpeklerin…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b6f2/live/6dbedfd0-cbb9-11f1-81ef-39e22b578b80.jpg",
+   "published": "2026-10-19T14:20:56+00:00"
+  },
+  {
+   "title": "Avustralyada ünlülerin kumar reklamı yapması yasaklanıyor",
+   "link": "https://www.trthaber.com/haber/dunya/avustralyada-unlulerin-kumar-reklami-yapmasi-yasaklaniyor-960550.html",
+   "summary": "Avustralya'nın 2027'den itibaren kamuoyu tarafından tanınmış kişilerin kumar reklamlarında yer almasını yasakladığı bildirildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T14:07:00+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan'dan Aliya İzzetbegoviçi anma mesajı",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-aliya-izzetbegovici-anma-mesaji-960549.html",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Aliya İzzetbegoviç'in ölüm yıl dönümüyle ilgili mesaj paylaştı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T14:07:00+00:00"
+  },
+  {
+   "title": "İspanya'nın doğusunda şiddetli yağışlar etkili olmaya devam ediyor",
+   "link": "https://www.trthaber.com/haber/dunya/ispanyanin-dogusunda-siddetli-yagislar-etkili-olmaya-devam-ediyor-960548.html",
+   "summary": "Yağışlar nedeniyle ölenlerin sayısı 4'e yükseldi, evlerinde mahsur kalan 2 binden fazla kişi kurtarıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T13:56:00+00:00"
+  },
   {
    "title": "Fransa'daki protestolar Avrupa borsalarını olumsuz etkiliyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/fransadaki-protestolar-avrupa-borsalarini-olumsuz-etkiliyor/4093633",
@@ -36,6 +126,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T13:43:00+00:00"
+  },
+  {
+   "title": "Bakan Işıkhan: Yeşil dönüşümün çalışma barışını koruyarak çalışmak hayati bir önem arz etmektedir",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-isikhan-yesil-donusumun-calisma-barisini-koruyarak-calismak-hayati-bir-onem-arz-etmektedir/4093616",
+   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, \"Yeşil dönüşümün çalışma barışını koruyarak ve tüm işgücü piyasası paydaşları için, her düzeyde aktif işbirliği ve koordinasyon içerisinde çalışmak hayati bir önem arz…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T13:36:12+00:00"
   },
   {
    "title": "Hazırlık sınıfını geçemeyen öğrencilerin Türkçe yükseköğretim programlarına yerleştirilme başvuruları başladı",
@@ -191,6 +290,24 @@
    "published": "2026-10-19T12:50:52+00:00"
   },
   {
+   "title": "60 saniyede ekonomide bugün (19 Ekim 2026)",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-19-ekim-2026/4093523",
+   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:47:15+00:00"
+  },
+  {
+   "title": "60 saniyede bugün (19 Ekim 2026)",
+   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-19-ekim-2026/4093522",
+   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T12:46:41+00:00"
+  },
+  {
    "title": "Dolandırıcılıkla mücadelede 24 saat esaslı merkez kuruluyor",
    "link": "https://www.trthaber.com/haber/gundem/dolandiricilikla-mucadelede-24-saat-esasli-merkez-kuruluyor-960539.html",
    "summary": "İçişleri Bakanı Mustafa Çiftçi, dolandırıcılık olaylarının önlenmesi, mağdurların maddi kayıplarının azaltılması ve suç gelirlerine hızlı müdahale edilmesi amacıyla Dolandırıcılıkla Mücadele Merkezinin DOLUNAY…",
@@ -306,24 +423,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T12:20:00+00:00"
-  },
-  {
-   "title": "Dışişleri Bakanı Fidan, Suudi mevkidaşı Bin Ferhan'la telefonda görüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-suudi-mevkidasi-bin-ferhanla-telefonda-gorustu/4093488",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Suudi Arabistan Dışişleri Bakanı Faysal bin Ferhan ile telefon görüşmesi gerçekleştirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T12:18:21+00:00"
-  },
-  {
-   "title": "DOB Genel Müdürlüğüne atanan Can Atilla göreve başladı",
-   "link": "https://www.aa.com.tr/tr/kultur/dob-genel-mudurlugune-atanan-can-atilla-goreve-basladi/4093485",
-   "summary": "Senfonik ve elektronik müzikten opera ve baleye uzanan geniş bir repertuvara sahip besteci Can Atilla, Devlet Opera ve Balesi (DOB) Genel Müdürü olarak görevine başladı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T12:17:19+00:00"
   },
   {
    "title": "Bakan Fidan, Suudi mevkidaşıyla görüştü",
@@ -443,15 +542,6 @@
    "published": "2026-10-19T11:42:35+00:00"
   },
   {
-   "title": "İstanbul'da selden etkilenen Şile'de temizlik çalışmaları sürüyor",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-selden-etkilenen-silede-temizlik-calismalari-suruyor/4093429",
-   "summary": "İstanbul'da sağanağın ardından meydana gelen sel ve su baskınlarından etkilenen Şile'de temizlik, bakım ve onarım çalışmaları devam ediyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T11:39:49+00:00"
-  },
-  {
    "title": "Savunma sanayisinin stratejik malzemesi kompozit, İstanbul'da gündeme taşınacak",
    "link": "https://www.aa.com.tr/tr/ekonomi/savunma-sanayisinin-stratejik-malzemesi-kompozit-istanbulda-gundeme-tasinacak/4093382",
    "summary": "Kompozit Sanayicileri Derneği (KSD) ile CNG Expo işbirliğinde Uluslararası Kompozit Fuarı (TURKCOMPOSITE 2026), 21-23 Ekim'de İstanbul Fuar Merkezi'nde kompozit üreticileriyle bu teknolojileri kullanan sektörleri…",
@@ -468,15 +558,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-19T11:27:43+00:00"
-  },
-  {
-   "title": "Yurdun iç ve batı kesimlerinde cuma gününe kadar yağış beklenmiyor",
-   "link": "https://www.aa.com.tr/tr/gundem/yurdun-ic-ve-bati-kesimlerinde-cuma-gunune-kadar-yagis-beklenmiyor/4093378",
-   "summary": "",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T11:27:07+00:00"
   },
   {
    "title": "Selden zarar gören hanelere 10 bin lira nakdi destek",
@@ -587,15 +668,6 @@
    "published": "2026-10-19T10:42:00+00:00"
   },
   {
-   "title": "Mersin'de Çeşmeli-Taşucu Otoyolu'nun yapımı tamamlanan Kızkalesi kesimi trafiğe açıldı",
-   "link": "https://www.aa.com.tr/tr/gundem/mersinde-cesmeli-tasucu-otoyolunun-yapimi-tamamlanan-kizkalesi-kesimi-trafige-acildi/4093309",
-   "summary": "Mersin'de Çeşmeli-Erdemli-Silifke-Taşucu Otoyolu Projesi'nin yapımı tamamlanan 52 kilometrelik Çeşmeli-Kızkalesi kesimi trafiğe açıldı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T10:39:40+00:00"
-  },
-  {
    "title": "Kullanmıyorsam neden ödüyorum?",
    "link": "https://www.trthaber.com/haber/yasam/kullanmiyorsam-neden-oduyorum-960526.html",
    "summary": "Asansörü hiç kullanmayan giriş kat sakini bakım masrafını ödemek zorunda mı? Çatı onarımının giderleri kimlere ait?",
@@ -630,15 +702,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-19T10:04:24+00:00"
-  },
-  {
-   "title": "Sis altında kalan Sandal Divlit Volkanı havadan görüntülendi",
-   "link": "https://www.aa.com.tr/tr/gundem/sis-altinda-kalan-sandal-divlit-volkani-havadan-goruntulendi/4093263",
-   "summary": "Manisa'nın Kula ilçesindeki Sandal Divlit Volkanı, üzerini saran sisle görüntülendi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T10:01:32+00:00"
   },
   {
    "title": "İletişim Başkanı Duran Aliya İzetbegoviç'i andı",
@@ -684,15 +747,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-19T09:42:13+00:00"
-  },
-  {
-   "title": "İspanya'nın doğusunda şiddetli yağışlar etkili olmaya devam ediyor",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanyanin-dogusunda-siddetli-yagislar-etkili-olmaya-devam-ediyor/4093223",
-   "summary": "İspanya'nın doğusundaki Valensiya, Katalonya ve Balear Adaları bölgelerini iki gündür etkisi altına alan şiddetli yağışlar yaşamı felç etti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T09:34:09+00:00"
   },
   {
    "title": "BM Dünya Gıda Programı, finansman yetersizliği nedeniyle 500 bin Gazzeliye yardımın kesileceğini duyurdu",
@@ -855,15 +909,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-19T08:49:09+00:00"
-  },
-  {
-   "title": "Kenya'da Ebola vakası sayısı 8'e yükseldi",
-   "link": "https://www.aa.com.tr/tr/dunya/kenyada-ebola-vakasi-sayisi-8e-yukseldi/4093155",
-   "summary": "Kenya Sağlık Bakanlığı, Ebola virüsü tespit edilen kişi sayısının 8'e çıktığını ve salgının yayılmasını önlemeye yönelik tedbirlerin artırıldığını bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T08:42:20+00:00"
   },
   {
    "title": "Bakan Tekin'den UNESCO üyelerine COP31 daveti",
@@ -1082,15 +1127,6 @@
    "published": "2026-10-19T07:17:00+00:00"
   },
   {
-   "title": "Otomobilin özel bölmesinden 40 kilo metamfetamin çıktı",
-   "link": "https://www.trthaber.com/haber/turkiye/otomobilin-ozel-bolmesinden-40-kilo-metamfetamin-cikti-960503.html",
-   "summary": "Bulgaristan'dan Türkiye'ye Dereköy Sınır Kapısı üzerinden giriş yapan otomobilde, özel bölmeye gizlenmiş 40 kilo 300 gram metamfetamin ele geçirildi. Olayla ilgili 2 yabancı uyruklu şüpheli gözaltına alındı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T07:17:00+00:00"
-  },
-  {
    "title": "UEFA Şampiyonlar Ligi'nde 3. hafta heyecanı yarın başlayacak",
    "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-3-hafta-heyecani-yarin-baslayacak/4093048",
    "summary": "UEFA Şampiyonlar Ligi'nde üçüncü haftanın perdesi yarın açılacak. Fenerbahçe'nin Çekya ekibi Slavia Prag'ı ağırlayacağı haftada Galatasaray ise çarşamba günü Fransa temsilcisi Lille'e konuk olacak.",
@@ -1107,15 +1143,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-19T07:03:26+00:00"
-  },
-  {
-   "title": "Borsa İstanbul yeni haftaya 11.745,68 puandan başladı",
-   "link": "https://www.trthaber.com/haber/ekonomi/borsa-istanbul-yeni-haftaya-1174568-puandan-basladi-960501.html",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, haftaya yüzde 0,20 yükselişle 11.745,68 puandan başladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T07:02:00+00:00"
   },
   {
    "title": "Ekonomi Koordinasyon Kurulu, Cumhurbaşkanı Yardımcısı Yılmaz başkanlığında toplandı",
@@ -1136,15 +1163,6 @@
    "published": "2026-10-19T07:01:40+00:00"
   },
   {
-   "title": "İklim değişikliği Norveçte içme suyunu kullanılamaz hale getirdi",
-   "link": "https://www.trthaber.com/haber/dunya/iklim-degisikligi-norvecte-icme-suyunu-kullanilamaz-hale-getirdi-960502.html",
-   "summary": "Norveç'in Svalbard takımadalarında bulunan Longyearbyen kasabasında yaşayanlara, sudaki ağır metal kirliliği nedeniyle musluk suyunu içmemeleri uyarısı yapıldı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T06:56:00+00:00"
-  },
-  {
    "title": "Galatasaray, FIBA Şampiyonlar Ligi'nde yarın SIG Strasbourg'u konuk edecek",
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-fiba-sampiyonlar-liginde-yarin-sig-strasbourgu-konuk-edecek/4093034",
    "summary": "Galatasaray MCT Technic Erkek Basketbol Takımı, FIBA Şampiyonlar Ligi B Grubu'nda yarın Fransa temsilcisi SIG Strasbourg'u ağırlayacak.",
@@ -1152,33 +1170,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-19T06:54:00+00:00"
-  },
-  {
-   "title": "Ekonomi Koordinasyon Kurulu toplandı",
-   "link": "https://www.trthaber.com/haber/ekonomi/ekonomi-koordinasyon-kurulu-toplandi-960499.html",
-   "summary": "Ekonomi Koordinasyon Kurulu, ekim ayı gündemi ile Beştepe'de toplandı. Toplantıya Cumhurbaşkanı Yardımcısı Cevdet Yılmaz başkanlık etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T06:54:00+00:00"
-  },
-  {
-   "title": "Selde can kaybı 8'e yükseldi",
-   "link": "https://www.trthaber.com/haber/gundem/selde-can-kaybi-8e-yukseldi-960500.html",
-   "summary": "İstanbul ve Kocaeli'deki selde kaybolan iki kişinin daha cesedinin bulunmasıyla afette hayatını kaybedenlerin sayısı 8'e yükseldi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T06:53:00+00:00"
-  },
-  {
-   "title": "Brent petrolün varili 107,34 dolardan işlem görüyor",
-   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10734-dolardan-islem-goruyor-960498.html",
-   "summary": "Brent petrolün varil fiyatı, bugün saat 09.30 itibarıyla kapanışa göre yüzde 2,2 düşerek 107,34 dolara geriledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T06:42:00+00:00"
   },
   {
    "title": "Mars'ın uydusundan parça almayı amaçlayan uzay aracı bugün fırlatılıyor",
@@ -1206,15 +1197,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-19T06:19:37+00:00"
-  },
-  {
-   "title": "Rusya içinde Ukrayna'ya çalışan Putin karşıtı casus şebekesi",
-   "link": "https://www.bbc.com/turkce/articles/cv5ynp4kprz6o?at_medium=RSS&at_campaign=rss",
-   "summary": "İki adam, savaş sırasında Ukrayna istihbaratını desteklemek için yaptıklarını söyledikleri çalışmaları anlattı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b9f8/live/f9937b60-c943-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-19T06:09:42+00:00"
   },
   {
    "title": "Küresel piyasalarda toparlanma eğilimi öne çıkıyor",
@@ -1350,6 +1332,24 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-18T11:30:42+00:00"
+  },
+  {
+   "title": "Güneydoğu'nun tekstil ihracatında kumaş zirvede yer aldı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/guneydogunun-tekstil-ihracatinda-kumas-zirvede-yer-aldi/4092613",
+   "summary": "Güneydoğu Anadolu Bölgesi'nden yılın 9 ayında gerçekleştirilen tekstil ihracatında kumaş, yüzde 5,3 artış ve 731 milyon 861 bin dolarla ilk sırada yer aldı.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-10-18T11:27:42+00:00"
+  },
+  {
+   "title": "Fed'e ilişkin \"şahin\" beklentiler ve küresel büyümeye yönelik endişeler emtia piyasasını baskıladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fede-iliskin-sahin-beklentiler-ve-kuresel-buyumeye-yonelik-endiseler-emtia-piyasasini-baskiladi/4092610",
+   "summary": "Emtia piyasasında bu hafta ABD Merkez Bankasının (Fed) para politikasına ilişkin \"şahin\" beklentiler ve küresel büyümeye ilişkin endişelerle satış baskısı hakim oldu.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-10-18T11:18:11+00:00"
   }
  ]
 }
