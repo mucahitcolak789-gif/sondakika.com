@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-19T21:09:32.805579+00:00",
+ "updated": "2026-10-19T21:40:42.802222+00:00",
  "items": [
+  {
+   "title": "Sermaye Piyasası Kurulu (SPK) Başkanı ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı görevden alındı",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-kurulu-spk-baskani-ile-kamu-gozetimi-muhasebe-ve-denetim-standartlari-kurumu-baskani-gorevden-alindi/4093980",
+   "summary": "Resmi Gazete'de yayımlanan Cumhurbaşkanı kararıyla Sermaye Piyasası Kurulu (SPK) Başkanı Mahmut Sütcü ile Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu Başkanı İbrahim Ömer Gönül görevden alındı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T21:21:14+00:00"
+  },
+  {
+   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "link": "https://www.trthaber.com/haber/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede-960575.html",
+   "summary": "Bazı bakanlıklar ve kamu kurumlarına ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T21:13:00+00:00"
+  },
+  {
+   "title": "Bomba ihbarı sebebiyle \"Milano-Cidde\" uçağı Roma'ya acil iniş yaptı",
+   "link": "https://www.aa.com.tr/tr/dunya/bomba-ihbari-sebebiyle-milano-cidde-ucagi-romaya-acil-inis-yapti/4093974",
+   "summary": "İtalya'nın Milano kentinden Suudi Arabistan'ın Cidde kentine gitmek için havalanan bir yolcu uçağı, \"bomba\" ihbarı üzerine Roma Fiumicino Havalimanı'na acil iniş yaptı. Güvenlik kontrollerinde, ihbarın asılsız olduğu…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T21:08:50+00:00"
+  },
   {
    "title": "Fransa nefesini tutmuş bekliyor: Şimdi ne olacak?",
    "link": "https://www.bbc.com/turkce/articles/cqm26kmrx4vro?at_medium=RSS&at_campaign=rss",
@@ -18,6 +45,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c6b4/live/a5b14270-cb91-11f1-a64c-550be9e3c66b.png",
    "published": "2026-10-19T21:03:37+00:00"
+  },
+  {
+   "title": "Fenerbahçe, Şampiyonlar Ligi'nde evinde Slavia Prag'ı ağırlayacak",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'nin üçüncü hafta maçında evinde bu akşam Çek Cumhuriyeti temsilcisi Slavia Prag'ı ağırlayacak.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c93b/live/60046790-cbd5-11f1-aba9-2bb2608f11d9.jpg",
+   "published": "2026-10-19T20:59:12+00:00"
   },
   {
    "title": "Üsküdar Belediyesi bugün üçüncü kez başkanvekilini seçecek",
@@ -411,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4093726",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 2,49 değer kaybederek 11.430,14 puandan tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-19T15:35:55+00:00"
   },
@@ -456,7 +492,7 @@
    "link": "https://www.aa.com.tr/tr/spor/trpisovsky-fenerbahcenin-yarinki-takimi-onlarla-karsi-karsiya-geldigimiz-maclardaki-en-guclu-takimi-olabilir/4093693",
    "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Fenerbahçe'yle deplasmanda karşılaşacak Slavia Prag'da teknik direktör Jindrich Trpisovsky, sarı-lacivertli ekibin kadrosunun, 2022 yılında karşılaştıkları döneme göre…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-19T14:52:44+00:00"
   },
@@ -974,24 +1010,6 @@
    "published": "2026-10-19T10:57:00+00:00"
   },
   {
-   "title": "AB: ABD'nin UCM yaptırımlarına karşı \"Engelleme Tüzüğü\" dahil her seçenek masada",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-abdnin-ucm-yaptirimlarina-karsi-engelleme-tuzugu-dahil-her-secenek-masada/4093329",
-   "summary": "Avrupa Birliği (AB) Komisyonu, ABD'nin Uluslararası Ceza Mahkemesine (UCM) yönelik yaptırımlarına karşı \"Engelleme Tüzüğü\" dahil her seçeneğin masada olduğunu bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T10:54:31+00:00"
-  },
-  {
-   "title": "İstanbul Valisi Gül: 3 bin ev ve iş yeri zarar gördü",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbul-valisi-gul-3-bin-ev-ve-is-yeri-zarar-gordu-960523.html",
-   "summary": "İstanbul Valisi Davut Gül, kentte meydana gelen sel ve su baskınlarına ilişkin, \"Kabaca 3 bin ev ve iş yerinin ciddi anlamda zarar gördüğünü tespit ettik ve bunların zarar ziyanları da bugün itibarıyla ödenmeye…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T10:47:00+00:00"
-  },
-  {
    "title": "Kullanmıyorsam neden ödüyorum?",
    "link": "https://www.trthaber.com/haber/yasam/kullanmiyorsam-neden-oduyorum-960526.html",
    "summary": "Asansörü hiç kullanmayan giriş kat sakini bakım masrafını ödemek zorunda mı? Çatı onarımının giderleri kimlere ait?",
@@ -999,15 +1017,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T10:34:00+00:00"
-  },
-  {
-   "title": "İtalya'da şiddet olayları sonrası Meloni'den acil durum toplantısı",
-   "link": "https://www.bbc.com/turkce/articles/cm4g1j150z6wo?at_medium=RSS&at_campaign=rss",
-   "summary": "İtalya'da başta Milano olmak üzere bazı kentlerde hafta sonunda düzenlenen gösterilerde yaşanan şiddet olayları ve gözaltıların ardından hükümet olağanüstü \"kamu düzeni\" toplantısı düzenliyor.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f345/live/249dd850-cba6-11f1-9ee2-f74dfb8e54e5.jpg",
-   "published": "2026-10-19T10:28:33+00:00"
   },
   {
    "title": "Selden etkilenen Ayazağa'da kentsel dönüşüm ofisi hizmete açıldı",
@@ -1341,15 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-18T11:37:53+00:00"
-  },
-  {
-   "title": "Kuyumculardan \"ikinci baskı altın\" uyarısı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuyumculardan-ikinci-baski-altin-uyarisi/4092614",
-   "summary": "Ankara Kuyumcular ve Saatçiler Odası Başkanı Sönmez, piyasada daha düşük fiyata satılan ve orijinalinden ayırt edilmesi zor olan ikinci baskı altınlara karşı tüketicileri dikkatli olmaları konusunda uyardı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-18T11:30:42+00:00"
   }
  ]
 }
