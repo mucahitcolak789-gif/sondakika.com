@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-19T23:07:22.941108+00:00",
+ "updated": "2026-10-19T23:40:09.159152+00:00",
  "items": [
+  {
+   "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
+   "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss",
+   "summary": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan'ın Yeni Parti Genel Başkanı Özgür Özel'le görüşmesinde, Kürt sorununun çözümü için yürütülen süreçte gelinen aşama ve atılması gereken yeni adımlar…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b9c/live/4593ddd0-cc04-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-19T23:34:25+00:00"
+  },
+  {
+   "title": "Ankara'da aranan 169 kişi yakalandı",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-aranan-169-kisi-yakalandi-960576.html",
+   "summary": "Ankara'da jandarmanın operasyonlarında çeşitli suçlardan aranan 169 kişi yakalandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-19T23:30:00+00:00"
+  },
+  {
+   "title": "Uydu görüntülerinde Kim Jong Un'un havuzlu - kaydıraklı gemisi",
+   "link": "https://www.bbc.com/turkce/articles/c5pvgkw482xro?at_medium=RSS&at_campaign=rss",
+   "summary": "Kuzey Kore'nin Wonsan kıyılarında, 2026 Temmuz ayından Ekim ortasına kadar kaydedilen uydu görüntülerinde 80 metrelik lüks bir deniz aracı defalarca yer aldı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
+   "published": "2026-10-19T23:24:38+00:00"
+  },
   {
    "title": "Büyük Aile Platformu'ndan internet sitesi ve iletişim kanallarına yönelik siber saldırıya ilişkin açıklama",
    "link": "https://www.aa.com.tr/tr/gundem/buyuk-aile-platformundan-internet-sitesi-ve-iletisim-kanallarina-yonelik-siber-saldiriya-iliskin-aciklama/4093991",
@@ -1010,15 +1037,6 @@
    "published": "2026-10-19T11:03:00+00:00"
   },
   {
-   "title": "Cumhurbaşkanı Erdoğan: Demokrasinin uç beyi muhtarlar ile bağı diri tuttuk",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-demokrasinin-uc-beyi-muhtarlar-ile-bagi-diri-tuttuk-960525.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Külliyesi'nde düzenlenen Muhtarlar Günü buluşmasında, bugüne kadar 40 bini aşkın muhtarla bir araya geldiklerini belirterek, \"12 yıl boyunca demokrasinin uç beyi olan…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T11:02:00+00:00"
-  },
-  {
    "title": "Kullanmıyorsam neden ödüyorum?",
    "link": "https://www.trthaber.com/haber/yasam/kullanmiyorsam-neden-oduyorum-960526.html",
    "summary": "Asansörü hiç kullanmayan giriş kat sakini bakım masrafını ödemek zorunda mı? Çatı onarımının giderleri kimlere ait?",
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-18T17:00:15+00:00"
-  },
-  {
-   "title": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
-   "link": "https://www.aa.com.tr/tr/ekonomi/iletisim-baskanligindan-altinci-fon-kurulu-toplantisina-iliskin-aciklama/4092808",
-   "summary": "İletişim Başkanlığı, A1 Portföy Yönetim Şirketi AŞ, Bulls Portföy Yönetim Şirketi AŞ ve Pardus Portföy Yönetim Şirketi AŞ'nin yönetimindeki 45 binin üzerindeki kişiye 40,8 milyar lira tutarında ayni ve nakdi tasfiye…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-18T16:06:53+00:00"
-  },
-  {
-   "title": "Orionid meteor yağmuru: Ne zaman gerçekleşecek ve nasıl görebilirsiniz?",
-   "link": "https://www.bbc.com/turkce/articles/cgq4d81wj99o?at_medium=RSS&at_campaign=rss",
-   "summary": "Gökyüzü geceleri dünyanın dört bir yanından izlenebilecek Orionid meteor yağmuru ile aydınlanacak. NASA \"yılın en güzel meteor yağmurlarından biri\" olarak tanımlıyor.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1c/live/1b496550-a053-11f0-b687-23a5afa8b42e.jpg",
-   "published": "2026-10-18T13:06:36+00:00"
   }
  ]
 }
