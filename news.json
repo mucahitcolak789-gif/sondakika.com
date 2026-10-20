@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-20T18:46:19.988037+00:00",
+ "updated": "2026-10-20T19:26:10.977853+00:00",
  "items": [
+  {
+   "title": "İsrail'de aşırı sağ, seçim öncesi ilk kez oy kullanacak gençlerde yankı buluyor",
+   "link": "https://www.bbc.com/turkce/articles/c64g12jzej54o?at_medium=RSS&at_campaign=rss",
+   "summary": "İsrail'de önümüzdeki hafta yarım milyondan fazla genç oy kullanacak ve bu oylar önemli bir fark yaratabilir.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0ee0/live/1be7f440-cc67-11f1-b1a3-5bda642ff934.jpg",
+   "published": "2026-10-20T19:17:17+00:00"
+  },
+  {
+   "title": "İtalya'da gösteriler sonrası kararname: Reşit olmayanlara gözaltı, Milano'ya 500 ek asker",
+   "link": "https://www.bbc.com/turkce/articles/cked35py829zo?at_medium=RSS&at_campaign=rss",
+   "summary": "İtalya'da başta Milano olmak üzere bazı kentlerde geçen hafta sonu hayat pahalılığına karşı yapılan gösterilerde yaşanan şiddet olaylarının ardından hükümet yeni bir kararnameyi kabul etti. Yeni tedbirler arasında 14-18…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2b9e/live/ad46cb30-ccb9-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-20T19:14:34+00:00"
+  },
+  {
+   "title": "Brezilya'da, Meta'ya devlet başkanı adaylarına eşit muameleyi belgelemesi için 24 saat süre",
+   "link": "https://www.trthaber.com/haber/dunya/brezilyada-metaya-devlet-baskani-adaylarina-esit-muameleyi-belgelemesi-icin-24-saat-sure-960683.html",
+   "summary": "Brezilya Yüksek Seçim Mahkemesi TSE, Meta şirketinden, devlet başkanı seçiminin ikinci turunda yarışan adayların kampanyalarına eşit muamele edildiğini gösteren bilgi ve belgeleri 24 saat içinde sunmasını istedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T19:13:00+00:00"
+  },
+  {
+   "title": "Ankara'da belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu 24 kişi yaralandı",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-belediye-otobusunun-yaya-ust-gecidinin-ayagina-carpmasi-sonucu-24-kisi-yaralandi/4095054",
+   "summary": "Ankara'nın Etimesgut ilçesinde belediye otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T19:04:25+00:00"
+  },
+  {
+   "title": "TBMM'de bütçe maratonu başlıyor",
+   "link": "https://www.trthaber.com/haber/gundem/tbmmde-butce-maratonu-basliyor-960682.html",
+   "summary": "Türkiye Büyük Millet Meclisi'nde TBMM 'bütçe' mesaisi başlıyor. 2027 Yılı Merkezi Yönetim Bütçe Kanunu Teklifi, yarın Cumhurbaşkanı Yardımcısı Cevdet Yılmaz'ın komisyonda yapacağı sunumla başlayacak. Bir ay sürecek…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:57:00+00:00"
+  },
+  {
+   "title": "81 ile Drone Eğitim ve Üretim Merkezi Projesi'nde ilk adım atılıyor",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/81-ile-drone-egitim-ve-uretim-merkezi-projesinde-ilk-adim-atiliyor/4095036",
+   "summary": "SAHA İstanbul, 81 ile Drone Eğitim ve Üretim Merkezi Projesi'nin ilk adımı için 7 bölgedeki 7 şehirde çalışmalara başlıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:50:59+00:00"
+  },
+  {
+   "title": "Fransa'da Paris ve bazı kentlerdeki kısmi sokağa çıkma yasağı uzatıldı",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-paris-ve-bazi-kentlerdeki-kismi-sokaga-cikma-yasagi-uzatildi/4095031",
+   "summary": "Fransa'da şiddet olaylarına sahne olan sarı yeleklilerin eylemlerinin ardından Paris dahil farklı kentlerde kısmi sokağa çıkma yasağını uzatma kararları alındı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:46:02+00:00"
+  },
   {
    "title": "Fenerbahçe, Şampiyonlar Ligi'nde Slavia Prag ile 2-2 berabere kaldı",
    "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
@@ -13,16 +76,16 @@
   {
    "title": "Fenerbahçe'den UEFA Şampiyonlar Ligi'nde beraberlik",
    "link": "https://www.trthaber.com/haber/gundem/fenerbahceden-uefa-sampiyonlar-liginde-beraberlik-960681.html",
-   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Slavia Prag ile 22 berabere kaldı.",
+   "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Çekya'nın Slavia Prag takımını konuk eden Fenerbahçe, 90. dakikada yediği golle galibiyeti kaçırdı ve sahadan 22 beraberlikle ayrıldı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
    "published": "2026-10-20T18:38:00+00:00"
   },
   {
-   "title": "Fenerbahçe, Slavia Prag ile berabere kaldı",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-ile-berabere-kaldi/4095019",
-   "summary": "UEFA Şampiyonlar Ligi’nde Fenerbahçe, konuk ettiği Slavia Prag ile 2-2 berabere kaldı.",
+   "title": "Fenerbahçe, galibiyeti son dakikada kaçırdı",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-galibiyeti-son-dakikada-kacirdi/4095019",
+   "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Çekya'nın Slavia Prag takımını konuk eden Fenerbahçe, 90. dakikada yediği golle galibiyeti kaçırdı ve sahadan 2-2 beraberlikle ayrıldı.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -254,6 +317,15 @@
    "published": "2026-10-20T16:38:00+00:00"
   },
   {
+   "title": "Bolu Belediyesi davasında Tanju Özcan'a yedi yıl hapis cezası",
+   "link": "https://www.bbc.com/turkce/articles/cqlg9n5pwyqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Bolu Belediyesi'ne yönelik davadan tutuklu yargılanan Tanju Özcan, 7 yıl 3 ay 15 gün hapis cezasına çarptırıldı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb51/live/27060510-1704-11f1-bfbe-c7ba448da962.jpg",
+   "published": "2026-10-20T16:29:47+00:00"
+  },
+  {
    "title": "İletişim Başkanı Duran'dan Türkiye-Libya deniz yetki alanları mutabakatının onaylanmasına ilişkin paylaşım",
    "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-turkiye-libya-deniz-yetki-alanlari-mutabakatinin-onaylanmasina-iliskin-paylasim/4094919",
    "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran, Libya Temsilciler Meclisinin, Türkiye ile imzalanan deniz yetki alanları mutabakat muhtırasını oy birliğiyle onaylamasının, önemli ve memnuniyet verici bir adım olduğunu kaydetti.",
@@ -375,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/buyukelci-kazakbaev-turkiyenin-kirgizistana-yapilan-yatirimlarda-ucuncu-sirada-oldugunu-soyledi/4094890",
    "summary": "Kırgızistan'ın Ankara Büyükelçisi Ruslan Kazakbaev, Türkiye’nin Kırgızistan’a yapılan yatırımların büyüme hızı bakımından ülkeler arasında üçüncü sıraya yükseldiğini söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-20T15:40:07+00:00"
   },
@@ -398,15 +470,6 @@
    "published": "2026-10-20T15:34:50+00:00"
   },
   {
-   "title": "Kara Kuvvetleri Komutanlığının \"Uluslararası En İyi Askeri Uçangöz Takımı Yarışması\" başladı",
-   "link": "https://www.aa.com.tr/tr/gundem/kara-kuvvetleri-komutanliginin-uluslararasi-en-iyi-askeri-ucangoz-takimi-yarismasi-basladi/4094879",
-   "summary": "Kara Kuvvetleri Komutanlığının ilk kez düzenlediği \"Uluslararası En İyi Askeri Uçangöz Takımı Yarışması\" (BIMDTC-2026) başladı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T15:30:07+00:00"
-  },
-  {
    "title": "BIST 100 endeksi günü yükselişle kapattı",
    "link": "https://www.trthaber.com/haber/ekonomi/bist-100-endeksi-gunu-yukselisle-kapatti-960665.html",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
@@ -420,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4094876",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,22 değer kazanarak 11.797,70 puandan tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-20T15:27:49+00:00"
   },
@@ -549,15 +612,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-20T13:53:10+00:00"
-  },
-  {
-   "title": "A Milli Takım'da dört yıl Sergen Yalçın dönemi",
-   "link": "https://www.bbc.com/turkce/articles/c8wy9py4z5y4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Türkiye'de Vincenzo Montella'dan boşalan A Milli Takım teknik direktörlüğüne Sergen Yalçın getiriliyor. Elli üç yaşındaki çalıştırıcı, Kafa Spor'un YouTube kanalına yaptığı açıklamada gelişmeyi doğruladı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e5c/live/1d7ef4f0-cbd8-11f1-b139-f77a8b036d06.jpg",
-   "published": "2026-10-20T13:52:17+00:00"
   },
   {
    "title": "TFF Merkez Hakem Kurulu başkanlığına Anthony Taylor getirildi",
@@ -983,15 +1037,6 @@
    "published": "2026-10-20T10:24:15+00:00"
   },
   {
-   "title": "Bahçeli: 'Basın özgürlüğü suç işleme özgürlüğü değildir'",
-   "link": "https://www.bbc.com/turkce/articles/cjwy9nn0qg66o?at_medium=RSS&at_campaign=rss",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, TBMM'deki grup toplantısında \"Basın özgürlüğü suç işleme özgürlüğü değildir, olmamalıdır\" dedi. Bu çıkışa Yeni Parti Genel Başkanı Özgür Özel, partisinin grup toplantısında fon…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8b8e/live/407f4bc0-cc6a-11f1-baeb-8d65d4bcd7ab.jpg",
-   "published": "2026-10-20T10:18:14+00:00"
-  },
-  {
    "title": "BM: Yemen'de yerinden edilenlerin sayısı 250 bini aştı",
    "link": "https://www.aa.com.tr/tr/dunya/bm-yemende-yerinden-edilenlerin-sayisi-250-bini-asti/4094461",
    "summary": "BMMYK Sözcüsü Saltmarsh, çatışmaların tırmandığı Yemen'de yerinden edilenlerin sayısının 250 bini aştığını bildirdi.",
@@ -1071,24 +1116,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1c12/live/00e69d00-cc66-11f1-b1a3-5bda642ff934.jpg",
    "published": "2026-10-20T09:37:03+00:00"
-  },
-  {
-   "title": "Türkmenler, Irak'ta ilk kez Irak Türkmen Cephesinden bir ismin devlet bakanı olmasından memnun",
-   "link": "https://www.aa.com.tr/tr/dunya/turkmenler-irakta-ilk-kez-irak-turkmen-cephesinden-bir-ismin-devlet-bakani-olmasindan-memnun/4094392",
-   "summary": "Irak Meclisinde bakanlıklar için yapılan seçimlerde, \"ilk kez\" Irak Türkmen Cephesinden (ITC) bir adayın devlet bakanlığı görevine seçilmesi Kerkük'teki Türkmenler tarafından memnuniyetle karşılandı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-20T09:35:06+00:00"
-  },
-  {
-   "title": "Türkiye'nin dünya turizm gelirlerinde sıra atlaması bekleniyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-dunya-turizm-gelirlerinde-sira-atlamasi-bekleniyor-960632.html",
-   "summary": "Türkiye'nin gelecek yıl turizm gelirleri sıralamasında basamak atlayarak en çok gelire sahip 6'ncı ülke olması bekleniyor. En çok turist çeken ülke sıralamasında da Türkiye'nin bu yıl ulaştığı 4'üncülük konumunu…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T09:33:00+00:00"
   },
   {
    "title": "MotoGP'de yarışan milli motosikletçi Toprak Razgatlıoğlu, sakatlık nedeniyle sezonu kapattı",
@@ -1323,33 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-20T06:59:21+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan sermaye piyasalarına ilişkin açıklama",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmazdan-sermaye-piyasalarina-iliskin-aciklama/4094109",
-   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, fon piyasalarının belirli bir bölümünde yaşanan sorunlarla ilgili idari ve adli tedbirlerin kararlılıkla ve eş güdüm içinde hayata geçirildiğini belirtti.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-20T06:51:34+00:00"
-  },
-  {
-   "title": "Kamu teşebbüslerinin 2027 yatırım hedefi 754,2 milyar lira",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kamu-tesebbuslerinin-2027-yatirim-hedefi-754-2-milyar-lira-/4094102",
-   "summary": "Kamu iktisadi teşebbüsleri (KİT) ve bağlı ortaklıklarının, 2027'de 754,2 milyar lira tutarında yatırım yapmaları öngörülüyor.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-20T06:45:52+00:00"
-  },
-  {
-   "title": "Galatasaray, Şampiyonlar Ligi'nde yarın Fransa ekibi Lille ile deplasmanda karşılaşacak",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-sampiyonlar-liginde-yarin-fransa-ekibi-lille-ile-deplasmanda-karsilasacak/4094084",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın deplasmanda Fransa ekibi Lille ile karşılaşacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-20T06:33:32+00:00"
   }
  ]
 }
