@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-20T18:09:22.314998+00:00",
+ "updated": "2026-10-20T18:46:19.988037+00:00",
  "items": [
+  {
+   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Slavia Prag ile 2-2 berabere kaldı",
+   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
+   "summary": "Fenerbahçe, Şampiyonlar Ligi'nin üçüncü hafta maçında evinde bu akşam Çek Cumhuriyeti temsilcisi Slavia Prag'ı ağırlayacak.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf2c/live/9e63c330-ccae-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-10-20T18:40:06+00:00"
+  },
+  {
+   "title": "Fenerbahçe'den UEFA Şampiyonlar Ligi'nde beraberlik",
+   "link": "https://www.trthaber.com/haber/gundem/fenerbahceden-uefa-sampiyonlar-liginde-beraberlik-960681.html",
+   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nde Slavia Prag ile 22 berabere kaldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:38:00+00:00"
+  },
+  {
+   "title": "Fenerbahçe, Slavia Prag ile berabere kaldı",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-ile-berabere-kaldi/4095019",
+   "summary": "UEFA Şampiyonlar Ligi’nde Fenerbahçe, konuk ettiği Slavia Prag ile 2-2 berabere kaldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:33:05+00:00"
+  },
+  {
+   "title": "Bakan Gürlek, Türkiye-Belçika Dışişleri, Adalet ve İçişleri Bakanları 4. Toplantısı'na katıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-gurlek-turkiye-belcika-disisleri-adalet-ve-icisleri-bakanlari-4-toplantisina-katildi/4095014",
+   "summary": "Adalet Bakanı Akın Gürlek, \"Müttefik ülke Belçika'nın özellikle FETÖ'nün kendi ülkesindeki yapılanmasına karşı somut ve etkili tedbirler almasını bekliyoruz.\" ifadesini kullandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:29:04+00:00"
+  },
+  {
+   "title": "7 ilde bahis operasyonunda 22 tutuklama",
+   "link": "https://www.trthaber.com/haber/turkiye/7-ilde-bahis-operasyonunda-22-tutuklama-960680.html",
+   "summary": "Siirt merkezli 7 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 27 şüpheliden 22'si tutuklandı. Şüphelilerin banka ve kripto hesaplarında 20252026 yıllarında 1 milyar 498 milyon 377 bin 676 liralık işlem…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:23:00+00:00"
+  },
+  {
+   "title": "İzmir'de polisin şehit olduğu saldırıya ilişkin davada karar",
+   "link": "https://www.aa.com.tr/tr/gundem/izmirde-polisin-sehit-oldugu-saldiriya-iliskin-davada-karar/4095008",
+   "summary": "İzmir'in Seferihisar ilçesinde 20 Kasım 2024'te 1 polisin şehit olduğu, 2 polisin yaralandığı silahlı saldırıya ilişkin davada, 2 sanık ağırlaştırılmış müebbet ve 2 polisi yaralamaktan ise 30'ar yıl hapis cezasına…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:22:12+00:00"
+  },
+  {
+   "title": "Trump'ın Kanada menşeli ürünlere uyguladığı yüzde 50'lik tarifelere karşı dava açıldı",
+   "link": "https://www.trthaber.com/haber/dunya/trumpin-kanada-menseli-urunlere-uyguladigi-yuzde-50lik-tarifelere-karsi-dava-acildi-960679.html",
+   "summary": "ABD'de bir gıda ithalatçısı, Başkan Donald Trump yönetiminin Kanada menşeli bazı ürünlere uyguladığı yüzde 50 oranındaki gümrük vergilerinin hukuka aykırı olduğu gerekçesiyle dava açtı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:15:00+00:00"
+  },
+  {
+   "title": "Portekiz'e yapılan tarihi ihracatta ikinci lojistik destek gemisi kızağa alındı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/portekize-yapilan-tarihi-ihracatta-ikinci-lojistik-destek-gemisi-kizaga-alindi/4095002",
+   "summary": "Türk savunma sanayisinin denizcilik alanındaki öncü şirketi STM Savunma Teknolojileri Mühendislik ve Ticaret AŞ, uluslararası askeri denizcilik projelerinde önemli bir kilometre taşını daha geride bıraktı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T18:13:06+00:00"
+  },
   {
    "title": "DMM: Avrupa çöpünü Türkiye'ye döküyor yönündeki paylaşımların manipülasyon içeriyor",
    "link": "https://www.trthaber.com/haber/gundem/dmm-avrupa-copunu-turkiyeye-dokuyor-yonundeki-paylasimlarin-manipulasyon-iceriyor-960678.html",
@@ -9,15 +81,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-20T17:54:00+00:00"
-  },
-  {
-   "title": "Fenerbahçe, Slavia Prag karşısında ilk yarıda 2-1 önde",
-   "link": "https://www.bbc.com/turkce/articles/cw7vp739ee9do?at_medium=RSS&at_campaign=rss",
-   "summary": "Fenerbahçe, Şampiyonlar Ligi'nin üçüncü hafta maçında evinde bu akşam Çek Cumhuriyeti temsilcisi Slavia Prag'ı ağırlayacak.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/bf2c/live/9e63c330-ccae-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-20T17:50:26+00:00"
   },
   {
    "title": "Fransa'da savcılık, AP üyesi Hassan'ın 2 yıl siyasetten men edilmesini talep etti",
@@ -375,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinin-guneyinde-yanan-bir-petrol-tankeri-tespit-edildi/4094867",
    "summary": "İran ordusu, Hürmüz Boğazı'nın güney koridorunda yanan bir petrol tankerinin tespit edildiğini, söz konusu geminin İran'ın belirlediği güzergah ve kuralları ihlal ettiğini öne sürdü.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-20T15:16:31+00:00"
   },
@@ -384,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/romanyada-5-aylik-belirsizligin-ardindan-niculescu-basbakanligindaki-yeni-hukumet-guvenoyu-aldi/4094852",
    "summary": "Romanya'da Luca Niculescu başbakanlığındaki yeni hükümet, 5 aydır devam eden belirsizlik sürecinin ardından parlamentodan güvenoyu alarak göreve başladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-20T15:06:07+00:00"
   },
@@ -398,18 +461,9 @@
    "published": "2026-10-20T15:02:00+00:00"
   },
   {
-   "title": "AK Parti Sözcüsü Çelik: Fon şeytanlarının üzerine sonuna kadar gidilmesi konusunda tavizsiz bir şekilde hareket ediliyor",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-sozcusu-celik-fon-seytanlarinin-uzerine-sonuna-kadar-gidilmesi-konusunda-tavizsiz-bir-sekilde-hareket-ediliyor/4094837",
-   "summary": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, \"Fon dolandırıcıları, fon şeytanları dediğimiz bu yolsuzlukları yapanların üzerine gidilmesi konusunda yüksek bir iradeyle, kararlı ve tavizsiz bir şekilde…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T14:50:30+00:00"
-  },
-  {
-   "title": "Husilerin Yemen'in Taiz kentine düzenlediği saldırılarda 1 kişi öldü",
-   "link": "https://www.aa.com.tr/tr/dunya/husilerin-yemenin-taiz-kentine-duzenledigi-saldirilarda-1-kisi-oldu/4094821",
-   "summary": "Yemen'de İran destekli Husilerin, Taiz'e düzenlediği saldırılarda ilk belirlemelere göre 1 kişi öldü, 7 kişi yaralandı.",
+   "title": "Yemen'de Husilerin Taiz'deki saldırısında 3 kişinin öldüğü, 8 kişinin yaralandığı belirtildi",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-taizdeki-saldirisinda-3-kisinin-oldugu-8-kisinin-yaralandigi-belirtildi/4094821",
+   "summary": "Yemen'de İran destekli Husilerin sivil yerleşim yerleri ile bir ambulansı hedef alan saldırılarında 3 sivilin hayatını kaybettiği, 8 kişinin yaralandığı belirtildi.",
    "source": "AA",
    "category": "Dünya",
    "image": null,
@@ -1055,24 +1109,6 @@
    "published": "2026-10-20T09:25:30+00:00"
   },
   {
-   "title": "Karadeniz'in su ürünleri ihracatı 9 ayda 322 milyon doları aştı",
-   "link": "https://www.trthaber.com/haber/ekonomi/karadenizin-su-urunleri-ihracati-9-ayda-322-milyon-dolari-asti-960630.html",
-   "summary": "Karadeniz Bölgesi'nden yılın ocakeylül döneminde yapılan su ürünleri ihracatı, 322 milyon 393 bin 650 dolara ulaştı. Su ürünlerine en çok talep Rusya, Yunanistan ve Belarus'tan geldi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T09:25:00+00:00"
-  },
-  {
-   "title": "AB Yüksek Temsilcisi: Rusya, gıdayı kasıtlı olarak bir silah haline getiriyor",
-   "link": "https://www.trthaber.com/haber/dunya/ab-yuksek-temsilcisi-rusya-gidayi-kasitli-olarak-bir-silah-haline-getiriyor-960628.html",
-   "summary": "AB Yüksek Temsilcisi Kaja Kallas, Karadeniz'deki gemilere yönelik saldırılardan Rusya'nın sorumlu olduğunu, Moskova'nın bu saldırılarla gıdayı kasıtlı olarak silah haline getirdiğini öne sürdü.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T09:17:00+00:00"
-  },
-  {
    "title": "Elektrik iletim ve dağıtım altyapısına 2035'e kadar 80 milyar dolar yatırım yapılacak",
    "link": "https://www.aa.com.tr/tr/ekonomi/elektrik-iletim-ve-dagitim-altyapisina-2035e-kadar-80-milyar-dolar-yatirim-yapilacak/4094340",
    "summary": "Enerji ve Tabii Kaynaklar Bakan Yardımcısı Nevzat Şatıroğlu, enerjiyi güvenli ve verimli şekilde taşıyacak iletim ve dağıtım altyapısına 2035'e kadar yaklaşık 80 milyar dolar yatırım öngördüklerini bildirdi.",
@@ -1107,6 +1143,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-20T08:39:05+00:00"
+  },
+  {
+   "title": "Karadeniz'in su ürünleri ihracatı 9 ayda 322 milyon doları aştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/karadenizin-su-urunleri-ihracati-9-ayda-322-milyon-dolari-asti/4094311",
+   "summary": "Karadeniz Bölgesi'nden yılın ocak-eylül döneminde yapılan su ürünleri ihracatı, 322 milyon 393 bin 650 dolara ulaştı.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-10-20T08:37:52+00:00"
   },
   {
    "title": "Yalova gemi, yat ve hizmetleri sektöründe ihracatını yüzde 100'e yakın artırdı",
@@ -1199,15 +1244,6 @@
    "published": "2026-10-20T08:05:58+00:00"
   },
   {
-   "title": "Tarihi, doğası ve lezzetleriyle Erzincan, yerli ve yabancı ziyaretçilerin ilgisini çekiyor",
-   "link": "https://www.aa.com.tr/tr/gundem/tarihi-dogasi-ve-lezzetleriyle-erzincan-yerli-ve-yabanci-ziyaretcilerin-ilgisini-cekiyor/4094231",
-   "summary": "Doğu Anadolu Bölgesi'nin Yukarı Fırat Bölümü'nde, Munzur ve Keşiş dağları arasındaki verimli ovada kurulan Erzincan, tarihi, farklı medeniyetlerden izler taşıyan kültürel mirası ile ziyaretçilerine farklı rotalar…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T08:03:56+00:00"
-  },
-  {
    "title": "Galatasaray, Avrupa'da 343. kez sahne alacak",
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-avrupada-343-kez-sahne-alacak/4094230",
    "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında yarın Fransa ekibi Lille'e konuk olacak Galatasaray, Avrupa kupalarındaki 343. karşılaşmasına çıkacak.",
@@ -1271,15 +1307,6 @@
    "published": "2026-10-20T07:22:50+00:00"
   },
   {
-   "title": "Rusya: Ukrayna'da 4 kuru yük gemisi ile lojistik merkezlerini vurduk",
-   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynada-4-kuru-yuk-gemisi-ile-lojistik-merkezlerini-vurduk-960629.html",
-   "summary": "Rusya Savunma Bakanlığı, Ukrayna'nın Odessa bölgesinde 4 kuru yük gemisi ile Hmelnitski ve Volın bölgelerindeki lojistik merkezlerini insansız hava araçlarıyla İHA vurduklarını bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T07:15:00+00:00"
-  },
-  {
    "title": "Beşiktaş BOA, FIBA Kadınlar Avrupa Kupası'nda yarın DSK Basketball Brandys ile karşılaşacak",
    "link": "https://www.aa.com.tr/tr/spor/besiktas-boa-fiba-kadinlar-avrupa-kupasinda-yarin-dsk-basketball-brandys-ile-karsilasacak/4094137",
    "summary": "Beşiktaş BOA Kadın Basketbol Takımı, FIBA Avrupa Kupası B Grubu ilk maçında yarın Çekya'nın DSK Basketball Brandys ekibine konuk olacak.",
@@ -1323,33 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-20T06:33:32+00:00"
-  },
-  {
-   "title": "Uydu görüntülerinde Kim Jong Un'un havuzlu ve kaydıraklı lüks yatı",
-   "link": "https://www.bbc.com/turkce/articles/c5pvgkw482xro?at_medium=RSS&at_campaign=rss",
-   "summary": "Kuzey Kore'nin Wonsan kıyılarında, 2026 Temmuz ayından Ekim ortasına kadar kaydedilen uydu görüntülerinde 80 metrelik lüks bir deniz aracı defalarca yer aldı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a208/live/829d3600-c861-11f1-9a39-31b474234113.png",
-   "published": "2026-10-20T06:08:50+00:00"
-  },
-  {
-   "title": "Küresel piyasalar jeopolitik risklerin etkisiyle negatif seyrediyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-jeopolitik-risklerin-etkisiyle-negatif-seyrediyor/4094049",
-   "summary": "Küresel piyasalarda, ABD ile İran arasındaki çatışmaların yarattığı​​​​​​​ tedirginlikler risk iştahını törpülerken, bilanço sezonunda önemli şirketlerin finansal sonuçları öncesinde negatif bir seyir izleniyor.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-20T06:02:13+00:00"
-  },
-  {
-   "title": "DEM Parti ve Yeni Parti görüşmesinde hangi mesajlar öne çıktı?",
-   "link": "https://www.bbc.com/turkce/articles/cxj0l72j0qy9o?at_medium=RSS&at_campaign=rss",
-   "summary": "DEM Parti Eş Genel Başkanları Tülay Hatimoğulları ve Tuncer Bakırhan'ın Yeni Parti Genel Başkanı Özgür Özel'le görüşmesinde, Kürt sorununun çözümü için yürütülen süreçte gelinen aşama ve atılması gereken yeni adımlar…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9b9c/live/4593ddd0-cc04-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-19T23:34:25+00:00"
   }
  ]
 }
