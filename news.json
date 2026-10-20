@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-20T00:53:29.335643+00:00",
+ "updated": "2026-10-20T01:28:09.529486+00:00",
  "items": [
+  {
+   "title": "Kolombiya'da askeri helikopterin düşmesi sonucu 19 kişi yaralandı",
+   "link": "https://www.trthaber.com/haber/dunya/kolombiyada-askeri-helikopterin-dusmesi-sonucu-19-kisi-yaralandi-960579.html",
+   "summary": "Kolombiya'nın Cauca yönetim bölgesinde orduya ait askeri helikopterin düşmesi sonucu 19 kişinin yaralandığı duyuruldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T01:12:00+00:00"
+  },
   {
    "title": "İşgalci İsrail, Filistinlilere ait yaklaşık 183 dönüm araziye el koydu",
    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-filistinlilere-ait-yaklasik-183-donum-araziye-el-koydu-960578.html",
@@ -441,15 +450,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-19T17:38:07+00:00"
-  },
-  {
-   "title": "Antalya Büyükşehir Belediyesi iştiraki ANSET'e yönelik soruşturmanın iddianamesi kabul edildi",
-   "link": "https://www.aa.com.tr/tr/gundem/antalya-buyuksehir-belediyesi-istiraki-ansete-yonelik-sorusturmanin-iddianamesi-kabul-edildi/4093784",
-   "summary": "Antalya Büyükşehir Belediyesinin iştiraki ANSET’e yönelik soruşturmada aralarında Büyükşehir Belediye Başkanlığı görevinden uzaklaştırılan Muhittin Böcek ve eski genel sekreter Cansel Çevikkol Tuncer’in de bulunduğu 55…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T17:09:05+00:00"
   },
   {
    "title": "Katil İsrail'in Gazze Şeridi'ne düzenlediği saldırılarda 5 Filistinli hayatını kaybetti",
@@ -974,15 +974,6 @@
    "published": "2026-10-19T12:04:00+00:00"
   },
   {
-   "title": "Almanya'dan Fransa için seyahat uyarısı",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyadan-fransa-icin-seyahat-uyarisi/4093464",
-   "summary": "Almanya, şiddetli kitlesel protestoların düzenlendiği Fransa için seyahat uyarısı yaptı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-19T11:59:43+00:00"
-  },
-  {
    "title": "Tasarruf finansmanında rekor büyüme: İşlem hacmi 1,2 trilyon lirayı aştı",
    "link": "https://www.trthaber.com/haber/ekonomi/tasarruf-finansmaninda-rekor-buyume-islem-hacmi-12-trilyon-lirayi-asti-960530.html",
    "summary": "Türkiye'de tasarruf finansman sektörünün işlem hacmi geçen yıl yüzde 261,8 artışla 1 trilyon 211 milyar liraya yükseldi.",
@@ -1044,15 +1035,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-19T11:27:43+00:00"
-  },
-  {
-   "title": "Selden zarar gören hanelere 10 bin lira nakdi destek",
-   "link": "https://www.trthaber.com/haber/turkiye/selden-zarar-goren-hanelere-10-bin-lira-nakdi-destek-960528.html",
-   "summary": "Aile ve Sosyal Hizmetler Bakanlığınca, Sakarya'da sel felaketinden etkilenen vatandaşların ihtiyaçlarına katkı sağlamak amacıyla hane başına 10 bin lira nakdi destek verilecek. Destekler, kaymakamlıklar koordinasyonunda…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-19T11:18:00+00:00"
   },
   {
    "title": "Selden etkilenen Ayazağa'da kentsel dönüşüm ofisi hizmete açıldı",
@@ -1350,6 +1332,24 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-18T17:00:15+00:00"
+  },
+  {
+   "title": "İletişim Başkanlığından Altıncı Fon Kurulu Toplantısı'na ilişkin açıklama",
+   "link": "https://www.aa.com.tr/tr/ekonomi/iletisim-baskanligindan-altinci-fon-kurulu-toplantisina-iliskin-aciklama/4092808",
+   "summary": "İletişim Başkanlığı, A1 Portföy Yönetim Şirketi AŞ, Bulls Portföy Yönetim Şirketi AŞ ve Pardus Portföy Yönetim Şirketi AŞ'nin yönetimindeki 45 binin üzerindeki kişiye 40,8 milyar lira tutarında ayni ve nakdi tasfiye…",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-10-18T16:06:53+00:00"
+  },
+  {
+   "title": "Orionid meteor yağmuru: Ne zaman gerçekleşecek ve nasıl görebilirsiniz?",
+   "link": "https://www.bbc.com/turkce/articles/cgq4d81wj99o?at_medium=RSS&at_campaign=rss",
+   "summary": "Gökyüzü geceleri dünyanın dört bir yanından izlenebilecek Orionid meteor yağmuru ile aydınlanacak. NASA \"yılın en güzel meteor yağmurlarından biri\" olarak tanımlıyor.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0f1c/live/1b496550-a053-11f0-b687-23a5afa8b42e.jpg",
+   "published": "2026-10-18T13:06:36+00:00"
   }
  ]
 }
