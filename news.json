@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-20T19:57:58.070350+00:00",
+ "updated": "2026-10-20T20:24:31.318323+00:00",
  "items": [
+  {
+   "title": "Fergani’nin altıncı uydusu FRG-100D4 başarıyla yörüngesine yerleşti",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/fergani-nin-altinci-uydusu-frg-100d4-basariyla-yorungesine-yerlesti/4095104",
+   "summary": "Baykar Yönetim Kurulu Başkanı ve Teknoloji Lideri Selçuk Bayraktar tarafından kurulan Fergani Uzay Teknolojileri, milli mühendislik kabiliyetiyle geliştirdiği altıncı deneme uydusu FRG-100D4'ü uzaya gönderdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T20:00:38+00:00"
+  },
+  {
+   "title": "Bakan Çiftçi, Brüksel'de Türk vatandaşlarıyla buluştu",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-brukselde-turk-vatandaslariyla-bulustu-960686.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Gençlerimizle, çocuklarımızla buluştuk, Emirdağ kekiği çayımızı yudumlayarak memleket havasını Brüksel'de soluduk\" ifadelerini kullandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-20T19:56:00+00:00"
+  },
   {
    "title": "Trump'tan Zelenskiy'e \"artık anlaşma yapmanın zamanı geldi\" mesajı",
    "link": "https://www.aa.com.tr/tr/dunya/trumptan-zelenskiye-artik-anlasma-yapmanin-zamani-geldi-mesaji/4095093",
@@ -447,7 +465,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/cin-abdnin-ticari-sirlari-calma-iddiasiyla-cinli-sirketlere-yaptirim-getirmesine-tepki-gosterdi-/4094906",
    "summary": "Çin, ABD'de ticari sırları çalmaktan hüküm giyen bir Çin vatandaşıyla bağlantılı Çinli şirketlere yaptırım uygulanmasına tepki gösterdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-20T16:04:06+00:00"
   },
@@ -1091,15 +1109,6 @@
    "published": "2026-10-20T10:10:00+00:00"
   },
   {
-   "title": "Kültepe'de 78 yıllık kazı tarihinde bir ilk",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/kultepede-78-yillik-kazi-tarihinde-bir-ilk-960635.html",
-   "summary": "Kayserideki KültepeKaniş Örenyerinde, 1948 yılında başlayan kazılarda ilk kez Helenistik Döneme ait mozaik döşemeli bir yapı ortaya çıkarıldı. Aynı alanda ilk kez belirlenen dört ayrı Helenistik kültür tabakası da…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T10:06:00+00:00"
-  },
-  {
    "title": "Türk bilim insanları 'TARLA'da ilk ışınlama deneyini gerçekleştirdi",
    "link": "https://www.trthaber.com/haber/bilim-teknoloji/turk-bilim-insanlari-tarlada-ilk-isinlama-deneyini-gerceklestirdi-960636.html",
    "summary": "Ankara Üniversitesinin AÜ öncülüğünde kurulan Türk Hızlandırıcı ve Işınım Laboratuvarında TARLA görev yapan bilim insanları tarafından ilk ışınlama deneyi başarıyla gerçekleştirildi. Çalışmanın uydu ve uzay…",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-20T07:10:30+00:00"
-  },
-  {
-   "title": "Borsa güne yükselişe başladı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-yukselise-basladi/4094120",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,38 yükselişle 11.473,82 puandan başladı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-20T06:59:21+00:00"
   }
  ]
 }
