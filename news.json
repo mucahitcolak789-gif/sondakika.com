@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-21T20:24:56.542836+00:00",
+ "updated": "2026-10-21T20:58:18.591478+00:00",
  "items": [
+  {
+   "title": "Siber Güvenlik Başkanlığınca kritik güvenlik zafiyetlerine karşı ulusal ölçekte tarama başlatıldı",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/siber-guvenlik-baskanliginca-kritik-guvenlik-zafiyetlerine-karsi-ulusal-olcekte-tarama-baslatildi/4096515",
+   "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısındaki kritik güvenlik zafiyetlerine karşı ulusal düzeyde önleyici güvenlik…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:47:45+00:00"
+  },
+  {
+   "title": "Libya’nın Türkiye anlaşmasını onaylaması Doğu Akdeniz'de dengeleri değiştirebilir mi?",
+   "link": "https://www.bbc.com/turkce/articles/cwrkyldnkgndo?at_medium=RSS&at_campaign=rss",
+   "summary": "Libya Temsilciler Meclisi'nin 2019 yılında Türkiye ile imzalanan Deniz Yetki Alanlarının Sınırlandırılması Anlaşması'nı yedi yıl sonra onaylaması, Doğu Akdeniz'deki süren rekabet ve müzakereler açısından yeni bir…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d1/live/d0a0d260-cd59-11f1-9a39-31b474234113.jpg",
+   "published": "2026-10-21T20:45:54+00:00"
+  },
+  {
+   "title": "ABD: Tahliye emri sadece Suudi Arabistan'daki misyon çalışanları için geçerli",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-tahliye-emri-sadece-suudi-arabistandaki-misyon-calisanlari-icin-gecerli/4096510",
+   "summary": "ABD Dışişleri Bakanlığı Sözcü Yardımcısı Pigott, Körfez ülkelerindeki bazı personel ve aileleri için tahliye emri verileceği yönündeki haberleri yalanlayarak uygulamanın yalnızca Suudi Arabistan'daki misyon…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:44:54+00:00"
+  },
+  {
+   "title": "İsrail'deki ankete göre Netanyahu bloğu 51 sandalyeye gerilerken Eisenkot'un bloğu 55'e ulaştı",
+   "link": "https://www.aa.com.tr/tr/dunya/israildeki-ankete-gore-netanyahu-blogu-51-sandalyeye-gerilerken-eisenkotun-blogu-55e-ulasti/4096505",
+   "summary": "İsrail'de yapılan bir anket, Başbakan Binyamin Netanyahu liderliğindeki bloğun 2 sandalye kaybederek 51'e gerilediğini, Yashar Partisi lideri Gadi Eisenkot'un bloğunun ise 55 sandalyeye ulaştığını ortaya koydu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:41:51+00:00"
+  },
+  {
+   "title": "Trump, RusyaUkrayna Savaşı'nda çözüme hiç olmadığı kadar yakın olduklarını belirtti",
+   "link": "https://www.trthaber.com/haber/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti-960826.html",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:36:00+00:00"
+  },
+  {
+   "title": "Axios: İsrail, pazartesi İran sınırına yakın noktalarda uçuş gerçekleştirdi",
+   "link": "https://www.aa.com.tr/tr/dunya/axios-israil-pazartesi-iran-sinirina-yakin-noktalarda-ucus-gerceklestirdi/4096495",
+   "summary": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:35:27+00:00"
+  },
+  {
+   "title": "Soykırımcı İsrail, Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-12-saatte-23-saldiri-gerceklestirdi-960825.html",
+   "summary": "Soykırımcı İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:20:00+00:00"
+  },
   {
    "title": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
    "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-12-saatte-23-saldiri-gerceklestirdi/4096478",
@@ -45,15 +108,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-21T19:57:00+00:00"
-  },
-  {
-   "title": "Trump, Rusya-Ukrayna Savaşı'nda çözüme \"hiç olmadığı kadar yakın\" olduklarını belirtti",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti/4096462",
-   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T19:55:45+00:00"
   },
   {
    "title": "Katar Başbakan Yardımcısı: Bedir Mutabakatı, ülkelerimiz arasındaki savunma işbirliğine katkı sağlayacak",
@@ -312,7 +366,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/abdde-mortgage-faizleri-iki-aydan-uzun-sure-sonra-ilk-kez-dustu/4096339",
    "summary": "ABD'de 30 yıl vadeli mortgage (konut kredisi) için ortalama faiz oranı geçen hafta yüzde 7,41'e inerken, iki aydan uzun bir sürenin ardından ilk kez düşüş kaydetti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T17:54:05+00:00"
   },
@@ -348,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yeleklilerin-eylemleri-kapsaminda-174-kisi-tutuklandi/4096329",
    "summary": "Fransa Adalet Bakanı Gerald Darmanin, sarı yeleklilerin 17 Ekim'de şiddet olaylarına sahne olan eylemleri kapsamında 174 kişinin tutuklandığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-21T17:37:30+00:00"
   },
@@ -357,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/afd-es-genel-baskani-weidel-partisinin-abyi-yeniden-insa-etmek-istedigini-soyledi/4096327",
    "summary": "Almanya için Alternatif (AfD) Eş Genel Başkanı Alice Weidel, Avrupa Birliği'nin (AB) mevcut haliyle \"ciddi reforma\" ihtiyacı olduğunu belirterek, partisinin AB'yi \"yeniden inşa etmek\" istediğini söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-21T17:35:40+00:00"
   },
@@ -378,6 +432,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-21T17:23:00+00:00"
+  },
+  {
+   "title": "Bakan Bayraktar, Türkiye ile Japonya'nın işbirliğini daha ileri taşıyacağını belirtti",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-ile-japonyanin-isbirligini-daha-ileri-tasiyacagini-belirtti/4096316",
+   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, küresel enerji krizi karşısında Türkiye ile Japonya'nın ikili ve bölgesel işbirliklerini güçlendirerek zorlukların üstesinden birlikte gelebileceğini söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T17:19:02+00:00"
   },
   {
    "title": "Hakemler dosyası soruşturması: Ferdi Karadoruk'a 8 yıla kadar hapis istemi",
@@ -402,7 +465,7 @@
    "link": "https://www.aa.com.tr/tr/spor/hakemler-dosyasi-sorusturmasinda-ferdi-karadoruka-8-yila-kadar-hapis-istemi/4096309",
    "summary": "İstanbul'da \"Hakemler dosyası\" olarak bilinen soruşturma kapsamında tutuklanan Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği (TFFHGD) İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis istemiyle…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-21T17:05:16+00:00"
   },
@@ -429,7 +492,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunca-isgal-altindaki-bati-seriada-alikonulan-abdli-kongre-adayi-serbest-kaldigini-duyurdu/4096285",
    "summary": "İşgal altındaki Batı Şeria'da Filistinli çiftçilere eşlik ederken İsrail ordusunca gözaltına alınan ABD'li Demokrat Kongre adayı Brad Lander, kendisinin muhtemelen kamuoyunda tanınan biri olması nedeniyle serbest…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-21T16:29:23+00:00"
   },
@@ -567,15 +630,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-21T15:22:16+00:00"
-  },
-  {
-   "title": "Libya’nın Türkiye anlaşmasını onaylaması Doğu Akdeniz'de dengeleri değiştirebilir mi?",
-   "link": "https://www.bbc.com/turkce/articles/cwrkyldnkgndo?at_medium=RSS&at_campaign=rss",
-   "summary": "Libya Temsilciler Meclisi'nin 2019 yılında Türkiye ile imzalanan Deniz Yetki Alanlarının Sınırlandırılması Anlaşması'nı yedi yıl sonra onaylaması, Doğu Akdeniz'deki süren rekabet ve müzakereler açısından yeni bir…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/03d1/live/d0a0d260-cd59-11f1-9a39-31b474234113.jpg",
-   "published": "2026-10-21T15:18:15+00:00"
   },
   {
    "title": "Kremlin: Rusya-Ukrayna-ABD üçlü müzakerelerini kasımda yeniden başlatmaya hazırız",
@@ -749,15 +803,6 @@
    "published": "2026-10-21T14:10:52+00:00"
   },
   {
-   "title": "AB Komisyonu: SpaceX, Ukrayna'ya yönelik hizmetleri acilen tam kapasiteyle yeniden devreye almalıdır",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonu-spacex-ukraynaya-yonelik-hizmetleri-acilen-tam-kapasiteyle-yeniden-devreye-almalidir/4096100",
-   "summary": "Avrupa Birliği (AB) Komisyonu, Ukrayna'nın kullandığı SpaceX'e ait Starlink uydu sisteminde yavaşlama meydana geldiği iddiaları üzerine şirkete bu hizmetleri acilen yeniden devreye alma çağrısı yaptı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T14:06:15+00:00"
-  },
-  {
    "title": "Eli kanlı İsrailin İran planına Trumptan ret",
    "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israilin-iran-planina-trumptan-ret-960790.html",
    "summary": "Financial Timesın üç kaynağa dayandırdığı habere göre, eli kanlı Netanyahu, İrana yönelik saldırılar için orduya plan hazırlattığı Trumpın ise ABDdeki ara seçimler öncesinde çatışmaların yeniden başlamasına karşı…",
@@ -765,15 +810,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-21T14:06:00+00:00"
-  },
-  {
-   "title": "Fransa'nın Paris ve Toulon şehirlerinde yarın ve hafta sonu yapılacak gösteriler yasaklandı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransanin-paris-ve-toulon-sehirlerinde-yarin-ve-hafta-sonu-yapilacak-gosteriler-yasaklandi/4096097",
-   "summary": "Fransa’da sarı yeleklilerin 17 Ekim’deki eylemlerinde yaşanan şiddet olaylarının ardından hükümet bazı şehirlerde tedbirleri sıkılaştırırken Paris’te yarın, Toulon’da ise 24 Ekim’de yapılması planlanan eylemler…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T14:03:09+00:00"
   },
   {
    "title": "Dünya kritik eşiği aşmak üzere",
@@ -875,15 +911,6 @@
    "published": "2026-10-21T13:11:00+00:00"
   },
   {
-   "title": "Yemen'de kuşatma altındaki Taiz kenti çevresinde şiddetli çatışmalar yaşanıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-kusatma-altindaki-taiz-kenti-cevresinde-siddetli-catismalar-yasaniyor/4095999",
-   "summary": "Yemen'in kuşatma altındaki kenti Taiz'in farklı noktalarında, hükümet güçleri ile kuşatma altında tuttukları kente girmeye çalışan İran destekli Husiler arasında şiddetli çatışmalar yaşanıyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T13:10:49+00:00"
-  },
-  {
    "title": "DMM, 'AFAD dalgıçlarının toplu olarak görevi bıraktığı' iddialarını yalanladı",
    "link": "https://www.trthaber.com/haber/gundem/dmm-afad-dalgiclarinin-toplu-olarak-gorevi-biraktigi-iddialarini-yalanladi-960780.html",
    "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"AFAD'ın dalgıçlarının toplu olarak görevi bıraktığı ve su altı aramakurtarma kapasitesinin yetersiz olduğu\" yönündeki iddiaların asılsız…",
@@ -938,15 +965,6 @@
    "published": "2026-10-21T12:48:22+00:00"
   },
   {
-   "title": "Katil İsrail Filistinli gencin kanser hastası babasıyla vedalaşmasına izin vermedi",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israil-filistinli-gencin-kanser-hastasi-babasiyla-vedalasmasina-izin-vermedi-960776.html",
-   "summary": "Katil İsrailin alıkoyduğu Filistinli Yamen Amr, kanser hastası babasına son kez sarılamadı; oğlunun alıkonulmasına dayanamayan baba yalnızca 3 saat sonra hayatını kaybetti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T12:47:00+00:00"
-  },
-  {
    "title": "Fenerbahçeli Kadınlar Derneği, Batman'da öğrencilerle buluştu",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahceli-kadinlar-dernegi-batmanda-ogrencilerle-bulustu/4095957",
    "summary": "",
@@ -954,15 +972,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-21T12:41:04+00:00"
-  },
-  {
-   "title": "Kanada Başbakanı Mark Carney Türkiye'ye geliyor",
-   "link": "https://www.trthaber.com/haber/gundem/kanada-basbakani-mark-carney-turkiyeye-geliyor-960775.html",
-   "summary": "Kanada Başbakanı Mark Carney yarın Türkiye'de olacak. Cumhurbaşkanı Recep Tayyip Erdoğan'ın daveti üzerine gelecek olan Carney iki gün Türkiye'de bulunacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T12:37:00+00:00"
   },
   {
    "title": "Trabzonspor Teknik Direktörü Reis: Kadromuzdan mutluyum",
@@ -1341,15 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/425e/live/d3218050-cc89-11f1-9a39-31b474234113.jpg",
    "published": "2026-10-20T21:39:50+00:00"
-  },
-  {
-   "title": "Netflix'in geliri üçüncü çeyrekte yüzde 12 arttı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/netflixin-geliri-ucuncu-ceyrekte-yuzde-12-artti/4095162",
-   "summary": "Küresel yayın platformu Netflix'in geliri, bu yılın üçüncü çeyreğinde yıllık bazda yaklaşık yüzde 12 artarak 12,9 milyar dolara yükseldi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-20T21:18:39+00:00"
   }
  ]
 }
