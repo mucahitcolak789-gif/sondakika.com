@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-21T16:17:03.504498+00:00",
+ "updated": "2026-10-21T17:01:33.705559+00:00",
  "items": [
+  {
+   "title": "Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırılarında 2 Filistinli yaralandı",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilarinda-2-filistinli-yaralandi/4096302",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T16:52:05+00:00"
+  },
+  {
+   "title": "Galatasaray Fransa’da Lille deplasmanında",
+   "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki üçüncü karşılaşmasında Fransa ekibi Lille ile deplasmanda karşılaşıyor.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d70a/live/6f0afe80-c73d-11f1-9085-f95bdc648acc.jpg",
+   "published": "2026-10-21T16:46:22+00:00"
+  },
+  {
+   "title": "Çin Japonya'ya itriyum ihracatını, \"nükleer silah sahibi olma girişimini engellemek için\" kısıtlıyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cin-japonyaya-itriyum-ihracatini-nukleer-silah-sahibi-olma-girisimini-engellemek-icin-kisitliyor/4096292",
+   "summary": "Çin, Japonya'ya nadir toprak elementi itriyum (Y) ihracatını azaltmasının amacının, bu ülkenin yeniden askerileşmesini ve nükleer silah sahibi olma girişimini engellemek olduğunu bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T16:36:18+00:00"
+  },
+  {
+   "title": "Bakan Bolat: Türkiye'nin döküm sanayisindeki toplam üretimi 2025'te 2 milyon 300 bin ton oldu",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiyenin-dokum-sanayisindeki-toplam-uretimi-2025te-2-milyon-300-bin-ton-oldu/4096280",
+   "summary": "Ticaret Bakanı Bolat, Türkiye'nin döküm sanayisinde üretim kapasitesinin 3 milyon ton olduğunu belirterek, \"Toplam üretimimiz 2025 yılında 2 milyon 300 bin ton olmuştur.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T16:27:23+00:00"
+  },
+  {
+   "title": "Bakan Bolat: Türkiye dünyanın 11'inci büyük ekonomisi konumuna ulaştı",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-turkiye-dunyanin-11inci-buyuk-ekonomisi-konumuna-ulasti-960807.html",
+   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin dünyanın satın alma gücü paritesine göre 11'nci büyük ekonomisi konumuna ulaştığını ifade etti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T16:26:00+00:00"
+  },
+  {
+   "title": "İngiltere'de yazar ve ünlü isimlerden Palestine Action ve Sally Rooney için sansüre tepki",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yazar-ve-unlu-isimlerden-palestine-action-ve-sally-rooney-icin-sansure-tepki/4096276",
+   "summary": "Nobel, Pulitzer ve Booker ödüllü yazarların da aralarında bulunduğu 153 isim, Palestine Action'a destek verdiği gerekçesiyle kitaplarının İngiltere'deki satışları durdurulan İrlandalı yazar Sally Rooney'ye destek verdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T16:16:25+00:00"
+  },
   {
    "title": "İran Devrim Muhafızları Sözcüsü: Bombaların anası nükleer faaliyetlerimizi durduramaz",
    "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-sozcusu-bombalarin-anasi-nukleer-faaliyetlerimizi-durduramaz/4096266",
@@ -11,9 +65,9 @@
    "published": "2026-10-21T16:09:14+00:00"
   },
   {
-   "title": "Zonguldak'ta bina çöktü: Enkazda kalan 2 kişiden 1i kurtarıldı",
-   "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-enkazda-kalan-2-kisiden-1i-kurtarildi-960806.html",
-   "summary": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi için arama çalışması başlatıldı.",
+   "title": "Zonguldak'ta bina çöktü: 1 kişi kurtarıldı, 1 kişi öldü",
+   "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-bina-coktu-1-kisi-kurtarildi-1-kisi-oldu-960806.html",
+   "summary": "Zonguldak'ta çöken binanın enkazında kalan 1 kişi kurtarıldı, 1 kişi hayatını kaybetti.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -124,7 +178,7 @@
    "summary": "Azerbaycan hükümeti 31 Türk vatandaşını, ülkedeki okullarda başörtüsünün yasaklanması sonucu doğuran yönetmelik değişikliğine yönelik açıklamaları ve paylaşımları sonrası “istenmeyen kişi” ilan etti.",
    "source": "BBC Türkçe",
    "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6443/live/46ec00f0-c929-11f1-bcc7-a3638a736ce9.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08ca/live/17484e60-cd6d-11f1-bbdb-c39c91930f26.jpg",
    "published": "2026-10-21T15:33:51+00:00"
   },
   {
@@ -519,7 +573,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-21-ekim-2026/4096020",
    "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T13:21:43+00:00"
   },
@@ -531,15 +585,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-21T13:20:28+00:00"
-  },
-  {
-   "title": "60 saniyede bugün (21 Ekim 2026)",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-21-ekim-2026/4096016",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T13:20:24+00:00"
   },
   {
    "title": "AB, Booking.com hakkında soruşturma başlattı",
@@ -573,7 +618,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/yemende-kusatma-altindaki-taiz-kenti-cevresinde-siddetli-catismalar-yasaniyor/4095999",
    "summary": "Yemen'in kuşatma altındaki kenti Taiz'in farklı noktalarında, hükümet güçleri ile kuşatma altında tuttukları kente girmeye çalışan İran destekli Husiler arasında şiddetli çatışmalar yaşanıyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-21T13:10:49+00:00"
   },
@@ -600,7 +645,7 @@
    "link": "https://www.aa.com.tr/tr/spor/besiktas-teknik-direktoru-italiano-kaptan-orkun-kokcunun-eksikligini-kalite-acisindan-hissediyoruz/4095987",
    "summary": "UEFA Avrupa Ligi'nin üçüncü haftasında yarın sahasında İngiliz ekibi Crystal Palace ile karşılaşacak Beşiktaş'ta teknik direktör Vincenzo Italiano, kaptan Orkun Kökçü'nün eksikliğini kalite açısından hissettiklerini…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-21T13:01:50+00:00"
   },
@@ -632,12 +677,12 @@
    "published": "2026-10-21T12:52:00+00:00"
   },
   {
-   "title": "Bedir Mutabakat Zaptı'nın kapsamı ne?",
+   "title": "Türkiye dahil dört ülkenin imzaladığı Bedir Mutabakat Zaptı'nın kapsamı ne?",
    "link": "https://www.bbc.com/turkce/articles/ck9qz1lyg1r1o?at_medium=RSS&at_campaign=rss",
    "summary": "Türkiye, Katar, Pakistan ve Endonezya arasında Bedir Mutabakat Zaptı imzalandı. İmza töreni, Milli Savunma Bakanı Yaşar Güler'in Katar ziyareti sırasında gerçekleşti.",
    "source": "BBC Türkçe",
    "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2c3/live/8a7512e0-cd42-11f1-a64c-550be9e3c66b.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e22b/live/c46b7f10-cd6b-11f1-bbdb-c39c91930f26.jpg",
    "published": "2026-10-21T12:48:22+00:00"
   },
   {
@@ -957,30 +1002,12 @@
   },
   {
    "title": "İran: Altyapımızı hedef alırlarsa Hürmüz Boğazı'nın altından geçen internet kablolarını yok edebiliriz",
-   "link": "https://www.trthaber.com/haber/dunya/iran-altyapimizi-hedef-alirlarsa-hurmuz-bogazinin-altindan-gecen-internet-kablolarini-yok-edebiliriz-960757.html",
-   "summary": "İran Devrim Muhafızları Ordusu Komutanı'nın Siyasi İşlerden Sorumlu Yardımcısı Tuğgeneral Yedullah Cevani, ABD ve müttefiklerinin İran'ın altyapısını hedef alması halinde Hürmüz Boğazı'nın altından geçen internet…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T10:10:00+00:00"
-  },
-  {
-   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılar düzenledi",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilar-duzenledi/4095599",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-altyapimizi-hedef-alirlarsa-hurmuz-bogazinin-altindan-gecen-internet-kablolarini-yok-edebiliriz/4095633",
+   "summary": "Devrim Muhafızları Ordusu Komutanı'nın Siyasi İşlerden Sorumlu Yardımcısı Tuğgeneral Cevani, ABD ve müttefiklerinin İran'ın altyapısını hedef alması halinde Hürmüz Boğazı'nın altından geçen internet kablolarını yok…",
    "source": "AA",
    "category": "Dünya",
    "image": null,
-   "published": "2026-10-21T09:55:42+00:00"
-  },
-  {
-   "title": "Galatasaray Fransa’da Lille deplasmanında",
-   "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki üçüncü karşılaşmasında Fransa’nın Lille ekibiyle karşılaşacak.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d70a/live/6f0afe80-c73d-11f1-9085-f95bdc648acc.jpg",
-   "published": "2026-10-21T09:53:54+00:00"
+   "published": "2026-10-21T10:07:43+00:00"
   },
   {
    "title": "Sudan'daki barış girişimlerine yönelik altıncı danışma toplantısı Cenevre'de başladı",
@@ -1017,15 +1044,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-21T09:10:33+00:00"
-  },
-  {
-   "title": "AB Komisyonu, göç konusunda yeni acil müdahale çerçevesini yıl sonuna kadar sunmayı planlıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonu-goc-konusunda-yeni-acil-mudahale-cercevesini-yil-sonuna-kadar-sunmayi-planliyor/4095518",
-   "summary": "AB Komisyonu Başkanı von der Leyen, üye ülkelerin dış sınırlardaki ciddi tehditlere hızla yanıt verebilmesi için yeni \"Avrupa acil müdahale çerçevesini\" yıl sonuna kadar sunacaklarını belirtti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T09:10:29+00:00"
   },
   {
    "title": "Karşıyaka Başantrenörü Markovic, takımının kısa sürede yakaladığı uyumdan memnun",
@@ -1332,24 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-20T18:13:06+00:00"
-  },
-  {
-   "title": "Fenerbahçe-Slavia Prag maçı öncesinde taklit ürün satanlara geçit verilmedi",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-slavia-prag-maci-oncesinde-taklit-urun-satanlara-gecit-verilmedi/4094988",
-   "summary": "Emniyet güçleri, Fenerbahçe-Slavia Prag maçı öncesinde stat çevresinde taklit ürün satıcılarına geçit vermedi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-20T17:47:08+00:00"
-  },
-  {
-   "title": "Türk Telekom Basketbol Takımı, giydiği antrenman formalarıyla COP31'e dikkati çekti",
-   "link": "https://www.aa.com.tr/tr/spor/turk-telekom-basketbol-takimi-giydigi-antrenman-formalariyla-cop31e-dikkati-cekti/4094978",
-   "summary": "Türk Telekom oyuncuları, Antalya'da düzenlenecek COP31 ile ilgili farkındalık yaratmak için BKT Avrupa Kupası B Grubu'nda Siauliai Basketbol ile oynadıkları maç öncesi ısınmaya geri dönüştürülebilir malzemeden üretilmiş…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-20T17:31:00+00:00"
   }
  ]
 }
