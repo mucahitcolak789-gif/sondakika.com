@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-21T04:40:47.120314+00:00",
+ "updated": "2026-10-21T05:12:45.205977+00:00",
  "items": [
+  {
+   "title": "Meta, Brezilya'daki devlet başkanı seçiminde adaylara eşit muamele edildiğini belirtti",
+   "link": "https://www.aa.com.tr/tr/dunya/meta-brezilyadaki-devlet-baskani-seciminde-adaylara-esit-muamele-edildigini-belirtti/4095220",
+   "summary": "Meta, Brezilya Yüksek Seçim Mahkemesinin (TSE), devlet başkanı seçiminin ikinci turunda yarışan adayların kampanyalarına eşit muamele edildiğini göstermesinin istenmesi üzerine, adaylara eşit davrandığını açıkladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T05:05:29+00:00"
+  },
+  {
+   "title": "Arnavutköy'de işçi servisi hafriyat kamyonuna çarptı: 9 yaralı",
+   "link": "https://www.trthaber.com/haber/turkiye/arnavutkoyde-isci-servisi-hafriyat-kamyonuna-carpti-9-yarali-960708.html",
+   "summary": "İstanbul Arnavutköy'de işçileri taşıyan servis minibüsünün park halindeki hafriyat kamyonuna arkadan çarpması sonucu meydana gelen kazada 9 kişi yaralandı. Yaralılar ambulanslarla çevredeki hastanelere kaldırıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T04:56:00+00:00"
+  },
+  {
+   "title": "Arap Koalisyonu: Suudi Arabistan'ın Medine ve doğu bölgesinde 5 İHA saldırısı önlendi",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-suudi-arabistanin-medine-ve-dogu-bolgesinde-5-iha-saldirisi-onlendi/4095218",
+   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap koalisyonu, Medine-i Münevvere ve doğu bölgesinde 5 insansız hava aracının (İHA) engellenerek düşürüldüğünü duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T04:39:31+00:00"
+  },
+  {
+   "title": "Devrilen akaryakıt tankeri alev topuna döndü: 1 ölü",
+   "link": "https://www.trthaber.com/haber/turkiye/devrilen-akaryakit-tankeri-alev-topuna-dondu-1-olu-960706.html",
+   "summary": "Şanlıurfa'nın Viranşehir ilçesinde devrildikten sonra yanan akaryakıt tankerinin sürücüsü hayatını kaybetti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T04:38:00+00:00"
+  },
   {
    "title": "Eyüpsultan'da İBB'ye ağaç tepkisi",
    "link": "https://www.trthaber.com/haber/gundem/eyupsultanda-ibbye-agac-tepkisi-960704.html",
@@ -9,6 +45,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-21T04:22:00+00:00"
+  },
+  {
+   "title": "İran: Zenginleştirilmiş uranyumun tek bir gramı bile ülkemizden çıkarılmayacak",
+   "link": "https://www.trthaber.com/haber/dunya/iran-zenginlestirilmis-uranyumun-tek-bir-grami-bile-ulkemizden-cikarilmayacak-960705.html",
+   "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, \"Zenginleştirilmiş uranyumun tek bir gramı bile İrandan çıkarılmayacak. ABD güven tesis edecek adımlar atana kadar hiçbir müzakere yapılmayacak.\"…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T04:13:00+00:00"
   },
   {
    "title": "TGS, Fortune 500 Türkiye listesinde ilk 100'e girdi",
@@ -434,15 +479,6 @@
    "published": "2026-10-20T19:28:49+00:00"
   },
   {
-   "title": "Dışişleri Bakanı Fidan, Libyalı yetkililer Dibeybe ve Hafter ile telefonda görüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-libyali-yetkililer-dibeybe-ve-hafter-ile-telefonda-gorustu/4095072",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Libya Ulusal Birlik Hükümeti Başbakanı Abdulhamid Dibeybe ve Libya Ulusal Ordusu Genel Komutan Yardımcısı Saddam Hafter ile telefonda görüştü.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T19:28:41+00:00"
-  },
-  {
    "title": "Ankara'da EGO otobüsü üst geçidin ayağına çarptı: 24 yaralı",
    "link": "https://www.trthaber.com/haber/turkiye/ankarada-ego-otobusu-ust-gecidin-ayagina-carpti-24-yarali-960684.html",
    "summary": "Ankara'nın Etimesgut ilçesinde yoldan çıkan EGO otobüsünün yaya üst geçidinin ayağına çarpması sonucu ilk belirlemelere göre 24 kişi yaralandı. Otobüste sıkışan şoför kurtarılarak sağlık ekiplerine teslim edildi.",
@@ -474,7 +510,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/bmden-askeri-yapay-zekanin-duzenlenmesi-icin-baglayici-anlasma-yapilmasi-cagrisi/4095063",
    "summary": "Birleşmiş Milletler Silahsızlanma Araştırmaları Enstitüsü (UNIDIR) Direktörü Robin Geiss, askeri alanda yapay zeka kullanımının risklerine dikkati çekerek, ölümcül otonom silah sistemlerine ilişkin hukuken bağlayıcı bir…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-20T19:14:00+00:00"
   },
@@ -630,15 +666,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-20T16:56:00+00:00"
-  },
-  {
-   "title": "Hind Rajab’ın öldürülmesiyle bağlantılı İsrailli komutanın ABD'de tutuklanması çağrısı",
-   "link": "https://www.aa.com.tr/tr/dunya/hind-rajab-in-oldurulmesiyle-baglantili-israilli-komutanin-abdde-tutuklanmasi-cagrisi/4094954",
-   "summary": "Hind Rajab Vakfı (HRF), 2024 yılında Gazze'de 5 yaşındaki Hind Rajab’ın öldürülmesiyle bağlantılı olduğunu iddia ettiği İsrailli bir komutanın tutuklanıp yargılanması için ABD Adalet Bakanlığına başvurdu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-20T16:55:46+00:00"
   },
   {
    "title": "Prens Harry ailesiyle barışmak istediğini söyledi",
@@ -875,15 +902,6 @@
    "published": "2026-10-20T13:44:38+00:00"
   },
   {
-   "title": "Yeni MHK Başkanı Anthony Taylor oldu",
-   "link": "https://www.trthaber.com/haber/spor/yeni-mhk-baskani-anthony-taylor-oldu-960658.html",
-   "summary": "TFF, MHK Başkanlığı'na halen Elit Hakem Direktörü olarak görev yapan Anthony Taylor'un getirildiğini açıkladı. Süper Lig ve 1. Lig yayın ihalesi tarihi 30 Kasım olarak değiştirildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T13:44:00+00:00"
-  },
-  {
    "title": "Yüz fotoğrafınız ne kadar hasta olduğunuzu gösterebilir mi?",
    "link": "https://www.bbc.com/turkce/articles/cmjwe7y5wx5zo?at_medium=RSS&at_campaign=rss",
    "summary": "ABD'de yapılan bir araştırma, yapay zeka kullanılarak, bir hastalığın ne kadar ilerlemiş olduğunun hastanın yüz fotoğrafı üzerinden de değerlendirilebileceğini savundu.",
@@ -909,33 +927,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-20T13:38:59+00:00"
-  },
-  {
-   "title": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine hava saldırıları düzenledi",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi-960657.html",
-   "summary": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki beldelere hava saldırıları düzenledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T13:37:00+00:00"
-  },
-  {
-   "title": "Arap Birliği Genel Sekreteri: İsrail'in Lübnan'ın güneyindeki halka saldırıları kabul edilemez",
-   "link": "https://www.trthaber.com/haber/dunya/arap-birligi-genel-sekreteri-israilin-lubnanin-guneyindeki-halka-saldirilari-kabul-edilemez-960655.html",
-   "summary": "Arap Birliği Genel Sekreteri Nebil Fehmi, Lübnan'ın güneyine yaptığı ziyarette İsrail'in bölge halkını hedef alan saldırılarının \"kabul edilemez\" olduğunu söyledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T13:13:00+00:00"
-  },
-  {
-   "title": "Rubiodan üçlü zirveye olumlu mesaj",
-   "link": "https://www.trthaber.com/haber/dunya/rubiodan-uclu-zirveye-olumlu-mesaj-960656.html",
-   "summary": "ABD Dışişleri Bakanı Marco Rubio, ABD, Çin ve Rusya'nın silah kontrolü gibi konuları tartışacağı olası bir üçlü görüşmenin \"dünya için çok olumlu bir şey\" olacağını belirtti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-20T13:05:00+00:00"
   },
   {
    "title": "Bakan Bolat: Fiyat etiketi ve fahiş fiyat denetimlerini aralıksız sürdürüyoruz",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-19T18:34:48+00:00"
+  },
+  {
+   "title": "Milli halterciler, Avrupa Gençler ve 23 Yaş Altı Halter Şampiyonası'nı 40 madalyayla tamamladı",
+   "link": "https://www.aa.com.tr/tr/spor/milli-halterciler-avrupa-gencler-ve-23-yas-alti-halter-sampiyonasini-40-madalyayla-tamamladi/4093840",
+   "summary": "Avrupa Gençler ve 23 Yaş Altı Halter Şampiyonası'na katılan milli sporcular, 20 altın, 11 gümüş ve 9 bronz madalya kazandı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-19T18:22:02+00:00"
   }
  ]
 }
