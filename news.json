@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-21T19:58:19.309630+00:00",
+ "updated": "2026-10-21T20:24:56.542836+00:00",
  "items": [
+  {
+   "title": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-ve-filistin-topraklarini-gasbeden-israilliler-bati-seriada-12-saatte-23-saldiri-gerceklestirdi/4096478",
+   "summary": "İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:17:57+00:00"
+  },
+  {
+   "title": "Siber Güvenlik Başkanlığından ulusal ölçekte uyarı",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-960824.html",
+   "summary": "Siber Güvenlik Başkanlığı, dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:15:00+00:00"
+  },
+  {
+   "title": "Türkiye ile İran arasında sınır güvenliği toplantısı yapıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-iran-arasinda-sinir-guvenligi-toplantisi-yapildi/4096476",
+   "summary": "Türkiye ile İran arasında, sınır güvenliğine ilişkin konuların ele alındığı Mutat Toplantı, İran'ın Maku kentinde gerçekleştirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:13:14+00:00"
+  },
+  {
+   "title": "İstanbul'da kara para aklama soruşturmasında gözaltına alınan Emir Sarıgül tutuklandı",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-kara-para-aklama-sorusturmasinda-gozaltina-alinan-emir-sarigul-tutuklandi/4096473",
+   "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T20:10:26+00:00"
+  },
+  {
+   "title": "PHP'deki güvenlik açığı nedeniyle dünya çapında çok sayıda site kapatıldı",
+   "link": "https://www.trthaber.com/haber/dunya/phpdeki-guvenlik-acigi-nedeniyle-dunya-capinda-cok-sayida-site-kapatildi-960823.html",
+   "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T19:57:00+00:00"
+  },
+  {
+   "title": "Trump, Rusya-Ukrayna Savaşı'nda çözüme \"hiç olmadığı kadar yakın\" olduklarını belirtti",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti/4096462",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T19:55:45+00:00"
+  },
+  {
+   "title": "Katar Başbakan Yardımcısı: Bedir Mutabakatı, ülkelerimiz arasındaki savunma işbirliğine katkı sağlayacak",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-basbakan-yardimcisi-bedir-mutabakati-ulkelerimiz-arasindaki-savunma-isbirligine-katki-saglayacak/4096461",
+   "summary": "Katar Başbakan Yardımcısı ve Savunma İşlerinden Sorumlu Devlet Bakanı Al Sani, Türkiye, Katar, Pakistan ve Endonezya arasında imzalanan Bedir Mutabakat Zaptı'nın, ülkeler arasındaki savunma işbirliğine önemli katkı…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-21T19:55:34+00:00"
+  },
   {
    "title": "UEFA'dan Halil Umut Meler'e görev",
    "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4096457",
@@ -101,9 +164,9 @@
    "published": "2026-10-21T19:05:41+00:00"
   },
   {
-   "title": "Emir Sarıgül hakkında tutuklama talebi",
-   "link": "https://www.trthaber.com/haber/turkiye/emir-sarigul-hakkinda-tutuklama-talebi-960820.html",
-   "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül, tutuklama…",
+   "title": "İstanbul'da kara para soruşturmasında Sarıgül tutuklandı",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-sorusturmasinda-sarigul-tutuklandi-960820.html",
+   "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -348,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israillilerin-bati-seriadaki-saldirilarinda-2-filistinli-yaralandi/4096302",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-21T16:52:05+00:00"
   },
@@ -357,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/cin-japonyaya-itriyum-ihracatini-nukleer-silah-sahibi-olma-girisimini-engellemek-icin-kisitliyor/4096292",
    "summary": "Çin, Japonya'ya nadir toprak elementi itriyum (Y) ihracatını azaltmasının amacının, bu ülkenin yeniden askerileşmesini ve nükleer silah sahibi olma girişimini engellemek olduğunu bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T16:36:18+00:00"
   },
@@ -375,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiyenin-dokum-sanayisindeki-toplam-uretimi-2025te-2-milyon-300-bin-ton-oldu/4096280",
    "summary": "Ticaret Bakanı Bolat, Türkiye'nin döküm sanayisinde üretim kapasitesinin 3 milyon ton olduğunu belirterek, \"Toplam üretimimiz 2025 yılında 2 milyon 300 bin ton olmuştur.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T16:27:23+00:00"
   },
@@ -393,7 +456,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yazar-ve-unlu-isimlerden-palestine-action-ve-sally-rooney-icin-sansure-tepki/4096276",
    "summary": "Nobel, Pulitzer ve Booker ödüllü yazarların da aralarında bulunduğu 153 isim, Palestine Action'a destek verdiği gerekçesiyle kitaplarının İngiltere'deki satışları durdurulan İrlandalı yazar Sally Rooney'ye destek verdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-21T16:16:25+00:00"
   },
@@ -749,15 +812,6 @@
    "published": "2026-10-21T13:45:00+00:00"
   },
   {
-   "title": "Eski İsrailli istihbaratçı Netanyahu'nun seçim öncesi İran'la savaş planını çılgınlık olarak niteledi",
-   "link": "https://www.aa.com.tr/tr/dunya/eski-israilli-istihbaratci-netanyahunun-secim-oncesi-iranla-savas-planini-cilginlik-olarak-niteledi/4096053",
-   "summary": "Eski İsrailli istihbaratçı Citrinowicz, Başbakan Netanyahu hükümetinin 27 Ekim'deki genel seçimlere sayılı günler kala İran'la yeni bir savaş başlatma planını \"tam bir çılgınlık\" olarak niteledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T13:39:28+00:00"
-  },
-  {
    "title": "Ticaret Bakanı Bolat: Hem otomotivde hem de konut fiyatlarında (artış) manşet enflasyon oranının altında",
    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-hem-otomotivde-hem-de-konut-fiyatlarinda-artis-manset-enflasyon-oraninin-altinda/4096045",
    "summary": "Ticaret Bakanı Ömer Bolat, hayata geçirdikleri düzenlemeler sayesinde hem otomotivde hem de konut fiyatlarında artışın manşet enflasyonun altında kaldığını belirtti.",
@@ -765,15 +819,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T13:36:18+00:00"
-  },
-  {
-   "title": "İnsani yardım aktörlerini bir araya getiren AidEx 2026 Fuarı Cenevre'de başladı",
-   "link": "https://www.aa.com.tr/tr/dunya/insani-yardim-aktorlerini-bir-araya-getiren-aidex-2026-fuari-cenevrede-basladi/4096037",
-   "summary": "İnsani yardım ve afet müdahalesi alanında dünyanın önde gelen küresel konferans ve fuarı AidEx 2026, İsviçre'nin Cenevre kentinde başladı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T13:33:10+00:00"
   },
   {
    "title": "Bedir Mutabakat Zaptı dört ülkenin savunma sanayisi kabiliyetlerini buluşturacak",
@@ -918,24 +963,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-21T12:37:00+00:00"
-  },
-  {
-   "title": "Tesla ve SpaceX birleşebilir: Elon Musk ortaklığı değerlendirdiklerini açıkladı",
-   "link": "https://www.trthaber.com/haber/dunya/tesla-ve-spacex-birlesebilir-elon-musk-ortakligi-degerlendirdiklerini-acikladi-960773.html",
-   "summary": "Elon Musk, en büyük iki şirketi olan Tesla ve SpaceX'i birleştirmeyi aktif olarak değerlendirdiğini duyurdu. Finansal analiz toplantısında konuşan Musk, bu hamlenin büyük avantajlar sağlayabileceğini ancak ortaklığın…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T12:25:00+00:00"
-  },
-  {
-   "title": "Sokak hayvanlarının toplanmasında hedef sayılara ilişkin son durum ele alındı",
-   "link": "https://www.trthaber.com/haber/gundem/sokak-hayvanlarinin-toplanmasinda-hedef-sayilara-iliskin-son-durum-ele-alindi-960774.html",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi ve Tarım ve Orman Bakanı İbrahim Yumaklının katılımıyla düzenlenen toplantıda sokak hayvanlarının toplanmasına ilişkin belirlenen hedef sayılarda gelinen son durum ile atık besin…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T12:15:00+00:00"
   },
   {
    "title": "Trabzonspor Teknik Direktörü Reis: Kadromuzdan mutluyum",
@@ -1323,33 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-20T21:18:39+00:00"
-  },
-  {
-   "title": "UEFA Şampiyonlar Ligi'nin üçüncü haftası 9 maçla başladı",
-   "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginin-ucuncu-haftasi-9-macla-basladi/4095151",
-   "summary": "Avrupa futbolunun kulüp düzeyindeki bir numaralı turnuvasının lig aşamasında, üçüncü haftanın ilk gününde 9 karşılaşma oynandı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-20T21:01:00+00:00"
-  },
-  {
-   "title": "Süper Lig'den 10 kulüp PFDK'ye sevk edildi",
-   "link": "https://www.aa.com.tr/tr/spor/super-ligden-10-kulup-pfdkye-sevk-edildi/4095118",
-   "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 10 kulübü Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-20T20:25:13+00:00"
-  },
-  {
-   "title": "Fenerbahçe, galibiyeti son dakikada kaçırdı",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-galibiyeti-son-dakikada-kacirdi/4095019",
-   "summary": "UEFA Şampiyonlar Ligi'nin üçüncü haftasında Çekya'nın Slavia Prag takımını konuk eden Fenerbahçe, 90. dakikada yediği golle galibiyeti kaçırdı ve sahadan 2-2 beraberlikle ayrıldı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-20T18:33:05+00:00"
   }
  ]
 }
