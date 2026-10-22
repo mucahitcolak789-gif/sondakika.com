@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-22T04:02:48.369638+00:00",
+ "updated": "2026-10-22T04:40:30.550055+00:00",
  "items": [
+  {
+   "title": "Tuzla'da ayakkabı fabrikasında çıkan yangına müdahale ediliyor",
+   "link": "https://www.aa.com.tr/tr/gundem/tuzlada-ayakkabi-fabrikasinda-cikan-yangina-mudahale-ediliyor/4096598",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T04:33:12+00:00"
+  },
+  {
+   "title": "Küba Dışişleri Bakanı: ABD ambargoları Küba halkının günlük yaşamını hedef alıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/kuba-disisleri-bakani-abd-ambargolari-kuba-halkinin-gunluk-yasamini-hedef-aliyor/4096597",
+   "summary": "Küba Dışişleri Bakanı Bruno Rodriguez, ABD'yi Küba halkının günlük yaşamını hedef alan ambargolar uygulamakla suçladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T04:27:31+00:00"
+  },
+  {
+   "title": "Çukurova Belediyesi'ne yolsuzluk soruşturması: 49 şüpheli adliyeye sevk edildi",
+   "link": "https://www.trthaber.com/haber/turkiye/cukurova-belediyesine-yolsuzluk-sorusturmasi-49-supheli-adliyeye-sevk-edildi-960838.html",
+   "summary": "Adana Çukurova Belediyesi'ndeki usulsüzlüklere yönelik soruşturma kapsamında 51 şüpheli hakkında gözaltı kararı verilmişti. Aralarında Çukurova Belediye Başkanı Emrah Kozay ile geçen dönemki Belediye Başkanı Soner…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T04:24:00+00:00"
+  },
+  {
+   "title": "İhbara giden polislere ateş açan şüpheli etkisiz hale getirildi",
+   "link": "https://www.trthaber.com/haber/turkiye/ihbara-giden-polislere-ates-acan-supheli-etkisiz-hale-getirildi-960837.html",
+   "summary": "İstanbul Zeytinburnunda ihbar üzerine bir daireye gelen polis ekiplerine silahla ateş açan şüpheli, ekiplerin müdahalesiyle bacağından vurularak etkisiz hale getirildi. Yaralanan şüpheli hastaneye kaldırılırken, olayda…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T04:08:00+00:00"
+  },
   {
    "title": "Tuzla'da ayakkabı fabrikasında yangın",
    "link": "https://www.trthaber.com/haber/turkiye/tuzlada-ayakkabi-fabrikasinda-yangin-960836.html",
@@ -398,15 +434,6 @@
    "published": "2026-10-21T19:24:00+00:00"
   },
   {
-   "title": "Hollanda'da güvenlik açığı nedeniyle vatandaşlık hizmeti sunulan siteler erişime kapatıldı",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/hollandada-guvenlik-acigi-nedeniyle-vatandaslik-hizmeti-sunulan-siteler-erisime-kapatildi/4096418",
-   "summary": "Hollanda'da, yaygın kullanılan PHP programlama dilinde tespit edilen kritik güvenlik açıkları nedeniyle vatandaşların devlet hizmetlerine eriştiği DigiD ve MijnOverheid gibi internet siteleri geçici olarak kapatıldı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T19:12:57+00:00"
-  },
-  {
    "title": "'Rusya savaşı bitirmek için Ukrayna ve ABD ile görüşmelere yeniden başlamaya hazır'",
    "link": "https://www.bbc.com/turkce/articles/cm8xzrxwggv8o?at_medium=RSS&at_campaign=rss",
    "summary": "Vladimir Putin'in baş danışmanı, savaşın sona erdirilmesi için Rusya'nın ABD ve Ukrayna ile müzakereleri yeniden başlatmaya \"ilkesel olarak hazır\" olduğunu söyledi.",
@@ -447,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutmeyi-planliyor/4096399",
    "summary": "JPMorgan İstanbul Şubesi'nin yakın zamanda Türkiye'deki bankacılık faaliyetlerini büyütme kararı aldığı ve bu yöndeki çalışmaların ilgili yasal otoritelerle koordineli şekilde sürdürüldüğü bildirildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T18:52:53+00:00"
   },
@@ -749,15 +776,6 @@
    "published": "2026-10-21T15:59:01+00:00"
   },
   {
-   "title": "Libya Başkanlık Konseyi Başkan Yardımcısı: Türkiye-Libya muhtırasının onaylanması son derece yerinde bir adım",
-   "link": "https://www.aa.com.tr/tr/dunya/libya-baskanlik-konseyi-baskan-yardimcisi-turkiye-libya-muhtirasinin-onaylanmasi-son-derece-yerinde-bir-adim/4096245",
-   "summary": "",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T15:55:40+00:00"
-  },
-  {
    "title": "Türk Dünyası'na uygun Özbek alfabesi yürürlüğe girdi",
    "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-dunyasina-uygun-ozbek-alfabesi-yururluge-girdi-960799.html",
    "summary": "AK Parti Genel Başkan Yardımcısı, Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Türk Dünyası'na uygun Özbek alfabesinin Özbekistan Cumhurbaşkanı Şevket Mirziyoyev tarafından imzalanarak yürürlüğe girmesinden…",
@@ -963,24 +981,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-21T14:01:00+00:00"
-  },
-  {
-   "title": "Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi TBMM'de",
-   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-tbmmde-960788.html",
-   "summary": "Türkiye, Pakistan ve Suudi Arabistan Arasında Ortak Savunma İçin Mekke Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi, TBMM Başkanlığına sunuldu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T13:56:00+00:00"
-  },
-  {
-   "title": "Trumpın Ukrayna politikası Cumhuriyetçileri kızdırdı",
-   "link": "https://www.trthaber.com/haber/dunya/trumpin-ukrayna-politikasi-cumhuriyetcileri-kizdirdi-960787.html",
-   "summary": "ABD Başkanı Donald Trumpın Rusya politikasına tepki gösteren bazı Cumhuriyetçiler, Ukrayna savaşını yönetme biçimi nedeniyle başkanın siyasi gündemine desteklerini çekebilecekleri uyarısında bulundu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T13:45:00+00:00"
   },
   {
    "title": "Ticaret Bakanı Bolat: Hem otomotivde hem de konut fiyatlarında (artış) manşet enflasyon oranının altında",
