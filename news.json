@@ -1,14 +1,122 @@
 {
- "updated": "2026-10-22T11:14:05.973335+00:00",
+ "updated": "2026-10-22T11:48:04.782011+00:00",
  "items": [
   {
-   "title": "Merkez Bankası faizi %36'ya indirdi",
+   "title": "Altın Portakal'da sürdürülebilir yapımlara ödül verilecek",
+   "link": "https://www.aa.com.tr/tr/kultur/altin-portakalda-surdurulebilir-yapimlara-odul-verilecek/4097138",
+   "summary": "63. Uluslararası Antalya Altın Portakal Film Festivali kapsamında, sinema sektöründe çevre duyarlılığını artırmak amacıyla ilk kez \"Yeşil Setler Mümkün\" ödülleri verilecek.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:43:22+00:00"
+  },
+  {
+   "title": "Merkez Bankası faizi %36'ya indirme kararı nasıl yorumlandı?",
    "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), politika faizini 1 puan indirerek yüzde 37'den yüzde 36'ya çekti.",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), politika faizini 100 baz puan indirerek % 36'ya çekti. Böylelikle TCMB politika faizini dokuz ay sonra ilk kez indirmiş oldu.",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc0d/live/cd468d30-cd40-11f1-8177-0f8bd59b54c4.jpg",
-   "published": "2026-10-22T11:09:36+00:00"
+   "published": "2026-10-22T11:41:24+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan, TDT Genel Sekreteri Ömüraliyev'i kabul etti",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-tdt-genel-sekreteri-omuraliyevi-kabul-etti/4097136",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Teşkilatı (TDT) Genel Sekreteri Kubanıçbek Ömüraliyev'i kabul etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:39:30+00:00"
+  },
+  {
+   "title": "PHP kriziyle ilgili merak edilenler",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/php-kriziyle-ilgili-merak-edilenler-960902.html",
+   "summary": "Dünya genelinde milyonlarca internet sitesi ve kurumsal uygulamanın temelini oluşturan PHP altyapısında şifresiz erişim riski barındıran güvenlik açığı tespit edildi. Birçok ülkeyi alarma geçiren ve Türkiye'de de…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:36:00+00:00"
+  },
+  {
+   "title": "Bakan Tekin: Okullardaki fiziki altyapımız ile OECD ortalamasının üzerine çıktık",
+   "link": "https://www.trthaber.com/haber/egitim/bakan-tekin-okullardaki-fiziki-altyapimiz-ile-oecd-ortalamasinin-uzerine-ciktik-960901.html",
+   "summary": "Milli Eğitim Bakanı Tekin, okullara yapılan fiziki altyapı yatırımlarıyla OECD ortalamalarının üzerine çıkıldığını söyledi. UNDP raporuna göre, dersliklerde etkileşimli tahta ve internet bulunan tek ülkenin, Türkiye…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:35:00+00:00"
+  },
+  {
+   "title": "KPSS Ortaöğretim pazar günü yapılacak",
+   "link": "https://www.trthaber.com/haber/egitim/kpss-ortaogretim-pazar-gunu-yapilacak-960900.html",
+   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi ÖSYM Başkanlığınca düzenlenen Kamu Personel Seçme Sınavı Ortaöğretim 2026KPSS Ortaöğretim, 25 Ekim Pazar günü gerçekleştirilecek.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:33:00+00:00"
+  },
+  {
+   "title": "5 soruda yazılım altyapısı PHP'deki güvenlik krizi",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/5-soruda-yazilim-altyapisi-phpdeki-guvenlik-krizi/4097131",
+   "summary": "İnternet siteleri ve kurumsal uygulamalarda kullanılan PHP programlama dilinde tespit edilen iki kritik güvenlik açığına karşı dünya genelinde yeni önlemler devreye alınırken kurum ve kuruluşlar açıkların giderilmesi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:31:43+00:00"
+  },
+  {
+   "title": "Tasfiyedeki fon sayısı 131'den 47'ye geriledi",
+   "link": "https://www.trthaber.com/haber/gundem/tasfiyedeki-fon-sayisi-131den-47ye-geriledi-960898.html",
+   "summary": "Fon Koordinasyon Kurulu toplantısının ardından yapılan açıklamaya göre, yürütülen tasfiye çalışmaları kapsamında fon sayısı 131den 47ye düşerken, 55 bin 755 hesaba toplam 49,7 milyar TL ödeme yapıldı. TBMMde görüşülen…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:24:00+00:00"
+  },
+  {
+   "title": "İstanbul'da kara para aklama soruşturması: 5 şüpheli daha gözaltına alındı",
+   "link": "https://www.trthaber.com/haber/gundem/istanbulda-kara-para-aklama-sorusturmasi-5-supheli-daha-gozaltina-alindi-960896.html",
+   "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında Mustafa Sarıgül'ün korumasının da aralarında…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:17:00+00:00"
+  },
+  {
+   "title": "Numan Kurtulmuş: Süreç tıkır tıkır işliyor",
+   "link": "https://www.trthaber.com/haber/gundem/numan-kurtulmus-surec-tikir-tikir-isliyor-960895.html",
+   "summary": "Türkiye Büyük Millet Meclisi Başkanı Numan Kurtulmuş, \"Terörsüz Türkiye Tıkır tıkır işliyor hiçbir şey geç kalmıyor. Herkes üzerine düşen sorumluluğu yerine getirsin, bir diğerine ödev vermeye kalkmasın\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:17:00+00:00"
+  },
+  {
+   "title": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
+   "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo?at_medium=RSS&at_campaign=rss",
+   "summary": "İnternet genelinde yaygın olarak kullanılan bir programlama dili olan PHP'deki güvenlik açıkları, yapay zeka tarafından şimdiye kadar bulunan en önemli açıklar olarak nitelendirildi.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+   "published": "2026-10-22T11:14:56+00:00"
+  },
+  {
+   "title": "Avustralya'da, platformlarının çocuklara zarar verdiği gerekçesiyle Meta'ya toplu dava açıldı",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/avustralyada-platformlarinin-cocuklara-zarar-verdigi-gerekcesiyle-metaya-toplu-dava-acildi/4097094",
+   "summary": "Avustralya'da, Facebook ve Instagram'ın bağımlılığa yol açan tasarımları ve zararlı içerikleri nedeniyle çocukların zarar gördüğü iddiasıyla Meta'ya karşı toplu dava açıldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:12:16+00:00"
+  },
+  {
+   "title": "Türkiye'nin Çin'e su ürünleri ihracatı yaklaşık 3 katına çıktı",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-cine-su-urunleri-ihracati-yaklasik-3-katina-cikti-960893.html",
+   "summary": "Türkiye ile Çin arasında su ürünleri ihracatına yönelik geçen yıl imzalanan protokollerin ardından bu ülkeye dış satım yılın 9 ayında yaklaşık 3 katına çıkarak 18 milyon 7 bin dolara ulaştı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:09:00+00:00"
   },
   {
    "title": "ABD ve İsrail'den seçimlerin gölgesinde İran'a saldırı hazırlığı iddiaları yoğunlaştı",
@@ -20,6 +128,15 @@
    "published": "2026-10-22T11:06:55+00:00"
   },
   {
+   "title": "3 ilçenin ağır ceza mahkemesi yargı çevresi yeniden belirlendi",
+   "link": "https://www.trthaber.com/haber/turkiye/3-ilcenin-agir-ceza-mahkemesi-yargi-cevresi-yeniden-belirlendi-960892.html",
+   "summary": "Hakimler ve Savcılar Kurulu HSK, Tekirdağ'ın Malkara ilçesi ile Çanakkale'nin Gelibolu ve Eceabat ilçelerinin ağır ceza mahkemesi yargı çevresinin, Keşan Ağır Ceza Mahkemesi yargı çevresine bağlanmasına karar verdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T11:06:00+00:00"
+  },
+  {
    "title": "Dışişleri Bakan Yardımcısı Büyükelçi Kulaklıkaya, Sudan ve Gazze'deki durumu değerlendirdi",
    "link": "https://www.aa.com.tr/tr/dunya/disisleri-bakan-yardimcisi-buyukelci-kulaklikaya-sudan-ve-gazzedeki-durumu-degerlendirdi/4097073",
    "summary": "Dışişleri Bakan Yardımcısı Büyükelçi Musa Kulaklıkaya, Sudan'daki duruma işaret ederek \"Temennimiz hemen ateşkesin sağlanması ve barış odaklı yaklaşımların benimsenmesi.\" dedi.",
@@ -29,9 +146,9 @@
    "published": "2026-10-22T11:04:18+00:00"
   },
   {
-   "title": "Merkez Bankası politika faizini 100 baz puan indirerek yüzde 36'ya çekti",
-   "link": "https://www.aa.com.tr/tr/ekonomi/-merkez-bankasi-politika-faizini-100-baz-puan-indirerek-yuzde-36ya-cekti/4097070",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası politika faizini 100 baz puan indirerek yüzde 36’ya çekti.",
+   "title": "Merkez Bankası, politika faizini yüzde 36'ya indirdi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-politika-faizini-yuzde-36ya-indirdi/4097070",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) Para Politikası Kurulu (PPK), politika faizi olan bir hafta vadeli repo ihale faiz oranını 100 baz puan indirerek yüzde 36'ya çekti.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -108,6 +225,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T10:38:42+00:00"
+  },
+  {
+   "title": "Beşiktaş, UEFA Avrupa Ligi'nde Crystal Palace'ı konuk ediyor",
+   "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
+   "summary": "Beşiktaş, UEFA Avrupa Ligi'nin üçüncü hafta maçında Dolmabahçe'de İngiltere Premier Lig takımlarından Crystal Palace'ı ağırlayacak",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c2c8/live/cb8491d0-ce04-11f1-8991-296181d7e3de.png",
+   "published": "2026-10-22T10:38:33+00:00"
   },
   {
    "title": "Putin'in temsilcisi Dmitriyev, Kuzey Akım hatlarının yeniden devreye alınacağını söyledi",
@@ -272,15 +398,6 @@
    "published": "2026-10-22T09:59:55+00:00"
   },
   {
-   "title": "ABD'li milyarder Musk, gelecekte yapay zekanın kendi kendini kontrol edeceğini söyledi",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abdli-milyarder-musk-gelecekte-yapay-zekanin-kendi-kendini-kontrol-edecegini-soyledi/4096966",
-   "summary": "SpaceX ile Tesla'nın Üst Yöneticisi (CEO) ABD'li milyarder Elon Musk, gelecekte zengin kişilerin dahi yapay zekayı kontrol edemeyeceğini savunarak, \"Bence (yapay zeka) kendi kendini kontrol edecek.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T09:54:26+00:00"
-  },
-  {
    "title": "Cumhuriyet'in ilk yıllarında kurulan liseden Kayseri'nin ticaret hayatına nitelikli iş gücü desteği",
    "link": "https://www.aa.com.tr/tr/kultur/cumhuriyetin-ilk-yillarinda-kurulan-liseden-kayserinin-ticaret-hayatina-nitelikli-is-gucu-destegi/4096964",
    "summary": "Modern finansal kavramların 4 bin yıl önce kil tabletlere kazındığı Kayseri'de, Cumhuriyet'in ilk yıllarında kurulan lise kentin ticari hayatına muhasebeci yetiştiriyor.",
@@ -308,20 +425,11 @@
    "published": "2026-10-22T09:48:03+00:00"
   },
   {
-   "title": "\"Peyami Safa Sempozyumu\" Zeytinburnu Kültür Sanat'ta yarın başlıyor",
-   "link": "https://www.aa.com.tr/tr/kultur/peyami-safa-sempozyumu-zeytinburnu-kultur-sanatta-yarin-basliyor/4096958",
-   "summary": "Türk edebiyatının ve düşünce dünyasının önemli isimlerinden Peyami Safa, Zeytinburnu Belediyesinin düzenlediği iki günlük sempozyumda farklı yönleriyle ele alınacak.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T09:45:57+00:00"
-  },
-  {
    "title": "Gazze'deki hastanelerde jeneratör yakıtı ve malzeme sıkıntısı sağlık hizmetlerini durma noktasına getirdi",
    "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-hastanelerde-jenerator-yakiti-ve-malzeme-sikintisi-saglik-hizmetlerini-durma-noktasina-getirdi/4096956",
    "summary": "İsrail ordusunun elektrik şebekelerini tahrip ettiği Gazze Şeridi'nde, jeneratörler için yakıt ve motor yağlarının tükenmesi ile yedek parça sıkıntısı nedeniyle hastanelerdeki acil sağlık hizmetleri durma noktasına…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-22T09:45:20+00:00"
   },
@@ -357,7 +465,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusya-devlet-baskani-putin-avrasya-kuresel-ekonomide-oncu-rol-oynuyor/4096945",
    "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrasya'nın küresel ekonomide öncü rol oynadığını belirterek, dünya Gayri Safi Yurt İçi Hasıla'nın (GSYH) yaklaşık üçte ikisinin bölgede üretildiğini bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-22T09:37:04+00:00"
   },
@@ -366,18 +474,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/ajetten-yurt-ici-ucuslarda-indirimli-bilet-kampanyasi/4096941",
    "summary": "AJet, yurt içi uçuşlarda vergiler dahil 1200 liradan başlayan fiyatlarla indirimli biletleri satışa sundu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T09:36:12+00:00"
-  },
-  {
-   "title": "Şehit annelerinin ve eşlerinin ördüğü battaniyeler devlet korumasındaki bebeklere sarıldı",
-   "link": "https://www.aa.com.tr/tr/gundem/sehit-annelerinin-ve-eslerinin-ordugu-battaniyeler-devlet-korumasindaki-bebeklere-sarildi/4096938",
-   "summary": "Evlat acısı yaşayan şehit anneleri ile eşlerinin ellerinden çıkan ve bir annenin şefkatini taşıyan battaniyeler, \"İlk Battaniyem Projesi\" kapsamında devlet korumasındaki bebeklere örtüldü.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T09:34:55+00:00"
   },
   {
    "title": "İstanbul Havalimanı'ndaki 4. pist ile yaklaşık bir ayda 284 ton yakıt tasarrufu sağlandı",
@@ -504,15 +603,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T09:00:00+00:00"
-  },
-  {
-   "title": "Türkiye'nin Çin'e su ürünleri ihracatı yaklaşık 3 katına çıktı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-cine-su-urunleri-ihracati-yaklasik-3-katina-cikti/4096879",
-   "summary": "Türkiye ile Çin arasında su ürünleri ihracatına yönelik geçen yıl imzalanan protokollerin ardından bu ülkeye dış satım yılın 9 ayında yaklaşık 3 katına çıkarak 18 milyon 7 bin dolara ulaştı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-22T08:56:40+00:00"
   },
   {
    "title": "Kayserispor'un deneyimli file bekçisi Gökhan Değirmenci, 7 maçta kalesini gole kapattı",
@@ -776,6 +866,15 @@
    "published": "2026-10-22T08:06:14+00:00"
   },
   {
+   "title": "İstanbul'un kayıp tarihi mirası Sarayburnu'nda 70 yıl sonra yeniden yükseliyor",
+   "link": "https://www.aa.com.tr/tr/kultur/istanbulun-kayip-tarihi-mirasi-sarayburnunda-70-yil-sonra-yeniden-yukseliyor/4096782",
+   "summary": "İstanbul'un tarihi siluetinden yaklaşık 70 yıl önce silinen Bostancılar Tabhanesi Mescidi, diğer adıyla Yedekçiler Mescidi, Sarayburnu'nda yeniden ihya ediliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:05:53+00:00"
+  },
+  {
    "title": "Türkiye, deniz ulaşımında üç katına çıkaracağı bütçeyle \"yelkenler fora\" diyecek",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-deniz-ulasiminda-uc-katina-cikaracagi-butceyle-yelkenler-fora-diyecek/4096778",
    "summary": "Türkiye, bu yıl bütçesinde deniz yoluyla ulaşım için ayırdığı 6,8 milyar liralık payı gelecek yıl 18,1 milyar liraya çıkaracak.",
@@ -911,15 +1010,6 @@
    "published": "2026-10-22T07:15:34+00:00"
   },
   {
-   "title": "Edirne'de polisten kaçan alkollü sürücüye 250 bin lira ceza",
-   "link": "https://www.trthaber.com/haber/turkiye/edirnede-polisten-kacan-alkollu-surucuye-250-bin-lira-ceza-960848.html",
-   "summary": "Edirne'nin Keşan ilçesinde \"dur\" ihtarına uymayan sürücü, polis ekiplerince durduruldu. İki kez alkollü araç kullanmaktan ehliyeti geri alınan sürücüye 250 bin lira ceza kesilirken, üzerinde tabanca ve 13 mermi bulundu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T07:10:00+00:00"
-  },
-  {
    "title": "Troya'da 160 yılı aşkın kazı tarihinin ilk müzik aleti bulundu",
    "link": "https://www.trthaber.com/haber/kultur-sanat/troyada-160-yili-askin-kazi-tarihinin-ilk-muzik-aleti-bulundu-960852.html",
    "summary": "Kültür ve Turizm Bakanlığının Geleceğe Miras Projesi kapsamında sürdürdüğü Troya kazılarında, yaklaşık 2 bin 800 yıllık kemik flüt ile 4 bin 500 yıllık insan biçimli idol başı bulundu. Flüt, 160 yılı aşkın Troya…",
@@ -927,33 +1017,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T07:08:00+00:00"
-  },
-  {
-   "title": "Marmara ve Kıyı Ege için kuvvetli yağış uyarısı",
-   "link": "https://www.trthaber.com/haber/turkiye/marmara-ve-kiyi-ege-icin-kuvvetli-yagis-uyarisi-960849.html",
-   "summary": "Marmara ve Kıyı Ege'de yarın etkili olacak yağışların, Marmara'nın kuzeybatısında yerel olarak kuvvetli olacağı tahmin ediliyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T07:08:00+00:00"
-  },
-  {
-   "title": "Zonguldak'ta çöken binanın çevresindeki 7 bina tahliye edildi",
-   "link": "https://www.trthaber.com/haber/turkiye/zonguldakta-coken-binanin-cevresindeki-7-bina-tahliye-edildi-960847.html",
-   "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı çöken binanın çevresindeki 7 bina tedbiren boşaltıldı. Binalardan tahliye edilen 30 kişi misafirhanelere ve yakınlarının yanına yerleştirildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T07:04:00+00:00"
-  },
-  {
-   "title": "Tekirdağ'da iki otomobil çarpıştı: 1 ölü",
-   "link": "https://www.trthaber.com/haber/turkiye/tekirdagda-iki-otomobil-carpisti-1-olu-960846.html",
-   "summary": "Tekirdağ'ın Şarköy ilçesinde iki otomobilin çarpışması sonucu 1 kişi öldü, 3 kişi yaralandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T07:03:00+00:00"
   },
   {
    "title": "Borsa güne düşüşle başladı",
@@ -983,42 +1046,6 @@
    "published": "2026-10-22T06:44:07+00:00"
   },
   {
-   "title": "Petrol fiyatı arz endişeleriyle 111 doları aştı",
-   "link": "https://www.trthaber.com/haber/ekonomi/petrol-fiyati-arz-endiseleriyle-111-dolari-asti-960844.html",
-   "summary": "Körfez'deki enerji tesislerine yönelik saldırılar ve İran gerilimi küresel petrol arzı endişelerini tırmandırdı. Brent petrolün varili uluslararası piyasalarda 111,48 dolardan işlem görüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T06:40:00+00:00"
-  },
-  {
-   "title": "9. İstanbul Arabuluculuk Konferansı yarın başlayacak",
-   "link": "https://www.trthaber.com/haber/gundem/9-istanbul-arabuluculuk-konferansi-yarin-baslayacak-960845.html",
-   "summary": "9. İstanbul Arabuluculuk Konferansı, Dışişleri Bakanı Hakan Fidan'ın ev sahipliğinde 2324 Ekim'de düzenlenecek.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T06:37:00+00:00"
-  },
-  {
-   "title": "Altın fiyatlarında düşüş sürüyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-dusus-suruyor-960843.html",
-   "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 543 liradan işlem görüyor. Çeyrek altın 10 bin 728 liradan, Cumhuriyet altını 42 bin 760 liradan satılıyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T06:37:00+00:00"
-  },
-  {
-   "title": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
-   "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo?at_medium=RSS&at_campaign=rss",
-   "summary": "İnternet genelinde yaygın olarak kullanılan bir programlama dili olan PHP'deki güvenlik açıkları, yapay zeka tarafından şimdiye kadar bulunan en önemli açıklar olarak nitelendirildi.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
-   "published": "2026-10-22T06:36:09+00:00"
-  },
-  {
    "title": "ABD'de Kongre üyesi, İsrail'in Filistinlilere yönelik soykırımının sona ermediğini belirtti",
    "link": "https://www.aa.com.tr/tr/dunya/abdde-kongre-uyesi-israilin-filistinlilere-yonelik-soykiriminin-sona-ermedigini-belirtti/4096652",
    "summary": "ABD Temsilciler Meclisi Üyesi Delia Ramirez, İsrail'in Filistinlilere yönelik soykırımının sona ermediğini vurgulayarak ABD'nin İsrail'e silah yardımını engellemeyi amaçlayan yasa tasarısının kabul edilmesi çağrısında…",
@@ -1037,15 +1064,6 @@
    "published": "2026-10-22T06:33:44+00:00"
   },
   {
-   "title": "Sosyal medya platformlarına ceza yağıyor",
-   "link": "https://www.trthaber.com/haber/dunya/sosyal-medya-platformlarina-ceza-yagiyor-960850.html",
-   "summary": "Sosyal medya platformları çeşitli ihlaller nedeniyle yüklü miktarda cezalarla karşı karşıya kalıyor. Son olarak ABD'de Meta, tüketiciyi koruma yasalarını ihlal etmekten 25 milyar dolarlık cezaya çarptırıldı. Peki, yakın…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T06:25:00+00:00"
-  },
-  {
    "title": "Mardin ve Gaziantep'teki iki sulama yapısı uluslararası ödüle layık görüldü",
    "link": "https://www.aa.com.tr/tr/ekonomi/mardin-ve-gaziantepteki-iki-sulama-yapisi-uluslararasi-odule-layik-goruldu/4096639",
    "summary": "Tarım ve Orman Bakanı Yumaklı, Fransa'nın Marsilya kentinde düzenlenen Uluslararası Sulama ve Drenaj Komisyonu (ICID) 2026 Kongresi'nde, Mardin Dara Antik Kenti Su Sistemi ile Gaziantep Oğuzeli Halep Arığı Su…",
@@ -1053,24 +1071,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T06:23:52+00:00"
-  },
-  {
-   "title": "Çukurova Belediye Başkanı dahil 49 kişi adliyeye sevk edildi",
-   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo?at_medium=RSS&at_campaign=rss",
-   "summary": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b61/live/7609bbe0-cb8e-11f1-93a7-b36f3083f4d3.jpg",
-   "published": "2026-10-22T06:19:03+00:00"
-  },
-  {
-   "title": "Küresel piyasalarda yön arayışı sürüyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-yon-arayisi-suruyor-960842.html",
-   "summary": "Küresel piyasalarda, ABD'de büyük teknoloji şirketlerinin bilançolarından alınan sinyaller ve yapay zeka yatırımlarının finansmanıyla ilgili endişelerin sürmesiyle karışık bir seyir izlenirken, yurt içinde gözler…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T06:09:00+00:00"
   },
   {
    "title": "Yurt içinde gözler TCMB'nin faiz kararına çevrildi",
