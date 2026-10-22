@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-22T16:34:31.889745+00:00",
+ "updated": "2026-10-22T17:12:33.527973+00:00",
  "items": [
+  {
+   "title": "YÖK'ten öğrenci affı kapsamında yatay geçişte taban puan düzenlemesi",
+   "link": "https://www.aa.com.tr/tr/gundem/yokten-ogrenci-affi-kapsaminda-yatay-geciste-taban-puan-duzenlemesi-/4097704",
+   "summary": "Yükseköğretim Kurulunca (YÖK) öğrenci affı kapsamında öğrenimlerine yeniden başlama hakkı kazananların yatay geçiş işlemlerine ilişkin ek düzenleme yapıldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T17:10:53+00:00"
+  },
+  {
+   "title": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM'de kabul edilerek yasalaştı",
+   "link": "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlari-hakkinda-kanun-teklifi-tbmmde-kabul-edilerek-yasalasti-/4097702",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T17:05:22+00:00"
+  },
+  {
+   "title": "Fon düzenlemelerini içeren kanun teklifi yasalaştı",
+   "link": "https://www.trthaber.com/haber/gundem/fon-duzenlemelerini-iceren-kanun-teklifi-yasalasti-960936.html",
+   "summary": "Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi, TBMM Genel Kurulunda kabul edilerek yasalaştı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T17:05:00+00:00"
+  },
+  {
+   "title": "ABD'de Senatör Sanders'tan Müslüman senatör adayı El-Sayed'in desteklenmesi çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-senator-sanderstan-musluman-senator-adayi-el-sayedin-desteklenmesi-cagrisi/4097696",
+   "summary": "ABD'li Senatör Sanders, İsrail yanlısı lobi grubu AIPAC'ın, Demokrat senatör adayı El Sayed'in ara seçimleri kaybetmesi için 9 milyon dolarlık büyük bir bütçe oluşturduğunu belirterek, Müslüman Senato adayına destek…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T16:59:47+00:00"
+  },
+  {
+   "title": "Call of Duty oyunundaki gibi Kuzey Kore, Güney Kore'yi işgal edebilir mi?",
+   "link": "https://www.bbc.com/turkce/articles/c5rmyxp292mxo?at_medium=RSS&at_campaign=rss",
+   "summary": "Call of Duty oyununda Kuzey Kore, Güney Kore'yi işgal ediyor. Bu senaryo ne kadar gerçekçi ve bu gerçekleşse riskler neler olurdu?",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e95/live/d4b2d1b0-cc68-11f1-baeb-8d65d4bcd7ab.jpg",
+   "published": "2026-10-22T16:49:08+00:00"
+  },
+  {
+   "title": "Konya'da tarihi Larende Kapısı ve sur duvarları gün yüzüne çıkarılıyor",
+   "link": "https://www.aa.com.tr/tr/kultur/konyada-tarihi-larende-kapisi-ve-sur-duvarlari-gun-yuzune-cikariliyor/4097679",
+   "summary": "Konya Büyükşehir Belediye Başkanı Uğur İbrahim Altay, Larende bölgesinde yürütülen kazı çalışmalarını basın mensuplarıyla birlikte inceleyerek tarihi Larende Kapısı'nın taşları ve duvarlarıyla ortaya çıkarıldığını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T16:44:50+00:00"
+  },
+  {
+   "title": "American Airlines, yakıt maliyetlerindeki artışla bu yıl daha yüksek zarar bekliyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/american-airlines-yakit-maliyetlerindeki-artisla-bu-yil-daha-yuksek-zarar-bekliyor/4097674",
+   "summary": "ABD'li hava yolu şirketi American Airlines, bu yılın üçüncü çeyreğinde rekor gelir elde etmesine rağmen yakıt maliyetlerindeki artışın etkisiyle bu yıla ilişkin zarar beklentisini yükseltti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T16:40:13+00:00"
+  },
   {
    "title": "İstanbula sel desteği 430 milyon liraya ulaştı",
    "link": "https://www.trthaber.com/haber/turkiye/istanbula-sel-destegi-430-milyon-liraya-ulasti-960935.html",
@@ -11,8 +74,8 @@
    "published": "2026-10-22T16:24:00+00:00"
   },
   {
-   "title": "Bakan Göktaş, selden etkilenen İstanbul'a 230 milyon lira daha kaynak aktarıldığını bildirdi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-goktas-selden-etkilenen-istanbula-230-milyon-lira-daha-kaynak-aktarildigini-bildirdi/4097659",
+   "title": "Selden etkilenen İstanbul'a 230 milyon lira daha kaynak aktarıldı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/selden-etkilenen-istanbula-230-milyon-lira-daha-kaynak-aktarildi/4097659",
    "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, İstanbul'da sel felaketinden etkilenen vatandaşların temel ihtiyaçlarını karşılamak amacıyla yardımlara ek olarak 230 milyon lira kaynak aktardıklarını bildirdi.",
    "source": "AA",
    "category": "Gündem",
@@ -29,6 +92,15 @@
    "published": "2026-10-22T16:23:32+00:00"
   },
   {
+   "title": "Trump, İran'ın petrol fiyatlarını yükseltmek için \"her şeyi\" yaptığını savundu",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-petrol-fiyatlarini-yukseltmek-icin-her-seyi-yaptigini-savundu/4097656",
+   "summary": "ABD Başkanı Donald Trump, 3 Kasım'da yapılacak Kongre ara seçimleri öncesinde İran'ın petrol fiyatlarını yükseltmek için \"her şeyi\" yaptığını savundu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T16:23:15+00:00"
+  },
+  {
    "title": "Nobel ödüllü Aziz Sancar Mardin Artuklu Üniversitesini ziyaret etti",
    "link": "https://www.aa.com.tr/tr/gundem/nobel-odullu-aziz-sancar-mardin-artuklu-universitesini-ziyaret-etti/4097654",
    "summary": "Nobel ödüllü bilim insanı Prof. Dr. Aziz Sancar, Mardin Artuklu Üniversitesini (MAÜ) ziyaret etti.",
@@ -41,15 +113,6 @@
    "title": "Başsavcı ve başsavcı vekilleri adli işlere de katılacak",
    "link": "https://www.trthaber.com/haber/gundem/bassavci-ve-bassavci-vekilleri-adli-islere-de-katilacak-960934.html",
    "summary": "Adalet Bakanı Akın Gürlek, \"Cumhuriyet başsavcıvekillerimizin, asliye ceza mahkemeleri nezdinde teşkilatlanan cumhuriyet başsavcılıklarımızda görev yapan cumhuriyet başsavcılarımızın, idari, gözetim ve koordinasyon…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T16:20:00+00:00"
-  },
-  {
-   "title": "Trump, İran'ın petrol fiyatlarını yükseltmek için her şeyi yaptığını savundu",
-   "link": "https://www.trthaber.com/haber/dunya/trump-iranin-petrol-fiyatlarini-yukseltmek-icin-her-seyi-yaptigini-savundu-960933.html",
-   "summary": "ABD Başkanı Donald Trump, 3 Kasım'da yapılacak Kongre ara seçimleri öncesinde İran'ın petrol fiyatlarını yükseltmek için \"her şeyi\" yaptığını savundu.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -153,15 +216,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T15:32:42+00:00"
-  },
-  {
-   "title": "Mekke İttifakı Anlaşması, TBMM Dışişleri Komisyonu'nda görüşülecek",
-   "link": "https://www.bbc.com/turkce/articles/cwj0l71r8lq9o?at_medium=RSS&at_campaign=rss",
-   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke İttifakı Anlaşması'na dair kanun teklifinin 27 Ekim Salı günü TBMM Dışişleri Komisyonu'nda görüşüleceği açıklandı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e4fa/live/6d4addb0-cc7c-11f1-bed8-c51b95c602ec.jpg",
-   "published": "2026-10-22T15:32:09+00:00"
   },
   {
    "title": "DSÖ, Fransa'da, hayvanlarda görülen Shamonda virüsünün ilk insan vakası olan kişinin öldüğünü bildirdi",
@@ -348,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilli-milletvekili-ve-meclis-adaylari-gazze-seridine-yardim-tasiyan-tirlarin-onunu-kesti/4097378",
    "summary": "İsrail'de bir muhalefet milletvekili ile Meclis adayları, Filistin topraklarını gasbeden İsrailliler ve aşırı sağcı gruplarla birlikte Kerem Ebu Salim Sınır Kapısı yakınlarında Gazze Şeridi'ne giden insani yardım…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-22T14:01:32+00:00"
   },
@@ -357,18 +411,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-turk-azinligin-itirazlarina-ragmen-gumulcine-ve-iskeceye-muftu-atandi/4097376",
    "summary": "Yunanistan hükümeti, Batı Trakya Türk Azınlığının müftülerini seçme taleplerine rağmen Gümülcine ve İskeçe müftülüklerine yeni atamalar yaptı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-22T13:58:55+00:00"
-  },
-  {
-   "title": "14. Boğaziçi Film Festivali'nin özel gösterim seçkisi açıklandı",
-   "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinin-ozel-gosterim-seckisi-aciklandi/4097373",
-   "summary": "Anadolu Ajansının Global İletişim Ortağı olduğu, bu yıl 8-15 Kasım'da düzenlenecek 14. Boğaziçi Film Festivali'nin özel gösterim programında, aralarında Cannes Film Festivali'nde ödül kazanan yapımların bulunduğu 11…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T13:58:24+00:00"
   },
   {
    "title": "Eli kanlı İsrailli milletvekili ve Meclis adayları Gazze Şeridi'ne yardım taşıyan tırların önünü kesti",
@@ -429,18 +474,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-22-ekim-2026/4097329",
    "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T13:39:30+00:00"
-  },
-  {
-   "title": "60 saniyede bugün (22 Ekim 2026)",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-22-ekim-2026/4097326",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T13:38:04+00:00"
   },
   {
    "title": "SPK'den takas kesinliği ve pay blokajı alt hesabı hususlarına ilişkin açıklama",
@@ -789,7 +825,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/tav-lounge-hizmeti-primeclassin-yeni-konseptini-esenboga-havalimaninda-tanitti/4097076",
    "summary": "TAV Havalimanları Ticari İşlerden Sorumlu Grup Başkanı Aude Ferrand:, Türkiye'de ilk kez Ankara'da uyguladığımız bu konsepti, hizmet verdiğimiz her destinasyonun yerel kimliğiyle harmanlayarak global hizmet ağımıza…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T11:05:17+00:00"
   },
@@ -965,15 +1001,6 @@
    "published": "2026-10-22T09:59:55+00:00"
   },
   {
-   "title": "MKE TOLGA'dan hava ve deniz tehditlerine karşı yüksek ateş gücü: Muadillerinden 3 kat daha güçlü",
-   "link": "https://www.trthaber.com/haber/savunma/mke-tolgadan-hava-ve-deniz-tehditlerine-karsi-yuksek-ates-gucu-muadillerinden-3-kat-daha-guclu-960882.html",
-   "summary": "Makine ve Kimya Endüstrisi MKE tarafından geliştirilen TOLGA Yakın Hava Savunma Sistemi'nin 20 mm çift silahlı revolver sistemi, dakikada 3 bin 200 atım kapasitesiyle dron, İHA ve kamikaze insansız deniz araçlarına…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T09:51:00+00:00"
-  },
-  {
    "title": "Gazze'deki hastanelerde jeneratör yakıtı ve malzeme sıkıntısı sağlık hizmetlerini durma noktasına getirdi",
    "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-hastanelerde-jenerator-yakiti-ve-malzeme-sikintisi-saglik-hizmetlerini-durma-noktasina-getirdi/4096956",
    "summary": "İsrail ordusunun elektrik şebekelerini tahrip ettiği Gazze Şeridi'nde, jeneratörler için yakıt ve motor yağlarının tükenmesi ile yedek parça sıkıntısı nedeniyle hastanelerdeki acil sağlık hizmetleri durma noktasına…",
@@ -1062,24 +1089,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-22T08:53:09+00:00"
-  },
-  {
-   "title": "Fransa'da ankete göre 2027 seçiminin ikinci turunda Le Pen'in karşısına Melenchon'un çıkma ihtimali yüksek",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-ankete-gore-2027-seciminin-ikinci-turunda-le-penin-karsisina-melenchonun-cikma-ihtimali-yuksek/4096853",
-   "summary": "Fransa’da yapılan ankete göre, 2027’de düzenlenecek cumhurbaşkanı seçiminin ikinci turunda, aşırı sağcı Marine Le Pen'in karşısına aşırı solcu aday Jean-Luc Melenchon'un çıkma ihtimali yüksek bulunuyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-22T08:46:49+00:00"
-  },
-  {
-   "title": "Ukrayna Devlet Başkanı Zelenskiy, ülkesinin 12 bölgesine saldırılar düzenlendiğini belirtti",
-   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-ulkesinin-12-bolgesine-saldirilar-duzenlendigini-belirtti/4096850",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ülkesindeki 12 bölgenin Rus ordusu tarafından hedef alındığını bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-22T08:42:41+00:00"
   },
   {
    "title": "Bakan Şimşek: Türkiye'nin borçluluk düzeyinin düşük olması ekonomik şoklara karşı dayanıklılığını artırıyor",
@@ -1296,15 +1305,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-21T19:33:19+00:00"
-  },
-  {
-   "title": "76. Dünya Döküm Kongresi sona erdi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/76-dunya-dokum-kongresi-sona-erdi/4096389",
-   "summary": "Türkiye Döküm Sanayicileri Derneğinin (TÜDÖKSAD) ev sahipliğinde gerçekleştirilen 76. Dünya Döküm Kongresi (WFC 2026), 50'yi aşkın ülkeden 1000'den fazla sektör temsilcisini ağırladı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-21T18:45:57+00:00"
   },
   {
    "title": "Başakşehir ile Zenit veteranlar dostluk maçında buluştu",
