@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-22T05:47:48.466394+00:00",
+ "updated": "2026-10-22T06:26:37.003749+00:00",
  "items": [
+  {
+   "title": "Çukurova Belediye Başkanı dahil 49 kişi adliyeye sevk edildi",
+   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo?at_medium=RSS&at_campaign=rss",
+   "summary": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b61/live/7609bbe0-cb8e-11f1-93a7-b36f3083f4d3.jpg",
+   "published": "2026-10-22T06:19:03+00:00"
+  },
+  {
+   "title": "Fon soruşturmasında 5 gözaltı daha",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-5-gozalti-daha-960841.html",
+   "summary": "Fon soruşturması kapsamında haklarında gözaltı kararı verilen 31 kişi yakalandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T06:12:00+00:00"
+  },
+  {
+   "title": "Küresel piyasalarda yön arayışı sürüyor",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-yon-arayisi-suruyor-960842.html",
+   "summary": "Küresel piyasalarda, ABD'de büyük teknoloji şirketlerinin bilançolarından alınan sinyaller ve yapay zeka yatırımlarının finansmanıyla ilgili endişelerin sürmesiyle karışık bir seyir izlenirken, yurt içinde gözler…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T06:09:00+00:00"
+  },
+  {
+   "title": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
+   "link": "https://www.bbc.com/turkce/articles/ckjrw0npep1xo?at_medium=RSS&at_campaign=rss",
+   "summary": "İnternet genelinde yaygın olarak kullanılan bir programlama dili olan PHP'deki güvenlik açıkları, yapay zeka tarafından şimdiye kadar bulunan en önemli açıklar olarak nitelendirildi.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6136/live/b103d880-cd90-11f1-b1e7-39558e114359.jpg",
+   "published": "2026-10-22T06:07:21+00:00"
+  },
+  {
+   "title": "Yurt içinde gözler TCMB'nin faiz kararına çevrildi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yurt-icinde-gozler-tcmbnin-faiz-kararina-cevrildi/4096625",
+   "summary": "Küresel piyasalarda, ABD'de teknoloji şirketlerinin bilançolarından alınan sinyaller ve yapay zeka yatırımlarının finansmanıyla ilgili endişelerin sürmesiyle karışık seyir izlenirken, yurt içinde gözler TCMB'nin para…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T06:02:35+00:00"
+  },
+  {
+   "title": "Trump, İran ile müzakere yapmadıklarını ve yakında \"bir şeyler olacağını\" söyledi",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-iran-ile-muzakere-yapmadiklarini-ve-yakinda-bir-seyler-olacagini-soyledi/4096619",
+   "summary": "ABD Başkanı Donald Trump, İran ile müzakere yapmadıklarını ve \"öyle ya da böyle yakında bir şeyler olacağını\" söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T05:58:15+00:00"
+  },
   {
    "title": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren teklifin ilk 5 maddesi kabul edildi",
    "link": "https://www.aa.com.tr/tr/gundem/tasfiyesine-karar-verilen-bazi-yatirim-fonlarina-iliskin-duzenlemeleri-iceren-teklifin-ilk-5-maddesi-kabul-edildi/4096610",
@@ -411,18 +465,9 @@
    "link": "https://www.aa.com.tr/tr/spor/uefadan-halil-umut-melere-gorev/4096457",
    "summary": "FIFA kokartlı hakem Halil Umut Meler, UEFA Avrupa Ligi'nde oynanacak Hoffenheim-Lyon maçında görev yapacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-21T19:45:50+00:00"
-  },
-  {
-   "title": "Dünya çapında PHP kaynaklı güvenlik açığının giderilmesi için çok sayıda internet sitesi erişime kapatıldı",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/dunya-capinda-php-kaynakli-guvenlik-aciginin-giderilmesi-icin-cok-sayida-internet-sitesi-erisime-kapatildi/4096454",
-   "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T19:43:18+00:00"
   },
   {
    "title": "Arnavutluk'ta öğrencilerin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği protestolar sürüyor",
@@ -531,15 +576,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-21T18:37:00+00:00"
-  },
-  {
-   "title": "Galatasaray Lille deplasmanından galibiyetle dönüyor",
-   "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'ndeki üçüncü maçında ilk galibiyetini Fransa deplasmanından aldı. Sarı kırmızılılar Lille'i 4-2 ile geçti.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4581/live/4bcbc400-cd7c-11f1-a428-3f9d1bf6cc8b.jpg",
-   "published": "2026-10-21T18:36:59+00:00"
   },
   {
    "title": "ABD Başkan Yardımcısı Vance, Netanyahu'ya saldırmadığını ancak destek de vermediğini belirtti",
@@ -767,15 +803,6 @@
    "published": "2026-10-21T16:26:00+00:00"
   },
   {
-   "title": "İngiltere'de yazar ve ünlü isimlerden Palestine Action ve Sally Rooney için sansüre tepki",
-   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yazar-ve-unlu-isimlerden-palestine-action-ve-sally-rooney-icin-sansure-tepki/4096276",
-   "summary": "Nobel, Pulitzer ve Booker ödüllü yazarların da aralarında bulunduğu 153 isim, Palestine Action'a destek verdiği gerekçesiyle kitaplarının İngiltere'deki satışları durdurulan İrlandalı yazar Sally Rooney'ye destek verdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T16:16:25+00:00"
-  },
-  {
    "title": "ABD Başkanı Trump, İran'da \"sembolik\" olarak hapishaneye atıldı",
    "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-iranda-sembolik-olarak-hapishaneye-atildi-/4096270",
    "summary": "ABD Başkanı Donald Trump, İran'ın başkenti Tahran’da \"sembolik\" olarak hapishaneye atıldı.",
@@ -938,27 +965,9 @@
    "published": "2026-10-21T14:27:00+00:00"
   },
   {
-   "title": "Fransa'da hafta sonu yapılacak olan gösteriler yasaklandı",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-hafta-sonu-yapilacak-olan-gosteriler-yasaklandi-960792.html",
-   "summary": "Fransada 17 Ekimde şiddet olaylarının yaşandığı sarı yelekliler eylemlerinin ardından hükümet bazı şehirlerde kısmi sokağa çıkma yasağı dahil tedbirleri sıkılaştırırken Toulon şehrinde 24 Ekimde yapılması planlanan…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T14:21:00+00:00"
-  },
-  {
    "title": "Emine Erdoğan, Özbekistan'da rehabilitasyon merkezi ve okul öncesi eğitim kurumunun açılışına katıldı",
    "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-ozbekistanda-rehabilitasyon-merkezi-ve-okul-oncesi-egitim-kurumunun-acilisina-katildi-960793.html",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Semerkant'taki İMKON Rehabilitasyon Merkezi ve Çok Amaçlı Özel Okul Öncesi Eğitim Kurumunun açılışına katıldı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T14:18:00+00:00"
-  },
-  {
-   "title": "Nobel ödüllü bilim insanı Aziz Sancar'ın evi müze oldu",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/nobel-odullu-bilim-insani-aziz-sancarin-evi-muze-oldu-960791.html",
-   "summary": "Nobel ödüllü Türk bilim insanı Prof. Dr. Aziz Sancar'ın Mardin'in Savur ilçesinde doğup büyüdüğü tarihi konağın bir katı restore edilerek müzeye dönüştürüldü. Müzede Sancar'ın hayatına ilişkin fotoğraflar, diplomalar,…",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -981,15 +990,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T14:11:58+00:00"
-  },
-  {
-   "title": "Gazeteci İsmail Arı tutuklandı",
-   "link": "https://www.bbc.com/turkce/articles/ck20re4212ylo?at_medium=RSS&at_campaign=rss",
-   "summary": "Eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine soruşturma açılan BirGün gazetesi muhabiri İsmail Arı tutuklandı. Bu Arı’nın aynı yıl içinde ikinci tutukluluğu anlamına geliyor. Gazeteci, Mart - Haziran arasında 75…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/62bb/live/60710cc0-cd2d-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-21T14:10:52+00:00"
   },
   {
    "title": "Ticaret Bakanı Bolat: Hem otomotivde hem de konut fiyatlarında (artış) manşet enflasyon oranının altında",
