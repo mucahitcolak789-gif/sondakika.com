@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-22T22:13:04.139032+00:00",
+ "updated": "2026-10-22T22:43:38.223820+00:00",
  "items": [
+  {
+   "title": "Çanakkale'de seyir halindeki saman yüklü tır yandı",
+   "link": "https://www.trthaber.com/haber/turkiye/canakkalede-seyir-halindeki-saman-yuklu-tir-yandi-960951.html",
+   "summary": "Çanakkale'nin Ayvacık ilçesinde seyir halindeyken alev alan saman yüklü tır kullanılamaz hale geldi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T22:27:00+00:00"
+  },
+  {
+   "title": "Çukurova Belediye Başkanı Emrah Kozay tutuklandı",
+   "link": "https://www.bbc.com/turkce/articles/cq70pxdzldldo?at_medium=RSS&at_campaign=rss",
+   "summary": "Adana'da Çukurova Belediyesine yönelik soruşturma kapsamında, aralarında mevcut Belediye Başkanı Emrah Kozay ve önceki dönem belediye başkanı Soner Çetin'in de bulunduğu 44 kişi gözaltına alındı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7b61/live/7609bbe0-cb8e-11f1-93a7-b36f3083f4d3.jpg",
+   "published": "2026-10-22T22:20:23+00:00"
+  },
+  {
+   "title": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi/4097885",
+   "summary": "ABD Başkanı Donald Trump, ülkenin savunma kabiliyetini güçlendirmek ve yurt içi petrol üretim, rafinasyon ve lojistik kapasitesini artırmak amacıyla Savunma Üretim Yasası'nı devreye soktu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T22:05:22+00:00"
+  },
   {
    "title": "Kanada Dışişleri Bakanı Anand, Türkiye ile ilişkilerin öneminin arttığını vurguladı",
    "link": "https://www.aa.com.tr/tr/dunya/kanada-disisleri-bakani-anand-turkiye-ile-iliskilerin-oneminin-arttigini-vurguladi/4097882",
@@ -263,15 +290,6 @@
    "published": "2026-10-22T19:16:27+00:00"
   },
   {
-   "title": "Fon soruşturması: Eski AKP milletvekili Ertan Aydın dahil 5 kişi gözaltına alındı",
-   "link": "https://www.bbc.com/turkce/articles/c574pjl4l40no?at_medium=RSS&at_campaign=rss",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen fon soruşturması kapsamında beş kişi daha gözaltına alındı. Gözaltına alınanlar arasında eski başbakan danışmanı Ertan Aydın da var.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2196/live/50f6db80-cdeb-11f1-97f7-a7674fb562de.jpg",
-   "published": "2026-10-22T19:03:37+00:00"
-  },
-  {
    "title": "Fransa ve Belçika'da fırtına nedeniyle \"turuncu alarm\" verildi",
    "link": "https://www.aa.com.tr/tr/dunya/fransa-ve-belcikada-firtina-nedeniyle-turuncu-alarm-verildi/4097783",
    "summary": "Fransa'da 15 vilayette ve Belçika'nın bazı bölgelerinde fırtına nedeniyle \"turuncu alarm\" verildi.",
@@ -360,15 +378,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T18:23:21+00:00"
-  },
-  {
-   "title": "Kültür sanatın kaydı ve hafızası Karaköy Palas'ta konuşulacak",
-   "link": "https://www.aa.com.tr/tr/kultur/kultur-sanatin-kaydi-ve-hafizasi-karakoy-palasta-konusulacak/4097752",
-   "summary": "Kültür ve Medeniyet Vakfının (KÜME) \"ODAK\" projesi kapsamında Anadolu Ajansı ve Rami Kütüphanesi ortaklığında hazırlanan \"Kültür Sanatın İzinde: Etkinlikten Hafızaya\" programı, 31 Ekim'de Karaköy Palas'ta…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T18:15:05+00:00"
   },
   {
    "title": "ABD kamuoyundaki desteği eriyen İsrail lobisi, 3 Kasım seçimleri öncesinde \"taktik değiştirdi\"",
@@ -785,15 +794,6 @@
    "published": "2026-10-22T14:01:32+00:00"
   },
   {
-   "title": "Yunanistan'da Türk azınlığın itirazlarına rağmen Gümülcine ve İskeçe'ye müftü atandı",
-   "link": "https://www.aa.com.tr/tr/dunya/yunanistanda-turk-azinligin-itirazlarina-ragmen-gumulcine-ve-iskeceye-muftu-atandi/4097376",
-   "summary": "Yunanistan hükümeti, Batı Trakya Türk Azınlığının müftülerini seçme taleplerine rağmen Gümülcine ve İskeçe müftülüklerine yeni atamalar yaptı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-22T13:58:55+00:00"
-  },
-  {
    "title": "Eli kanlı İsrailli milletvekili ve Meclis adayları Gazze Şeridi'ne yardım taşıyan tırların önünü kesti",
    "link": "https://www.trthaber.com/haber/dunya/eli-kanli-israilli-milletvekili-ve-meclis-adaylari-gazze-seridine-yardim-tasiyan-tirlarin-onunu-kesti-960919.html",
    "summary": "Soykırımcı İsrail'de bir muhalefet milletvekili ile Meclis adayları, Filistin topraklarını gasbeden İsrailliler ve aşırı sağcı gruplarla birlikte Kerem Ebu Salim Sınır Kapısı yakınlarında Gazze Şeridi'ne giden insani…",
@@ -1026,15 +1026,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T11:33:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan, TDT Genel Sekreteri Ömüraliyev'i kabul etti",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-tdt-genel-sekreteri-omuraliyevi-kabul-etti-960897.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türk Devletleri Teşkilatı TDT Genel Sekreteri Kubanıçbek Ömüraliyev'i kabul etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T11:27:00+00:00"
   },
   {
    "title": "Tasfiyedeki fon sayısı 131'den 47'ye geriledi",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-21T18:37:04+00:00"
+  },
+  {
+   "title": "Galatasaray, bu sezon Şampiyonlar Ligi'ndeki ilk galibiyetini Lille karşısında aldı",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-bu-sezon-sampiyonlar-ligindeki-ilk-galibiyetini-lille-karsisinda-aldi/4096332",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille'i 4-2 yenerek organizasyondaki ilk puanlarını kazandı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-21T17:41:08+00:00"
   }
  ]
 }
