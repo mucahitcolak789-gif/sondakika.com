@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-22T17:12:33.527973+00:00",
+ "updated": "2026-10-22T17:41:59.558325+00:00",
  "items": [
+  {
+   "title": "YÖK'ten öğrenci affı kapsamında yatay geçiş düzenlemesi",
+   "link": "https://www.trthaber.com/haber/egitim/yokten-ogrenci-affi-kapsaminda-yatay-gecis-duzenlemesi-960937.html",
+   "summary": "Yükseköğretim Kurulunca YÖK öğrenci affı kapsamında öğrenimlerine yeniden başlama hakkı kazananların yatay geçiş işlemlerine ilişkin ek düzenleme yapıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T17:36:00+00:00"
+  },
+  {
+   "title": "Fonlara ilişkin kanun teklifi Meclis'ten geçti: PBLK düzenlemesi neden tartışılıyor?",
+   "link": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss",
+   "summary": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifi Meclis'ten geçti. 21 Ekim'de Meclis Genel Kurulu'nda görüşülmeye başlanan teklifin 3. maddesinde AKP önergesiyle yapılan…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15ac/live/a43291b0-ce02-11f1-8991-296181d7e3de.jpg",
+   "published": "2026-10-22T17:24:37+00:00"
+  },
+  {
+   "title": "Türkiye-Kanada savunma ilişkilerinde yeni dönem",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-kanada-savunma-iliskilerinde-yeni-donem/4097706",
+   "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanı Haluk Görgün, Türkiye ile Kanada arasında imzalanan Savunma Sektörü Ortaklıkları Mutabakat Zaptı'nın, iki müttefik arasındaki savunma ortaklığını geliştirme iradesinin somut…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T17:13:11+00:00"
+  },
   {
    "title": "YÖK'ten öğrenci affı kapsamında yatay geçişte taban puan düzenlemesi",
    "link": "https://www.aa.com.tr/tr/gundem/yokten-ogrenci-affi-kapsaminda-yatay-geciste-taban-puan-duzenlemesi-/4097704",
@@ -227,6 +254,15 @@
    "published": "2026-10-22T15:17:00+00:00"
   },
   {
+   "title": "DSÖ, Fransa'da hayvanlarda görülen Shamonda virüsünün ilk insan vakasının öldüğünü bildirdi",
+   "link": "https://www.aa.com.tr/tr/dunya/dso-fransada-hayvanlarda-gorulen-shamonda-virusunun-ilk-insan-vakasinin-oldugunu-bildirdi/4097561",
+   "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Tedros Adhanom Ghebreyesus, Fransa'da bugüne kadar hayvanlarda görülen Shamonda virüsünün ilk insan vakasının yaşamını yitirdiğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T15:16:16+00:00"
+  },
+  {
    "title": "ABD, 4 şirketin çip ve kritik malzeme çalışmalarına 389 milyon dolar destek verecek",
    "link": "https://www.aa.com.tr/tr/dunya/abd-4-sirketin-cip-ve-kritik-malzeme-calismalarina-389-milyon-dolar-destek-verecek/4097552",
    "summary": "ABD yönetimi, yarı iletkenler ve kritik malzemeler üzerinde çalışan dört şirkete toplam 389 milyon dolarlık fon sağlamayı planladığını, buna karşılık hükümetin bu şirketlerden azınlık hissesi alacağını duyurdu.",
@@ -281,6 +317,15 @@
    "published": "2026-10-22T14:53:33+00:00"
   },
   {
+   "title": "\"Mekke Ortak Savunma Anlaşması\" 27 Ekim'de TBMM Dışişleri Komisyonu'nda görüşülecek",
+   "link": "https://www.aa.com.tr/tr/gundem/mekke-ortak-savunma-anlasmasi-27-ekimde-tbmm-disisleri-komisyonunda-gorusulecek/4097503",
+   "summary": "TBMM Dışişleri Komisyonu Başkanı ve Ankara Milletvekili Fuat Oktay, Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifinin 27 Ekim Salı günü Komisyon'da görüşüleceğini bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T14:48:34+00:00"
+  },
+  {
    "title": "Yapay zekadan etkilenen mesleklerde istihdam artışı erkeklerde, kadınlara göre daha yüksek",
    "link": "https://www.trthaber.com/haber/dunya/yapay-zekadan-etkilenen-mesleklerde-istihdam-artisi-erkeklerde-kadinlara-gore-daha-yuksek-960927.html",
    "summary": "ABD merkezli Pew Research Center'ın araştırması, yapay zekadan daha fazla etkilenen mesleklerde erkeklerin istihdamının kadınlara kıyasla daha hızlı arttığını ortaya koydu.",
@@ -297,15 +342,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T14:44:00+00:00"
-  },
-  {
-   "title": "PBLK düzenlemesi: Fon teklifinde yapılan değişiklik neden tartışılıyor?",
-   "link": "https://www.bbc.com/turkce/articles/cq62y07ngvepo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tasfiyesine karar verilen bazı yatırım fonlarına ilişkin düzenlemeleri içeren kanun teklifinde önemli bir değişiklik yapıldı. 21 Ekim'de Meclis Genel Kurulu'nda görüşülmeye başlanan teklifin 3. maddesinde AKP…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/15ac/live/a43291b0-ce02-11f1-8991-296181d7e3de.jpg",
-   "published": "2026-10-22T14:42:46+00:00"
   },
   {
    "title": "Bakan Kurum: COP31, Antalya'da 2 milyar dolarlık doğrudan ekonomik hareketlilik oluşturacak",
@@ -342,15 +378,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T14:32:00+00:00"
-  },
-  {
-   "title": "Malatya'da depremde 3 kişinin öldüğü apartmanın yıkılmasına ilişkin davada karar çıktı",
-   "link": "https://www.aa.com.tr/tr/gundem/malatyada-depremde-3-kisinin-oldugu-apartmanin-yikilmasina-iliskin-davada-karar-cikti/4097396",
-   "summary": "Malatya'da, 6 Şubat 2023'teki Kahramanmaraş merkezli depremlerde 3 kişinin hayatını kaybettiği, 1 kişinin yaralandığı Dağdeviren Apartmanı'nın yıkılmasına ilişkin davada 4 sanığa hapis cezası verildi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T14:18:33+00:00"
   },
   {
    "title": "BilimFest Trabzon başladı",
@@ -459,15 +486,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-22T13:49:12+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: Kanada ile ticaret hacmimizi 10 milyar dolara çıkarmayı temenni ediyoruz",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-kanada-ile-ticaret-hacmimizi-10-milyar-dolara-cikarmayi-temenni-ediyoruz/4097340",
-   "summary": "Cumhurbaşkanı Erdoğan, \"Atacağımız adımlarla yaklaşık 3 milyar dolar civarında seyreden ticaret hacmimizi ilk olarak 5 milyar, akabinde 10 milyar dolara çıkarmayı temenni ediyoruz.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T13:42:51+00:00"
   },
   {
    "title": "60 saniyede ekonomide bugün (22 Ekim 2026)",
@@ -965,15 +983,6 @@
    "published": "2026-10-22T10:15:00+00:00"
   },
   {
-   "title": "İstanbul'da huzur uygulamasında 529 şüpheliye gözaltı",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-huzur-uygulamasinda-529-supheliye-gozalti-960883.html",
-   "summary": "İstanbul genelinde gerçekleştirilen iki aşamalı Huzur İstanbul Uygulaması'nda 284 bin 448 kişinin Genel Bilgi Toplama GBT sorgulaması yapıldı, çeşitli suçlardan aranan 660 kişi yakalandı, 529 şüpheli gözaltına alındı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T10:09:00+00:00"
-  },
-  {
    "title": "Süper Lig'de 9. hafta maçlarını yönetecek hakemler açıklandı",
    "link": "https://www.aa.com.tr/tr/spor/super-ligde-9-hafta-maclarini-yonetecek-hakemler-aciklandi/4096989",
    "summary": "Galatasaray-Fenerbahçe derbisini hakem Atilla Karaoğlan yönetecek.",
@@ -1071,15 +1080,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-22T09:04:01+00:00"
-  },
-  {
-   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki beldelere topçu saldırıları düzenledi",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi/4096883",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırılarını sürdürdü.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-22T09:00:28+00:00"
   },
   {
    "title": "Kayserispor'un deneyimli file bekçisi Gökhan Değirmenci, 7 maçta kalesini gole kapattı",
