@@ -1,6 +1,186 @@
 {
- "updated": "2026-10-22T08:48:04.031285+00:00",
+ "updated": "2026-10-22T09:26:16.367593+00:00",
  "items": [
+  {
+   "title": "Anayasa Mahkemesi'nde yeni başkan seçimi süreci başladı",
+   "link": "https://www.bbc.com/turkce/articles/crd93kgqgjpvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Anayasa Mahkemesi'nde (AYM) Başkan Kadir Özkaya'nın görev süresinin dolacak olması nedeniyle başkanlık seçim süreci başladı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab30/live/08fd1a50-cdf6-11f1-97f7-a7674fb562de.png",
+   "published": "2026-10-22T09:24:40+00:00"
+  },
+  {
+   "title": "Siber Güvenlik Başkanlığı: eDevlet'in güvenliğini etkileyen bir sorun bulunmadı",
+   "link": "https://www.trthaber.com/haber/gundem/siber-guvenlik-baskanligi-e-devletin-guvenligini-etkileyen-bir-sorun-bulunmadi-960878.html",
+   "summary": "Cumhurbaşkanlığı Siber Güvenlik Başkanlığı, dünya genelinde kullanılan PHP yazılımında tespit edilen kritik güvenlik açıklarına ilişkin eDevlet Kapısı'nda gerçekleştirilen güvenlik kontrollerinin tamamlandığını ve…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:18:00+00:00"
+  },
+  {
+   "title": "Kritik güvenlik açıklarına karşı sistemleri güncelleme uyarısı",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kritik-guvenlik-aciklarina-karsi-sistemleri-guncelleme-uyarisi/4096910",
+   "summary": "İnternet altyapısında yaygın kullanılan programlama dili PHP'de tespit edilen kritik güvenlik açıkları nedeniyle dünya genelinde tedbirler sıkılaştırılırken, uzmanlar, kurum ve işletmelere sistemlerini güncelleme…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:17:55+00:00"
+  },
+  {
+   "title": "MSB: HÜRKUŞ-II uçağının envantere alınması planlanıyor",
+   "link": "https://www.aa.com.tr/tr/gundem/msb-hurkus-ii-ucaginin-envantere-alinmasi-planlaniyor/4096897",
+   "summary": "Milli Savunma Bakanlığı (MSB) Sözcüsü Tuğamiral Zeki Aktürk, Hava Kuvvetleri Komutanlığınca 2 HÜRKUŞ-II uçağının envantere alınmasının planlandığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:13:14+00:00"
+  },
+  {
+   "title": "Merkez Bankası faiz kararını açıklayacak: Beklentiler ne yönde?",
+   "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc0d/live/cd468d30-cd40-11f1-8177-0f8bd59b54c4.jpg",
+   "published": "2026-10-22T09:12:40+00:00"
+  },
+  {
+   "title": "Türkiye'nin ev sahipliğinde R4E3 ülkeleri ilk kez bir araya gelecek",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyenin-ev-sahipliginde-r4e3-ulkeleri-ilk-kez-bir-araya-gelecek-960877.html",
+   "summary": "Türkiye, Mısır, Pakistan, Suudi Arabistan, İngiltere, Almanya ve Fransa'nın dışişleri bakanları, Türkiye'nin girişimiyle İstanbul'da ilk kez R4E3 formatında buluşacak. Toplantılarda bölgesel krizler ve güvenlik…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:10:00+00:00"
+  },
+  {
+   "title": "Fransa'nın Bouches-du-Rhone vilayetinde etkili olan yağışlar nedeniyle ölü sayısı 4'e çıktı",
+   "link": "https://www.aa.com.tr/tr/dunya/fransanin-bouches-du-rhone-vilayetinde-etkili-olan-yagislar-nedeniyle-olu-sayisi-4e-cikti/4096889",
+   "summary": "Fransa’nın güneydoğusundaki Bouches-du-Rhone vilayetinde hafta başında etkili olan şiddetli yağışlarda can kaybı sayısı 4’e çıktı, kayıp bir kişiyi arama çalışmaları sürüyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:04:01+00:00"
+  },
+  {
+   "title": "Şimşek: Türkiye'nin borçluluk düzeyinin düşük olması ekonomik şoklara karşı dayanıklılığını artırıyor",
+   "link": "https://www.trthaber.com/haber/ekonomi/simsek-turkiyenin-borcluluk-duzeyinin-dusuk-olmasi-ekonomik-soklara-karsi-dayanikliligini-artiriyor-960876.html",
+   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Dünya genelinde toplam borcun küresel hasılaya oranı yüzde 300'ü, gelişmekte olan piyasalarda ise yüzde 230'u aştı. Türkiye bu açıdan avantajlı bir konumda. Türkiye'nin borçluluk…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:03:00+00:00"
+  },
+  {
+   "title": "Dışişleri Bakanı Fidan, yarın İstanbul'da R4 ve R4+E3 toplantılarına ev sahipliği yapacak",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-yarin-istanbulda-r4-ve-r4-e3-toplantilarina-ev-sahipligi-yapacak-/4096885",
+   "summary": "Dışişleri Bakanı Hakan Fidan, yarın İstanbul'da R4 (Türkiye, Mısır, Pakistan, Suudi Arabistan) ve R4+E3 (İngiltere, Almanya, Fransa) Dışişleri Bakanları Toplantıları'na ev sahipliği yapacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:02:59+00:00"
+  },
+  {
+   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyindeki beldelere topçu saldırıları düzenledi",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyindeki-beldelere-topcu-saldirilari-duzenledi/4096883",
+   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırılarını sürdürdü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:00:28+00:00"
+  },
+  {
+   "title": "PHP, sunucuları tehdit eden iki kritik güvenlik açığını gidermek için güncelleme yayımladı",
+   "link": "https://www.trthaber.com/haber/dunya/php-sunuculari-tehdit-eden-iki-kritik-guvenlik-acigini-gidermek-icin-guncelleme-yayimladi-960875.html",
+   "summary": "İnternet sitelerinin geliştirilmesinde yaygın olarak kullanılan PHP programlama dilinde, sunucuların kontrolünün ele geçirilmesine neden olabilecek iki kritik güvenlik açığını gidermek üzere güncelleme yayımlandığı…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:00:00+00:00"
+  },
+  {
+   "title": "Yaş meyve ve sebze ihracatının yüzde 21'i Batı Akdeniz'den",
+   "link": "https://www.trthaber.com/haber/ekonomi/yas-meyve-ve-sebze-ihracatinin-yuzde-21i-bati-akdenizden-960874.html",
+   "summary": "Türkiye genelinde 9,5 ayda yapılan 3,3 milyar dolarlık yaş meyve ve sebze ihracatının yüzde 21'i, Batı Akdeniz İhracatçılar Birliğince BAİB gerçekleştirildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:00:00+00:00"
+  },
+  {
+   "title": "MSB: Deniz Yetki Alanları Muhtırası'nın onaylanmasını memnuniyetle karşılıyoruz",
+   "link": "https://www.trthaber.com/haber/gundem/msb-deniz-yetki-alanlari-muhtirasinin-onaylanmasini-memnuniyetle-karsiliyoruz-960873.html",
+   "summary": "Milli Savunma Bakanlığı, \"Türkiye ile Libya arasında imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırasının Libya Temsilciler Meclisi tarafından onaylanmasını memnuniyetle karşılıyoruz. İki…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T09:00:00+00:00"
+  },
+  {
+   "title": "Türkiye'nin Çin'e su ürünleri ihracatı yaklaşık 3 katına çıktı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-cine-su-urunleri-ihracati-yaklasik-3-katina-cikti/4096879",
+   "summary": "Türkiye ile Çin arasında su ürünleri ihracatına yönelik geçen yıl imzalanan protokollerin ardından bu ülkeye dış satım yılın 9 ayında yaklaşık 3 katına çıkarak 18 milyon 7 bin dolara ulaştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:56:40+00:00"
+  },
+  {
+   "title": "Kayserispor'un deneyimli file bekçisi Gökhan Değirmenci, 7 maçta kalesini gole kapattı",
+   "link": "https://www.aa.com.tr/tr/spor/kayserisporun-deneyimli-file-bekcisi-gokhan-degirmenci-7-macta-kalesini-gole-kapatti/4096870",
+   "summary": "Trendyol 1. Lig'in lideri Metro Holding Kayserispor'un deneyimli file bekçisi Gökhan Değirmenci, ligde 90 dakika forma giydiği 11 maçın 7'sinde kalesinde gole izin vermedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:53:09+00:00"
+  },
+  {
+   "title": "Deniz salyangozu ihracatı 14 milyon doları aştı",
+   "link": "https://www.trthaber.com/haber/ekonomi/deniz-salyangozu-ihracati-14-milyon-dolari-asti-960871.html",
+   "summary": "Türkiye, deniz salyangozu ihracatından yılın 9 ayında 14 milyon 220 bin 783 dolar gelir elde etti. En fazla deniz salyangozu ihraç edilen ülkeler Güney Kore, Çin ve İspanya oldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:53:00+00:00"
+  },
+  {
+   "title": "Batı Şeria'da Avrupalı diplomatlar ve muhabire saldıran işgalci İsrailliler serbest kaldı",
+   "link": "https://www.trthaber.com/haber/dunya/bati-seriada-avrupali-diplomatlar-ve-muhabire-saldiran-isgalci-israilliler-serbest-kaldi-960872.html",
+   "summary": "İşgal altındaki Batı Şeria'da Avrupalı diplomatların araçlarına saldırı ve ABD'li gazeteci Heidi Levine'nin yaralanmasıyla ilgili İsrail makamlarınca gözaltına alınan, Filistin topraklarını gasbeden 10 İsrailliden 9'u…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:52:00+00:00"
+  },
+  {
+   "title": "Katil İsrail'in Gazze'de bir okula düzenlediği saldırıda aynı aileden 4 kişi yaralandı",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzede-bir-okula-duzenledigi-saldirida-ayni-aileden-4-kisi-yaralandi-960870.html",
+   "summary": "Katil İsrail ordusunun, Gazze Şeridi'nin güneyindeki Han Yunus kentinde yerinden edilen Filistinlilerin kaldığı bir okulu bombalaması sonucu aynı aileden 4 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:51:00+00:00"
+  },
+  {
+   "title": "Fransa'da ankete göre 2027 seçiminin ikinci turunda Le Pen'in karşısına Melenchon'un çıkma ihtimali yüksek",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-ankete-gore-2027-seciminin-ikinci-turunda-le-penin-karsisina-melenchonun-cikma-ihtimali-yuksek/4096853",
+   "summary": "Fransa’da yapılan ankete göre, 2027’de düzenlenecek cumhurbaşkanı seçiminin ikinci turunda, aşırı sağcı Marine Le Pen'in karşısına aşırı solcu aday Jean-Luc Melenchon'un çıkma ihtimali yüksek bulunuyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:46:49+00:00"
+  },
+  {
+   "title": "Türkiye'den küresel PHP açığına karşı hızlı önlem",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-kuresel-php-acigina-karsi-hizli-onlem-960869.html",
+   "summary": "Dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP altyapısında tespit edilen kritik güvenlik açıklarına karşı Türkiyede önleyici tedbirler hızla devreye alındı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:43:00+00:00"
+  },
   {
    "title": "Ukrayna Devlet Başkanı Zelenskiy, ülkesinin 12 bölgesine saldırılar düzenlendiğini belirtti",
    "link": "https://www.aa.com.tr/tr/dunya/ukrayna-devlet-baskani-zelenskiy-ulkesinin-12-bolgesine-saldirilar-duzenlendigini-belirtti/4096850",
@@ -45,6 +225,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T08:32:28+00:00"
+  },
+  {
+   "title": "Troya'da 160 yılı aşkın kazı tarihinde ilk müzik aleti bulundu",
+   "link": "https://www.aa.com.tr/tr/kultur/troyada-160-yili-askin-kazi-tarihinde-ilk-muzik-aleti-bulundu/4096826",
+   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Troya kazılarında yaklaşık 2 bin 800 yıllık kemik flüt ile 4 bin 500 yıllık insan biçimli bir idol başının gün ışığına çıkarıldığını duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:32:08+00:00"
   },
   {
    "title": "Kuzey Kore'den Güney Kore'ye en korkunç durumla karşılaşma uyarısı",
@@ -99,6 +288,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T08:24:04+00:00"
+  },
+  {
+   "title": "Yerli yazılım ve donanımlarla savaşan İHA geliştirdiler",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/yerli-yazilim-ve-donanimlarla-savasan-iha-gelistirdiler/4096816",
+   "summary": "Gaziantep Üniversitesi öğrencileri, yerli yazılım ve donanımlarla geliştirdikleri, kamera görüntülerini yapay zeka destekli sistemle analiz ederek rakip insansız hava araçlarının (İHA) mesafesini ve büyüklüğünü…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-22T08:23:43+00:00"
   },
   {
    "title": "İsrail ordusu, Suriye'de BM güçlerinin devriyesini engelledi",
@@ -195,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/sel-hasarlarinda-5-gunluk-ihbar-suresinin-asilmasi-tazminat-hakkini-ortadan-kaldirmiyor/4096793",
    "summary": "Kasko sigortasında sel hasarlarının 5 iş günü içinde bildirilmemesi sigortalının tazminat hakkını tek başına kaldırmazken, geç bildirim nedeniyle zararın artması halinde gecikmenin nedeni ve sigortalının kusuru dikkate…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T08:08:52+00:00"
   },
@@ -229,27 +427,18 @@
   {
    "title": "Türkiye'nin 2035 elektrik hedefi için talepte yıllık yüzde 8'i aşan büyüme öngörülüyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-2035-elektrik-hedefi-icin-talepte-yillik-yuzde-8i-asan-buyume-ongoruluyor/4096787",
-   "summary": "ELDER Genel Sekreteri Erdoğan, Türkiye'nin 2035'e kadar nihai enerji tüketiminde elektriğin payını yüzde 35'e çıkarma hedefinin, elektrik talebinde yıllık ortalama yüzde 8 büyümeyi ve dağıtım altyapısında kapsamlı bir…",
+   "summary": "Elder Genel Sekreteri Erdoğan, Türkiye'nin 2035'e kadar nihai enerji tüketiminde elektriğin payını yüzde 35'e çıkarma hedefinin, elektrik talebinde yıllık ortalama yüzde 8 büyümeyi ve dağıtım altyapısında kapsamlı bir…",
    "source": "AA",
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T08:07:07+00:00"
   },
   {
-   "title": "TİHEK'ten belediyelere engelli yaya geçidi cezası",
-   "link": "https://www.aa.com.tr/tr/gundem/tihekten-belediyelere-engelli-yaya-gecidi-cezasi/4096785",
-   "summary": "TİHEK, görme engelli bir kişinin işe gidiş ve dönüşlerinde kullandığı güzergahta erişilebilirlik koşullarının sağlanmaması nedeniyle Eskişehir Büyükşehir Belediyesi ile Tepebaşı Belediyesine 50'şer bin lira idari para…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T08:06:36+00:00"
-  },
-  {
    "title": "Güçlü dolar ara seçimler öncesinde Trump'ın elini zayıflatabilir",
    "link": "https://www.aa.com.tr/tr/ekonomi/guclu-dolar-ara-secimler-oncesinde-trumpin-elini-zayiflatabilir/4096783",
    "summary": "ABD'deki ara seçimlere kısa bir süre kala, doların yüksek seviyelerde seyrederek Trump yönetiminin arzuladığının tam tersi yönde hareket etmesi, ABD Başkanı Donald Trump'ın işini zorlaştıran önemli konular arasında yer…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T08:06:14+00:00"
   },
@@ -258,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-deniz-ulasiminda-uc-katina-cikaracagi-butceyle-yelkenler-fora-diyecek/4096778",
    "summary": "Türkiye, bu yıl bütçesinde deniz yoluyla ulaşım için ayırdığı 6,8 milyar liralık payı gelecek yıl 18,1 milyar liraya çıkaracak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T08:04:00+00:00"
   },
@@ -267,18 +456,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/konut-satislari-eylulde-yilin-en-yuksek-seviyesine-cikti/4096774",
    "summary": "Türkiye genelinde konut satışları eylülde 142 bin 390 ile yılın en yüksek seviyesine ulaşırken, sektör temsilcileri birinci el konut satışlarındaki artışın sektörün canlılığı açısından olumlu bir gelişme olduğunu…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T08:02:47+00:00"
-  },
-  {
-   "title": "YÖK'ün Dijital Üniversite Platformu, 16 modülde ücretsiz eğitime başlıyor",
-   "link": "https://www.aa.com.tr/tr/gundem/yokun-dijital-universite-platformu-16-modulde-ucretsiz-egitime-basliyor/4096762",
-   "summary": "Yükseköğretim Kurulu (YÖK) himayesinde hayata geçirilen Dijital Üniversite Platformu, yapay zekadan veri analizine, sürdürülebilir finanstan temiz enerji teknolojilerine uzanan 16 farklı modülde ücretsiz çevrim içi…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T07:55:58+00:00"
   },
   {
    "title": "TAV Havalimanları bu yıl 89 milyon yolcuya hizmet verdi",
@@ -366,7 +546,7 @@
    "link": "https://www.aa.com.tr/tr/spor/milli-motosikletci-deniz-oncu-avustralyada-piste-cikacak/4096740",
    "summary": "Milli motosikletçi Deniz Öncü, Dünya Moto2 Şampiyonası'nın Avustralya ayağında yarışacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-22T07:35:14+00:00"
   },
@@ -375,7 +555,7 @@
    "link": "https://www.aa.com.tr/tr/spor/alperen-sengun-nbade-sezona-double-double-ile-basladi/4096739",
    "summary": "Amerikan Basketbol Ligi'nde (NBA) Houston Rockets, milli basketbolcu Alperen Şengün'ün \"double-double\" yaptığı maçta Dallas Mavericks'i 128-110 yendi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-22T07:34:57+00:00"
   },
@@ -405,15 +585,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T07:31:00+00:00"
-  },
-  {
-   "title": "Esra Albayrak: Yapay zeka çağının apaçık sayılan kabullerini sorgulamak zorundayız",
-   "link": "https://www.aa.com.tr/tr/gundem/esra-albayrak-yapay-zeka-caginin-apacik-sayilan-kabullerini-sorgulamak-zorundayiz/4096716",
-   "summary": "NUN Eğitim ve Kültür Vakfı Yönetim Kurulu Başkanı Dr. Esra Albayrak, \"Yapay zeka çağının apaçık sayılan kabullerini sorgulamak ve insanın en çok da lehine kararlar almak cesaretini göstermek zorundayız.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T07:17:30+00:00"
   },
   {
    "title": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nde yarın Olympiakos'a konuk olacak",
@@ -483,7 +654,7 @@
    "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-zeynep-sonmez-japonya-acika-veda-etti-/4096672",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-22T06:47:55+00:00"
   },
@@ -749,15 +920,6 @@
    "published": "2026-10-22T00:06:00+00:00"
   },
   {
-   "title": "Merkez Bankası faiz kararını açıklayacak: Beklentiler ne yönde?",
-   "link": "https://www.bbc.com/turkce/articles/cq8rz0d03r2ro?at_medium=RSS&at_campaign=rss",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB) 22 Ekim'deki Para Politikası Kurulu (PPK) toplantısında politika faizini açıklayacak. Merkez Bankası'nın ekim ayı faiz kararına yönelik beklentilerde ise piyasalardaki ayrışma…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fc0d/live/cd468d30-cd40-11f1-8177-0f8bd59b54c4.jpg",
-   "published": "2026-10-21T23:56:31+00:00"
-  },
-  {
    "title": "Suudi Arabistan, Kral Fahd Havalimanı'na yeni saldırı düzenlendiğini duyurdu",
    "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-kral-fahd-havalimanina-yeni-saldiri-duzenlendigini-duyurdu-960830.html",
    "summary": "Suudi Arabistan Sivil Havacılık Genel Otoritesi GACA, Dammam'daki Kral Fahd Uluslararası Havalimanı'na düzenlenen saldırıda 1 kişinin öldüğünü, 8 kişinin yaralandığını belirtti.",
@@ -830,24 +992,6 @@
    "published": "2026-10-21T21:23:36+00:00"
   },
   {
-   "title": "Tasfiye kararı verilen fonlara ilişkin kanun teklifi, TBMM Genel Kurulu'nda",
-   "link": "https://www.trthaber.com/haber/gundem/tasfiye-karari-verilen-fonlara-iliskin-kanun-teklifi-tbmm-genel-kurulunda-960828.html",
-   "summary": "TBMM Genel Kurulu'nda Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun Teklifi'nin birinci bölümünde yer alan 5 madde kabul edildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T21:16:00+00:00"
-  },
-  {
-   "title": "Yurt içi piyasalarında gözler faiz kararında",
-   "link": "https://www.trthaber.com/haber/ekonomi/yurt-ici-piyasalarinda-gozler-faiz-kararinda-960827.html",
-   "summary": "Piyasaların ve yatırımcıların odağında yer alan Türkiye Cumhuriyet Merkez Bankasının TCMB yılın yedinci faiz kararı bugün açıklanacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T21:08:00+00:00"
-  },
-  {
    "title": "Tesla'nın karı üçüncü çeyrekte azaldı",
    "link": "https://www.aa.com.tr/tr/ekonomi/teslanin-kari-ucuncu-ceyrekte-azaldi/4096540",
    "summary": "Amerikan elektrikli otomobil üreticisi Tesla'nın net karı, 2026'nın üçüncü çeyreğinde geçen yılın aynı dönemine kıyasla yüzde 43 azalış kaydetti.",
@@ -893,15 +1037,6 @@
    "published": "2026-10-21T20:41:51+00:00"
   },
   {
-   "title": "Trump, RusyaUkrayna Savaşı'nda çözüme hiç olmadığı kadar yakın olduklarını belirtti",
-   "link": "https://www.trthaber.com/haber/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti-960826.html",
-   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T20:36:00+00:00"
-  },
-  {
    "title": "Axios: İsrail, pazartesi İran sınırına yakın noktalarda uçuş gerçekleştirdi",
    "link": "https://www.aa.com.tr/tr/dunya/axios-israil-pazartesi-iran-sinirina-yakin-noktalarda-ucus-gerceklestirdi/4096495",
    "summary": "İsrail'e ait savaş uçaklarının 19 Ekim Pazartesi günü İran sınırına yakın noktalarda uçuş gerçekleştirerek \"güç gösterisinde\" bulunduğu iddia edildi.",
@@ -909,15 +1044,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-21T20:35:27+00:00"
-  },
-  {
-   "title": "Soykırımcı İsrail, Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
-   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-bati-seriada-12-saatte-23-saldiri-gerceklestirdi-960825.html",
-   "summary": "Soykırımcı İsrail ordusu ile Filistin topraklarını gasbeden İsraillilerin, işgal altındaki Batı Şeria'nın 7 kentinde zeytin hasadı yapan çiftçilere, arazilerine ve dayanışma aktivistlerine 12 saatte 23 saldırı ve ihlal…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T20:20:00+00:00"
   },
   {
    "title": "İsrail askerleri ve Filistin topraklarını gasbeden İsrailliler Batı Şeria'da 12 saatte 23 saldırı gerçekleştirdi",
@@ -929,22 +1055,13 @@
    "published": "2026-10-21T20:17:57+00:00"
   },
   {
-   "title": "Siber Güvenlik Başkanlığından ulusal ölçekte uyarı",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/siber-guvenlik-baskanligindan-ulusal-olcekte-uyari-960824.html",
-   "summary": "Siber Güvenlik Başkanlığı, dünya genelinde internet siteleri ve kurumsal uygulamalarda yaygın olarak kullanılan PHP yazılım altyapısında tespit edilen kritik güvenlik zafiyetlerine yönelik ulusal düzeyde önleyici…",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "title": "Trump, Rusya-Ukrayna Savaşı'nda çözüme \"hiç olmadığı kadar yakın\" olduklarını belirtti",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-rusya-ukrayna-savasinda-cozume-hic-olmadigi-kadar-yakin-olduklarini-belirtti/4096462",
+   "summary": "ABD Başkanı Donald Trump, Rusya ile Ukrayna arasında anlaşmaya varılabilmesi için Rusya Devlet Başkanı Vladimir Putin ile görüşmelerin sürdüğünü kaydederek, çözüme \"daha önce hiç olmadığı kadar yakın\" olduklarını…",
+   "source": "AA",
+   "category": "Dünya",
    "image": null,
-   "published": "2026-10-21T20:15:00+00:00"
-  },
-  {
-   "title": "PHP'deki güvenlik açığı nedeniyle dünya çapında çok sayıda site kapatıldı",
-   "link": "https://www.trthaber.com/haber/dunya/phpdeki-guvenlik-acigi-nedeniyle-dunya-capinda-cok-sayida-site-kapatildi-960823.html",
-   "summary": "Bir programlama dili olan PHP'deki \"ciddi güvenlik açıklarına\" ilişkin haberlerin ardından dünya çapında hükümet siteleri de dahil olmak üzere çok sayıda internet sitesine tedbir amacıyla erişim kısmen ya da tamamen…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T19:57:00+00:00"
+   "published": "2026-10-21T19:55:45+00:00"
   },
   {
    "title": "Katar Başbakan Yardımcısı: Bedir Mutabakatı, ülkelerimiz arasındaki savunma işbirliğine katkı sağlayacak",
@@ -965,24 +1082,6 @@
    "published": "2026-10-21T19:45:50+00:00"
   },
   {
-   "title": "Arnavutluk'ta öğrencilerin eğitim koşullarının iyileştirilmesi talebiyle düzenlediği protestolar sürüyor",
-   "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiyle-duzenledigi-protestolar-suruyor/4096448",
-   "summary": "Arnavutluk'un başkenti Tiran'da, üniversite öğrencilerinin eğitim koşullarının iyileştirilmesi talebiyle yaptığı gösteriler devam ediyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T19:37:03+00:00"
-  },
-  {
-   "title": "Kullanıcıları gizlilik konusunda yanılttığı için Meta'ya 25 milyar dolar ceza verildi",
-   "link": "https://www.trthaber.com/haber/dunya/kullanicilari-gizlilik-konusunda-yanilttigi-icin-metaya-25-milyar-dolar-ceza-verildi-960822.html",
-   "summary": "ABD'nin New Mexico eyaletinde bir mahkeme, kullanıcıları gizlilik ve içerik denetimi politikaları konusunda yanılttığı gerekçesiyle sosyal medya şirketi Meta'nın eyalete 25 milyar dolar ceza ödemesine hükmetti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T19:34:00+00:00"
-  },
-  {
    "title": "Panathinaikos Basketbol Kulübünden Yunanistan'daki şike ve rüşvet iddialarına ilişkin açıklama",
    "link": "https://www.aa.com.tr/tr/spor/panathinaikos-basketbol-kulubunden-yunanistandaki-sike-ve-rusvet-iddialarina-iliskin-aciklama/4096444",
    "summary": "Panathinaikos Basketbol Kulübü, Yunanistan'da yaşanan şike ve rüşvet operasyonları sonrası sert bir açıklamada bulundu.",
@@ -990,15 +1089,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-21T19:33:19+00:00"
-  },
-  {
-   "title": "Suudi Arabistan: Şeybe petrol sahasını hedef alan saldırıda 2 kişi öldü",
-   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistan-seybe-petrol-sahasini-hedef-alan-saldirida-2-kisi-oldu-960821.html",
-   "summary": "Suudi Arabistan Enerji Bakanlığı: Şarkiyye bölgesindeki Şeybe petrol sahasını hedef alan saldırıda 2 kişi öldü, 2 kişi yaralandı",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T19:24:00+00:00"
   },
   {
    "title": "'Rusya savaşı bitirmek için Ukrayna ve ABD ile görüşmelere yeniden başlamaya hazır'",
@@ -1010,33 +1100,6 @@
    "published": "2026-10-21T19:07:07+00:00"
   },
   {
-   "title": "İran basını: Hürmüzgan eyaletine bağlı Sirik kentinde patlama sesleri duyuldu",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-hurmuzgan-eyaletine-bagli-sirik-kentinde-patlama-sesleri-duyuldu/4096409",
-   "summary": "İran'ın güneyindeki Hürmüzgan eyaletine bağlı Sirik kentinin Kerpan bölgesinde patlama sesleri duyulduğu bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T19:05:41+00:00"
-  },
-  {
-   "title": "İstanbul'da kara para soruşturmasında Sarıgül tutuklandı",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-kara-para-sorusturmasinda-sarigul-tutuklandi-960820.html",
-   "summary": "İstanbul'da yurt içi ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin yürütülen soruşturma kapsamında gözaltına alınan Emir Sarıgül tutuklandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T18:57:00+00:00"
-  },
-  {
-   "title": "BM: Gazze'de süren İsrail saldırıları nedeniyle özellikle çocuklar ciddi risklerle karşı karşıya",
-   "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-suren-israil-saldirilari-nedeniyle-ozellikle-cocuklar-ciddi-risklerle-karsi-karsiya-960819.html",
-   "summary": "Birleşmiş Milletler BM, Gazze'de soykırımcı İsrail'in devam eden ve sivil kayıplara yol açan saldırıları konusunda \"derin endişe\" duyduklarını belirterek, özellikle çocukların \"ciddi risklerle\" karşı karşıya olduğu…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-21T18:55:00+00:00"
-  },
-  {
    "title": "JP Morgan Türkiye'deki bankacılık faaliyetlerini büyütmeyi planlıyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/jp-morgan-turkiyedeki-bankacilik-faaliyetlerini-buyutmeyi-planliyor/4096399",
    "summary": "JPMorgan İstanbul Şubesi'nin yakın zamanda Türkiye'deki bankacılık faaliyetlerini büyütme kararı aldığı ve bu yöndeki çalışmaların ilgili yasal otoritelerle koordineli şekilde sürdürüldüğü bildirildi.",
@@ -1044,15 +1107,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-21T18:52:53+00:00"
-  },
-  {
-   "title": "Fransa'da telefon operatörü Orange'ın mobil ağında kesinti yaşanıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-telefon-operatoru-orangein-mobil-aginda-kesinti-yasaniyor/4096392",
-   "summary": "",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-21T18:47:39+00:00"
   },
   {
    "title": "76. Dünya Döküm Kongresi sona erdi",
@@ -1271,15 +1325,6 @@
    "published": "2026-10-21T10:48:04+00:00"
   },
   {
-   "title": "Erdoğan AKP tabanına seslendi: Bu camianın başını öne eğdirmeyeceğiz",
-   "link": "https://www.bbc.com/turkce/articles/cm5ynl39ve2xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan fon soruşturmasında parti tabanlarının kendilerini izlediğini bildiklerini ve bunu dikkate alarak hareket ettiklerini söyledi.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4c72/live/96506b70-f6bd-11f0-b352-c18a700f188f.jpg",
-   "published": "2026-10-21T10:37:02+00:00"
-  },
-  {
    "title": "Çaykur Rizespor, Trabzonspor maçına odaklandı",
    "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-trabzonspor-macina-odaklandi-/4095688",
    "summary": "Trendyol Süper Lig'in 9. haftasında Trabzonspor'u konuk edecek Çaykur Rizespor'da savunma oyuncusu Modibo Sagnan, taraftarlarının önünde güzel bir sonuç almak istediklerini söyledi.",
@@ -1298,15 +1343,6 @@
    "published": "2026-10-21T10:18:42+00:00"
   },
   {
-   "title": "Rusya'dan ABD'ye dizel taşıyan ilk tankerin yola çıkması planlanıyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/rusyadan-abdye-dizel-tasiyan-ilk-tankerin-yola-cikmasi-planlaniyor/4095540",
-   "summary": "Rusya Başbakan Yardımcısı Aleksandr Novak, ABD'ye dizel taşıyacak ilk tankerin limandan hareket edeceğini söyledi.​​​​​​​",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-21T09:21:12+00:00"
-  },
-  {
    "title": "NBA Başkan Yardımcısı Tatum, NBA Avrupa'nın takımlara sunacağı kaynağa dikkati çekti",
    "link": "https://www.aa.com.tr/tr/spor/nba-baskan-yardimcisi-tatum-nba-avrupanin-takimlara-sunacagi-kaynaga-dikkati-cekti/4095519",
    "summary": "Amerikan Basketbol Ligi (NBA) Başkan Yardımcısı Mark Tatum, NBA Avrupa projesine dahil olacak kulüplerin, Avrupa Ligi'nin 10 yıllık süreçte takımlara dağıtmayı öngördüğü kaynağın üç kat fazlasını kazanacağını söyledi.",
@@ -1314,42 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-21T09:10:33+00:00"
-  },
-  {
-   "title": "Karşıyaka Başantrenörü Markovic, takımının kısa sürede yakaladığı uyumdan memnun",
-   "link": "https://www.aa.com.tr/tr/spor/karsiyaka-basantrenoru-markovic-takiminin-kisa-surede-yakaladigi-uyumdan-memnun/4095497",
-   "summary": "Karşıyaka'nın başantrenörü Nenad Markovic, sezon öncesinde yaşanan sorunlara rağmen kısa sürede takım kimyası ve uyumunun oluşmasından memnun olduğunu belirtti.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-21T09:00:58+00:00"
-  },
-  {
-   "title": "Türk hokeyinin olimpiyat hayali",
-   "link": "https://www.aa.com.tr/tr/spor/turk-hokeyinin-olimpiyat-hayali/4095477",
-   "summary": "Türkiye Hokey Federasyonu Başkanı Mustafa Çakır, Türk hokeyinin hayalinin olimpiyatta yer almak olduğunu söyledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-21T08:41:32+00:00"
-  },
-  {
-   "title": "Beşiktaş, Avrupa'da 267. kez sahne alacak",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-avrupada-267-kez-sahne-alacak/4095414",
-   "summary": "UEFA Avrupa Ligi'nin üçüncü haftasında İngiltere temsilcisi Crystal Palace'ı konuk edecek Beşiktaş, Avrupa kupalarındaki 267. mücadelesine çıkacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-21T08:08:27+00:00"
-  },
-  {
-   "title": "Beşiktaş, İngiliz ekipleriyle 23. kez kozlarını paylaşacak",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-ingiliz-ekipleriyle-23-kez-kozlarini-paylasacak/4095404",
-   "summary": "UEFA Avrupa Ligi'nin 3. haftasında Crystal Palace'ı ağırlayacak Beşiktaş, İngiliz ekipleriyle 23. maçını oynayacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-21T08:04:21+00:00"
   }
  ]
 }
