@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-23T20:57:35.613026+00:00",
+ "updated": "2026-10-23T21:24:50.487288+00:00",
  "items": [
+  {
+   "title": "Avrupa Konseyi Görünürlük Haftası vesilesiyle resepsiyon düzenlendi",
+   "link": "https://www.aa.com.tr/tr/gundem/avrupa-konseyi-gorunurluk-haftasi-vesilesiyle-resepsiyon-duzenlendi/4099113",
+   "summary": "Avrupa Konseyi Ankara Program Ofisi, Avrupa Konseyinin Türkiye'de yürüttüğü işbirliği projelerini, bu projelerde gerçekleştirilen faaliyetleri ve elde edilen kazanımları paylaşmayı amaçlayan Görünürlük Haftası…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T21:16:53+00:00"
+  },
+  {
+   "title": "Estetik ameliyatı sırasında fenalaşan kadın hayatını kaybetti",
+   "link": "https://www.trthaber.com/haber/turkiye/estetik-ameliyati-sirasinda-fenalasan-kadin-hayatini-kaybetti-961039.html",
+   "summary": "İstanbul'da özel bir hastanede estetik ameliyatı sırasında sağlık durumu kötüleşen 46 yaşındaki kadın hayatını kaybetti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T21:13:00+00:00"
+  },
+  {
+   "title": "Türkiye ile Slovakya arasında enerji alanında iş birliği",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-slovakya-arasinda-enerji-alaninda-is-birligi-961037.html",
+   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Türkiye ile Slovakya arasında doğal gaz ticareti, yenilenebilir enerji, enerji verimliliği, nükleer enerji ve kritik mineraller alanlarındaki iş birliği…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T20:58:00+00:00"
+  },
+  {
+   "title": "AB ve birçok ülke Ürdün'de yapılan saldırıyı kınadı",
+   "link": "https://www.trthaber.com/haber/dunya/ab-ve-bircok-ulke-urdunde-yapilan-saldiriyi-kinadi-961038.html",
+   "summary": "Ürdün'ün Kerek kentinde bir kilisede 7 kişinin hayatını kaybettiği, 27 kişinin yaralandığı saldırı dünyanın birçok yerinde kınandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T20:57:00+00:00"
+  },
+  {
+   "title": "Trump: İran'a karşı yeni bir askeri operasyon olabilir",
+   "link": "https://www.bbc.com/turkce/articles/cm3el0p0j8yjo?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD Başkanı Donald Trump, Washington'un İran'a karşı yeni bir askeri harekat düzenleyebileceğini söyledi.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7d6d/live/3b2a14c0-cf21-11f1-b8f0-99ad639f25e6.jpg",
+   "published": "2026-10-23T20:53:07+00:00"
+  },
+  {
+   "title": "Almanya'dan Cumhurbaşkanı Erdoğan ve Dışişleri Bakanı Fidan'a teşekkür",
+   "link": "https://www.trthaber.com/haber/dunya/almanyadan-cumhurbaskani-erdogan-ve-disisleri-bakani-fidana-tesekkur-961036.html",
+   "summary": "Almanya Dışişleri Bakanı Wadephul, E3R4 toplantısına ev sahipliği yapan Cumhurbaşkanı Erdoğan ve Dışişleri Bakanı Hakan Fidana teşekkür etti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T20:51:00+00:00"
+  },
   {
    "title": "Cumhurbaşkanı Erdoğan, Üsküdar ve Ataşehir Belediye Başkan Vekilleri'ni kabul etti",
    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-uskudar-ve-atasehir-belediye-baskan-vekillerini-kabul-etti-961035.html",
@@ -420,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,92 değer kaybederek 11.116,99 puandan tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T15:36:18+00:00"
   },
@@ -1028,15 +1082,6 @@
    "published": "2026-10-23T09:10:16+00:00"
   },
   {
-   "title": "İstanbul'da hava kirliliği arttı: En yüksek ölçüm Sultangazi'de",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-hava-kirliligi-artti-en-yuksek-olcum-sultangazide-960987.html",
-   "summary": "İstanbul'daki hava kirliliği eylül ayında geçen yılın aynı dönemine göre yüzde 3 arttı. Partikül madde hava kirliliğinin en fazla ölçüldüğü istasyon metreküp başına 61,73 mikrogramla \"Sultangazi 3\" oldu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T09:04:00+00:00"
-  },
-  {
    "title": "Libyalılar, Türkiye-Libya deniz yetki muhtırasının Akdeniz'deki haklarının güvencesi olduğunu düşünüyor",
    "link": "https://www.aa.com.tr/tr/dunya/libyalilar-turkiye-libya-deniz-yetki-muhtirasinin-akdenizdeki-haklarinin-guvencesi-oldugunu-dusunuyor/4098254",
    "summary": "Libyalılar, ülkelerinin meclisinde onaylanan Türkiye-Libya deniz yetki alanlarının sınırlandırılmasına ilişkin mutabakat muhtırasının ülkelerinin Akdeniz'deki haklarını koruyan stratejik bir kalkan olduğunu düşünüyor.",
@@ -1044,15 +1089,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T09:01:40+00:00"
-  },
-  {
-   "title": "Emine Erdoğan'dan Özbekistan ziyaretine ilişkin paylaşım",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-ozbekistan-ziyaretine-iliskin-paylasim-960986.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, \"Özbekistan ziyaretimizin, çocukların refahını önceleyen yeni adımlara ve ülkelerimiz arasındaki dayanışmanın güçlenmesine vesile olmasını diliyorum\" dedi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T09:00:00+00:00"
   },
   {
    "title": "PTT AŞ 186. yaşında dijital hizmetlerini geliştirmeye odaklandı",
@@ -1064,15 +1100,6 @@
    "published": "2026-10-23T08:59:40+00:00"
   },
   {
-   "title": "Bakan Fidan: İsrail, uluslararası sisteme güveni eksiltiyor",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-israil-uluslararasi-sisteme-guveni-eksiltiyor-960985.html",
-   "summary": "Dışişleri Bakanı Hakan Fidan, \"İsrail kuvvetlerinin her gün ateşkesi ihlal etmesi uluslararası sisteme olan güveni eksiltiyor ve bu konuda güvensizlik yaratıyor. Bu konuda insani yardım erişmesi ve çocukların özellikle…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T08:55:00+00:00"
-  },
-  {
    "title": "Türk Eximbank ile Kanada'nın ihracat destek kuruluşu EDC arasında mutabakat zaptı imzalandı",
    "link": "https://www.aa.com.tr/tr/ekonomi/turk-eximbank-ile-kanadanin-ihracat-destek-kurulusu-edc-arasinda-mutabakat-zapti-imzalandi/4098245",
    "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ile Kanada arasında ihracat kredileri alanındaki işbirliğini güçlendirmek amacıyla Türk Eximbank ile bu ülkenin ihracat destek kuruluşu EDC'nin mutabakat zaptı imzaladığını bildirdi.",
@@ -1080,15 +1107,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T08:54:00+00:00"
-  },
-  {
-   "title": "Deneysel mRNA aşısı cilt kanserinin nüksetme riskini yüzde 42 oranında azaltıyor",
-   "link": "https://www.trthaber.com/haber/dunya/deneysel-mrna-asisi-cilt-kanserinin-nuksetme-riskini-yuzde-42-oraninda-azaltiyor-960984.html",
-   "summary": "Kişiselleştirilmiş ilk mRNA kanser aşısının cilt kanserine karşı yürütülen son aşama klinik çalışmada başarılı olduğunun duyulması tıp dünyasında büyük bir heyecan yaratmıştı. Şimdi ise aşının başarısının arkasındaki…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T08:47:00+00:00"
   },
   {
    "title": "Bakan Kacır: Teknoloji liderlerini Türkiye'nin girişimcilik potansiyeline yatırım yapmaya davet ediyoruz",
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-23T07:03:33+00:00"
-  },
-  {
-   "title": "Basketbolda haftanın programı",
-   "link": "https://www.aa.com.tr/tr/spor/basketbolda-haftanin-programi/4098009",
-   "summary": "Türkiye Sigorta Basketbol Süper Ligi ile Halkbank Kadınlar Basketbol Süper Ligi'nde 5, Türkiye Sigorta Türkiye Basketbol Ligi'nde ise 8. hafta maçları yapılacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-23T06:54:16+00:00"
-  },
-  {
-   "title": "Futbolda haftanın programı",
-   "link": "https://www.aa.com.tr/tr/spor/futbolda-haftanin-programi/4098005",
-   "summary": "Futbolda Trendyol Süper Lig'e 9, Trendyol 1. Lig'e 12, Nesine 2. Lig ve Nesine 3. Lig'e ise 8. hafta maçlarıyla devam edilecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-23T06:51:24+00:00"
   }
  ]
 }
