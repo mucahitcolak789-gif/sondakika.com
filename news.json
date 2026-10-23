@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-23T05:44:51.990290+00:00",
+ "updated": "2026-10-23T06:15:03.179804+00:00",
  "items": [
+  {
+   "title": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
+   "link": "https://www.bbc.com/turkce/articles/cmdx3rdpxke1o?at_medium=RSS&at_campaign=rss",
+   "summary": "Haftalık Die Zeit gazetesinin haberine göre suç örgütleri, Almanya'ya iltica etmek isteyenler için Türkiye'de bazı savcılara rüşvet vererek \"Cumhurbaşkanı Erdoğan'a hakaret\" suçlamasıyla ceza soruşturması açtırıyor.…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9120/live/b5d32fa0-cea8-11f1-bbfb-357cf921a5e9.jpg",
+   "published": "2026-10-23T06:13:37+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan \"2025'teki fon düzenlemesine yönelik konuşmasının çarpıtılmasına\" ilişkin açıklama",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmazdan-2025teki-fon-duzenlemesine-yonelik-konusmasinin-carpitilmasina-iliskin-aciklama/4097954",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 11 Aralık 2025'te finans zirvesinde yaptığı konuşmanın, cımbızlanarak ve bağlamından koparılarak dezenformasyon haline getirilmesinin dürüst ve samimi olmayan yaklaşıma örnek…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T06:11:02+00:00"
+  },
+  {
+   "title": "Küresel piyasalar jeopolitik riskler ve yapay zeka endişeleriyle negatif seyrediyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-jeopolitik-riskler-ve-yapay-zeka-endiseleriyle-negatif-seyrediyor-/4097953",
+   "summary": "Küresel piyasalar, Orta Doğu'da yükselme eğilimindeki jeopolitik tansiyon ve yapay zeka yatırımlarına ilişkin artan endişelerin oluşturduğu satış baskısıyla negatif seyrediyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T06:09:41+00:00"
+  },
+  {
+   "title": "Bolu merkezli yasa dışı bahis operasyonunda 4 şüpheli tutuklandı",
+   "link": "https://www.aa.com.tr/tr/gundem/bolu-merkezli-yasa-disi-bahis-operasyonunda-4-supheli-tutuklandi/4097949",
+   "summary": "Bolu ve İstanbul'da düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 6 şüpheliden 4'ü tutuklandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T06:04:07+00:00"
+  },
+  {
+   "title": "Dünya Güreş Şampiyonası yarın Kazakistan'da başlayacak",
+   "link": "https://www.aa.com.tr/tr/spor/dunya-gures-sampiyonasi-yarin-kazakistanda-baslayacak/4097944",
+   "summary": "2026 Dünya Güreş Şampiyonası, Kazakistan'ın başkenti Astana'da yarın başlayacak. En fazla dünya şampiyonluğu yaşayan Türk güreşçi Rıza Kayaalp, organizasyon tarihindeki 6. altın madalyasını almak için mindere çıkacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T05:58:06+00:00"
+  },
+  {
+   "title": "Orman Genel Müdürlüğü 12 müfettiş yardımcısı istihdam edecek",
+   "link": "https://www.aa.com.tr/tr/gundem/orman-genel-mudurlugu-12-mufettis-yardimcisi-istihdam-edecek/4097943",
+   "summary": "Tarım ve Orman Bakanlığı Orman Genel Müdürlüğü (OGM), 12 müfettiş yardımcısı alacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T05:57:22+00:00"
+  },
   {
    "title": "29 Ekim Cumhuriyet Bayramı'nda bazı şehir içi toplu taşıma seferleri ücretsiz olacak",
    "link": "https://www.aa.com.tr/tr/gundem/29-ekim-cumhuriyet-bayraminda-bazi-sehir-ici-toplu-tasima-seferleri-ucretsiz-olacak/4097937",
@@ -27,6 +81,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T05:25:00+00:00"
+  },
+  {
+   "title": "İstanbul'da suç örgütü operasyonunda 12 şüpheli gözaltına alındı",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-suc-orgutu-operasyonunda-12-supheli-gozaltina-alindi/4097927",
+   "summary": "İstanbul'da iş yerlerini hedef alan suç örgütüne yönelik operasyonda 12 şüpheli yakalandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T05:18:38+00:00"
   },
   {
    "title": "Çin Hanedanlığı'nın devasa heykel ordusunda çarpıcı parmak izi keşfi",
@@ -153,15 +216,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T23:36:52+00:00"
-  },
-  {
-   "title": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
-   "link": "https://www.bbc.com/turkce/articles/cmdx3rdpxke1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Haftalık Die Zeit gazetesinin haberine göre suç örgütleri, Almanya'ya iltica etmek isteyenler için Türkiye'de bazı savcılara rüşvet vererek \"Cumhurbaşkanı Erdoğan'a hakaret\" suçlamasıyla ceza soruşturması açtırıyor.…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dc59/live/f2478370-ce29-11f1-a64c-550be9e3c66b.jpg",
-   "published": "2026-10-22T23:09:41+00:00"
   },
   {
    "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
@@ -407,20 +461,11 @@
    "published": "2026-10-22T20:28:30+00:00"
   },
   {
-   "title": "\"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında yakalanan 19 şüpheli tutuklandı",
-   "link": "https://www.aa.com.tr/tr/gundem/alihan-kuris-cikar-amacli-suc-orgutu-sorusturmasinda-yakalanan-19-supheli-tutuklandi/4097839",
-   "summary": "Ankara Cumhuriyet Başsavcılığınca yürütülen \"Alihan Kuriş çıkar amaçlı suç örgütü\" soruşturmasında gözaltına alınan 38 şüpheliden 19'u tutuklandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T20:24:31+00:00"
-  },
-  {
    "title": "BM, ağustostaki sel felaketinden sonra Nepal'de 4,8 milyar dolara ihtiyaç olduğunu belirtti",
    "link": "https://www.aa.com.tr/tr/dunya/bm-agustostaki-sel-felaketinden-sonra-nepalde-4-8-milyar-dolara-ihtiyac-oldugunu-belirtti/4097832",
    "summary": "BM Proje Hizmetleri Ofisi İcra Direktörü Silva, 26 Ağustos'ta meydana gelen sel felaketi nedeniyle Nepal'in toparlanması için 4,8 milyar dolara ihtiyaç olduğunu, şu ana kadar sadece 24,5 milyon dolar toplandığını…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-22T20:18:11+00:00"
   },
@@ -429,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-besiktasi-89-80-maglup-etti/4097823",
    "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 7. haftasında Anadolu Efes, sahasında Beşiktaş'ı 89-80 mağlup etti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-22T20:02:03+00:00"
   },
@@ -447,7 +492,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/spkden-altinkilic-gida-ve-anel-elektrike-iliskin-yaptirim-karari/4097804",
    "summary": "Sermaye Piyasası Kurulu (SPK), Altınkılıç Gıda ve Süt Sanayi Ticaret AŞ ile Anel Elektrik Proje Taahhüt ve Ticaret AŞ'nin pay piyasalarında gerçekleştirilen işlemler nedeniyle 48 gerçek kişi ve 5 tüzel kişi hakkında…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T19:37:37+00:00"
   },
@@ -456,7 +501,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/arnavutlukta-ogrencilerin-egitim-kosullarinin-iyilestirilmesi-talebiyle-duzenledigi-protestolar-suruyor/4097798",
    "summary": "Arnavutluk'un başkenti Tiran'da, üniversite öğrencilerinin eğitim koşullarının iyileştirilmesi talebiyle yaptığı gösteriler devam ediyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-22T19:21:19+00:00"
   },
@@ -645,7 +690,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-kanadali-yetkililerle-enerjide-is-birligi-imkanlarini-gorustuklerini-bildirdi/4097712",
    "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, Kanada Başbakanı Mark Carney'in tarihi Ankara ziyaretinde, enerjide iş birliğinin ana gündem başlıklarından biri olduğunu bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-22T17:27:19+00:00"
   },
@@ -956,15 +1001,6 @@
    "published": "2026-10-22T13:22:00+00:00"
   },
   {
-   "title": "Gazze'de, soykırımcı İsrail'in un sevkiyatına izin vermemesi nedeniyle fırınların çoğu faaliyetlerini durdurdu",
-   "link": "https://www.trthaber.com/haber/dunya/gazzede-soykirimci-israilin-un-sevkiyatina-izin-vermemesi-nedeniyle-firinlarin-cogu-faaliyetlerini-durdurdu-960914.html",
-   "summary": "Gazze'deki Sosyal Kalkınma Bakanlığı, İsrail'in Gazze Şeridi'ne temel gıda maddeleri ve un girişini engellemesi sebebiyle, kentteki fırınların çoğunun çalışmalarını durdurması sonucu Filistinlilerin hayatının tehdit…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T13:16:00+00:00"
-  },
-  {
    "title": "İngiltere'de bir emekli, Pokémon kartlarını açık artırmada satarak milyoner oldu",
    "link": "https://www.bbc.com/turkce/articles/c9vgrmz06p4zo?at_medium=RSS&at_campaign=rss",
    "summary": "15 yıldır tavan arasında saklanan bir hazine bulduğunu söylüyor.",
@@ -1244,15 +1280,6 @@
    "published": "2026-10-22T08:06:14+00:00"
   },
   {
-   "title": "Konut satışları eylülde yılın en yüksek seviyesine çıktı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/konut-satislari-eylulde-yilin-en-yuksek-seviyesine-cikti/4096774",
-   "summary": "Türkiye genelinde konut satışları eylülde 142 bin 390 ile yılın en yüksek seviyesine ulaşırken, sektör temsilcileri birinci el konut satışlarındaki artışın sektörün canlılığı açısından olumlu bir gelişme olduğunu…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-22T08:02:47+00:00"
-  },
-  {
    "title": "Süper Lig'de 9. hafta heyecanı yarın başlayacak",
    "link": "https://www.aa.com.tr/tr/spor/super-ligde-9-hafta-heyecani-yarin-baslayacak/4096748",
    "summary": "Trendyol Süper Lig'de 9. haftanın perdesi, yarın oynanacak tek maçla açılacak.",
@@ -1323,33 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-21T19:33:19+00:00"
-  },
-  {
-   "title": "Başakşehir ile Zenit veteranlar dostluk maçında buluştu",
-   "link": "https://www.aa.com.tr/tr/spor/basaksehir-ile-zenit-veteranlar-dostluk-macinda-bulustu/4096382",
-   "summary": "Başakşehir Futbol Kulübü Başkanı Göksel Gümüşdağ: \"Burada çifte standart var. Bütün dünya görüyor. Futbolda ve tüm spor dallarında İsrail'e bir yaptırım uygulanmazken Rusya'ya uygulanan yaptırım adil değil.\" dedi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-21T18:37:04+00:00"
-  },
-  {
-   "title": "Galatasaray, bu sezon Şampiyonlar Ligi'ndeki ilk galibiyetini Lille karşısında aldı",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-bu-sezon-sampiyonlar-ligindeki-ilk-galibiyetini-lille-karsisinda-aldi/4096332",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin üçüncü haftasında Fransa temsilcisi Lille'i 4-2 yenerek organizasyondaki ilk puanlarını kazandı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-21T17:41:08+00:00"
-  },
-  {
-   "title": "\"Hakemler dosyası\" soruşturmasında Ferdi Karadoruk'a 8 yıla kadar hapis istemi",
-   "link": "https://www.aa.com.tr/tr/spor/hakemler-dosyasi-sorusturmasinda-ferdi-karadoruka-8-yila-kadar-hapis-istemi/4096309",
-   "summary": "İstanbul'da \"Hakemler dosyası\" olarak bilinen soruşturma kapsamında tutuklanan Türkiye Faal Futbol Hakemleri ve Gözlemcileri Derneği (TFFHGD) İstanbul Şubesi Başkanı Ferdi Karadoruk hakkında 8 yıla kadar hapis istemiyle…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-21T17:05:16+00:00"
   }
  ]
 }
