@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-23T13:15:11.299873+00:00",
+ "updated": "2026-10-23T13:55:38.804936+00:00",
  "items": [
+  {
+   "title": "20. Türk Tarih Kongresi, 30 ülkeden 300 akademisyeni buluşturacak",
+   "link": "https://www.trthaber.com/haber/turkiye/20-turk-tarih-kongresi-30-ulkeden-300-akademisyeni-bulusturacak-961007.html",
+   "summary": "20. Türk Tarih Kongresi 30 ülkeden 300 akademisyenin katılımıyla 2630 Ekim tarihlerinde Atatürk Kültür, Dil ve Tarih Yüksek Kurumu yerleşkesinde yapılacak. 30 ülkeden 300 akademisyenin bildiri sunacağı Kongre'de,…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T13:35:00+00:00"
+  },
+  {
+   "title": "TÜSEB İDEA'dan 1400 kilometre uzaktaki hastaya robotik cerrahi",
+   "link": "https://www.aa.com.tr/tr/gundem/tuseb-ideadan-1400-kilometre-uzaktaki-hastaya-robotik-cerrahi/4098646",
+   "summary": "TÜSEB İstanbul Deneysel Araştırma Geliştirme ve Eğitim Merkezi'nden telecerrahi uygulamasıyla, ilk kez bir laboratuvar ile hastane arasında bağlantı kurularak 1400 kilometre uzaktaki hastaya robotik cerrahi işlemi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T13:31:44+00:00"
+  },
+  {
+   "title": "Ticaret Bakanı Bolat: Türkiye ile ABD arasındaki dış ticaret hacmi yüzde 13 arttı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiye-ile-abd-arasindaki-dis-ticaret-hacmi-yuzde-13-artti/4098638",
+   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ile ABD arasındaki dış ticaret hacminin 2025'te bir önceki yıla göre yüzde 13 artarak 38,5 milyar dolar seviyesinde gerçekleşti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T13:25:32+00:00"
+  },
+  {
+   "title": "Cevdet Yılmaz'dan 'dezenformasyon' tepkisi: Siyaset dürüstlük işidir",
+   "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmazdan-dezenformasyon-tepkisi-siyaset-durustluk-isidir-961006.html",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, finans zirvesindeki sözlerinin bağlamından koparılarak çarpıtılmasına tepki gösterdi. Siyasetin her şeyden önce dürüstlük işi olduğunu belirten Yılmaz, düzenlemelerin sadece…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T13:18:00+00:00"
+  },
+  {
+   "title": "Arçelik, 200 milyon avroluk yatırımla Manisa'da çamaşır makinesi işletmesini açtı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/arcelik-200-milyon-avroluk-yatirimla-manisada-camasir-makinesi-isletmesini-acti/4098621",
+   "summary": "Koç Topluluğu'na bağlı Arçelik'in yaklaşık 200 milyon avro yatırımla devreye aldığı Manisa Çamaşır Makinesi İşletmesi'nin resmi açılışı gerçekleştirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T13:15:06+00:00"
+  },
   {
    "title": "Filistin Dışişleri Bakanı Ağabekyan, Filistinlilerin acısının İsrail seçimlerinde kullanıldığını söyledi",
    "link": "https://www.aa.com.tr/tr/dunya/filistin-disisleri-bakani-agabekyan-filistinlilerin-acisinin-israil-secimlerinde-kullanildigini-soyledi/4098614",
@@ -12,12 +57,12 @@
   },
   {
    "title": "Togg T10F 4More Kehribar serisi ile yollara çıkıyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor/4098606",
+   "link": "https://www.trthaber.com/haber/ekonomi/togg-t10f-4more-kehribar-serisi-ile-yollara-cikiyor-961005.html",
    "summary": "Türkiye'nin yerli otomobili Togg'un T10F 4More Kehribar serisi tanıtıldı.",
-   "source": "AA",
+   "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
-   "published": "2026-10-23T13:01:38+00:00"
+   "published": "2026-10-23T13:04:00+00:00"
   },
   {
    "title": "UCM'den AB'ye ABD yaptırımlarına karşı \"bir an önce\" harekete geçme çağrısı",
@@ -83,11 +128,20 @@
    "published": "2026-10-23T12:26:00+00:00"
   },
   {
-   "title": "Fransa'da silahlı saldırıda 1 kişi yaşamını yitirdi, 4 kişi yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-silahli-saldirida-1-kisi-yasamini-yitirdi-4-kisi-yaralandi/4098540",
-   "summary": "Fransa’nın Yvelines vilayetinde düzenlenen silahlı saldırıda 1 kişinin yaşamını yitirdiği, 4 kişinin yaralandığı bildirildi.",
+   "title": "Fransa'da silahlı saldırıda 1 kişi yaşamını yitirdi, 5 kişi yaralandı",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-silahli-saldirida-1-kisi-yasamini-yitirdi-5-kisi-yaralandi/4098540",
+   "summary": "Fransa’nın Yvelines vilayetinde düzenlenen silahlı saldırıda 1 kişinin yaşamını yitirdiği, 5 kişinin yaralandığı bildirildi.",
    "source": "AA",
    "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T12:15:37+00:00"
+  },
+  {
+   "title": "Fransa'da silahlı saldırıda 1 kişi yaşamını yitirdi, 4 kişi yaralandı",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-silahli-saldirida-1-kisi-yasamini-yitirdi-4-kisi-yaralandi/4098540",
+   "summary": "Fransa’nın Yvelines vilayetinde düzenlenen silahlı saldırıda 1 kişinin yaşamını yitirdiği, 5 kişinin yaralandığı bildirildi.",
+   "source": "AA",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-23T12:15:37+00:00"
   },
@@ -126,6 +180,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T12:10:00+00:00"
+  },
+  {
+   "title": "Brüksel'de esnaf yağma endişesiyle mağazaların vitrinlerini ahşap panellerle kapatıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/brukselde-esnaf-yagma-endisesiyle-magazalarin-vitrinlerini-ahsap-panellerle-kapatiyor/4098524",
+   "summary": "Belçika'nın başkenti Brüksel'de esnaf, yarın kent merkezinde düzenlenmesi beklenen gösteri öncesinde yağma ihtimaline karşı mağazaların vitrinlerini ahşap panellerle kapatarak güvenlik önlemlerini artırıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T12:04:47+00:00"
   },
   {
    "title": "Erdoğan'ın Aliyev'i araması Azerbaycan'da nasıl yorumlandı?",
@@ -240,7 +303,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-hesabi-eisenkotun-birinci-cikmasi-muhalefetin-cogunluga-ulasmasini-riske-atar-mi/4098425",
    "summary": "İsrail'de genel seçimler öncesinde liderlik yarışı kızışırken eski Genelkurmay Başkanı Gadi Eisenkot'un sandıktan \"birinci parti\" çıkma hedefi, Başbakan Binyamin Netanyahu'yu devirmek isteyen muhalefet ittifakında fikir…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-23T10:52:55+00:00"
   },
@@ -258,7 +321,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/enerji-ve-tabii-kaynaklar-bakani-bayraktar-dunyanin-enerji-alaninda-daha-fazla-isbirligine-ihtiyaci-var/4098421",
    "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, dünyanın enerji alanında daha fazla işbirliğine, yatırıma ve güvenilir ortaklıklara ihtiyacı olduğunu belirterek, \"Türkiye, buna katkıda bulunmaya hazır.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T10:49:28+00:00"
   },
@@ -267,7 +330,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/kanada-turkiyeden-askeri-kabiliyet-satin-alma-ve-savunma-sanayi-ortakligi-seceneklerine-acik/4098419",
    "summary": "Kanada Başbakanı Mark Carney, Türkiye'den askeri kabiliyet tedariki ve savunma sanayisinde ortaklık seçeneklerinin her ikisine de açık olduklarını belirterek, Türkiye'nin savunma sanayisi alanındaki deneyiminden…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-23T10:48:49+00:00"
   },
@@ -285,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/italya-disisleri-bakani-tajani-istanbuldaki-toplantinin-hedeflerini-degerlendirdi/4098404",
    "summary": "İtalya Dışişleri Bakanı Antonio Tajani, Türk diplomasisinin yerinde bir girişimi olarak nitelendirdiği bugünkü İstanbul toplantısına katılanların, çatışmaların olumsuz etkileriyle mücadele siyasetine dönüş için öncü…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-23T10:43:20+00:00"
   },
@@ -1064,15 +1127,6 @@
    "published": "2026-10-23T06:54:16+00:00"
   },
   {
-   "title": "Kanada'nın diplomatlarını ABD'deki ara seçim adaylarıyla temastan kaçınmaları için uyardığı öne sürüldü",
-   "link": "https://www.aa.com.tr/tr/dunya/kanadanin-diplomatlarini-abddeki-ara-secim-adaylariyla-temastan-kacinmalari-icin-uyardigi-one-suruldu/4098008",
-   "summary": "Kanada'nın diplomatlarına, ABD'de yaklaşan 3 Kasım seçimleri öncesi adaylarla temasta bulunmaktan ve görüntü vermekten kaçınmaları​​​​​​​ gerektiğine ilişkin bir uyarı yaptığı öne sürüldü.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-23T06:53:00+00:00"
-  },
-  {
    "title": "Futbolda haftanın programı",
    "link": "https://www.aa.com.tr/tr/spor/futbolda-haftanin-programi/4098005",
    "summary": "Futbolda Trendyol Süper Lig'e 9, Trendyol 1. Lig'e 12, Nesine 2. Lig ve Nesine 3. Lig'e ise 8. hafta maçlarıyla devam edilecek.",
@@ -1244,33 +1298,6 @@
    "published": "2026-10-23T02:00:00+00:00"
   },
   {
-   "title": "Panama'daki depremde yaralanan 2 kişi öldü",
-   "link": "https://www.trthaber.com/haber/dunya/panamadaki-depremde-yaralanan-2-kisi-oldu-960956.html",
-   "summary": "Orta Amerika ülkesi Panama'da 9 Ekim'de meydana gelen 7,7 büyüklüğündeki depremde yaralanan 2 kişinin hayatını kaybettiği belirtildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T01:57:00+00:00"
-  },
-  {
-   "title": "Mersin'de çatlaklar oluşan bina tahliye edildi",
-   "link": "https://www.trthaber.com/haber/turkiye/mersinde-catlaklar-olusan-bina-tahliye-edildi-960955.html",
-   "summary": "Mersin'in Yenişehir ilçesinde farklı bölümlerinde çatlaklar oluştuğu tespit edilen 3 katlı binadaki vatandaşlar tahliye edildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T01:07:00+00:00"
-  },
-  {
-   "title": "Çin'in Tibet Özerk Bölgesi'ndeki depremde 16 kişi öldü",
-   "link": "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesindeki-depremde-16-kisi-oldu-960954.html",
-   "summary": "Çin'in Tibet Özerk Bölgesi'nde dün gece meydana gelen 7 büyüklüğündeki depremde ilk belirlemelere göre 16 kişinin hayatını kaybettiği belirtildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T00:31:00+00:00"
-  },
-  {
    "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
    "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro?at_medium=RSS&at_campaign=rss",
    "summary": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı. Ankara önce Suudi Arabistan ve Pakistan ile Mekke, sonra da Katar,…",
@@ -1316,15 +1343,6 @@
    "published": "2026-10-22T20:57:01+00:00"
   },
   {
-   "title": "Türkiye ile Kanada arasında STA müzakereleri gelecek ay Ankara'da başlayacak",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-kanada-arasinda-sta-muzakereleri-gelecek-ay-ankarada-baslayacak/4097844",
-   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ile Kanada ilişkilerinin stratejik ortaklık düzeyine yükseltilmesi kararıyla birlikte Serbest Ticaret Anlaşması (STA) müzakerelerine gelecek ay sonunda Ankara'da başlanacağını bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-22T20:34:30+00:00"
-  },
-  {
    "title": "'Alihan Kuriş' soruşturmasında 19 kişi daha tutuklandı",
    "link": "https://www.bbc.com/turkce/articles/cjejpp92gw8o?at_medium=RSS&at_campaign=rss",
    "summary": "Alihan Kuriş'in liderliğinde \"çıkar amaçlı suç örgütü kurma ve örgüte üye olma\" gibi iddialarla yürütülen soruşturma kapsamında düzenlenen yeni dalga operasyonda gözaltına alınanlardan 19'u daha tutuklandı.",
@@ -1332,24 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b495/live/137df010-96df-11f1-a7ab-8b30adf0800a.png",
    "published": "2026-10-22T20:28:30+00:00"
-  },
-  {
-   "title": "Anadolu Efes, Beşiktaş'ı 89-80 mağlup etti",
-   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-besiktasi-89-80-maglup-etti/4097823",
-   "summary": "Basketbol Avrupa Ligi'nin (EuroLeague) 7. haftasında Anadolu Efes, sahasında Beşiktaş'ı 89-80 mağlup etti.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-22T20:02:03+00:00"
-  },
-  {
-   "title": "Trabzonspor'dan Reis ile \"5'te 5\"",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspordan-reis-ile-5te-5/4097734",
-   "summary": "UEFA Konferans Ligi'nin 2. haftasında Hearts karşısında 2-0 galip gelen bordo-mavililer, Alman teknik adam yönetiminde 5 resmi karşılaşmasını da kazandı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-22T17:56:57+00:00"
   }
  ]
 }
