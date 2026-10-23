@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-23T21:24:50.487288+00:00",
+ "updated": "2026-10-23T21:57:06.503479+00:00",
  "items": [
+  {
+   "title": "İngiltere Başbakanı Burnham'dan konserve gıda ve şişe suyu depolama tavsiyesi",
+   "link": "https://www.bbc.com/turkce/articles/c8qlnk9l271vo?at_medium=RSS&at_campaign=rss",
+   "summary": "İngiltere Başbakanı Andy Burnham, acil durumlara hazırlıklı olmak amacıyla halka konserve gıda ve şişe suyu stoklamalarını tavsiye etti.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa3/live/61a30b40-cf29-11f1-89f6-f5ef8a187796.png",
+   "published": "2026-10-23T21:48:23+00:00"
+  },
+  {
+   "title": "Trump: İran'a Belki küçük bir Destansı Öfke Operasyonu daha yaparız",
+   "link": "https://www.trthaber.com/haber/dunya/trump-irana-belki-kucuk-bir-destansi-ofke-operasyonu-daha-yapariz-961043.html",
+   "summary": "ABD Başkanı Donald Trump, İran'ın anlaşmaya yanaşmaması durumunda \"küçük bir Destansı Öfke Operasyonu daha\" düzenleyebileceklerini belirtti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T21:39:00+00:00"
+  },
+  {
+   "title": "Sermaye piyasası işlemleri soruşturmalarında 2 kişinin mal varlıkları üzerindeki tedbir kaldırıldı",
+   "link": "https://www.trthaber.com/haber/turkiye/sermaye-piyasasi-islemleri-sorusturmalarinda-2-kisinin-mal-varliklari-uzerindeki-tedbir-kaldirildi-961042.html",
+   "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında yapılan incelemeler doğrultusunda, Enver Geçgel ve Feridun Geçgel'in mal varlıkları üzerindeki tedbir…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T21:27:00+00:00"
+  },
+  {
+   "title": "AK Parti Genel Sekreteri İnan: İstanbul merkezli, rüşvet merkezli değil, İzmir merkezli siyaset yapın",
+   "link": "https://www.trthaber.com/haber/gundem/ak-parti-genel-sekreteri-inan-istanbul-merkezli-rusvet-merkezli-degil-izmir-merkezli-siyaset-yapin-961041.html",
+   "summary": "AK Parti Genel Sekreteri ve İzmir Milletvekili Eyyüp Kadir İnan, İzmir'de yürütecekleri çalışmalara ilişkin, \"25 senenin bütün meselelerini 2,5 seneye nasıl sığdırdığımızı, bu 2,5 sene içerisinde nasıl bir çözüm iradesi…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T21:18:00+00:00"
+  },
   {
    "title": "Avrupa Konseyi Görünürlük Haftası vesilesiyle resepsiyon düzenlendi",
    "link": "https://www.aa.com.tr/tr/gundem/avrupa-konseyi-gorunurluk-haftasi-vesilesiyle-resepsiyon-duzenlendi/4099113",
@@ -9,6 +45,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T21:16:53+00:00"
+  },
+  {
+   "title": "Çankırı'da otomobil uçuruma yuvarlandı: 4 ölü, 1 yaralı",
+   "link": "https://www.trthaber.com/haber/turkiye/cankirida-otomobil-ucuruma-yuvarlandi-4-olu-1-yarali-961040.html",
+   "summary": "Çankırı'nın Bayramören ilçesinde uçuruma yuvarlanan otomobildeki 4 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T21:16:00+00:00"
   },
   {
    "title": "Estetik ameliyatı sırasında fenalaşan kadın hayatını kaybetti",
@@ -27,15 +72,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T20:58:00+00:00"
-  },
-  {
-   "title": "AB ve birçok ülke Ürdün'de yapılan saldırıyı kınadı",
-   "link": "https://www.trthaber.com/haber/dunya/ab-ve-bircok-ulke-urdunde-yapilan-saldiriyi-kinadi-961038.html",
-   "summary": "Ürdün'ün Kerek kentinde bir kilisede 7 kişinin hayatını kaybettiği, 27 kişinin yaralandığı saldırı dünyanın birçok yerinde kınandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T20:57:00+00:00"
   },
   {
    "title": "Trump: İran'a karşı yeni bir askeri operasyon olabilir",
@@ -407,15 +443,6 @@
    "published": "2026-10-23T16:04:39+00:00"
   },
   {
-   "title": "Trumptan rakibine \"cihatçı\" suçlaması",
-   "link": "https://www.trthaber.com/haber/dunya/trumptan-rakibine-cihatci-suclamasi-961018.html",
-   "summary": "ABD Başkanı Donald Trump, Michigan eyaletinden Senato için yarışan Müslüman aday Abdul ElSayed'in \"acımasız, şiddet yanlısı bir cihatçı\" olduğunu iddia etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T16:04:00+00:00"
-  },
-  {
    "title": "Fransa Dışişleri Bakanı Barrot, barış için çalışmak isteyen ülkelerin İstanbul'da buluştuğunu söyledi",
    "link": "https://www.aa.com.tr/tr/dunya/fransa-disisleri-bakani-barrot-baris-icin-calismak-isteyen-ulkelerin-istanbulda-bulustugunu-soyledi/4098866",
    "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, İstanbul'da barış ve istikrarın sağlanması için birlikte hareket etmeye karar veren 8 ülkenin bir araya geldiğini belirtti.",
@@ -447,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4098852",
    "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda ortalama yüzde 5,16, altının gram fiyatı yüzde 4,18 değer kaybederken, dolar/TL yüzde 0,36 ve avro/TL yüzde 0,03 değer kazandı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T15:50:54+00:00"
   },
@@ -839,15 +866,6 @@
    "published": "2026-10-23T12:04:43+00:00"
   },
   {
-   "title": "İsrail'de anketler 27 Ekim seçimlerinde koalisyon belirsizliğine işaret ediyor",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-anketler-27-ekim-secimlerinde-koalisyon-belirsizligine-isaret-ediyor/4098507",
-   "summary": "İsrail'de 27 Ekim Salı günü yapılacak genel seçimler öncesinde yayımlanan kamuoyu yoklamaları, sandıktan derin bir koalisyon belirsizliği ve yeni bir siyasi kriz tablosu çıkacağına işaret ediyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-23T11:57:25+00:00"
-  },
-  {
    "title": "Zeytin hasadı yapan Filistinli Emir tüm baskılara rağmen topraklarını terk etmeyeceğini Türkçe anlattı",
    "link": "https://www.aa.com.tr/tr/dunya/-zeytin-hasadi-yapan-filistinli-emir-tum-baskilara-ragmen-topraklarini-terk-etmeyecegini-turkce-anlatti/4098499",
    "summary": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırılarına rağmen zeytin hasadı yapan Filistinli Emir Çelebi, topraklarını terk etmeyeceğini vurguladı.",
@@ -1028,15 +1046,6 @@
    "published": "2026-10-23T09:29:45+00:00"
   },
   {
-   "title": "ABD'de Cumhuriyetçi genç seçmenlerin İsrail'e yönelik olumsuz görüşleri artıyor",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-cumhuriyetci-genc-secmenlerin-israile-yonelik-olumsuz-gorusleri-artiyor-960989.html",
-   "summary": "ABD'de yapılan anket, Cumhuriyetçi Parti'nin genç seçmenlerinin İsrail hükümeti ve halkına yönelik olumsuz görüşlerinin, ileri yaştaki Cumhuriyetçilere kıyasla belirgin şekilde yüksek olduğunu ortaya koydu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T09:25:00+00:00"
-  },
-  {
    "title": "TOGG, Türkiye'nin ev sahipliğinde gerçekleştirilecek COP31'in \"Mobilite Sektör Ortağı\" oldu",
    "link": "https://www.aa.com.tr/tr/ekonomi/togg-turkiyenin-ev-sahipliginde-gerceklestirilecek-cop31in-mobilite-sektor-ortagi-oldu/4098291",
    "summary": "",
@@ -1053,15 +1062,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-23T09:20:01+00:00"
-  },
-  {
-   "title": "ARGE merkezi sayısı 1365'e yükseldi",
-   "link": "https://www.trthaber.com/haber/ekonomi/ar-ge-merkezi-sayisi-1365e-yukseldi-960988.html",
-   "summary": "Türkiye'de eylül sonu itibarıyla ARGE merkezi sayısı 1365'e, tasarım merkezi sayısı 348'e yükseldi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T09:15:00+00:00"
   },
   {
    "title": "Eski Türkiye Sigorta Genel Müdürü Taha Çakmak gözaltında",
