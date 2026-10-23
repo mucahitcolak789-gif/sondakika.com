@@ -1,10 +1,73 @@
 {
- "updated": "2026-10-23T17:39:31.839564+00:00",
+ "updated": "2026-10-23T18:07:29.959877+00:00",
  "items": [
+  {
+   "title": "Zonguldak'ta çöken binayla ilgili gözaltına alınan 5 şüpheliden 3'ü tutuklandı",
+   "link": "https://www.aa.com.tr/tr/gundem/zonguldakta-coken-binayla-ilgili-gozaltina-alinan-5-supheliden-3u-tutuklandi/4098972",
+   "summary": "Zonguldak'ta 1 kişinin hayatını kaybettiği, 1 kişinin yaralı kurtarıldığı binanın çökmesiyle ilgili gözaltına alınan 5 zanlıdan 3'ü tutuklandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T18:04:59+00:00"
+  },
+  {
+   "title": "Çukurova Belediye Başkanı Kozay görevinden uzaklaştırıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/cukurova-belediye-baskani-kozay-gorevinden-uzaklastirildi/4098968",
+   "summary": "İçişleri Bakanlığı, Çukurova Belediye Başkanı Emrah Kozay'ın görevinden uzaklaştırıldığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T18:02:37+00:00"
+  },
+  {
+   "title": "Çocuklar umreyi yaşlarına uygun etkinliklerle keşfediyor",
+   "link": "https://www.aa.com.tr/tr/gundem/cocuklar-umreyi-yaslarina-uygun-etkinliklerle-kesfediyor/4098964",
+   "summary": "Aileleriyle umreye giden çocuklar, özel rehberler eşliğinde kutsal toprakları ziyaret ederek İslam tarihindeki önemli olaylar ile umre ibadetini yaş ve gelişim düzeylerine uygun, sade ve anlaşılır dille öğreniyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T17:55:43+00:00"
+  },
+  {
+   "title": "Yapay zekayla tıbbi teşhise ilişkin yeni araştırmanın sonuçları açıklandı",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zekayla-tibbi-teshise-iliskin-yeni-arastirmanin-sonuclari-aciklandi-961025.html",
+   "summary": "Microsoft'un yapay zeka destekli teşhis sisteminin, geçmiş tıbbi vakalar üzerinde yapılan testlerde hekimlerden 2,3 kat daha yüksek tanı doğruluğuna ulaştığı belirtildi",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T17:51:00+00:00"
+  },
+  {
+   "title": "Çukurova Belediye Başkanı Kozay görevden uzaklaştırıldı",
+   "link": "https://www.trthaber.com/haber/gundem/cukurova-belediye-baskani-kozay-gorevden-uzaklastirildi-961023.html",
+   "summary": "Çukurova Belediye Başkanı Emrah Kozay, hakkında yürütülen soruşturmada tutuklanması nedeniyle geçici bir tedbir olarak İçişleri Bakanlığınca görevden uzaklaştırıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T17:38:00+00:00"
+  },
+  {
+   "title": "İran lideri Hamaney'in danışmanı: İran düşmanın zayıf noktalarını tanıyor",
+   "link": "https://www.trthaber.com/haber/dunya/iran-lideri-hamaneyin-danismani-iran-dusmanin-zayif-noktalarini-taniyor-961024.html",
+   "summary": "İran lideri Mücteba Hamaneyin danışmanı Muhammed Muhbir, petrol ve enerji alanlarına atıfta bulunarak, \"İran düşmanın zayıf noktalarını tanıyor.\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T17:34:00+00:00"
+  },
+  {
+   "title": "Trump, Ukrayna'daki internet sorunu çözülmezse Musk ile görüşecek",
+   "link": "https://www.trthaber.com/haber/dunya/trump-ukraynadaki-internet-sorunu-cozulmezse-musk-ile-gorusecek-961022.html",
+   "summary": "Trump, Ukrayna ordusunun Starshield internet hizmetindeki sorunun çözüldüğünü duyduğunu, aksi halde Elon Muskla görüşeceğini söyledi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T17:24:00+00:00"
+  },
   {
    "title": "Bakan Fidan: İran'a askeri müdahale çözüm değil, bunu kimse onaylamıyor",
    "link": "https://www.bbc.com/turkce/articles/cmg47nxz223zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Dışişleri Bakanı Hakan Fidan, R4 ve R4+E3 toplantıların ardından yaptığı açıklamada, katılan ülkelerin özellikle İran'a yönelik yeniden yapılacak bir saldırının bölgedeki savaş ve çatışmayı tekrar yaygınlaştırmaya yol…",
+   "summary": "Sekiz Avrupa ve Ortadoğu ülkesinin dışişleri bakanları, Hürmüz Boğazı'nın yeniden açılması ve Ortadoğu'daki krizleri görüşmek üzere cuma günü İstanbul'da biraraya geldi.",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d346/live/5d4c90f0-cefe-11f1-accf-3309656ad0bb.jpg",
@@ -72,6 +135,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T16:41:30+00:00"
+  },
+  {
+   "title": "Bakan Kurum: COP, BM Zirvesi ile eş diyebileceğimiz bir organizasyon",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-cop-bm-zirvesi-ile-es-diyebilecegimiz-bir-organizasyon-961019.html",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, COP31in BM Genel Kurulu kadar önemli bir toplantı olduğuna vurgu yaparak, \"196 ülke iklimle ilgili taahhütlerini, projelerini, hedeflerini,…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T16:23:00+00:00"
   },
   {
    "title": "Yunanistan’da Batı Nil virüsü kaynaklı ölümler devam ediyor",
@@ -330,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/go-global-turkiye-zirvesinin-ikinci-gunu-sona-erdi/4098730",
    "summary": "Küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini İstanbul'da bir araya getiren GO! GLOBAL Türkiye Zirvesi'nin ikinci günü sona erdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T14:34:15+00:00"
   },
@@ -348,18 +420,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-enerji-alaninda-uluslararasi-uzmanlari-antalyada-bulusturacak/4098720",
    "summary": "Uluslararası Enerji Ekonomisi Birliği (IAEE) tarafından düzenlenecek IAEE COP 2026 Sempozyumu, 11-14 Kasım'da Antalya'da gerçekleştirilecek.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T14:27:58+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz \"Macar Devrimi ve Bağımsızlık Savaşı\" anma programlarına katıldı",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-macar-devrimi-ve-bagimsizlik-savasi-anma-programlarina-katildi/4098715",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Cumhurbaşkanı Recep Tayyip Erdoğan'ı temsilen, Macar Devrimi ve Bağımsızlık Savaşı'nın 70. yıl dönümü dolayısıyla Macaristan'ın başkenti Budapeşte'de düzenlenen resmi anma…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T14:20:16+00:00"
   },
   {
    "title": "DMM'den sosyal medyada yaş doğrulama tuzağına karşı uyarı",
@@ -441,15 +504,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T13:35:00+00:00"
-  },
-  {
-   "title": "60 saniyede bugün (23 Ekim 2026)",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-23-ekim-2026/4098648",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T13:32:40+00:00"
   },
   {
    "title": "60 saniyede ekonomide bugün (23 Ekim 2026)",
@@ -1235,24 +1289,6 @@
    "published": "2026-10-23T07:36:07+00:00"
   },
   {
-   "title": "'Dur' ihtarına uymayan alkollü sürücüye 420 bin lira ceza",
-   "link": "https://www.trthaber.com/haber/turkiye/dur-ihtarina-uymayan-alkollu-surucuye-420-bin-lira-ceza-960974.html",
-   "summary": "Bursa'nın Yıldırım ilçesinde, \"dur\" ihtarına uymayan alkollü sürücüye 420 bin lira ceza uygulandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T07:27:00+00:00"
-  },
-  {
-   "title": "MİA'dan İsrail Yayılmacılığının Anatomisi Raporu",
-   "link": "https://www.trthaber.com/haber/gundem/miadan-israil-yayilmaciliginin-anatomisi-raporu-960973.html",
-   "summary": "Milli İstihbarat Akademisi MİA, \"İsrail Yayılmacılığının Anatomisi\" başlıklı raporunu yayımladı. Raporda, İsrail'in yayılmacılığının Gazze'de soykırıma dönüşen yeni bir aşamaya geçtiği vurgulanırken, Türkiye'nin…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T07:17:00+00:00"
-  },
-  {
    "title": "Samsunspor, Süper Lig'de yarın Amed Sportif Faaliyetler'i konuk edecek",
    "link": "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-yarin-amed-sportif-faaliyetleri-konuk-edecek/4098028",
    "summary": "Samsunspor, Trendyol Süper Lig'in 9. haftasında yarın sahasında Amed Sportif Faaliyetler ile karşılaşacak.",
@@ -1307,33 +1343,6 @@
    "published": "2026-10-23T06:51:24+00:00"
   },
   {
-   "title": "Hafta sonu hava nasıl olacak?",
-   "link": "https://www.trthaber.com/haber/gundem/hafta-sonu-hava-nasil-olacak-960972.html",
-   "summary": "Hafta sonunun ilk günü kuzey ve iç kesimlerde görülmesi beklenen yerel gök gürültülü yağışların, pazar günü batı bölgelerinde etkisini kaybederek Doğu ve Güneydoğu Anadolu'ya kayması öngörülüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T06:48:00+00:00"
-  },
-  {
-   "title": "İstanbul trafiğine Cumhuriyet Bayramı düzenlemesi",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbul-trafigine-cumhuriyet-bayrami-duzenlemesi-960971.html",
-   "summary": "İstanbul Valiliği, Cumhuriyet Bayramı kutlamaları ve provası kapsamında 24 ve 29 Ekim tarihlerinde trafiğe kapatılacak yolları ve alternatif güzergahları duyurdu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T06:48:00+00:00"
-  },
-  {
-   "title": "Altın güne düşüşle başladı",
-   "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-dususle-basladi-960970.html",
-   "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 420 liradan işlem görüyor. Çeyrek altın 10 bin 590 liradan, cumhuriyet altını 42 bin 160 liradan satılıyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T06:40:00+00:00"
-  },
-  {
    "title": "Almanya'daki iltica başvurularında 'rüşvetle soruşturma' iddiası",
    "link": "https://www.bbc.com/turkce/articles/cmdx3rdpxke1o?at_medium=RSS&at_campaign=rss",
    "summary": "Haftalık Die Zeit gazetesinin haberine göre suç örgütleri, Almanya'ya iltica etmek isteyenler için Türkiye'de bazı savcılara rüşvet vererek \"Cumhurbaşkanı Erdoğan'a hakaret\" suçlamasıyla ceza soruşturması açtırıyor.…",
@@ -1341,15 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9120/live/b5d32fa0-cea8-11f1-bbfb-357cf921a5e9.jpg",
    "published": "2026-10-23T06:13:37+00:00"
-  },
-  {
-   "title": "Dünya Güreş Şampiyonası yarın Kazakistan'da başlayacak",
-   "link": "https://www.aa.com.tr/tr/spor/dunya-gures-sampiyonasi-yarin-kazakistanda-baslayacak/4097944",
-   "summary": "2026 Dünya Güreş Şampiyonası, Kazakistan'ın başkenti Astana'da yarın başlayacak. En fazla dünya şampiyonluğu yaşayan Türk güreşçi Rıza Kayaalp, organizasyon tarihindeki 6. altın madalyasını almak için mindere çıkacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-23T05:58:06+00:00"
   }
  ]
 }
