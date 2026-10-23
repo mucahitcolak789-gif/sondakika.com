@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-23T19:55:56.391686+00:00",
+ "updated": "2026-10-23T20:19:48.400123+00:00",
  "items": [
+  {
+   "title": "Adana merkezli 'kurgu trafik kazası' soruşturmasında 58 şüpheli tutuklandı",
+   "link": "https://www.trthaber.com/haber/turkiye/adana-merkezli-kurgu-trafik-kazasi-sorusturmasinda-58-supheli-tutuklandi-961032.html",
+   "summary": "Adana merkezli 7 ilde yürütülen \"kurgu trafik kazası\" soruşturması kapsamında gözaltına alınan 87 şüpheliden 58'i tutuklandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T20:07:00+00:00"
+  },
+  {
+   "title": "Bakan Fidan: İran'a askeri müdahale çözüm değil, bunu kimse onaylamıyor",
+   "link": "https://www.bbc.com/turkce/articles/cmg47nxz223zo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sekiz Avrupa ve Ortadoğu ülkesinin dışişleri bakanları, Hürmüz Boğazı'nın yeniden açılması ve Ortadoğu'daki krizleri görüşmek üzere cuma günü İstanbul'da biraraya geldi.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d346/live/5d4c90f0-cefe-11f1-accf-3309656ad0bb.jpg",
+   "published": "2026-10-23T19:58:21+00:00"
+  },
+  {
+   "title": "İran Devrim Muhafızları Ordusu: Hürmüz Boğazı’nda \"iki süper tanker\" mayına çarptı",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordusu-hurmuz-bogazi-nda-iki-super-tanker-mayina-carpti/4099046",
+   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nın güneyinde \"iki süper tankerin\" deniz mayınına çarptığını ve ardından patlama meydana geldiğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T19:54:18+00:00"
+  },
   {
    "title": "Irak Başbakanı Zeydi: Kalkınma Yolu Projesi’nin temel atma töreni için Cumhurbaşkanı Erdoğan’ı davet edeceğiz",
    "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydi-kalkinma-yolu-projesi-nin-temel-atma-toreni-icin-cumhurbaskani-erdogan-i-davet-edecegiz/4099039",
@@ -9,6 +36,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T19:45:15+00:00"
+  },
+  {
+   "title": "Bakan Çiftçi: Lüksemburg makamlarıyla çok boyutlu iş birliğine hazırız",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-luksemburg-makamlariyla-cok-boyutlu-is-birligine-haziriz-961031.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, Lüksemburg Temsilciler Meclisi Başkanı Claude Wiseler ile görüşmesinde \"Suriyede barınma, istihdam ve gönüllü geri dönüşler sonrası diğer çalışmalar kapsamında Lüksemburg makamları ile…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T19:40:00+00:00"
   },
   {
    "title": "Bakan Fidan: Bölgesel meselelerin çözümünde sorumluluk almaya devam edeceğiz",
@@ -85,7 +121,7 @@
   {
    "title": "Manisa'da akü fabrikasında yangın",
    "link": "https://www.trthaber.com/haber/turkiye/manisada-aku-fabrikasinda-yangin-961026.html",
-   "summary": "Manisa'nın Yunusemre ilçesindeki bir akü fabrikasında çıkan yangına müdahale ediliyor.",
+   "summary": "Manisa'nın Yunusemre ilçesindeki bir akü fabrikasında çıkan yangın, kısmen kontrol altına alındı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -173,15 +209,6 @@
    "published": "2026-10-23T17:24:00+00:00"
   },
   {
-   "title": "Bakan Fidan: İran'a askeri müdahale çözüm değil, bunu kimse onaylamıyor",
-   "link": "https://www.bbc.com/turkce/articles/cmg47nxz223zo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sekiz Avrupa ve Ortadoğu ülkesinin dışişleri bakanları, Hürmüz Boğazı'nın yeniden açılması ve Ortadoğu'daki krizleri görüşmek üzere cuma günü İstanbul'da biraraya geldi.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d346/live/5d4c90f0-cefe-11f1-accf-3309656ad0bb.jpg",
-   "published": "2026-10-23T17:17:22+00:00"
-  },
-  {
    "title": "Almanya, sonraki E4-R4 toplantısına ev sahipliği yapacak",
    "link": "https://www.aa.com.tr/tr/dunya/almanya-sonraki-e4-r4-toplantisina-ev-sahipligi-yapacak/4098926",
    "summary": "Almanya Dışişleri Bakanı Wadephul, E4-R4 dışişleri bakanları toplantılarının düzenli yapılması ve bir sonraki toplantıya Almanya'nın ev sahipliği yapması konusunda mutabakata varıldığını bildirdi.",
@@ -218,9 +245,9 @@
    "published": "2026-10-23T16:59:02+00:00"
   },
   {
-   "title": "Rusya, Ukrayna'da Herson yönünde 27 Ekim'de başlayacak geçici ateşkes ilan etti",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-herson-yonunde-27-ekimde-baslayacak-gecici-ateskes-ilan-etti/4098916",
-   "summary": "Rusya Genelkurmay Başkanı Gerasimov, Ukrayna'nın Herson bölgesindeki Oleşki şehrinde düzenlenecek insani operasyon nedeniyle 27 Ekim'den itibaren Herson yönünde geçici ateşkes uygulanacağını bildirdi.",
+   "title": "Rusya ve Ukrayna, Oleşki'ye insani yardım için 27 Ekim'den itibaren Herson yönünde geçici ateşkes ilan etti",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ve-ukrayna-oleskiye-insani-yardim-icin-27-ekimden-itibaren-herson-yonunde-gecici-ateskes-ilan-etti/4098916",
+   "summary": "Rusya, Oleşki'ye düzenlenecek insani yardım operasyonu kapsamında 27 Ekim'den itibaren Herson yönünde geçici ateşkes uygulayacağını açıklarken, Ukrayna da aynı tarihten itibaren bölgede \"belirlenmiş bir alanda\" ateşkes…",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -735,18 +762,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/-zeytin-hasadi-yapan-filistinli-emir-tum-baskilara-ragmen-topraklarini-terk-etmeyecegini-turkce-anlatti/4098499",
    "summary": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırılarına rağmen zeytin hasadı yapan Filistinli Emir Çelebi, topraklarını terk etmeyeceğini vurguladı.",
    "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T11:53:41+00:00"
-  },
-  {
-   "title": "AB, İsrail'den E1 yerleşim projesi kapsamındaki inşaat ihalesini geri çekmesini talep etti",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-israilden-e1-yerlesim-projesi-kapsamindaki-insaat-ihalesini-geri-cekmesini-talep-etti/4098494",
-   "summary": "Avrupa Birliği (AB) Komisyonu Dış İlişkiler Sözcüsü Anouar El Anouni, İsrail'e Doğu Kudüs'ün doğusundaki Filistin topraklarının gasbedilmesiyle kurulması planlanan yasa dışı E1 yerleşim projesi için açılan ihaleyi geri…",
-   "source": "AA",
    "category": "Dünya",
    "image": null,
-   "published": "2026-10-23T11:51:12+00:00"
+   "published": "2026-10-23T11:53:41+00:00"
   },
   {
    "title": "Türkiye Sigorta Genel Müdürü Çakmak yeniden gözaltına alındı",
@@ -1116,24 +1134,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-23T08:21:06+00:00"
-  },
-  {
-   "title": "BES'te katılımcı sayısının 19 milyona ulaşması hedefleniyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/beste-katilimci-sayisinin-19-milyona-ulasmasi-hedefleniyor-960980.html",
-   "summary": "Bireysel Emeklilik Sistemi'nde BES katılımcı sayısının yıl sonunda 18 milyon 400 bine, 2027'de de 19 milyona ulaşması hedefleniyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T08:21:00+00:00"
-  },
-  {
-   "title": "Zonguldak'ta maden ocağında patlama",
-   "link": "https://www.trthaber.com/haber/gundem/zonguldakta-maden-ocaginda-patlama-960979.html",
-   "summary": "Zonguldak'ın Kilimli ilçesindeki maden ocağında meydana gelen grizu patlaması sonucu 3 kişi hayatını kaybetti, 5 kişi yaralandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T08:16:00+00:00"
   },
   {
    "title": "Derbilerde kartlar havada uçuşuyor",
