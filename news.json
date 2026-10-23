@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-23T00:54:52.964843+00:00",
+ "updated": "2026-10-23T01:31:59.411833+00:00",
  "items": [
+  {
+   "title": "Mersin'de çatlaklar oluşan bina tahliye edildi",
+   "link": "https://www.trthaber.com/haber/turkiye/mersinde-catlaklar-olusan-bina-tahliye-edildi-960955.html",
+   "summary": "Mersin'in Yenişehir ilçesinde farklı bölümlerinde çatlaklar oluştuğu tespit edilen 3 katlı binadaki vatandaşlar tahliye edildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T01:07:00+00:00"
+  },
   {
    "title": "Çin'in Tibet Özerk Bölgesi'ndeki depremde 16 kişi öldü",
    "link": "https://www.trthaber.com/haber/dunya/cinin-tibet-ozerk-bolgesindeki-depremde-16-kisi-oldu-960954.html",
@@ -1017,15 +1026,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-22T11:42:00+00:00"
-  },
-  {
-   "title": "PHP kriziyle ilgili merak edilenler",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/php-kriziyle-ilgili-merak-edilenler-960902.html",
-   "summary": "Dünya genelinde milyonlarca internet sitesi ve kurumsal uygulamanın temelini oluşturan PHP altyapısında şifresiz erişim riski barındıran güvenlik açığı tespit edildi. Birçok ülkeyi alarma geçiren ve Türkiye'de de…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-22T11:36:00+00:00"
   },
   {
    "title": "Dünya çapında kritik siber güvenlik açığı: 'Türkiye'de ulusal ölçekte tarama başlatıldı'",
