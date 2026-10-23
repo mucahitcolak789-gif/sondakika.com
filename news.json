@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-23T15:09:22.948756+00:00",
+ "updated": "2026-10-23T15:45:29.848403+00:00",
  "items": [
+  {
+   "title": "Borsa günü düşüşle tamamladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4098833",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,92 değer kaybederek 11.116,99 puandan tamamladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T15:36:18+00:00"
+  },
+  {
+   "title": "Bakan Bayraktar, Slovakya ile enerji alanında mutabakat zaptı imzalandığını bildirdi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-slovakya-ile-enerji-alaninda-mutabakat-zapti-imzalandigini-bildirdi/4098828",
+   "summary": "Bakan Bayraktar, Türkiye ile Slovakya arasında doğal gaz ticareti, yenilenebilir enerji, enerji verimliliği, nükleer enerji ve kritik mineraller alanlarındaki işbirliği potansiyelinin değerlendirilmesi amacıyla…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T15:32:42+00:00"
+  },
+  {
+   "title": "Batı Şeria'daki saldırıda iki İsrail askeri öldü, Netanyahu'dan abluka kararı",
+   "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
+   "summary": "İsrail işgali altındaki Batı Şeria'da Cuma günü bir kontrol noktasında düzenlenen silahlı saldırıda iki İsrail askeri öldürüldü. İsrail ordusu saldırıda üç İsraillinin de yaralandığını duyurdu",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9fb/live/aba20b90-cecc-11f1-93e1-3b657b665bcf.png",
+   "published": "2026-10-23T15:30:16+00:00"
+  },
+  {
+   "title": "Fransa'da olası Sarı Yelekliler eylemlerine karşı yarın 70 bin polis ve jandarma görev yapacak",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-olasi-sari-yelekliler-eylemlerine-karsi-yarin-70-bin-polis-ve-jandarma-gorev-yapacak/4098815",
+   "summary": "Fransa'da 17 Ekim'deki Sarı Yelekliler eylemlerinin ardından kısmi sokağa çıkma yasağı dahil tedbirler artırılırken, eylem yasağına rağmen 24 Ekim’de de Sarı Yeleklilerin sokağa inmesine karşı 70 bin polis ve…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T15:15:13+00:00"
+  },
+  {
+   "title": "DMM'den 1 Kasım'da yürürlüğe girecek \"sosyal medya yaş doğrulaması düzenlemesi\"ne ilişkin uyarı",
+   "link": "https://www.aa.com.tr/tr/gundem/dmmden-1-kasimda-yururluge-girecek-sosyal-medya-yas-dogrulamasi-duzenlemesine-iliskin-uyari/4098811",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi (DMM) 1 Kasım'da yürürlüğe girecek düzenleme kapsamında sosyal medya yaş doğrulamasının yalnızca e-Devlet'ten alınacak \"yaş doğrulama belirteci\" ile…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T15:11:40+00:00"
+  },
+  {
+   "title": "TUSAŞ şehitleri terör saldırısının ikinci yılında anıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/tusas-sehitleri-teror-saldirisinin-ikinci-yilinda-anildi/4098809",
+   "summary": "Türk Havacılık ve Uzay Sanayii (TUSAŞ) Kahramankazan tesislerine yönelik terör saldırısının şehitleri, saldırının ikinci yılında anıldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T15:09:40+00:00"
+  },
   {
    "title": "Ürdün'de kiliseye silahlı saldırı: En az 6 kişi öldü, 28 yaralı var",
    "link": "https://www.bbc.com/turkce/articles/cm5ynqg6qe3yo?at_medium=RSS&at_campaign=rss",
@@ -9,6 +63,24 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a1/live/ca7b6d10-cef2-11f1-b441-2b33b063138f.png",
    "published": "2026-10-23T15:07:10+00:00"
+  },
+  {
+   "title": "ABD: Melania Trump, Ukrayna'nın Oleşki şehriyle sınırlı özel ateşkes sağladı",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-melania-trump-ukraynanin-oleski-sehriyle-sinirli-ozel-ateskes-sagladi/4098802",
+   "summary": "ABD Başkanı Donald Trump'ın eşi Melania Trump'ın Rusya ile savaşan Ukrayna'nın Herson bölgesinde iki ateş arasında kalan Oleşki şehri için özel bir ateşkes sağladığı bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T15:02:59+00:00"
+  },
+  {
+   "title": "Bakan Fidan: İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-irana-yapilacak-askeri-mudahale-hicbir-sekilde-cozum-degil-961013.html",
+   "summary": "Dışişleri Bakanı Hakan Fidan, \"İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil. Bunu hiç kimse şu anda onaylamıyor\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T15:01:00+00:00"
   },
   {
    "title": "Filistin topraklarını gasbeden İsraillilerin Batı Şeria'daki saldırısında biri çocuk 3 Filistinli yaralandı",
@@ -29,9 +101,9 @@
    "published": "2026-10-23T14:53:08+00:00"
   },
   {
-   "title": "Bakan Fidan: İran'a yapılacak askeri müdahale hiçbir şekilde çözüm değil",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-irana-yapilacak-askeri-mudahale-hicbir-sekilde-cozum-degil/4098755",
-   "summary": "",
+   "title": "Bakan Fidan: İran'a yeni bir saldırının bölgedeki savaşı yaygınlaştıracağı konusunda hemfikiriz",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-irana-yeni-bir-saldirinin-bolgedeki-savasi-yayginlastiracagi-konusunda-hemfikiriz/4098755",
+   "summary": "Dışişleri Bakanı Hakan Fidan, R4 ve R4+E3 toplantılarına katılan ülkelerin özellikle İran'a yönelik yeniden yapılacak bir saldırının bölgedeki savaş ve çatışmayı tekrar yaygınlaştırmaya yol açacağı konusunda hemfikir…",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -81,6 +153,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T14:34:15+00:00"
+  },
+  {
+   "title": "Nail Olpak: Dijital Teknolojiler İş Konseyi bütün iş konseylerinin içerisinde en aktiflerinden birisi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/nail-olpak-dijital-teknolojiler-is-konseyi-butun-is-konseylerinin-icerisinde-en-aktiflerinden-birisi/4098728",
+   "summary": "Dış Ekonomik İlişkiler Kurulu (DEİK) Başkanı Nail Olpak, Dijital Teknolojiler İş Konseyi'nin DEİK'teki bütün iş konseylerinin içerisinde en aktiflerinden biri olduğunu belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T14:32:05+00:00"
   },
   {
    "title": "Türkiye, enerji alanında uluslararası uzmanları Antalya'da buluşturacak",
@@ -312,18 +393,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-silahli-saldirida-1-kisi-yasamini-yitirdi-5-kisi-yaralandi/4098540",
    "summary": "Fransa’nın Yvelines vilayetinde düzenlenen silahlı saldırıda 1 kişinin yaşamını yitirdiği, 5 kişinin yaralandığı bildirildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-23T12:15:37+00:00"
-  },
-  {
-   "title": "Kanada, savunma sanayisinde yerlileşme için Türkiye'nin \"SSB modelini\" örnek alacak",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kanada-savunma-sanayisinde-yerlilesme-icin-turkiyenin-ssb-modelini-ornek-alacak/4098539",
-   "summary": "Kanada'nın savunma sanayisinde yerlileşme hedefleri doğrultusunda Cumhurbaşkanlığı Savunma Sanayii Başkanlığını (SSB) örnek model olarak almayı planladığı bildirildi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T12:15:17+00:00"
   },
   {
    "title": "Sumud Filosu'na saldırıyla ilgili 35 sanık yargılanıyor",
@@ -339,18 +411,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-gucleri-mescid-i-aksa-imam-hatibi-halid-ebu-cumayi-gozaltina-aldi/4098533",
    "summary": "İsrail güçleri, Mescid-i Aksa İmam Hatibi Şeyh Halid Ebu Cuma'yı cuma hutbesi ve namazının ardından gözaltına aldı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-23T12:11:36+00:00"
-  },
-  {
-   "title": "Sermaye piyasası işlemleri soruşturmalarında Taha Çakmak gözaltına alındı",
-   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmalarinda-taha-cakmak-gozaltina-alindi/4098531",
-   "summary": "İstanbul'da sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturmaları kapsamında Taha Çakmak, gözaltına alındı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T12:10:00+00:00"
   },
   {
    "title": "Brüksel'de esnaf yağma endişesiyle mağazaların vitrinlerini ahşap panellerle kapatıyor",
@@ -375,9 +438,18 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilde-anketler-27-ekim-secimlerinde-koalisyon-belirsizligine-isaret-ediyor/4098507",
    "summary": "İsrail'de 27 Ekim Salı günü yapılacak genel seçimler öncesinde yayımlanan kamuoyu yoklamaları, sandıktan derin bir koalisyon belirsizliği ve yeni bir siyasi kriz tablosu çıkacağına işaret ediyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-23T11:57:25+00:00"
+  },
+  {
+   "title": "Zeytin hasadı yapan Filistinli Emir tüm baskılara rağmen topraklarını terk etmeyeceğini Türkçe anlattı",
+   "link": "https://www.aa.com.tr/tr/dunya/-zeytin-hasadi-yapan-filistinli-emir-tum-baskilara-ragmen-topraklarini-terk-etmeyecegini-turkce-anlatti/4098499",
+   "summary": "İşgal altındaki Batı Şeria'da Filistin topraklarını gasbeden İsraillilerin saldırılarına rağmen zeytin hasadı yapan Filistinli Emir Çelebi, topraklarını terk etmeyeceğini vurguladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T11:53:41+00:00"
   },
   {
    "title": "AB, İsrail'den E1 yerleşim projesi kapsamındaki inşaat ihalesini geri çekmesini talep etti",
@@ -510,7 +582,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/cop31e-dogru-yatirim-zirvesi-basladi/4098403",
    "summary": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi Başkanı Ahmet Burak Dağlıoğlu, Türkiye'nin güçlü bir hikayeye sahip olduğunu ve bunun uluslararası paydaşlara daha etkili bir şekilde anlatılması gerektiğini ifade etti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T10:43:14+00:00"
   },
@@ -522,15 +594,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-23T10:42:20+00:00"
-  },
-  {
-   "title": "Batı Şeria'da silahlı saldırıda beş İsrailli yaralandı, Netanyahu'dan abluka kararı",
-   "link": "https://www.bbc.com/turkce/articles/cwr5yz384gl3o?at_medium=RSS&at_campaign=rss",
-   "summary": "İsrail işgali altındaki Batı Şeria'da Cuma günü düzenlenen silahlı saldırıda en az beş İsrailli yaralandı. Saldırıyı düzenlediğinden şüphelenilen iki Filistinli, İsrail güçleriyle girdikleri çatışmada öldürüldü.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9fb/live/aba20b90-cecc-11f1-93e1-3b657b665bcf.png",
-   "published": "2026-10-23T10:37:38+00:00"
   },
   {
    "title": "Zonguldak'ta maden ocağındaki patlamada üç işçi hayatını kaybetti",
@@ -875,15 +938,6 @@
    "published": "2026-10-23T08:18:05+00:00"
   },
   {
-   "title": "Ev hizmetlerinde kısa süreli çalışanların sigortalanması işçi ve işvereni koruyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ev-hizmetlerinde-kisa-sureli-calisanlarin-sigortalanmasi-isci-ve-isvereni-koruyor/4098185",
-   "summary": "Ev hizmetlerinde ayda 10 günden az süreyle çalışan kişilerin sigortalanması, çalışanları iş kazalarına karşı korurken işverenlerin de olası tazminat yükümlülükleriyle karşılaşmasını önlüyor.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-23T08:17:56+00:00"
-  },
-  {
    "title": "Zonguldak'ta maden ocağında patlama",
    "link": "https://www.trthaber.com/haber/gundem/zonguldakta-maden-ocaginda-patlama-960979.html",
    "summary": "Zonguldak'ın Kilimli ilçesindeki maden ocağında meydana gelen grizu patlaması sonucu 3 kişi hayatını kaybetti, 5 kişi yaralandı.",
@@ -900,15 +954,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-23T08:14:29+00:00"
-  },
-  {
-   "title": "30 ülkeden 300 akademisyen Türk tarihine ışık tutacak",
-   "link": "https://www.aa.com.tr/tr/kultur/30-ulkeden-300-akademisyen-turk-tarihine-isik-tutacak/4098160",
-   "summary": "Türk Tarih Kurumu Başkanı Prof. Dr. Haluk Selvi, 30 ülkeden 300 akademisyenin bildiri sunacağı 20. Türk Tarih Kongresi'nde, Türklerin medeniyete katkılarını ortaya koyan verilerin sunulacağını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T08:11:24+00:00"
   },
   {
    "title": "KDC'de eski Cumhurbaşkanı Kabila'nın silahlı koalisyonun başına geçmesi gerilimi artırdı",
@@ -951,7 +996,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-9-aylik-makine-ihracati-21-3-milyar-dolarla-rekor-kirdi/4098147",
    "summary": "Türkiye'nin makine ihracatı, yılın 9 ayında 2025'in aynı dönemine göre yüzde 1,5 artışla 21,3 milyar dolara ulaşarak rekor kırdı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T08:10:09+00:00"
   },
@@ -972,15 +1017,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-23T08:07:43+00:00"
-  },
-  {
-   "title": "Sırbistan'da 6,4 milyonu aşkın seçmen 25 Ekim'deki erken genel seçimde sandık başına gidecek",
-   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-6-4-milyonu-askin-secmen-25-ekimdeki-erken-genel-secimde-sandik-basina-gidecek/4098125",
-   "summary": "Sırbistan'da 6,4 milyonu aşkın seçmen, yeni parlamentoyu belirlemek üzere 25 Ekim Pazar günü yapılacak erken genel seçimde sandık başına gidecek.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-23T08:06:58+00:00"
   },
   {
    "title": "Türkiye'nin rüzgar enerjisindeki sanayi gücü COP31'de uluslararası vitrine çıkacak",
@@ -1035,15 +1071,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-23T08:03:04+00:00"
-  },
-  {
-   "title": "Rusya: Ukrayna'da demir yolu ve liman altyapısını vurduk",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-demir-yolu-ve-liman-altyapisini-vurduk/4098104",
-   "summary": "Rusya Savunma Bakanlığı, Ukrayna'daki demir yolu ve liman altyapısını insansız hava araçlarıyla (İHA) vurduklarını bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-23T08:02:26+00:00"
   },
   {
    "title": "Samanyolu Galaksisi'nde bilinen hiçbir şeye benzemeyen bir radyo sinyali keşfedildi",
@@ -1109,15 +1136,6 @@
    "published": "2026-10-23T07:38:46+00:00"
   },
   {
-   "title": "Bitkisel üretimin bu yıl tahıl ve meyvede artması bekleniyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bitkisel-uretimin-bu-yil-tahil-ve-meyvede-artmasi-bekleniyor/4098064",
-   "summary": "TÜİK'in bitkisel üretim 2. tahminine göre tahıl ürünleri üretim miktarlarının 2026'da geçen yıla kıyasla yüzde 30,9 artışla yaklaşık 44,8 milyon ton olacağı öngörüldü.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-23T07:37:54+00:00"
-  },
-  {
    "title": "PFDK'den Süper Lig'den 8 kulübe para cezası",
    "link": "https://www.aa.com.tr/tr/spor/pfdkden-super-ligden-8-kulube-para-cezasi/4098062",
    "summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK) Süper Lig'den 8 kulübe para cezası verdi.",
@@ -1152,15 +1170,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T07:17:00+00:00"
-  },
-  {
-   "title": "Yıllık enflasyon beklentisi hanehalkı ve reel sektör için geriledi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yillik-enflasyon-beklentisi-hanehalki-ve-reel-sektor-icin-geriledi/4098036",
-   "summary": "Yıllık enflasyon beklentileri, ekimde piyasa katılımcıları için yükselirken hanehalkı ve reel sektör için geriledi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-23T07:16:36+00:00"
   },
   {
    "title": "Samsunspor, Süper Lig'de yarın Amed Sportif Faaliyetler'i konuk edecek",
@@ -1314,15 +1323,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T04:35:00+00:00"
-  },
-  {
-   "title": "ABD Başkanı Trump, petrol kapasitesini artırmak için Savunma Üretim Yasası'nı devreye aldı",
-   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-petrol-kapasitesini-artirmak-icin-savunma-uretim-yasasini-devreye-aldi-960962.html",
-   "summary": "ABD Başkanı Donald Trump, ülkenin savunma kabiliyetini güçlendirmek ve yurt içi petrol üretim, rafinasyon ve lojistik kapasitesini artırmak amacıyla Savunma Üretim Yasası'nı devreye soktu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T04:14:00+00:00"
   },
   {
    "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
