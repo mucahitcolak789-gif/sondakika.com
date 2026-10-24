@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-24T20:00:13.235770+00:00",
+ "updated": "2026-10-24T20:24:04.048796+00:00",
  "items": [
+  {
+   "title": "İranlı yetkiliden \"saldırıya uğramaları halinde İsrail'i hedef alacakları\" tehdidi",
+   "link": "https://www.aa.com.tr/tr/dunya/iranli-yetkiliden-saldiriya-ugramalari-halinde-israili-hedef-alacaklari-tehdidi/4099860",
+   "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkanı Azizi, ülkesinin milli güvenliğine ve çıkarlarına yönelik herhangi bir girişim karşısında \"İsrail'in yaşanmaz hale geleceği\" değerlendirmesinde bulundu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T20:14:59+00:00"
+  },
+  {
+   "title": "İçişleri Bakanı Çiftçi: (Antalya'da düzenlenecek COP31) Sahada 26 bin personelimiz görev yapacak",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-antalyada-duzenlenecek-cop31-sahada-26-bin-personelimiz-gorev-yapacak/4099856",
+   "summary": "Bakan Çiftçi, Antalya'da 9-20 Kasım'da düzenlenecek COP31'e ilişkin, \"Zirvenin yapılacağı alanda yaklaşık 1500 özel harekatımız olacak. 3 bin 298 civarında trafik polisimiz görev alacak. Sahada 26 bin personelimiz görev…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T20:08:27+00:00"
+  },
+  {
+   "title": "Fernando Melo'nun \"Rüzgar Ağacı\" adlı eseri AKM'de izleyiciyle buluştu",
+   "link": "https://www.aa.com.tr/tr/kultur/fernando-melonun-ruzgar-agaci-adli-eseri-akmde-izleyiciyle-bulustu/4099843",
+   "summary": "İstanbul Kültür Sanat Vakfı tarafından düzenlenen 30. İstanbul Tiyatro Festivali kapsamında, İstanbul Devlet Opera ve Balesi ile ortak prodüksiyon olarak sahnelenen \"Rüzgar Ağacı\", AKM Tiyatro Sahnesi'nde prömiyer yaptı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T19:57:08+00:00"
+  },
   {
    "title": "Türkiye'den Somali'de eğitime destek: Bir okulun derslikleri yenilendi",
    "link": "https://www.trthaber.com/haber/gundem/turkiyeden-somalide-egitime-destek-bir-okulun-derslikleri-yenilendi-961101.html",
@@ -353,20 +380,11 @@
    "published": "2026-10-24T13:56:25+00:00"
   },
   {
-   "title": "Mardin'de sulama kanalına devrilen otomobildeki 4'ü çocuk 6 kişi öldü",
-   "link": "https://www.aa.com.tr/tr/gundem/mardinde-sulama-kanalina-devrilen-otomobildeki-4u-cocuk-6-kisi-oldu/4099615",
-   "summary": "Mardin'in Nusaybin ilçesinde sulama kanalına devrilen otomobildeki 4'ü çocuk 6 kişi hayatını kaybetti.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T13:56:17+00:00"
-  },
-  {
    "title": "İran Devrim Muhafızları Ordu Sözcüsü Muhibbi: Düşmanın en ufak hatasına katbekat cevap vereceğiz",
    "link": "https://www.aa.com.tr/tr/dunya/iran-devrim-muhafizlari-ordu-sozcusu-muhibbi-dusmanin-en-ufak-hatasina-katbekat-cevap-verecegiz/4099613",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-24T13:52:58+00:00"
   },
@@ -405,15 +423,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-24T13:02:49+00:00"
-  },
-  {
-   "title": "60 saniyede bugün (24 Ekim 2026)",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-24-ekim-2026/4099578",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T13:01:51+00:00"
   },
   {
    "title": "Almanya Başbakanı Merz: Rusya'nın her gün Almanya'yı istikrarsızlaştırmak istediğini görüyoruz",
@@ -1019,9 +1028,9 @@
    "published": "2026-10-24T07:57:44+00:00"
   },
   {
-   "title": "İsrail'in Gazze'ye saldırılarında 3 Filistinli hayatını kaybetti, 9 kişi yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-3-filistinli-hayatini-kaybetti-9-kisi-yaralandi/4099238",
-   "summary": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 3 Filistinli yaşamını yitirdi, 9 kişi yaralandı.",
+   "title": "İsrail'in Gazze'ye saldırılarında biri çocuk 4 Filistinli hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-biri-cocuk-4-filistinli-hayatini-kaybetti/4099238",
+   "summary": "İsrail ordusunun Gazze Şeridi'nin farklı bölgelerine düzenlediği saldırılarda biri kız çocuğu, ikisi kadın 4 Filistinli hayatını kaybetti, 8 kişi yaralandı.",
    "source": "AA",
    "category": "Dünya",
    "image": null,
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-23T12:30:53+00:00"
-  },
-  {
-   "title": "Boğaziçi Zirvesi yaklaşık 70 ülkeden temsilciyi İstanbul'da buluşturacak",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bogazici-zirvesi-yaklasik-70-ulkeden-temsilciyi-istanbulda-bulusturacak/4098483",
-   "summary": "Uluslararası İşbirliği Platformu (UİP) tarafından 5-6 Kasım'da İstanbul'da düzenlenecek 17. Boğaziçi Zirvesi, \"Dönüşen Dünyada Denge Arayışı\" temasıyla yaklaşık 70 ülkeden temsilciyi bir araya getirecek.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-23T11:40:35+00:00"
   }
  ]
 }
