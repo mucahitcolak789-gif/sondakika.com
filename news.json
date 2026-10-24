@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T00:23:42.091188+00:00",
+ "updated": "2026-10-24T01:17:22.917311+00:00",
  "items": [
   {
    "title": "Muğla merkezli ihale soruşturmasında 18 tutuklama",
@@ -11,15 +11,6 @@
    "published": "2026-10-23T23:55:00+00:00"
   },
   {
-   "title": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi-961046.html",
-   "summary": "Uluslararası Para Fonu IMF, Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini belirtti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-23T23:41:00+00:00"
-  },
-  {
    "title": "Moody's Fransa'ya yönelik periyodik incelemesini tamamladı",
    "link": "https://www.aa.com.tr/tr/ekonomi/moodys-fransaya-yonelik-periyodik-incelemesini-tamamladi/4099151",
    "summary": "Uluslararası kredi derecelendirme kuruluşu Moody's, Fransa'nın kredi notlarına yönelik periyodik incelemesini tamamladığını bildirdi.",
@@ -27,6 +18,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-23T23:30:44+00:00"
+  },
+  {
+   "title": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi/4099149",
+   "summary": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T23:18:04+00:00"
   },
   {
    "title": "Kurtuluş Savaşı'na katılan 5 askerin mirasçılarına İstiklal Madalyası verilecek",
@@ -1001,6 +1001,15 @@
    "published": "2026-10-23T10:49:28+00:00"
   },
   {
+   "title": "Kanada, Türkiye'den askeri kabiliyet satın alma ve savunma sanayi ortaklığı seçeneklerine açık",
+   "link": "https://www.trthaber.com/haber/dunya/kanada-turkiyeden-askeri-kabiliyet-satin-alma-ve-savunma-sanayi-ortakligi-seceneklerine-acik-960994.html",
+   "summary": "Kanada Başbakanı Mark Carney, Türkiye'den askeri kabiliyet tedariki ve savunma sanayisinde ortaklık seçeneklerinin her ikisine de açık olduklarını belirterek, Türkiye'nin savunma sanayisi alanındaki deneyiminden…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-23T10:48:00+00:00"
+  },
+  {
    "title": "GO! GLOBAL Türkiye Zirvesi'nde \"Girişimlerin büyüme ve ölçeklenme stratejileri\" konuşuldu",
    "link": "https://www.aa.com.tr/tr/ekonomi/go-global-turkiye-zirvesinde-girisimlerin-buyume-ve-olceklenme-stratejileri-konusuldu/4098409",
    "summary": "Küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini İstanbul'da bir araya getiren GO! GLOBAL Türkiye Zirvesi'nde \"girişimlerin büyüme ve ölçeklenme…",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-23T07:03:33+00:00"
-  },
-  {
-   "title": "Basketbolda haftanın programı",
-   "link": "https://www.aa.com.tr/tr/spor/basketbolda-haftanin-programi/4098009",
-   "summary": "Türkiye Sigorta Basketbol Süper Ligi ile Halkbank Kadınlar Basketbol Süper Ligi'nde 5, Türkiye Sigorta Türkiye Basketbol Ligi'nde ise 8. hafta maçları yapılacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-23T06:54:16+00:00"
   }
  ]
 }
