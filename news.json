@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-24T21:16:20.718905+00:00",
+ "updated": "2026-10-24T21:52:48.339057+00:00",
  "items": [
+  {
+   "title": "ABD Başkanı Trump: İran'ı tekrar bombalama ihtimalim var",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irani-tekrar-bombalama-ihtimalim-var/4099896",
+   "summary": "ABD Başkanı Donald Trump, İran'da başladığı işi bitirmek zorunda kalabileceğini ifade ederek, \"İran'ı tekrar bombalama ihtimalim var.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T21:34:08+00:00"
+  },
+  {
+   "title": "Filistin İnsan Hakları Merkezi: El Halil'de yaklaşık 2 bin 500 kişi zorla yerinden edildi",
+   "link": "https://www.trthaber.com/haber/dunya/filistin-insan-haklari-merkezi-el-halilde-yaklasik-2-bin-500-kisi-zorla-yerinden-edildi-961108.html",
+   "summary": "Filistin İnsan Hakları Merkezi, işgalci İsrail'in, işgal altındaki Batı Şeria'nın El Halil kentindeki Filistinlilere karşı toplu cezalandırma uyguladığını ve yaklaşık 2 bin 500 kişinin yerinden edildiğini belirtti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T21:25:00+00:00"
+  },
+  {
+   "title": "Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz şehit oldu",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-meydana-gelen-askeri-arac-kazasinda-albay-sayit-gokgoz-sehit-oldu/4099894",
+   "summary": "Milli Savunma Bakanlığı, Ankara'da meydana gelen askeri araç kazasında Albay Sayit Gökgöz'ün şehit olduğunu, 2 personelin yaralandığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T21:21:58+00:00"
+  },
+  {
+   "title": "İran basını: İran'ın ABD'ye yeni bir teklif ilettiği iddiaları gerçeği yansıtmıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-iranin-abdye-yeni-bir-teklif-ilettigi-iddialari-gercegi-yansitmiyor/4099893",
+   "summary": "İran'ın Pakistan aracılığıyla ABD'ye deniz ablukasının kaldırılması karşılığında Hürmüz Boğazı'nın açılacağı yönünde yeni bir teklif ilettiği iddiasının doğru olmadığı bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T21:18:46+00:00"
+  },
+  {
+   "title": "2026KPSS Ortaöğretim bugün yapılacak",
+   "link": "https://www.trthaber.com/haber/gundem/2026-kpss-ortaogretim-bugun-yapilacak-961107.html",
+   "summary": "ÖSYM Başkanlığınca düzenlenen 2026KPSS Ortaöğretim, bugün gerçekleştirilecek. Saat 10.15'te başlayacak sınavda adaylara genel yetenek ve genel kültür testleri için 120 soru sorulacak, 130 dakika cevaplama süresi…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T21:15:00+00:00"
+  },
+  {
+   "title": "İtalya'da protestolarda polisle göstericiler arasında arbede yaşandı",
+   "link": "https://www.aa.com.tr/tr/dunya/italyada-protestolarda-polisle-gostericiler-arasinda-arbede-yasandi/4099891",
+   "summary": "İtalya'nın başkenti Roma'da protesto yürüyüşüne katılan göstericiler, başbakanlık istikametinde yürümek isteyince güvenlik güçleriyle karşı karşıya geldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T21:08:55+00:00"
+  },
+  {
+   "title": "İçişleri Bakanı Çiftçi: Sahipsiz sokak hayvanlarının tamamını topladık",
+   "link": "https://www.trthaber.com/haber/gundem/icisleri-bakani-ciftci-sahipsiz-sokak-hayvanlarinin-tamamini-topladik-961106.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, sahipsiz sokak hayvanlarıyla ilgili yürütülen çalışmalara ilişkin, \"21 Ekim 2026'da, en son Diyarbakır'da da son sokak hayvanının barınağa alınmasıyla beraber artık bu süreç Türkiye'de…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T21:07:00+00:00"
+  },
   {
    "title": "Albay Sayit Gökgöz askeri araç kazasında şehit oldu",
    "link": "https://www.trthaber.com/haber/gundem/albay-sayit-gokgoz-askeri-arac-kazasinda-sehit-oldu-961105.html",
@@ -330,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/axios-danismanlarinin-cogu-trumpin-netanyahuyu-destekleme-kararina-karsi-cikiyordu/4099662",
    "summary": "ABD Başkanı Donald Trump'ın yakın danışmanlarının çoğunun, Trump'ın İsrail seçimlerine karışmaması ve İsrail Başbakanı Binyamin Netanyahu'ya doğrudan destek vermemesi gerektiğini düşündüğü iddia edildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-24T14:49:01+00:00"
   },
@@ -375,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/trump-beyaz-saraydaki-brifing-salonunun-yerini-degistirebilecegini-belirtti/4099642",
    "summary": "ABD Başkanı Donald Trump, Beyaz Saray muhabirlerinin kullandığı ve basın brifinglerinin düzenlendiği salonun başka bir yere taşınabileceğini ifade etti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-24T14:17:22+00:00"
   },
@@ -396,15 +459,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-24T14:05:00+00:00"
-  },
-  {
-   "title": "Tekerlekli sandalyeyle geldiği hastaneden yürüyerek taburcu oldu",
-   "link": "https://www.aa.com.tr/tr/gundem/tekerlekli-sandalyeyle-geldigi-hastaneden-yuruyerek-taburcu-oldu/4099627",
-   "summary": "Yaklaşık 30 yıl önce düşmesi sonucu boynunda kırık oluşan ve ikinci kez düşmesinin ardından boyundan aşağısı felç kalan Neriman Fil, İstanbul'da tekerlekli sandalyeyle geldiği hastaneden zorlu tedavi süreci sonrası…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T14:04:55+00:00"
   },
   {
    "title": "Erzurumspor FK, deplasmanda Gaziantep FK'yi 3-1 mağlup etti",
@@ -780,7 +834,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/orta-dogu-kuresel-iliskiler-konseyi-icra-direktoru-cabir-abd-iran-uzlasamazsa-savas-yeniden-baslayabilir/4099324",
    "summary": "Katar merkezli düşünce kuruluşu Orta Doğu Küresel İlişkiler Konseyi İcra Direktörü Halid el-Cabir, ABD ile İran arasındaki görüşmelerde somut ilerleme sağlanamamasının bölgede savaşın yeniden başlaması riskini canlı…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-24T08:58:58+00:00"
   },
@@ -875,15 +929,6 @@
    "published": "2026-10-24T08:28:00+00:00"
   },
   {
-   "title": "İsrail ordusu El Halil'de Filistinlileri silah zoruyla yerinden ediyor",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-filistinlileri-silah-zoruyla-yerinden-ediyor/4099285",
-   "summary": "İsrail ordusunun işgal altındaki Batı Şeria'nın El Halil kentinde Filistinli aileleri silah zoruyla evlerinden çıkardığı ve bölgeyi terk etmeye zorlamak için vatandaşları darbettiği bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-24T08:18:07+00:00"
-  },
-  {
    "title": "Avrupa Konseyi Program Koordinasyon Direktörü Neukirch'ten Türkiye'deki kurumların güçlü yapısına övgü",
    "link": "https://www.aa.com.tr/tr/dunya/avrupa-konseyi-program-koordinasyon-direktoru-neukirchten-turkiyedeki-kurumlarin-guclu-yapisina-ovgu/4099283",
    "summary": "",
@@ -956,15 +1001,6 @@
    "published": "2026-10-24T08:09:10+00:00"
   },
   {
-   "title": "Washington-Kiev ilişkilerinde, Ukrayna ordusuna yönelik Starlink kısıtlamaları gündemde",
-   "link": "https://www.aa.com.tr/tr/dunya/washington-kiev-iliskilerinde-ukrayna-ordusuna-yonelik-starlink-kisitlamalari-gundemde/4099267",
-   "summary": "SpaceX'in Üst Yöneticisi (CEO) Elon Musk'ın sahibi olduğu Starlink uydu sisteminin askeri versiyonu olan Starshield sisteminin Ukrayna ordusuna sağladığı internet hizmetiyle ilgili sorunlar ABD-Ukrayna ilişkisinde…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-24T08:07:14+00:00"
-  },
-  {
    "title": "Danimarka, COP31'de hedeflerin somut adımlara dönüştürülmesini bekliyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/danimarka-cop31de-hedeflerin-somut-adimlara-donusturulmesini-bekliyor/4099264",
    "summary": "Danimarka'nın Ankara Büyükelçisi Ole Toft, \"COP31'de hem taahhütlerin hayata geçirilmesi hem de finansman konusunda ilerleme sağlanmasını bekliyoruz.\" dedi.",
@@ -999,15 +1035,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-24T08:05:23+00:00"
-  },
-  {
-   "title": "D-8 Genel Sekreteri, D-8 ülkelerinin barış ve istikrarı desteklemede önemli rol oynadığını belirtti",
-   "link": "https://www.aa.com.tr/tr/dunya/d-8-genel-sekreteri-d-8-ulkelerinin-baris-ve-istikrari-desteklemede-onemli-rol-oynadigini-belirtti/4099259",
-   "summary": "Gelişen 8 Ülke (D-8) Ekonomik İşbirliği Örgütü Genel Sekreteri Büyükelçi Sohail Mahmood, D-8 ülkelerinin barış ve istikrarı desteklemede önemli rol oynadığını belirtti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-24T08:05:21+00:00"
   },
   {
    "title": "Fenerbahçe Kulübü Olağan Yüksek Divan Kurulu toplantısı başladı",
@@ -1073,15 +1100,6 @@
    "published": "2026-10-24T07:53:00+00:00"
   },
   {
-   "title": "İletişim Başkanlığı, Türkiye'nin İklim Diplomasisi paneli düzenleyecek",
-   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-turkiyenin-iklim-diplomasisi-paneli-duzenleyecek-961056.html",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından 27 Ekim'de Ankarada \"Sıfır Atıktan COP31e: Türkiyenin İklim Diplomasisi\" başlıklı bir panel ve Türkçe ve İngilizce dillerinde hazırlanmış olan \"İklim Diplomasisi\" adlı…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T07:39:00+00:00"
-  },
-  {
    "title": "27. Uluslararası Arena AquaChallenge Yüzme Şampiyonası, Marmaris'te başladı",
    "link": "https://www.aa.com.tr/tr/spor/27-uluslararasi-arena-aquachallenge-yuzme-sampiyonasi-marmariste-basladi/4099227",
    "summary": "AquaChallenge Yönetim Kurulu Başkanı Selçuk Demirel, \"Uluslararası katılımla gerçekleştirilecek şampiyona, spor turizmine katkı sunmanın yanı sıra bölgenin doğal ve kültürel zenginliklerini de ön plana çıkaracak.\" dedi.",
@@ -1100,15 +1118,6 @@
    "published": "2026-10-24T07:25:54+00:00"
   },
   {
-   "title": "Emine Erdoğan, Kanada Başbakanı'nın eşi Carney ile Sıfır Atık Vakfını ziyaret etti",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-kanada-basbakaninin-esi-carney-ile-sifir-atik-vakfini-ziyaret-etti-961055.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Kanada Başbakanı Mark Carney'nin eşi Diana Fox Carney ile Sıfır Atık Vakfını ziyaret etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T07:19:00+00:00"
-  },
-  {
    "title": "Brezilya'nın en kötü radyasyon kazasının anıları",
    "link": "https://www.bbc.com/turkce/articles/cr93z9v1g29ko?at_medium=RSS&at_campaign=rss",
    "summary": "Çöp toplayıcıları tarafından garip, parlayan bir kapsül bulunduğunda, kimse bunun son derece radyoaktif olduğunu ve ona dokunan herkesin hayatını mahvedeceğini fark etmedi.",
@@ -1116,15 +1125,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56cf/live/b70958a0-c3c6-11f1-bc2e-018d645d8d21.jpg",
    "published": "2026-10-24T07:13:16+00:00"
-  },
-  {
-   "title": "Ailekart aracılığıyla hak sahiplerine 56 milyar lira kaynak aktarıldı",
-   "link": "https://www.trthaber.com/haber/ekonomi/ailekart-araciligiyla-hak-sahiplerine-56-milyar-lira-kaynak-aktarildi-961054.html",
-   "summary": "Aile ve Sosyal Hizmetler Bakanlığınca hayata geçirilen Ailekart uygulaması aracılığıyla, doğum yardımı ve düzenli sosyal yardım ödemeleri kapsamında hak sahiplerine toplam 56 milyar 12 milyon 551 bin 214 lira kaynak…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T07:13:00+00:00"
   },
   {
    "title": "Hangi besinler cildin daha genç görünmesine yardımcı olabilir?",
