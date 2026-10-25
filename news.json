@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-25T09:55:38.505792+00:00",
+ "updated": "2026-10-25T10:18:38.747995+00:00",
  "items": [
+  {
+   "title": "Almanya'nın uluslararası düzeyde aradığı şüpheli İzmir'de yakalandı",
+   "link": "https://www.aa.com.tr/tr/gundem/almanyanin-uluslararasi-duzeyde-aradigi-supheli-izmirde-yakalandi/4100136",
+   "summary": "İçişleri Bakanlığı, Alman adli makamlarınca \"uyuşturucu madde ticareti, tehdit ve kişiyi hürriyetinden yoksun bırakma\" suçlarından difüzyonla uluslararası seviyede aranan Valmir Berısha'nın, İzmir'de yakalandığını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T10:07:11+00:00"
+  },
+  {
+   "title": "Türk çekicileri Avrupa yollarında: İhracat 1,7 milyar doları aştı",
+   "link": "https://www.trthaber.com/haber/ekonomi/turk-cekicileri-avrupa-yollarinda-ihracat-17-milyar-dolari-asti-961135.html",
+   "summary": "Türkiye'nin çekici ihracatı ocakeylül döneminde 1,7 milyar doları aşarken Hollanda'ya yapılan dış satım yüzde 241 artarak 92,6 milyon dolara yükseldi. İhracatta Almanya 299 milyon dolarla ilk sıradaki yerini korudu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T10:04:00+00:00"
+  },
+  {
+   "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 4 kişi hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-4-kisi-hayatini-kaybetti/4100135",
+   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 4 Filistinli yaşamını yitirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T10:00:51+00:00"
+  },
+  {
+   "title": "Ankara'da iki otomobil çarpıştı: 3 ölü, 5 yaralı",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-iki-otomobil-carpisti-3-olu-5-yarali-961134.html",
+   "summary": "Ankara'nın Polatlı ilçesinde iki otomobil çarpıştı. Meydana gelen trafik kazasında 3 kişi hayatını kaybetti, 5 kişi yaralandı. Olayın ardından araç sürücüleri gözaltına alındı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T09:55:00+00:00"
+  },
+  {
+   "title": "Almanya'da aranan Valmir Berısha İzmir'de yakalandı",
+   "link": "https://www.trthaber.com/haber/gundem/almanyada-aranan-valmir-berisha-izmirde-yakalandi-961133.html",
+   "summary": "Almanya adli makamlarınca \"uyuşturucu madde ticareti, tehdit ve kişiyi hürriyetinden yoksun bırakma\" suçlarından difüzyonla uluslararası seviyede aranan Valmir Berısha İzmirde yakalandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T09:53:00+00:00"
+  },
   {
    "title": "Kırgızistan'da düzenlenen fuarda Türk iş makineleri ve ekipmanları tanıtıldı",
    "link": "https://www.aa.com.tr/tr/ekonomi/kirgizistanda-duzenlenen-fuarda-turk-is-makineleri-ve-ekipmanlari-tanitildi/4100125",
@@ -9,6 +54,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-25T09:47:39+00:00"
+  },
+  {
+   "title": "Antalya'da COP31 hazırlıkları tamamlanmak üzere",
+   "link": "https://www.aa.com.tr/tr/gundem/antalyada-cop31-hazirliklari-tamamlanmak-uzere-/4100121",
+   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı İklim Değişikliği Başkanı Prof. Dr. Halil Hasar, COP31 için organizasyonun etkinlik alanındaki çalışmaların yüzde 93 seviyesinde tamamlandığını söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T09:45:41+00:00"
   },
   {
    "title": "Ukrayna: Rusya'nın saldırılarında 3 sivil öldü ve 26 kişi yaralandı",
@@ -294,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-derbisinde-gozler-golculerde/4100051",
    "summary": "Trendyol Süper Lig'in 9. haftasında yapılacak Galatasaray-Fenerbahçe derbisinde sarı-kırmızılılarda Victor Osimhen, sarı-lacivertlilerde ise Vedat Muric takımlarının en önemli kozları olacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-25T08:12:18+00:00"
   },
@@ -312,7 +366,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/trump-ve-obama-3-kasimdaki-ara-secimler-oncesi-birbirini-elestirdi-/4100050",
    "summary": "ABD Başkanı Donald Trump ile eski Başkan Barack Obama, 3 Kasım'da yapılacak ara seçimler öncesinde Michigan eyaletindeki Cumhuriyetçi ve Demokrat adaylara destek verirken birbirlerini eleştirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T08:11:20+00:00"
   },
@@ -398,15 +452,6 @@
    "published": "2026-10-25T08:01:32+00:00"
   },
   {
-   "title": "Van'da arama kurtarma köpekleri, afetlerde hayat kurtarmak için eğitiliyor",
-   "link": "https://www.aa.com.tr/tr/gundem/vanda-arama-kurtarma-kopekleri-afetlerde-hayat-kurtarmak-icin-egitiliyor/4100033",
-   "summary": "Van'da Afet ve Acil Durum Yönetimi Başkanlığı (AFAD) İl Müdürlüğü bünyesinde görev yapan arama kurtarma köpekleri, olası afetlerde enkaz altında kalanlara ve kayıp kişilere ulaşabilmek için özel eğitimlerden geçiriliyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T08:01:21+00:00"
-  },
-  {
    "title": "Emtia piyasasında bu hafta dalga boyu yükseldi",
    "link": "https://www.aa.com.tr/tr/ekonomi/emtia-piyasasinda-bu-hafta-dalga-boyu-yukseldi/4100032",
    "summary": "Emtia piyasası, ABD Merkez Bankası'nın (Fed) faizleri daha uzun süre yüksek tutabileceğine yönelik öngörüler, jeopolitik riskler ve arz kaynaklı faktörlerle sert dalgalanmaların olduğu bir haftayı geride bıraktı.",
@@ -479,9 +524,9 @@
    "published": "2026-10-25T07:29:00+00:00"
   },
   {
-   "title": "KPSS Ortaöğretim başladı",
-   "link": "https://www.trthaber.com/haber/gundem/kpss-ortaogretim-basladi-961121.html",
-   "summary": "Ölçme, Seçme ve Yerleştirme Merkezince ÖSYM düzenlenen 2026 Kamu Personel Seçme Sınavı Ortaöğretim 2026KPSS Ortaöğretim başladı. Sonuçlar, açıklanmasından itibaren 2 yıl süreyle geçerli olacak.",
+   "title": "KPSS Ortaöğretim yapıldı",
+   "link": "https://www.trthaber.com/haber/gundem/kpss-ortaogretim-yapildi-961121.html",
+   "summary": "Ölçme, Seçme ve Yerleştirme Merkezince ÖSYM düzenlenen 2026 Kamu Personel Seçme Sınavı Ortaöğretim 2026KPSS Ortaöğretim sona erdi. Sonuçlar, açıklanmasından itibaren 2 yıl süreyle geçerli olacak.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -938,15 +983,6 @@
    "published": "2026-10-24T16:01:00+00:00"
   },
   {
-   "title": "Zelenskiy, ordunun kullandığı Starlink internet hizmetinin eski hızına döndüğünü söyledi",
-   "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-ordunun-kullandigi-starlink-internet-hizmetinin-eski-hizina-dondugunu-soyledi/4099713",
-   "summary": "Ukrayna Devlet Başkanı Zelenskiy, ABD merkezli SpaceX'in Starlink sisteminin Ukrayna ordusuna sunduğu ve yavaşlayan internet hizmetinin \"kısıtlamalardan önceki hıza\" geri döndüğünü bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-24T15:48:36+00:00"
-  },
-  {
    "title": "Ambarlı Liman Kompleksi'nde 9 ayda 1,4 milyon konteynerin gümrük işlemleri yapıldı",
    "link": "https://www.aa.com.tr/tr/ekonomi/ambarli-liman-kompleksinde-9-ayda-1-4-milyon-konteynerin-gumruk-islemleri-yapildi/4099704",
    "summary": "Ticaret Bakanı Ömer Bolat, Ambarlı Liman Kompleksi'nde bu yılın 9 ayında 1,4 milyon konteynerin ve 58 bin geminin gümrük işlemlerinin gerçekleştirildiğini bildirdi.",
@@ -981,6 +1017,15 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-24T15:08:00+00:00"
+  },
+  {
+   "title": "Zelenskiy, ordunun kullandığı Starlink internet hizmetinin eski hızına döndüğünü söyledi",
+   "link": "https://www.trthaber.com/haber/dunya/zelenskiy-ordunun-kullandigi-starlink-internet-hizmetinin-eski-hizina-dondugunu-soyledi-961093.html",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, ABD merkezli SpaceX'in Starlink sisteminin Ukrayna ordusuna sunduğu ve yavaşlayan internet hizmetinin \"kısıtlamalardan önceki hıza\" geri döndüğünü bildirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-24T14:59:00+00:00"
   },
   {
    "title": "Danışmanlarının çoğu, Trump'ın Netanyahu'yu destekleme kararına karşı çıkıyordu",
@@ -1080,33 +1125,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e828/live/0110bda0-bb78-11f1-bc1f-3f186ca4140c.jpg",
    "published": "2026-10-24T12:55:18+00:00"
-  },
-  {
-   "title": "2026KPSS Ortaöğretim yarın yapılacak",
-   "link": "https://www.trthaber.com/haber/egitim/2026-kpss-ortaogretim-yarin-yapilacak-961084.html",
-   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi ÖSYM Başkanlığınca düzenlenen Kamu Personel Seçme Sınavı Ortaöğretim 2026KPSS Ortaöğretim, yarın gerçekleştirilecek.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T12:51:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: Darphanei Amire Külliyesi dünyaya örnek teşkil edecek bir yapıya kavuştu",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-darphane-i-amire-kulliyesi-dunyaya-ornek-teskil-edecek-bir-yapiya-kavustu-961083.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Topkapı Sarayı Darphanei Amire Külliyesi'nde restorasyonu tamamlanan 5 yeni müzenin açılışını yaptı. Topkapı Sarayı'nın envanterinde bulunan toplam 10 bin 500 eserin ziyaretçilerle…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T12:18:00+00:00"
-  },
-  {
-   "title": "Kültür Yolu Festivali'nin 24'üncü durağı İzmir",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/kultur-yolu-festivalinin-24uncu-duragi-izmir-961082.html",
-   "summary": "Kültür ve Turizm Bakanlığınca düzenlenen Türkiye Kültür Yolu Festivali'nin bu yılki 24'üncü durağı \"İzmir Kültür Yolu Festivali\" başladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-24T12:08:00+00:00"
   },
   {
    "title": "Alarko Carrier, Hatay'da kırsal mahalledeki okula çevre dostu iklimlendirme sistemi kurdu",
@@ -1332,24 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b5f7/live/27245050-cec0-11f1-ae9c-0303957c36f8.jpg",
    "published": "2026-10-24T07:12:14+00:00"
-  },
-  {
-   "title": "İsrail seçimlerinde Arap partileri neden kritik rol oynuyor?",
-   "link": "https://www.bbc.com/turkce/articles/c6e9l1nm35l4o?at_medium=RSS&at_campaign=rss",
-   "summary": "İsrailli Araplar arasında seçimlere katılım oranları geleneksel şekilde düşük kalıyor. Ancak bu seçimlerde sağcı iktidar koalisyonunu başarısızlığa uğratmak için güçlü bir çaba var.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9938/live/80172d90-cd26-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-10-24T07:11:09+00:00"
-  },
-  {
-   "title": "TİGEM 211,9 ton yağlık ayçiçeği satacak",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tigem-211-9-ton-yaglik-aycicegi-satacak/4099201",
-   "summary": "Tarım İşletmeleri Genel Müdürlüğü (TİGEM) Altınova Tarım İşletmesi Müdürlüğü, 211,9 ton yağlık ayçiçeği satışı yapacak.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-24T06:56:33+00:00"
   }
  ]
 }
