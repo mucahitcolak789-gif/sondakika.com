@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-25T20:52:23.970992+00:00",
+ "updated": "2026-10-25T21:16:05.503952+00:00",
  "items": [
+  {
+   "title": "Sermaye piyasası işlemleri soruşturmasında Ertan Aydın tutuklandı",
+   "link": "https://www.aa.com.tr/tr/gundem/sermaye-piyasasi-islemleri-sorusturmasinda-ertan-aydin-tutuklandi/4100489",
+   "summary": "Sermaye piyasası işlemlerine ilişkin fon soruşturması kapsamında, adli kontrol kararına yapılan itiraz üzerine yeniden gözaltına alınan eski AK Parti milletvekili, araştırma ve kampanya şirketi kurucusu Ertan Aydın…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T20:59:29+00:00"
+  },
+  {
+   "title": "Zelenski: Kasım ayında ABDUkraynaRusya üçlü toplantısı düzenlenecek",
+   "link": "https://www.trthaber.com/haber/dunya/zelenski-kasim-ayinda-abd-ukrayna-rusya-uclu-toplantisi-duzenlenecek-961172.html",
+   "summary": "Ukrayna Devlet Başkanı Zelenski, kasım ayında ABDUkraynaRusya üçlü toplantısı düzenleneceğini söyledi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T20:55:00+00:00"
+  },
+  {
+   "title": "Sırbistan'da başbakan adayı Vucic, erken genel seçimi kaybettiklerini söyledi",
+   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-basbakan-adayi-vucic-erken-genel-secimi-kaybettiklerini-soyledi/4100487",
+   "summary": "Sırbistan'da cumhurbaşkanlığı görevinden istifa eden ve Sırp İlerleme Partisi (SNS) öncülüğündeki \"Aleksandar Vucic-Birleşmiş Sırbistan\" listesinin başbakan adayı olan Aleksandar Vucic, bugün yapılan erken genel seçimi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T20:54:39+00:00"
+  },
+  {
+   "title": "İran Dışişleri Bakanlığı Sözcüsü Bekayi, ABD'yi tek taraflı taleplerinde ısrar etmekle suçladı",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakanligi-sozcusu-bekayi-abdyi-tek-tarafli-taleplerinde-israr-etmekle-sucladi/4100485",
+   "summary": "İran Dışişleri Bakanlığı Sözcüsü İsmail Bekayi, ülkesinin müzakere masasını terk etmediğini ancak ABD'nin tek taraflı taleplerinde ısrar ettiğini söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T20:50:35+00:00"
+  },
+  {
+   "title": "Milli sporcu Furkan Akar, Kısa Kulvar Sürat Pateni Dünya Turu'nda bronz madalya kazandı",
+   "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-furkan-akar-kisa-kulvar-surat-pateni-dunya-turunda-bronz-madalya-kazandi/4100484",
+   "summary": "Milli sporcu Furkan Akar, ISU Kısa Kulvar Sürat Pateni Dünya Turu'nun Kanada'da düzenlenen ilk ayağında bronz madalya aldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T20:50:23+00:00"
+  },
+  {
+   "title": "Putin: \"Avrupa'daki protestoların nedeni yönetimlerin kendi hataları\"",
+   "link": "https://www.aa.com.tr/tr/dunya/putin-avrupadaki-protestolarin-nedeni-yonetimlerin-kendi-hatalari/4100483",
+   "summary": "Rusya Devlet Başkanı Vladimir Putin, Avrupa'daki protestolara ilişkin ülkesine yönelik suçlamaları reddederek, \"Avrupa'daki protestoların nedeni yönetimlerin kendi hataları. Ekonomi ve finans dahil çeşitli alanlarda…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T20:49:46+00:00"
+  },
+  {
+   "title": "Ukrayna: Rusya, bir haftada yaklaşık 1600 güdümlü bomba, 48 füze ve 2300 İHA'yla saldırdı",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusya-bir-haftada-yaklasik-1600-gudumlu-bomba-48-fuze-ve-2300-ihayla-saldirdi/4100482",
+   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rus ordusunun ülkesine yönelik saldırılarda son bir haftada yaklaşık 1600 güdümlü bomba, 48 füze ve 2300 insansız hava aracı (İHA) kullandığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T20:49:23+00:00"
+  },
   {
    "title": "Sırbistan'da genel seçimlere rekor katılım: Öğrenci hareketi iktidarı değiştirebilecek mi?",
    "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
@@ -348,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilli-ekonomistler-netanyahu-nun-yaptirimlari-asmak-icin-kripto-para-kullanma-onerisine-karsi-cikti/4100294",
    "summary": "İsrailli ekonomistler, Başbakan Binyamin Netanyahu'nun Batılı ülkelerin uyguladığı yaptırımları aşmak için kripto para kullanılması önerisine tepki gösterdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T13:55:25+00:00"
   },
@@ -366,7 +429,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilin-kusattigi-bati-serianin-el-halil-kentinde-binlerce-filistinli-evlerini-terk-etmeye-zorlaniyor/4100282",
    "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın El Halil kentinde yaklaşık 2 bin 200 Filistinliyi evlerinden zorla çıkarıp konut ve iş yerlerini yıktı, giriş ve çıkışları kapatarak günlük yaşamı felce uğrattı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T13:46:58+00:00"
   },
@@ -375,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/spor/mehmet-ayberk-kosak-artistik-cimnastik-dunya-sampiyonasinda-6nci-oldu/4100280",
    "summary": "Hollanda'da düzenlenen Artistik Cimnastik Dünya Şampiyonası'nda milli sporcu Mehmet Ayberk Koşak, halka aleti finalinde 13.800 puan alarak 6'ncı sırada yer aldı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-25T13:45:30+00:00"
   },
@@ -387,15 +450,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-25T13:38:00+00:00"
-  },
-  {
-   "title": "SİPER Ürün-2 yeni kabiliyetini başarıyla test etti",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/siper-urun-2-yeni-kabiliyetini-basariyla-test-etti/4100275",
-   "summary": "Türkiye'nin uzun menzilli bölge hava ve füze savunma sistemi SİPER Ürün-2, yeni kabiliyetini başarılı atış testiyle sahada ispatladı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T13:36:46+00:00"
   },
   {
    "title": "A Milli Kadın Voleybol Takımı'nın Dünya Kupası'ndaki rakipleri yarın belli olacak",
@@ -470,20 +524,11 @@
    "published": "2026-10-25T12:51:17+00:00"
   },
   {
-   "title": "MHP Genel Başkanı Bahçeli'den 25 Ekim Kazakistan Cumhuriyet Günü mesajı",
-   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-25-ekim-kazakistan-cumhuriyet-gunu-mesaji/4100248",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Bugün Türkiye ve Kazakistan ilişkileri tarihten aldığı ilhamla oldukça sağlam bir temel üzerine oturmaktadır.\" ifadesini kullandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T12:41:44+00:00"
-  },
-  {
    "title": "Rıza Kayaalp, Dünya Güreş Şampiyonası'na çeyrek finalde veda etti",
    "link": "https://www.aa.com.tr/tr/spor/riza-kayaalp-dunya-gures-sampiyonasina-ceyrek-finalde-veda-etti/4100243",
    "summary": "Kazakistan'da düzenlenen 2026 Dünya Güreş Şampiyonası'nda mücadele eden milli sporcu Rıza Kayaalp, çeyrek finalde Finlandiya'dan Matti Elias Kuosmanen'e yenildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-25T12:39:28+00:00"
   },
@@ -875,15 +920,6 @@
    "published": "2026-10-25T08:30:00+00:00"
   },
   {
-   "title": "İran Dışişleri Bakanı Erakçi: Hürmüz Boğazı'nın yönetimi eskisi gibi olmayacak",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-hurmuz-bogazinin-yonetimi-eskisi-gibi-olmayacak/4100067",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, bölgede yaşanan savaşların güvenlik koşullarını değiştirdiğini belirterek, \"Hürmüz Boğazı'nın yönetimi eskisi gibi olmayacak.\" dedi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-25T08:28:21+00:00"
-  },
-  {
    "title": "Okan Buruk ile İsmail Kartal'ın derbi karnesi",
    "link": "https://www.aa.com.tr/tr/spor/okan-buruk-ile-ismail-kartalin-derbi-karnesi/4100064",
    "summary": "Okan Buruk, Galatasaray'ın başında Fenerbahçe'ye karşı 6 kez kazandı.",
@@ -920,15 +956,6 @@
    "published": "2026-10-25T08:15:48+00:00"
   },
   {
-   "title": "İsrail, işgal altındaki Batı Şeria'da El Halil başta olmak üzere saldırılarını yoğunlaştırdı",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-el-halil-basta-olmak-uzere-saldirilarini-yogunlastirdi/4100055",
-   "summary": "İsrail ordusu, en az 2 bin 500 Filistinliyi zorla yerinden ettiği El Halil başta olmak üzere işgal altındaki Batı Şeria'da baskınlar düzenleyerek 2 Filistinliyi alıkoydu, evlerde arama yaparak eşyalara zarar verdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-25T08:14:28+00:00"
-  },
-  {
    "title": "Galatasaray-Fenerbahçe derbisinde gözler golcülerde",
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-fenerbahce-derbisinde-gozler-golculerde/4100051",
    "summary": "Trendyol Süper Lig'in 9. haftasında yapılacak Galatasaray-Fenerbahçe derbisinde sarı-kırmızılılarda Victor Osimhen, sarı-lacivertlilerde ise Vedat Muric takımlarının en önemli kozları olacak.",
@@ -945,15 +972,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-25T08:12:00+00:00"
-  },
-  {
-   "title": "Trump ve Obama, 3 Kasım'daki ara seçimler öncesi birbirini eleştirdi",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-ve-obama-3-kasimdaki-ara-secimler-oncesi-birbirini-elestirdi-/4100050",
-   "summary": "ABD Başkanı Donald Trump ile eski Başkan Barack Obama, 3 Kasım'da yapılacak ara seçimler öncesinde Michigan eyaletindeki Cumhuriyetçi ve Demokrat adaylara destek verirken birbirlerini eleştirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-25T08:11:20+00:00"
   },
   {
    "title": "Türk iş dünyasının Arnavutluk'taki yatırım büyüklüğü 3,5 milyar dolara ulaştı",
@@ -1071,15 +1089,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-25T07:44:33+00:00"
-  },
-  {
-   "title": "Asrın inşa seferberliği ABD basınının gündeminde",
-   "link": "https://www.trthaber.com/haber/gundem/asrin-insa-seferberligi-abd-basininin-gundeminde-961122.html",
-   "summary": "ABD merkezli USA TODAY ve Business Insider deprem bölgesinde tamamlanan yeniden inşa çalışmalarını haberleştirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T07:29:00+00:00"
   },
   {
    "title": "NBA'de Rockets'ın galibiyetine Alperen Şengün'den \"double-double\" katkı",
@@ -1260,15 +1269,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-24T09:53:32+00:00"
-  },
-  {
-   "title": "Şenol Güneş'ten \"sitem\" açıklaması",
-   "link": "https://www.aa.com.tr/tr/spor/senol-gunesten-sitem-aciklamasi/4099302",
-   "summary": "Şenol Güneş, A Milli Takım teknik direktörlüğü için \"benimle görüşmediler\" ifadesinin \"herhangi bir beklenti, kırgınlık ya da serzeniş içermediğini\" belirtti.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-24T08:35:36+00:00"
   },
   {
    "title": "DEİK Türkiye-Kanada İş Konseyi Başkanı Yılmaz: Kanada ile 10 milyar dolarlık ticaret hedefi hayal değil",
