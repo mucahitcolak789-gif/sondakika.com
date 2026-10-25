@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-25T23:34:26.799641+00:00",
+ "updated": "2026-10-25T23:59:35.788045+00:00",
  "items": [
+  {
+   "title": "Trump: \"Libya, yasa dışı göç için bir koridor olarak kalamaz\"",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz/4100528",
+   "summary": "ABD Başkanı Donald Trump, iyi ilişkilere sahip olduklarını belirttiği Libya'nın \"artık yasa dışı göç için kullanılan bir koridor olmaması gerektiğini\" belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T23:51:32+00:00"
+  },
+  {
+   "title": "Brezilya'da Lula ile Bolsonaro'nun başa baş yarıştığı seçimlerde oy sayımı başladı",
+   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
+   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/653c/live/813b8c70-d05f-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-10-25T23:47:48+00:00"
+  },
   {
    "title": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
    "link": "https://www.bbc.com/turkce/articles/cqdjv8yvw2myo?at_medium=RSS&at_campaign=rss",
@@ -8,7 +26,16 @@
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab42/live/eccff960-d0ca-11f1-b86a-c167c5eb76b4.jpg",
-   "published": "2026-10-25T23:26:11+00:00"
+   "published": "2026-10-25T23:44:49+00:00"
+  },
+  {
+   "title": "ABD Başkanı Trump, İsrail Başbakanı Netanyahu'ya seçim desteğini yineledi",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-israil-basbakani-netanyahuya-secim-destegini-yineledi/4100523",
+   "summary": "ABD Başkanı Donald Trump, İsrail'de yapılacak seçimler öncesinde Başbakan Binyamin Netanyahu'ya desteğini yineledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T23:44:32+00:00"
   },
   {
    "title": "İsrail askerleri Batı Şeria'da 1 Filistinliyi yaraladı, 5 kişiyi gözaltına aldı",
@@ -420,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/papa-14-leo-yemenin-taiz-kentinde-aclik-cekenlerin-durumundan-endise-duyuyor/4100330",
    "summary": "Vatikan Devlet Başkanı Papa 14. Leo, Yemen’in gıda, su ve tıbbi yardım ihtiyacı bulunan Taiz kentindeki vahim insani durumu endişeyle takip ettiğini belirterek, Yemen halkının ve bölgedeki tüm halkların barış içinde…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T15:08:16+00:00"
   },
@@ -438,7 +465,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-firtinalarin-ardindan-yaklasik-59-bin-hanede-elektrik-kesintisi-suruyor/4100321",
    "summary": "Fransa'da Austen ve Boelo fırtınaları nedeniyle yaklaşık 59 bin hanede elektrik kesintisi devam ediyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T14:51:21+00:00"
   },
@@ -767,24 +794,6 @@
    "published": "2026-10-25T10:52:00+00:00"
   },
   {
-   "title": "İran Meclis Başkanı Kalibaf: Düşmana hayal edilemeyecek derecede karşılık vermeye hazırız",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-kalibaf-dusmana-hayal-edilemeyecek-derecede-karsilik-vermeye-haziriz/4100161",
-   "summary": "İran Meclis ve Müzakere Heyeti Başkanı Muhammed Bakır Kalibaf, meclis oturumunda yaptığı konuşmada, \"Düşmana hayal edilemeyecek derecede karşılık vermeye hazırız.\" dedi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-25T10:49:46+00:00"
-  },
-  {
-   "title": "Brezilya'da seçmenler Lula ile Jair Bolsonaro'nun oğlu arasında tercih yapacak",
-   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gidiyor. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/653c/live/813b8c70-d05f-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-10-25T10:44:12+00:00"
-  },
-  {
    "title": "Vergi hizmetlerinde dijital dönüşüm hız kazandı",
    "link": "https://www.trthaber.com/haber/ekonomi/vergi-hizmetlerinde-dijital-donusum-hiz-kazandi-961138.html",
    "summary": "Gelir İdaresi Başkanlığı GİB, robotik süreç otomasyonu sayesinde bugüne kadar 200 binden fazla yazıyı memur müdahalesi olmadan hazırlayarak muhataplarına iletti. Dijital Vergi Dairesi üzerinden ise yılın 9 ayında…",
@@ -801,15 +810,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-25T10:26:00+00:00"
-  },
-  {
-   "title": "Libya Başbakanı Dibeybe'den ABD Başkanı Trump'ın Libya hakkındaki tahkir edici sözlerine cevap",
-   "link": "https://www.aa.com.tr/tr/dunya/libya-basbakani-dibeybeden-abd-baskani-trumpin-libya-hakkindaki-tahkir-edici-sozlerine-cevap/4100143",
-   "summary": "Libya Başbakanı Dibeybe, \"ABD ile ilişkilerimizi karşılıklı saygı temelinde sürdürüyor, Libya'nın ve halkının onurunun seçim tartışmalarının konusu olmasını asla kabul etmiyoruz.\" dedi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-25T10:17:26+00:00"
   },
   {
    "title": "ABD New York Başpiskoposluğu cinsel istismar davaları için 800 milyon dolar ödeyecek",
