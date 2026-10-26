@@ -1,6 +1,60 @@
 {
- "updated": "2026-10-26T05:43:23.071251+00:00",
+ "updated": "2026-10-26T06:17:02.758247+00:00",
  "items": [
+  {
+   "title": "TCMB'den özel sektör tahvil piyasasında likiditeyi destekleyici adım",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-ozel-sektor-tahvil-piyasasinda-likiditeyi-destekleyici-adim/4100614",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası ticari kredi büyüme sınırından istisna tutulan kredilere yönelik değişiklik yaptı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T06:06:24+00:00"
+  },
+  {
+   "title": "Küresel piyasalar Fed haftasına karışık seyirle başladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-fed-haftasina-karisik-seyirle-basladi/4100611",
+   "summary": "Küresel piyasalar, devam eden jeopolitik riskler ve teknoloji şirketlerinin hisselerindeki satış baskısının sürmesiyle haftaya karışık seyirle başlarken, gözler bu hafta ABD Merkez Bankasının (Fed) faiz kararına…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T06:05:25+00:00"
+  },
+  {
+   "title": "İran savaşının gezegenin en eşsiz denizlerinden birine zehirli etkisi",
+   "link": "https://www.trthaber.com/haber/dunya/iran-savasinin-gezegenin-en-essiz-denizlerinden-birine-zehirli-etkisi-961194.html",
+   "summary": "Orta Doğu'daki çatışmalar, bölgede devasa bir çevre felaketini tetikliyor. ABD, İsrail ve İran eksenindeki saldırılar petrol tesislerini harabeye çevirirken, atmosfere yayılan zehirli gazlar ve denize sızan tonlarca…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T06:00:00+00:00"
+  },
+  {
+   "title": "Musk, Ukrayna'yı Starlink'in hizmet şartlarını ihlal etmekle suçladı",
+   "link": "https://www.trthaber.com/haber/dunya/musk-ukraynayi-starlinkin-hizmet-sartlarini-ihlal-etmekle-sucladi-961193.html",
+   "summary": "SpaceX CEO'su Elon Musk, Kiev'in hizmete erişimin sağlandığını açıklamasının ardından Ukrayna ordusunu Starlink'in hizmet şartlarını ihlal etmekle suçladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T05:56:00+00:00"
+  },
+  {
+   "title": "Rusya: Ukrayna'da askeri depo, liman, gemi ve enerji tesislerini vurduk",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-askeri-depo-liman-gemi-ve-enerji-tesislerini-vurduk/4100596",
+   "summary": "Rusya Savunma Bakanlığı, Ukrayna'da askeri depo, liman, gemi ve enerji tesislerini vurduklarını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T05:55:16+00:00"
+  },
+  {
+   "title": "Garajınızda ne zaman uçan bir araba göreceksiniz? Yakın zamanda değil",
+   "link": "https://www.trthaber.com/haber/dunya/garajinizda-ne-zaman-ucan-bir-araba-goreceksiniz-yakin-zamanda-degil-961192.html",
+   "summary": "İnsanlar uçuşun ve otomobillerin ilk günlerinden beri uçan arabaların hayalini kuruyor. Tesla'nın bu ayın başlarında yeni Roadster modelinin \"uçan\" versiyonuyla yaptığı gösteri, bu hayale yaklaştığımız anlamına mı…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T05:45:00+00:00"
+  },
   {
    "title": "Anthropic, yapay zeka modellerini eğitmek için 274 Elvis Presley şarkısını kullandığı iddiasıyla dava edildi",
    "link": "https://www.trthaber.com/haber/dunya/anthropic-yapay-zeka-modellerini-egitmek-icin-274-elvis-presley-sarkisini-kullandigi-iddiasiyla-dava-edildi-961191.html",
@@ -429,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/katarli-arabulucularin-iranli-yetkililerle-gorusmek-uzere-tahrana-gittigi-iddia-edildi/4100395",
    "summary": "Katarlı arabulucuların, ABD ile İran arasındaki arabuluculuk görüşmeleri kapsamında İran'ın başkenti Tahran'a gittiği öne sürüldü.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T17:54:38+00:00"
   },
@@ -447,7 +501,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-medyasi-hanzala-hacker-grubu-israil-hukumeti-ve-ordusuna-ait-gizli-ses-arsivini-paylasti/4100394",
    "summary": "İran bağlantılı \"Hanzala (Handala)\" adlı hacker grubunun, İsrail hükümeti ve ordusuna ait gizli kayıtların tutulduğu Etype sistemini hacklediği ve 150 gigabaytlık gizli veriyi kamuya açık şekilde paylaştığı belirtildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T17:50:37+00:00"
   },
@@ -492,7 +546,7 @@
    "link": "https://www.aa.com.tr/tr/spor/goztepe-arca-corum-fkyi-2-0-maglup-etti/4100373",
    "summary": "Trendyol Süper Lig'in 9. haftasında Göztepe, sahasında Arca Çorum FK'yı 2-0 mağlup etti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-25T17:05:07+00:00"
   },
@@ -510,7 +564,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/axios-beyaz-saray-netanyahunun-secim-kampanyasina-destek-arayisini-caresizlik-isareti-olarak-goruyor/4100371",
    "summary": "Beyaz Saray'ın, İsrail Başbakanı Binyamin Netanyahu'nun seçim kampanyası için yürüttüğü lobi faaliyetlerini \"çaresizlik işareti\" olarak değerlendirdiği öne sürüldü.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-25T17:01:00+00:00"
   },
@@ -612,24 +666,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-25T14:42:00+00:00"
-  },
-  {
-   "title": "Batı Trakya Türk Azınlığı Danışma Kurulu, Yunanistan'ın müftü atamalarına tepki gösterdi",
-   "link": "https://www.aa.com.tr/tr/dunya/bati-trakya-turk-azinligi-danisma-kurulu-yunanistanin-muftu-atamalarina-tepki-gosterdi/4100312",
-   "summary": "",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-25T14:29:09+00:00"
-  },
-  {
-   "title": "Madrid'in ünlü şenliğinde 1000'den fazla koyun kent merkezinde yürüdü",
-   "link": "https://www.aa.com.tr/tr/dunya/madridin-unlu-senliginde-1000den-fazla-koyun-kent-merkezinde-yurudu/4100306",
-   "summary": "İspanya'nın başkenti Madrid'de, Orta Çağ geleneklerinden biri olan ve \"Trashumancia Şenliği\" adıyla bilinen etkinlik kapsamında, 1000'den fazla koyun kent sokaklarında yürüdü.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-25T14:15:29+00:00"
   },
   {
    "title": "Meghan Markle'ın babası hakkındaki istismar iddialarıyla ilgili neler biliniyor?",
@@ -794,15 +830,6 @@
    "published": "2026-10-25T11:54:00+00:00"
   },
   {
-   "title": "Yeni haftada hava durumu nasıl olacak?",
-   "link": "https://www.trthaber.com/haber/turkiye/yeni-haftada-hava-durumu-nasil-olacak-961144.html",
-   "summary": "Yeni haftada yurdun batı kesimlerinden başlayarak sağanak ve gök gürültülü sağanak beklenirken, İstanbul dahil bazı bölgelerde salı günü kuvvetli yağışın etkili olacağı, batı kesimlerde hava sıcaklıklarının mevsim…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T11:45:00+00:00"
-  },
-  {
    "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'ın güneyine fırlattığı 10 balistik füze imha edildi",
    "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-guneyine-firlattigi-10-balistik-fuze-imha-edildi-961148.html",
    "summary": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın güneyine fırlattığı 10 balistik füzenin hava savunma sistemleri tarafından engellenerek imha edildiği duyuruldu.",
@@ -812,15 +839,6 @@
    "published": "2026-10-25T11:40:00+00:00"
   },
   {
-   "title": "Kahramanmaraş'ta 16 yıllık faili meçhul cinayet çözüldü",
-   "link": "https://www.trthaber.com/haber/gundem/kahramanmarasta-16-yillik-faili-mechul-cinayet-cozuldu-961143.html",
-   "summary": "İçişleri Bakanlığı, Kahramanmaraş'ın Onikişubat ilçesinde 9 Aralık 2010'da boş arazide bulunan bebeğin ölümüne ilişkin faili meçhul cinayetin aydınlatıldığını duyurdu. Soruşturma kapsamında gözaltına alınan 3 şüpheliden…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T11:29:00+00:00"
-  },
-  {
    "title": "GO! GLOBAL Türkiye Zirvesi sona erdi",
    "link": "https://www.aa.com.tr/tr/ekonomi/go-global-turkiye-zirvesi-sona-erdi-/4100195",
    "summary": "Küresel teknoloji ve yatırım ekosisteminin önde gelen isimleri ile Türkiye'nin öncü girişimcileri ve AI yeteneklerini İstanbul'da bir araya getiren GO! GLOBAL Türkiye Zirvesi sona erdi.",
@@ -828,15 +846,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-25T11:28:50+00:00"
-  },
-  {
-   "title": "Doğu Ekspresi heyecanı başlıyor: Biletler yarın satışta",
-   "link": "https://www.trthaber.com/haber/turkiye/dogu-ekspresi-heyecani-basliyor-biletler-yarin-satista-961142.html",
-   "summary": "Turistik Doğu Ekspresi'nin 20262027 sezonu seferleri 21 Aralık'ta başlayacak. AnkaraKars ve KarsAnkara güzergahlarında toplam 70 sefer düzenlenecek trenin bireysel biletleri yarın saat 13.55'te satışa sunulacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T11:18:00+00:00"
   },
   {
    "title": "Kırgızistan'da düzenlenen fuarda Türk iş makineleri ve ekipmanları tanıtıldı",
@@ -1298,24 +1307,6 @@
    "published": "2026-10-24T06:56:33+00:00"
   },
   {
-   "title": "Moody's Fransa'ya yönelik periyodik incelemesini tamamladı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/moodys-fransaya-yonelik-periyodik-incelemesini-tamamladi/4099151",
-   "summary": "Uluslararası kredi derecelendirme kuruluşu Moody's, Fransa'nın kredi notlarına yönelik periyodik incelemesini tamamladığını bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-23T23:30:44+00:00"
-  },
-  {
-   "title": "Türkiye, mali şeffaflık değerlendirmesinde üst sıralarda yer aldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-mali-seffaflik-degerlendirmesinde-ust-siralarda-yer-aldi/4099149",
-   "summary": "Uluslararası Para Fonu (IMF), Türkiye'nin mali şeffaflık alanında son 10 yılda önemli gelişme kaydettiğini bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-23T23:18:04+00:00"
-  },
-  {
    "title": "'96 yaşındayım ve 15 milyon takipçim var'",
    "link": "https://www.bbc.com/turkce/articles/cr86z510jg3yo?at_medium=RSS&at_campaign=rss",
    "summary": "Grandma Droniak, Nonna Gracie, Viv Truran ve Barbara Costello, ilerleyen yaşlarında sosyal medyada ün kazanan isimler arasında yer alıyor.",
@@ -1350,6 +1341,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e16/live/e4ed0cb0-ce1d-11f1-bc2e-018d645d8d21.png",
    "published": "2026-10-23T07:36:07+00:00"
+  },
+  {
+   "title": "Türkiye, Mekke ve Bedir ittifaklarıyla ne hedefliyor?",
+   "link": "https://www.bbc.com/turkce/articles/cq77pze3nr2ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Türkiye, \"bölgesel sahiplenme\" adını verdiği dış politika anlayışı kapsamında Ortadoğu'da güvenlik işbirliğini güçlendirme amaçlı kurumsal adımlar attı. Ankara önce Suudi Arabistan ve Pakistan ile Mekke, sonra da Katar,…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f8f5/live/1062a750-cefb-11f1-accf-3309656ad0bb.jpg",
+   "published": "2026-10-22T23:00:52+00:00"
   }
  ]
 }
