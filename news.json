@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-26T19:19:34.453021+00:00",
+ "updated": "2026-10-26T20:00:46.024294+00:00",
  "items": [
+  {
+   "title": "Elazığ'da 3 tır zincirleme kazaya karıştı",
+   "link": "https://www.trthaber.com/haber/turkiye/elazigda-3-tir-zincirleme-kazaya-karisti-961269.html",
+   "summary": "Elazığ'da 3 tırın karıştığı zincirleme trafik kazasında ilk belirlemelere göre 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T19:49:00+00:00"
+  },
+  {
+   "title": "AB ülkeleri, Ukrayna için 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-ulkeleri-ukrayna-icin-4-9-milyar-avroluk-fonun-serbest-birakilmasinda-anlasti/4101737",
+   "summary": "Avrupa Birliği (AB) üyesi ülkeler, Ukrayna'ya askeri destek sağlamak amacıyla Avrupa Barış Fonu (EPF) kapsamında 4,9 milyar avroluk fonun serbest bırakılmasında anlaştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T19:29:55+00:00"
+  },
+  {
+   "title": "İşgalci İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-961268.html",
+   "summary": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T19:27:00+00:00"
+  },
+  {
+   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu/4101732",
+   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T19:25:50+00:00"
+  },
+  {
+   "title": "Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetleri durduruldu",
+   "link": "https://www.trthaber.com/haber/ekonomi/tera-portfoy-ve-pusula-portfoyun-sermaye-piyasasi-faaliyetleri-durduruldu-961266.html",
+   "summary": "SPK, Tera Portföy Yönetimi AŞ ve Pusula Portföy Yönetimi AŞ'nin sermaye piyasası faaliyetlerini geçici olarak durdurma ve bu şirketlerin kurucusu olduğu fonların tasfiye işlemlerini yürütmek üzere bankaları…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T19:18:00+00:00"
+  },
   {
    "title": "SPK, Tera Portföy ve Pusula Portföy'ün sermaye piyasası faaliyetlerini geçici olarak durdurdu",
    "link": "https://www.aa.com.tr/tr/ekonomi/spk-tera-portfoy-ve-pusula-portfoyun-sermaye-piyasasi-faaliyetlerini-gecici-olarak-durdurdu/4101717",
@@ -9,6 +54,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-26T19:16:17+00:00"
+  },
+  {
+   "title": "İşgalci İsrail, kuşattığı El Halil'de Filistinli aileye evinden çıkması için sadece yarım saat verdi",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-kusattigi-el-halilde-filistinli-aileye-evinden-cikmasi-icin-sadece-yarim-saat-verdi-961267.html",
+   "summary": "İşgalci İsrail ordusunun, dört gündür kuşattığı Batı Şeria'nın El Halil kentinde ikamet eden Filistinli Macide Şuveyki, İsrail askerlerinin, evlerinden ayrılmaları için sadece yarım saat süre tanıdığını belirtti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T19:05:00+00:00"
   },
   {
    "title": "Beşiktaş, Başakşehir'i 2 golle geçti",
@@ -357,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/bulgaristan-da-cumhurbaskani-seciminin-ilk-turunu-mevcut-cumhurbaskani-yotova-ilk-sirada-tamamladi/4101379",
    "summary": "Bulgaristan’da mevcut Cumhurbaşkanı İliyana Yotova ve cumhurbaşkanı yardımcısı adayı Kiril Valchev, dün yapılan cumhurbaşkanlığı seçiminin ilk turunu az farkla ilk sırada tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-26T14:01:29+00:00"
   },
@@ -378,15 +432,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-26T13:52:00+00:00"
-  },
-  {
-   "title": "ASELSAN'ın KGK-84 Kanatlı Güdüm Kiti ilk atış testini başarıyla tamamladı",
-   "link": "https://www.aa.com.tr/tr/savunma-sanayisi/aselsanin-kgk-84-kanatli-gudum-kiti-ilk-atis-testini-basariyla-tamamladi/4101364",
-   "summary": "ASELSAN'ın geliştirdiği ve savaş uçaklarının düşman hava savunma sistemlerinin menziline girmeden taarruz yapmasına olanak tanıyan KGK-84 Kanatlı Güdüm Kiti, Sinop Atış Alanı'nda F-16 platformundan yapılan ilk…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T13:43:40+00:00"
   },
   {
    "title": "Fransa Cumhurbaşkanı Macron: Sosyal medya demokrasilerimize zarar veriyor",
@@ -758,15 +803,6 @@
    "published": "2026-10-26T10:39:00+00:00"
   },
   {
-   "title": "İngiltere Savunma Bakanına göre ülkesinin savaşa hazırlanması için 1000 günden biraz fazla zamanı var",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-savunma-bakanina-gore-ulkesinin-savasa-hazirlanmasi-icin-1000-gunden-biraz-fazla-zamani-var/4101096",
-   "summary": "İngiltere Savunma Bakanı Streeting, ülkenin düşmanlarının askeri kapasiteleri ve savaş ekonomilerinin 2030'da saldırı düzenleyebilecek düzeye ulaşacağını belirterek, savaşa hazırlanmak için 1000 günden biraz fazla…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-26T10:38:05+00:00"
-  },
-  {
    "title": "Jandarma Gücü, İspanya'dan 101 madalya ile döndü",
    "link": "https://www.aa.com.tr/tr/spor/jandarma-gucu-ispanyadan-101-madalya-ile-dondu/4101092",
    "summary": "Jandarma Gücü, 40 ülke temsilcisinin katıldığı İspanya'da düzenlenen Polis ve İtfaiye Oyunları'nda 60 altın, 27 gümüş ve 14 bronz olmak üzere 101 madalya kazandı.",
@@ -947,15 +983,6 @@
    "published": "2026-10-26T09:12:00+00:00"
   },
   {
-   "title": "İklim zirvesi COP31, 12 tematik günle Antalya'da düzenlenecek",
-   "link": "https://www.trthaber.com/haber/cevre/iklim-zirvesi-cop31-12-tematik-gunle-antalyada-duzenlenecek-961217.html",
-   "summary": "Türkiye'nin ev sahipliğinde 920 Kasım'da Antalya'da gerçekleştirilecek COP31'de yaklaşık 100 gündem maddesinin görüşülmesi bekleniyor. COP31 takvimi 12 tematik gün üzerine kuruldu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:54:00+00:00"
-  },
-  {
    "title": "Brezilya'da Lula benzeri görülmemiş bir seçim zaferi elde etti",
    "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
    "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın oyların yüzde 51,79'unu alarak yeniden devlet başkanı seçildiğini ilan…",
@@ -972,24 +999,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-26T08:35:56+00:00"
-  },
-  {
-   "title": "Bolu Belediyesinde rüşvet ve ihale soruşturması: 4 gözaltı",
-   "link": "https://www.trthaber.com/haber/turkiye/bolu-belediyesinde-rusvet-ve-ihale-sorusturmasi-4-gozalti-961216.html",
-   "summary": "Bolu Belediyesine yönelik \"rüşvet\" ve \"ihaleye fesat karıştırma\" soruşturması kapsamında 4 şüpheli gözaltına alındı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:33:00+00:00"
-  },
-  {
-   "title": "Katil İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 11 kişi hayatını kaybetti",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-11-kisi-hayatini-kaybetti-961215.html",
-   "summary": "Soykırımcı İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 11 Filistinli yaşamını yitirdi, 35 kişi yaralandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:32:00+00:00"
   },
   {
    "title": "Türk devletleri Ankara zirvesinde tarımdan uzaya kadar işbirliklerine odaklanacak",
@@ -1017,15 +1026,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-26T08:20:11+00:00"
-  },
-  {
-   "title": "Küresel piyasaların gözü bu hafta üç büyük merkez bankasında",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarin-gozu-bu-hafta-uc-buyuk-merkez-bankasinda-961214.html",
-   "summary": "ABD Merkez Bankası Fed, Avrupa Merkez Bankası ECB ve Japonya Merkez Bankası BoJ enflasyon risklerinin gölgesinde bu hafta para politikası kararları alacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:17:00+00:00"
   },
   {
    "title": "Milli para tenisçi Ahmet Kaplan, kortlarda dünya \"yıldızlarıyla\"",
