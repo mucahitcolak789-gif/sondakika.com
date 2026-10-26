@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-26T17:47:27.706663+00:00",
+ "updated": "2026-10-26T18:30:01.779853+00:00",
  "items": [
+  {
+   "title": "İran Genelkurmay Başkanı Abdullahi'den Hürmüz Boğazı açıklaması",
+   "link": "https://www.trthaber.com/haber/dunya/iran-genelkurmay-baskani-abdullahiden-hurmuz-bogazi-aciklamasi-961263.html",
+   "summary": "İran Genelkurmay Başkanı Tümgeneral Ali Abdullahi, Hürmüz Boğazındaki gemi trafiğine ilişkin, \"ABD Başkanının Donald Trump basın ve propaganda yoluyla dile getirdiği Hürmüz Boğazının açık olduğu yönündeki iddiasının…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T18:05:00+00:00"
+  },
+  {
+   "title": "BM: İsrail'in El Halil'de uyguladığı abluka, birçok kişiyi evlerine ve yakın çevrelerine hapsediyor",
+   "link": "https://www.trthaber.com/haber/dunya/bm-israilin-el-halilde-uyguladigi-abluka-bircok-kisiyi-evlerine-ve-yakin-cevrelerine-hapsediyor-961262.html",
+   "summary": "Birleşmiş Milletler BM İnsan Hakları Yüksek Komiseri Volker Türk, İsrail'in işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentinde 2 binden fazla Filistinliyi zorla yerinden ettiğini bildirerek, \"İsrail'in…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T17:58:00+00:00"
+  },
+  {
+   "title": "İstanbul Barosu Başkan Adayı Kanadoğlu hakkında resen soruşturma başlatıldı",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-barosu-baskan-adayi-kanadoglu-hakkinda-resen-sorusturma-baslatildi-961260.html",
+   "summary": "İstanbul Cumhuriyet Başsavcılığı, İstanbul Barosunun Olağan Genel Kurulu'nda sarf ettiği sözler nedeniyle Avukat Hakları Grubu'nun adayı Osman Korkut Kanadoğlu hakkında resen soruşturma başlattı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T17:55:00+00:00"
+  },
+  {
+   "title": "Arap Koalisyonu: Riyad ve Suudi Arabistan'ın güneyinde 3 İHA imha edildi",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-riyad-ve-suudi-arabistanin-guneyinde-3-iha-imha-edildi-961261.html",
+   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Suudi Arabistan'ın başkenti Riyad ile ülkenin güney bölgesinde 3 insansız hava aracının İHA imha edildiğini duyurdu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T17:42:00+00:00"
+  },
   {
    "title": "Cumhurbaşkanı Başdanışmanı Saral istifa etti: 'İnandığım değerlerden geri adım anlamına gelmiyor'",
    "link": "https://www.bbc.com/turkce/articles/c9zrd444vl5jo?at_medium=RSS&at_campaign=rss",
@@ -18,6 +54,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-26T17:19:37+00:00"
+  },
+  {
+   "title": "Trabzonspor, deplasmanda Çaykur Rizespor'u yendi",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-deplasmanda-caykur-rizesporu-yendi/4101631",
+   "summary": "Trendyol Süper Lig'in 9. haftasında Trabzonspor, deplasmanda Çaykur Rizespor'u 4-3 yendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T17:08:58+00:00"
   },
   {
    "title": "SpaceX, yaklaşık 40 milyar dolarlık çip finansmanı için anlaşmaya vardı",
@@ -45,6 +90,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-26T16:58:00+00:00"
+  },
+  {
+   "title": "Beşiktaş, ligde yoluna galibiyetle devam ediyor",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-ligde-yoluna-galibiyetle-devam-ediyor/4101611",
+   "summary": "Beşiktaş, Trendyol Süper Lig'in 9. haftasında İstanbul Başakşehir'i 2-0 yenerek puanını 18'e yükseltti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T16:54:55+00:00"
   },
   {
    "title": "Suriye'de yeni eğitim müfredatında Osmanlı karşıtı anlatı değişti",
@@ -303,7 +357,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransa-cumhurbaskani-macron-sosyal-medya-demokrasilerimize-zarar-veriyor/4101363",
    "summary": "Fransa Cumhurbaşkanı Emmanuel Macron, sosyal medya platformlarının insanları kutuplaştırdığı için demokrasilere zarar verdiğini söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-26T13:42:41+00:00"
   },
@@ -330,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ab-teror-orgutleri-deas-ve-el-kaideye-yonelik-yaptirimlari-2027ye-kadar-uzatti/4101356",
    "summary": "Avrupa Birliği (AB) Konseyi, terör örgütleri DEAŞ ve El Kaide ile bağlantılı kişi ve kuruluşlara yönelik yaptırımların süresini 31 Ekim 2027'ye kadar uzattığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-26T13:37:53+00:00"
   },
@@ -339,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-basini-israil-brezilya-ve-sirbistandaki-iki-onemli-muttefikini-kaybetti/4101353",
    "summary": "İsrail basını, hafta sonu Brezilya ve Sırbistan’da yapılan seçimlerin ardından Tel Aviv'in yakın müttefiki sayılan iki siyasi figürün yenilgiye uğramasıyla ülkenin iki kritik dış politika hezimetiyle karşı karşıya…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-26T13:36:23+00:00"
   },
@@ -722,15 +776,6 @@
    "published": "2026-10-26T10:21:52+00:00"
   },
   {
-   "title": "Sudan'ın Ankara Büyükelçisi Eltayeb: Uluslararası toplum Faşir'deki katliama bilinçli şekilde kayıtsız kaldı",
-   "link": "https://www.aa.com.tr/tr/dunya/sudanin-ankara-buyukelcisi-eltayeb-uluslararasi-toplum-fasirdeki-katliama-bilincli-sekilde-kayitsiz-kaldi/4101068",
-   "summary": "Sudan'ın Ankara Büyükelçisi Nadir Yousif Eltayeb, HDK'nin Faşir kentinde gerçekleştirdiği katliama uluslararası toplumun müdahale etmemesine tepki göstererek \"Bu durum, günümüz dünyasına hakim olan çifte standartları…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-26T10:17:13+00:00"
-  },
-  {
    "title": "Fon soruşturması kapsamında gözaltına alınan Nusret Altınbaş adliyede",
    "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasi-kapsaminda-gozaltina-alinan-nusret-altinbas-adliyede-961230.html",
    "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında gözaltına alınan Altınbaş Holding'in sahibi şüpheli Nusret Altınbaş adliyeye sevk edildi.",
@@ -747,15 +792,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-26T10:05:00+00:00"
-  },
-  {
-   "title": "İsrail'de seçim malzemesi yapılan Gazze'de açlık ve insani kriz derinleşiyor",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-secim-malzemesi-yapilan-gazzede-aclik-ve-insani-kriz-derinlesiyor/4101043",
-   "summary": "İsrail'in ateşkese rağmen Gazze'ye yönelik saldırıları ve ihlalleri sürerken, sınır kapılarının kapalı tutulması ve insani yardım girişine getirilen kısıtlamalar bölgede açlık krizini derinleştiriyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-26T10:03:18+00:00"
   },
   {
    "title": "Tavşanlı Höyük kazılarında 4 bin yıllık pati izleri bulundu",
@@ -1062,42 +1098,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-26T08:03:12+00:00"
-  },
-  {
-   "title": "Claude, ABD'nin Georgia eyaletinde oy verilerine izinsiz erişti",
-   "link": "https://www.trthaber.com/haber/dunya/claude-abdnin-georgia-eyaletinde-oy-verilerine-izinsiz-eristi-961211.html",
-   "summary": "ABD merkezli yapay zeka şirketi Anthropic'in geliştirdiği Claude modelinin, Georgia eyaletinde ücret karşılığında erişilebilen toplam oy sayılarına insan onayı olmadan eriştiği, ancak eyaletin seçmen kayıt sistemine…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:03:00+00:00"
-  },
-  {
-   "title": "8 ülkeden 63 suçlunun Türkiye'ye iadesi sağlandı",
-   "link": "https://www.trthaber.com/haber/gundem/8-ulkeden-63-suclunun-turkiyeye-iadesi-saglandi-961210.html",
-   "summary": "İçişleri Bakanlığı, 23 Eylül23 Ekim tarihleri arasında kırmızı bültenle aranan 33 ve ulusal seviyede aranan 30 kişi olmak üzere toplam 63 kişinin 8 ülkeden Türkiye'ye getirildiğini duyurdu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:03:00+00:00"
-  },
-  {
-   "title": "Yaklaşık 7 milyon abonenin sayacı uzaktan okuma kapsamına alınacak",
-   "link": "https://www.trthaber.com/haber/ekonomi/yaklasik-7-milyon-abonenin-sayaci-uzaktan-okuma-kapsamina-alinacak-961209.html",
-   "summary": "Enerji Piyasası Düzenleme Kurumu EPDK Başkanı Mustafa Yılmaz, Milli Akıllı Sayaç Sistemi MASS kapsamında 2027'nin sonuna kadar yaklaşık 2,7 milyon Akıllı Sayaç PRO modelinin kurulmasının planlandığını belirterek, iki…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:01:00+00:00"
-  },
-  {
-   "title": "'6. Korkut Ata Türk Dünyası Film Festivali' 37 Kasım'da İstanbul'da",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/6-korkut-ata-turk-dunyasi-film-festivali-3-7-kasimda-istanbulda-961208.html",
-   "summary": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\", doğduğu şehir İstanbul'a dönüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-26T08:00:00+00:00"
   },
   {
    "title": "Bolu Belediyesi'ne operasyon: Başkan Yardımcısı dahil dört kişi gözaltında",
