@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-25T23:59:35.788045+00:00",
+ "updated": "2026-10-26T00:46:40.131386+00:00",
  "items": [
+  {
+   "title": "Brezilya'da Lula yeniden devlet başkanı seçildi",
+   "link": "https://www.bbc.com/turkce/articles/cw0k0ey5en0yo?at_medium=RSS&at_campaign=rss",
+   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Ülkenin Yüksek Seçim Kurulu, görevdeki Lula da Silva'nın oyların yüzde 51,75'ini alarak yeniden devlet başkanı seçildiğini ilan…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/70a5/live/364638b0-d0d1-11f1-a058-dfc7f6e2951c.jpg",
+   "published": "2026-10-26T00:32:30+00:00"
+  },
+  {
+   "title": "Yemen'de çatışmalar Taiz ve Lahic vilayetlerinde sürüyor",
+   "link": "https://www.trthaber.com/haber/dunya/yemende-catismalar-taiz-ve-lahic-vilayetlerinde-suruyor-961179.html",
+   "summary": "Yemen'de hükümet güçleri ile Husiler arasında ülkenin güneybatısındaki Taiz ve Lahic vilayetlerinde çatışmalar devam ediyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-26T00:20:00+00:00"
+  },
   {
    "title": "Trump: \"Libya, yasa dışı göç için bir koridor olarak kalamaz\"",
    "link": "https://www.aa.com.tr/tr/dunya/trump-libya-yasa-disi-goc-icin-bir-koridor-olarak-kalamaz/4100528",
@@ -9,15 +27,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-25T23:51:32+00:00"
-  },
-  {
-   "title": "Brezilya'da Lula ile Bolsonaro'nun başa baş yarıştığı seçimlerde oy sayımı başladı",
-   "link": "https://www.bbc.com/turkce/articles/cqjdmkklyvzvo?at_medium=RSS&at_campaign=rss",
-   "summary": "Brezilyalılar, yeni devlet başkanlarını seçmek için 25 Ekim Pazar günü sandık başına gitti. Seçmenler, görevdeki 80 yaşındaki solcu Luiz Inácio Lula da Silva ile 45 yaşındaki sağcı senatör Flávio Bolsonaro arasında…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/653c/live/813b8c70-d05f-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-10-25T23:47:48+00:00"
   },
   {
    "title": "Sırbistan'da genel seçimler: İktidardaki Vucic, öğrenci hareketine yenildiğini kabul etti",
@@ -36,6 +45,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-25T23:44:32+00:00"
+  },
+  {
+   "title": "Bulgaristan'da seçim ikinci tura kaldı",
+   "link": "https://www.trthaber.com/haber/dunya/bulgaristanda-secim-ikinci-tura-kaldi-961178.html",
+   "summary": "Bulgaristan'da düzenlenen cumhurbaşkanlığı seçimi, katılımın yüzde 50'nin altında kalması ve hiçbir aday çiftinin yüzde 50'nin üzerinde oy alamaması nedeniyle ikinci tura kaldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-25T23:39:00+00:00"
   },
   {
    "title": "İsrail askerleri Batı Şeria'da 1 Filistinliyi yaraladı, 5 kişiyi gözaltına aldı",
@@ -677,9 +695,9 @@
    "published": "2026-10-25T12:19:00+00:00"
   },
   {
-   "title": "Brezilya'da halk, devlet başkanı seçiminin ikinci turu için sandık başına gitti",
-   "link": "https://www.aa.com.tr/tr/dunya/brezilyada-halk-devlet-baskani-seciminin-ikinci-turu-icin-sandik-basina-gitti/4100217",
-   "summary": "Brezilya'da devlet başkanı seçiminde hiçbir adayın yüzde 50'yi aşamaması nedeniyle düzenlenen ikinci turda oy verme işlemi başladı.",
+   "title": "Brezilya'da devlet başkanlığı seçiminin ikinci turunu resmi olmayan sonuçlara göre Luiz Inacio Lula da Silva kazandı",
+   "link": "https://www.aa.com.tr/tr/dunya/brezilyada-devlet-baskanligi-seciminin-ikinci-turunu-resmi-olmayan-sonuclara-gore-luiz-inacio-lula-da-silva-kazandi/4100217",
+   "summary": "",
    "source": "AA",
    "category": "Dünya",
    "image": null,
@@ -911,15 +929,6 @@
    "published": "2026-10-25T08:53:00+00:00"
   },
   {
-   "title": "TBMM'ye yazılan ilginç dilekçeler",
-   "link": "https://www.trthaber.com/haber/gundem/tbmmye-yazilan-ilginc-dilekceler-961129.html",
-   "summary": "TBMM Dilekçe Komisyonuna gelen başvurular arasında kadınlara yönelik sosyal medya zorbalığı yasası çıkarılması, üniversitelerde lisans programlarının 3 yıla düşürülmesi, 60 yaş ve üzeri vatandaşlara yeşil pasaport…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T08:45:00+00:00"
-  },
-  {
    "title": "Türkiye'nin elektrik kurulu gücü 127 bin 355 megavata ulaştı",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-elektrik-kurulu-gucu-127-bin-355-megavata-ulasti/4100081",
    "summary": "Türkiye'nin elektrik kurulu gücü eylül ayı sonu itibarıyla 127 bin 355 megavata ulaştı.",
@@ -936,15 +945,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-25T08:40:26+00:00"
-  },
-  {
-   "title": "Tüketicilere sahte indirim ve dolandırıcılık uyarısı",
-   "link": "https://www.trthaber.com/haber/ekonomi/tuketicilere-sahte-indirim-ve-dolandiricilik-uyarisi-961128.html",
-   "summary": "Kasım ayı indirim kampanyalarının yaklaşmasıyla tüketicilerin, sahte indirimlere, kampanya öncesinde yapılan fiyat artışlarına ve taklit alışveriş sitelerine karşı dikkatli olması tavsiye ediliyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-25T08:37:00+00:00"
   },
   {
    "title": "Galatasaray-Fenerbahçe rekabetinden ilginç notlar",
