@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-27T15:27:37.495386+00:00",
+ "updated": "2026-10-27T16:13:24.809621+00:00",
  "items": [
+  {
+   "title": "Elektronik İngilizce Yeterlik Sınavı başvuruları başladı",
+   "link": "https://www.aa.com.tr/tr/gundem/elektronik-ingilizce-yeterlik-sinavi-basvurulari-basladi/4102752",
+   "summary": "Ölçme, Seçme ve Yerleştirme Merkezi (ÖSYM) Başkanlığınca 14 Kasım'da düzenlenecek 2026 Elektronik İngilizce Yeterlik Sınavı (e-TEP 2026/4) başvuruları başladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T16:08:54+00:00"
+  },
+  {
+   "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
+   "link": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o?at_medium=RSS&at_campaign=rss",
+   "summary": "AKP kaynaklarının verdiği bilgiye göre yıl sonuna kadar yapılacak düzenlemede, emeklilere normal yıllık zammın yanı sıra, \"refah payı\" veya \"seyyanen zam\" seçeneği masada. Emekli maaşlarına yapılacak iyileştirmenin…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e2b3/live/9104f8b0-d21e-11f1-b8e4-17c9744a7f8e.jpg",
+   "published": "2026-10-27T15:57:25+00:00"
+  },
+  {
+   "title": "Emekliye yeni destek programı yolda",
+   "link": "https://www.trthaber.com/haber/gundem/emekliye-yeni-destek-programi-yolda-961390.html",
+   "summary": "AK Parti kaynaklarından edinilen bilgiye göre; emekli maaşlarına yapılacak artışın yanı sıra refah payı eklenmesi de değerlendirilecek. En düşük emekli maaşı için tamamlayıcı bir düzenleme üzerinde duruluyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T15:57:00+00:00"
+  },
+  {
+   "title": "Fitch Ratings, Türkiye'de borçlanma sermaye piyasasının büyümeye devam edeceğini öngörüyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-ratings-turkiyede-borclanma-sermaye-piyasasinin-buyumeye-devam-edecegini-ongoruyor/4102738",
+   "summary": "Fitch Ratings, Türkiye'nin borçlanma sermaye piyasasının büyümeye devam etmesini ve piyasada tedavülde bulunan toplam borçlanma araçlarının büyüklüğünün 2027'ye kadar 550 milyar dolara ulaşmasını bekliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T15:51:15+00:00"
+  },
+  {
+   "title": "Ziraat Türkiye Kupası 3. eleme turuna 9 maçla başlandı",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasi-3-eleme-turuna-9-macla-baslandi/4102732",
+   "summary": "Futbolda Ziraat Türkiye Kupası 3. eleme turuna 9 maçla başlandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T15:43:43+00:00"
+  },
+  {
+   "title": "Borsa günü yatay seyirle tamamladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4102725",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.151,03 puandan tamamladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T15:33:27+00:00"
+  },
+  {
+   "title": "Ordu'da kırmızı bülten operasyonu: Aranan hükümlü yakalandı",
+   "link": "https://www.trthaber.com/haber/turkiye/orduda-kirmizi-bulten-operasyonu-aranan-hukumlu-yakalandi-961389.html",
+   "summary": "Ordu'nun Ünye ilçesinde, Interpol tarafından kırmızı bültenle aranan Gürcistan uyruklu hükümlü yakalandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T15:30:00+00:00"
+  },
+  {
+   "title": "UAEA'dan, \"İran’da zenginleştirilmiş uranyumu doğrulamak için nükleer tesislere erişim\" çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/uaeadan-iran-da-zenginlestirilmis-uranyumu-dogrulamak-icin-nukleer-tesislere-erisim-cagrisi/4102720",
+   "summary": "Uluslararası Atom Enerjisi Ajansı (UAEA) Başkanı Rafael Grossi, İran’ın daha önce beyan ettiği 440 kilogram yüksek oranda zenginleştirilmiş uranyumun durumunu doğrulamak için nükleer tesislere erişim sağlanması…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T15:27:00+00:00"
+  },
   {
    "title": "OpenAI'ın yapay zeka modelleri matematik, bilgisayar bilimi ve fizikte üç bilimsel sonuca ulaştı",
    "link": "https://www.trthaber.com/haber/dunya/openaiin-yapay-zeka-modelleri-matematik-bilgisayar-bilimi-ve-fizikte-uc-bilimsel-sonuca-ulasti-961387.html",
@@ -9,6 +81,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-27T15:18:00+00:00"
+  },
+  {
+   "title": "Bahçeli: Türk dünyasının istikbali müşterek sorumluluğumuzdur",
+   "link": "https://www.trthaber.com/haber/gundem/bahceli-turk-dunyasinin-istikbali-musterek-sorumlulugumuzdur-961388.html",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Türk dünyasının istikbali müşterek sorumluluğumuzdur. Kardeşliğimizi korumak, bağımsız devletlerimizin egemenliğine saygı göstermek ve tarihi yürüyüşümüzü gelecek nesillere taşıyarak…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T15:15:00+00:00"
   },
   {
    "title": "Basketbol Avrupa Ligi'nde 2027 ve 2029'daki Dörtlü Final organizasyonları Abu Dabi'de yapılacak",
@@ -63,6 +144,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-27T14:35:01+00:00"
+  },
+  {
+   "title": "Bilim Taşkent, Özbekistan’da açıldı",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bilim-taskent-ozbekistan-da-acildi/4102660",
+   "summary": "Özbekistan’ın başkenti Taşkent’te, çocuk ve gençleri bilim ve teknolojiyle buluşturmayı amaçlayan Bilim Taşkent faaliyetlerine başladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T14:32:13+00:00"
   },
   {
    "title": "Mekke İttifakı Anlaşması, TBMM Dışişleri Komisyonu'nda kabul edildi",
@@ -202,7 +292,7 @@
   {
    "title": "Denizolgun'un şüpheli ölümü davasında özel doktoru Demirkol'a hapis cezası",
    "link": "https://www.trthaber.com/haber/gundem/denizolgunun-supheli-olumu-davasinda-ozel-doktoru-demirkola-hapis-cezasi-961376.html",
-   "summary": "Eski ulaştırma bakanlarından Arif Ahmet Denizolgun'un ölümüne ilişkin hakkında \"yalan tanıklık\" suçundan dava açılan doktor Nurettin Demirkol'a 2 yıl 6 ay hapis cezası verildi.",
+   "summary": "Eski Ulaştırma Bakanı Arif Ahmet Denizolgun'un ölümüne ilişkin 'yalan tanıklık' suçundan yargılanan Nurettin Demirkol, ilk duruşmada 2 yıl 6 ay hapis cezasına çarptırılarak tahliye edildi.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -416,20 +506,11 @@
    "published": "2026-10-27T12:25:00+00:00"
   },
   {
-   "title": "2027'de 10 yeni nesil kütüphane açılacak, 20 bin yazma eser dijitalleştirilecek",
-   "link": "https://www.aa.com.tr/tr/kultur/2027de-10-yeni-nesil-kutuphane-acilacak-20-bin-yazma-eser-dijitallestirilecek/4102491",
-   "summary": "Türkiye'de 2027'de 10 yeni nesil kütüphanenin hizmete açılması, 20 bin yazma ve nadir eserin dijitalleştirilmesi, 1100 yazma ve nadide eserin restore edilmesi hedefleniyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:23:03+00:00"
-  },
-  {
    "title": "Avro Bölgesi'nde bankalar kurumsal kredilerde standartları sıkılaştırdı",
    "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-bankalar-kurumsal-kredilerde-standartlari-sikilastirdi/4102490",
    "summary": "Avro Bölgesi'ndeki bankalar, yılın üçüncü çeyreğinde şirketlere yönelik kredi verme standartlarını daha da sıkılaştırdı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-27T12:23:02+00:00"
   },
@@ -443,15 +524,6 @@
    "published": "2026-10-27T12:22:18+00:00"
   },
   {
-   "title": "İstanbul'da 8 Ekim'de çöken binanın hak sahipleri için yeni konutlar hazırlandı",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbulda-8-ekimde-coken-binanin-hak-sahipleri-icin-yeni-konutlar-hazirlandi/4102487",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığınca İstanbul'da Maltepe Cevizli Mahallesi'nde 8 Ekim'de çöken Kardeşler Apartmanı ve çevresindeki binalarda hak sahibi vatandaşlar için yeni konutlar hazırlandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:21:08+00:00"
-  },
-  {
    "title": "Türk Kızılay'ın 'Gönüllü Ol' platformunda üye sayısı 500 bini aştı",
    "link": "https://www.trthaber.com/haber/turkiye/turk-kizilayin-gonullu-ol-platformunda-uye-sayisi-500-bini-asti-961361.html",
    "summary": "Türk Kızılay, 2020'de hayata geçirilen platform Gönüllü Ol'da kayıtlı üye sayısının 500 bini geçtiğini açıkladı.",
@@ -459,15 +531,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-27T12:21:00+00:00"
-  },
-  {
-   "title": "MİKSEN Genel Başkanı Çiçek'ten Ataşehir Belediye Başkan Vekili Orhan'a ziyaret",
-   "link": "https://www.aa.com.tr/tr/gundem/miksen-genel-baskani-cicekten-atasehir-belediye-baskan-vekili-orhana-ziyaret/4102481",
-   "summary": "Mahalli İdareler ve Kamu İşveren Sendikası (MİKSEN) Genel Başkanı avukat Fatih Sultan Mehmet Çiçek, Ataşehir Belediye Başkan Vekili Serdar Orhan'ı ziyaret etti.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:16:30+00:00"
   },
   {
    "title": "Bakan Göktaş: Ülkemizde 9 bin 327 koruyucu ailemizin yanında 11 bin 72 çocuğumuz büyüyor",
@@ -492,7 +555,7 @@
    "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-4-eleme-turu-kura-cekimi-4-kasimda-yapilacak/4102473",
    "summary": "Ziraat Türkiye Kupası 4. eleme turu kura çekimi, 4 Kasım Çarşamba günü gerçekleştirilecek.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-27T12:10:24+00:00"
   },
@@ -513,15 +576,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-27T12:02:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanlığı İletişim Başkanlığında \"Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi\" paneli düzenlendi",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskanligi-iletisim-baskanliginda-sifir-atiktan-cop31e-turkiyenin-iklim-diplomasisi-paneli-duzenlendi/4102450",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca \"Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi\" başlıklı panel düzenlendi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T11:56:54+00:00"
   },
   {
    "title": "İstanbul'daki uyuşturucu operasyonlarında 5 kişi yakalandı",
@@ -848,22 +902,13 @@
    "published": "2026-10-27T09:24:00+00:00"
   },
   {
-   "title": "Gaziantep'te ezber bozan proje: Aslanlarla göz göze",
-   "link": "https://www.trthaber.com/haber/yasam/gaziantepte-ezber-bozan-proje-aslanlarla-goz-goze-961338.html",
-   "summary": "Gaziantep Doğal Yaşam Parkında hayata geçirilen 'Yırtıcı Adası' projesi, kafesleri ve uzak mesafeleri geçmişte bıraktı. Ziyaretçiler, aralarında yalnızca tek bir cam duvarın bulunduğu 14 aslanın günlük yaşamına sadece…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T09:24:00+00:00"
-  },
-  {
    "title": "Borsada bugünkü ve yarınki işlemlerin takası 2 Kasım'da yapılacak",
-   "link": "https://www.trthaber.com/haber/ekonomi/borsada-bugunku-ve-yarinki-islemlerin-takasi-2-kasimda-yapilacak-961337.html",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsada-bugunku-ve-yarinki-islemlerin-takasi-2-kasimda-yapilacak/4102193",
    "summary": "",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "source": "AA",
+   "category": "Ekonomi",
    "image": null,
-   "published": "2026-10-27T09:24:00+00:00"
+   "published": "2026-10-27T09:23:08+00:00"
   },
   {
    "title": "Almanya'da aracın kasıtlı olarak kalabalığın üzerine sürülmesi sonucu en az 4 kişi yaralandı",
@@ -882,15 +927,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-27T09:02:06+00:00"
-  },
-  {
-   "title": "Parmak uçlarıyla Kur'anı Kerim'i birçok kez hatmettiler",
-   "link": "https://www.trthaber.com/haber/yasam/parmak-uclariyla-kuran-i-kerimi-bircok-kez-hatmettiler-961335.html",
-   "summary": "Adana'da, doğuştan görme engelli kardeşler Fatma Çetin ve Türkan Alçin, Braille alfabesini öğrenerek Kur'anı Kerim'i okumaya başladı. Azimleriyle çevrelerine örnek olan iki kardeş, Kur'anı Kerim'i birçok kez hatmetmenin…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T09:00:00+00:00"
   },
   {
    "title": "İsveç'te hükümet çalışanları yapay zeka araçları ChatGPT ve Claude'u kullanmayacak",
@@ -1199,15 +1235,6 @@
    "published": "2026-10-27T06:28:18+00:00"
   },
   {
-   "title": "Türkiye'nin AB makine emniyeti mevzuatına uyum süreci tamamlandı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-ab-makine-emniyeti-mevzuatina-uyum-sureci-tamamlandi/4101927",
-   "summary": "Ticaret Bakanlığı, Avrupa Birliği'nin (AB) makine emniyeti mevzuatında uyum sürecinin tamamlandığını teyit eden beyan metninin imzalandığını bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-27T06:24:11+00:00"
-  },
-  {
    "title": "DOSYA: Avrupa'nın Futbol Şöleni Başlıyor",
    "link": "https://www.aa.com.tr/tr/spor/dosya-avrupanin-futbol-soleni-basliyor/4101914",
    "summary": "2024 Avrupa Futbol Şampiyonası (EURO 2024) öncesi katılımcı ülkelerin kadroları, organizasyonda en fazla oyuncuyla temsil edilecek ligleri şekillendiriyor.",
@@ -1215,15 +1242,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-27T06:10:30+00:00"
-  },
-  {
-   "title": "Küresel piyasalarda teknoloji hisselerindeki yükselişle temkinli iyimserlik öne çıkıyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalarda-teknoloji-hisselerindeki-yukselisle-temkinli-iyimserlik-one-cikiyor/4101910",
-   "summary": "Küresel piyasalarda, yapay zeka araştırma ve geliştirme şirketi Anthropic'in halka arz başvurusunun yapay zeka sektörüne yönelik ilgiyi artıracağı beklentisiyle teknoloji hisseleri öncülüğünde temkinli iyimserlik öne…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-27T06:04:43+00:00"
   },
   {
    "title": "Rusya, Ukrayna'da Herson yönünde geçici ateşkesi başlattı",
@@ -1280,15 +1298,6 @@
    "published": "2026-10-27T00:44:02+00:00"
   },
   {
-   "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'a fırlattığı 3 füze ile 4 İHA imha edildi",
-   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistana-firlattigi-3-fuze-ile-4-iha-imha-edildi/4101863",
-   "summary": "Yemen'deki İran destekli Husilerin Suudi Arabistan'ın doğu bölgesine fırlattığı 3 balistik füze ve 4 insansız hava aracının (İHA) hava savunma sistemleri tarafından imha edildiği bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-27T00:37:16+00:00"
-  },
-  {
    "title": "Milli eskrimcilerden Cezayir'de altın madalya",
    "link": "https://www.aa.com.tr/tr/spor/milli-eskrimcilerden-cezayirde-altin-madalya/4101825",
    "summary": "Gençler ve Yıldızlar Kılıç Eskrim Dünya Kupası'nın Cezayir'deki ayağına katılan Türk sporcular takım halinde şampiyon oldu.",
@@ -1341,15 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cb09/live/863b0700-d145-11f1-b441-2b33b063138f.jpg",
    "published": "2026-10-26T15:58:26+00:00"
-  },
-  {
-   "title": "A Milli Kadın Voleybol Takımı'nın Dünya Kupası'ndaki rakipleri belli oldu",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-voleybol-takiminin-dunya-kupasindaki-rakipleri-belli-oldu/4101485",
-   "summary": "A Milli Kadın Voleybol Takımı'nın, ABD ve Kanada'nın ev sahipliğinde düzenlenecek 2027 FIVB Dünya Kupası'nda grup aşamasındaki rakipleri belli oldu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-26T15:40:29+00:00"
   }
  ]
 }
