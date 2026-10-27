@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-27T23:28:45.308375+00:00",
+ "updated": "2026-10-27T23:58:50.576246+00:00",
  "items": [
+  {
+   "title": "Suriye ile Ürdün arasındaki Nasib Sınır Kapısı yeniden açılıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/suriye-ile-urdun-arasindaki-nasib-sinir-kapisi-yeniden-aciliyor/4103205",
+   "summary": "Suriye, ülkenin güneyindeki Nasib Sınır Kapısı'nın sabah saatlerinde yeniden açılacağını duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T23:43:02+00:00"
+  },
   {
    "title": "İsrail seçimleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
    "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
@@ -423,15 +432,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-27T17:11:00+00:00"
-  },
-  {
-   "title": "Bakan Fidan, Ankara'da Genç Diplomasi Derneği mensuplarını kabul etti",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-ankarada-genc-diplomasi-dernegi-mensuplarini-kabul-etti/4102831",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Genç Diplomasi Derneği mensuplarıyla Ankara'da bir araya geldi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T17:08:44+00:00"
   },
   {
    "title": "İstanbul Ticaret Odası meslek komitesi ve meclis üyeleri seçimleri tamamlandı",
@@ -1109,15 +1109,6 @@
    "published": "2026-10-27T09:23:08+00:00"
   },
   {
-   "title": "Almanya'da aracın kasıtlı olarak kalabalığın üzerine sürülmesi sonucu en az 4 kişi yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyada-aracin-kasitli-olarak-kalabaligin-uzerine-surulmesi-sonucu-en-az-4-kisi-yaralandi/4102187",
-   "summary": "Almanya'da Aşağı Saksonya eyaletinin Neustadt am Rübenberge kentinde bir aracın kasıtlı olarak kalabalığın üzerine sürülmesi sonucu en az 4 kişinin yaralandığı bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-27T09:17:33+00:00"
-  },
-  {
    "title": "AB, dış ülkelerden gelen paketlerden ek ücret alacak",
    "link": "https://www.aa.com.tr/tr/ekonomi/ab-dis-ulkelerden-gelen-paketlerden-ek-ucret-alacak/4102184",
    "summary": "Avrupa Birliği (AB), 1 Kasım'dan itibaren Birlik dışından sipariş edilen küçük paketlere 2 avroluk işlem ücreti uygulamaya koyacak.",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-26T21:08:28+00:00"
+  },
+  {
+   "title": "Galatasaray, Süper Lig'de Fenerbahçe'yi yendi",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-super-ligde-fenerbahceyi-yendi/4101733",
+   "summary": "Trendyol Süper Lig'in 9. haftasındaki derbide Galatasaray, konuk ettiği Fenerbahçe'yi 2-1 yendi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-26T19:27:23+00:00"
   }
  ]
 }
