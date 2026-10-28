@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-28T03:10:54.133697+00:00",
+ "updated": "2026-10-28T03:52:53.732881+00:00",
  "items": [
+  {
+   "title": "İngiltere Avrupa Birliği ile serbest dolaşıma dönüş için görüşüyor",
+   "link": "https://www.trthaber.com/haber/turkiye/ingiltere-avrupa-birligi-ile-serbest-dolasima-donus-icin-gorusuyor-961423.html",
+   "summary": "Başbakan Andy Burnham'ın Avrupa Birliği üyeliği tartışmasını yeniden açmasının ardından İngiltere'nin serbest dolaşıma olası bir dönüş konusunda AB ile görüşmeler yürüttüğü iddia ediliyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:43:00+00:00"
+  },
+  {
+   "title": "Yapay zeka botları İngiltere'deki elektronik sigara yasağı anketini manipüle etmeye çalıştı",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-botlari-ingilteredeki-elektronik-sigara-yasagi-anketini-manipule-etmeye-calisti-961422.html",
+   "summary": "İngiltere'de yapılan yeni bir araştırma, yapay zeka botlarının tek kullanımlık elektronik sigara yasağını etkilemek amacıyla hükümetin anketini binlerce sahte yanıtla doldurduğunu ortaya koydu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:39:00+00:00"
+  },
+  {
+   "title": "Artan yakıt maliyetleri lüks yolcu gemisini vurdu: Kamboçya'da mahsur kaldılar",
+   "link": "https://www.trthaber.com/haber/dunya/artan-yakit-maliyetleri-luks-yolcu-gemisini-vurdu-kambocyada-mahsur-kaldilar-961420.html",
+   "summary": "Dünya çapında yıllarca sürecek bir seyahate çıkan lüks bir yolcu gemisi, olağanüstü yüksek yakıt maliyetleri nedeniyle operasyonlarını askıya aldığını ve yolcuların Kamboçya'da mahsur kaldığını açıkladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:32:00+00:00"
+  },
+  {
+   "title": "19 il için sarı kodlu uyarı: Sağanak bekleniyor",
+   "link": "https://www.trthaber.com/haber/turkiye/19-il-icin-sari-kodlu-uyari-saganak-bekleniyor-961421.html",
+   "summary": "Ege, Akdeniz ve Güneydoğu Anadolu Bölgesi başta olmak üzere yurt genelinde sağanak geçişlerinin yoğun olması bekleniyor. Meteoroloji, 19 il için sarı kodlu uyarı yaptı. Vatandaşlardan su baskınlarına karşı tedbirli…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:31:00+00:00"
+  },
+  {
+   "title": "New York'taki müzayedede Nanotyrannus iskeleti 47,3 milyon dolara satıldı",
+   "link": "https://www.trthaber.com/haber/dunya/new-yorktaki-muzayedede-nanotyrannus-iskeleti-473-milyon-dolara-satildi-961419.html",
+   "summary": "Bir zamanlar genç bir Tyrannosaurus rex ile karıştırılan ve yeni tanımlanan bir dinozorun birleştirilmiş iskeleti, müzayedede 47,3 milyon dolara satıldı. Jodi lakaplı yaklaşık 3 metre boyundaki iskelet, New York'taki…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:28:00+00:00"
+  },
+  {
+   "title": "Yapay zeka bilimi baltalayabilir mi?",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-bilimi-baltalayabilir-mi-961418.html",
+   "summary": "Yapay zekanın bilimsel araştırmalardaki kullanımı hızla artarken, bilim dünyasında veri doğruluğu ve araştırma etiği tartışmaları alevlendi. Uzmanlar, yapay zeka tarafından üretilen sahte verilerin ve hayalet…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:24:00+00:00"
+  },
+  {
+   "title": "Çin'de aileler artık çocuklardan çok yaşlılara bakıyor",
+   "link": "https://www.trthaber.com/haber/dunya/cinde-aileler-artik-cocuklardan-cok-yaslilara-bakiyor-961417.html",
+   "summary": "Çin hükümeti, ülkede ailelerin ilk kez çocuklardan çok yaşlı nüfusa baktığını açıkladı. Geçen hafta açıklanan resmi veriler, Çin'de bakıma muhtaç yaşlıların çalışma çağındaki nüfusa oranının geçen yıl yüzde 23'e çıkarak…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:21:00+00:00"
+  },
+  {
+   "title": "Soykırımcı Netanyahu'dan birleşme çağrısı: Siyonist çoğunluk aklını başına toplamalı",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-netanyahudan-birlesme-cagrisi-siyonist-cogunluk-aklini-basina-toplamali-961416.html",
+   "summary": "İsrail'in eli kanlı Başbakanı Binyamin Netanyahu, genel seçimlerin ardından yaptığı açıklamada, \"Siyonist çoğunluk aklını başına toplamalı ve birleşmeli.\" ifadesini kullanarak sağ siyasete birlik çağrısında bulundu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T03:13:00+00:00"
+  },
   {
    "title": "İsrail seçimleri: Partiler meclis çoğunluğunu sağlayamıyor",
    "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
@@ -200,9 +272,9 @@
    "published": "2026-10-27T20:21:00+00:00"
   },
   {
-   "title": "İsrail'deki sandık çıkış anketlerine göre seçimlerin ardından koalisyon hükümeti belirsizliği çıktı",
-   "link": "https://www.aa.com.tr/tr/dunya/israildeki-sandik-cikis-anketlerine-gore-secimlerin-ardindan-koalisyon-hukumeti-belirsizligi-cikti/4103060",
-   "summary": "Seçimlerin ardından açıklanan sandık çıkış anketlerine göre, ne Netanyahu ve destekçileri ne de muhalif blok, 120 sandalyeli Mecliste koalisyon hükümeti kurmak için gerekli 61 milletvekiline ulaşabilirken, ülkede…",
+   "title": "İsrail basınına göre, oyların yüzde 16'sı sayılırken Netanyahu bloğu ile muhalefet başa baş",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basinina-gore-oylarin-yuzde-16si-sayilirken-netanyahu-blogu-ile-muhalefet-basa-bas/4103060",
+   "summary": "İsrail basınına göre, genel seçimlerde oyların yaklaşık yüzde 16,8'i sayılırken, Başbakan Binyamin Netanyahu liderliğindeki blok ile muhalefet arasındaki yarış başa baş seyrediyor.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -803,15 +875,6 @@
    "published": "2026-10-27T13:29:00+00:00"
   },
   {
-   "title": "Katar: İran, Körfez ülkelerine yönelik tehditlerini durdurmalı ve Hürmüz Boğazını açmalı",
-   "link": "https://www.trthaber.com/haber/dunya/katar-iran-korfez-ulkelerine-yonelik-tehditlerini-durdurmali-ve-hurmuz-bogazini-acmali-961373.html",
-   "summary": "Katar, İrana Körfez ülkelerine yönelik tehditlerini durdurma ve Hürmüz Boğazını yeniden açma çağrısında bulunarak, bölgenin devletlerin egemenliğine saygı gösteren yeni bir güvenlik sistemine ihtiyaç duyduğunu belirtti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T13:28:00+00:00"
-  },
-  {
    "title": "Vergi Denetim Kurulu 820 hekim ve 45 özel hastaneyi yakın takibe aldı",
    "link": "https://www.aa.com.tr/tr/ekonomi/vergi-denetim-kurulu-820-hekim-ve-45-ozel-hastaneyi-yakin-takibe-aldi/4102584",
    "summary": "Vergi Denetim Kurulu Başkanlığı (VDK), 820 hekim ve 45 özel hastaneyle yaptığı görüşmelerde vergisel riskleri incelemeye ihtiyaç duyulmadan giderirken çalışmanın üç aylık etki analizinde toplam 32,7 milyar lira matrah…",
@@ -819,15 +882,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-27T13:21:49+00:00"
-  },
-  {
-   "title": "Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi paneli düzenlendi",
-   "link": "https://www.trthaber.com/haber/gundem/sifir-atiktan-cop31e-turkiyenin-iklim-diplomasisi-paneli-duzenlendi-961372.html",
-   "summary": "İletişim Başkanlığınca \"Sıfır Atık'tan COP31'e: Türkiye'nin İklim Diplomasisi\" başlıklı panel düzenlendi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T13:19:00+00:00"
   },
   {
    "title": "Somali hükümeti, Türkiye ile köklü ortaklığın güçlü şekilde sürdüğünü belirtti",
@@ -866,15 +920,6 @@
    "published": "2026-10-27T13:00:33+00:00"
   },
   {
-   "title": "Mekke İttifakı Anlaşması Komisyon'dan geçti",
-   "link": "https://www.trthaber.com/haber/gundem/mekke-ittifaki-anlasmasi-komisyondan-gecti-961369.html",
-   "summary": "Türkiye Cumhuriyeti, Pakistan İslam Cumhuriyeti ve Suudi Arabistan Krallığı Arasında Ortak Savunma İçin Mekke Anlaşmasının Onaylanmasının Uygun Bulunduğuna Dair Kanun Teklifi, TBMM Dışişleri Komisyonu'nda kabul edildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:50:00+00:00"
-  },
-  {
    "title": "HDI Sigorta, Türkiye'de Sigorta Okuryazarlığı Araştırması'nın sonuçlarını ve yeni sadeleşme vizyonunu paylaştı",
    "link": "https://www.aa.com.tr/tr/ekonomi/hdi-sigorta-turkiyede-sigorta-okuryazarligi-arastirmasinin-sonuclarini-ve-yeni-sadelesme-vizyonunu-paylasti/4102522",
    "summary": "HDI Sigorta, Veri Enstitüsü işbirliğiyle gerçekleştirdiği \"Türkiye'de Sigorta Okuryazarlığı Araştırması\"nın sonuçlarını ve yeni dönemde şirketin yöneldiği \"sadeleşme vizyonuna\" ilişkin detayları İstanbul'da düzenlediği…",
@@ -882,15 +927,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-27T12:47:06+00:00"
-  },
-  {
-   "title": "AB, iklim değişikliği kaynaklı afetlere karşı hazırlığını artıracak",
-   "link": "https://www.trthaber.com/haber/dunya/ab-iklim-degisikligi-kaynakli-afetlere-karsi-hazirligini-artiracak-961368.html",
-   "summary": "Avrupa Birliği, kuraklık, sel ve orman yangınları gibi iklim kaynaklı afetlere karşı hazırlık seviyesini güçlendirmek amacıyla yeni bir plan hazırladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:45:00+00:00"
   },
   {
    "title": "Enerji Bakanı Bayraktar, 2027'den itibaren Türkiye'de Akkuyu elektriğinin kullanılacağını bildirdi",
@@ -902,40 +938,13 @@
    "published": "2026-10-27T12:42:18+00:00"
   },
   {
-   "title": "Enerji Bakanı Bayraktar: 2027'den itibaren Türkiye'de Akkuyu elektriği kullanılacak",
-   "link": "https://www.trthaber.com/haber/ekonomi/enerji-bakani-bayraktar-2027den-itibaren-turkiyede-akkuyu-elektrigi-kullanilacak-961367.html",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktar, 5 Kasım'da açıklanacak Milli Enerji 2040 Vizyonu'nun merkezinde elektrikleşmenin olacağını belirterek, \"Türkiye'nin enerji bağımsızlığına nasıl gideceğini ortaya…",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "title": "AB, iklim değişikliği kaynaklı afetlere karşı hazırlığını artıracak",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ab-iklim-degisikligi-kaynakli-afetlere-karsi-hazirligini-artiracak/4102508",
+   "summary": "Avrupa Birliği (AB), sıcak hava dalgaları, kuraklık, sel ve orman yangınlarına karşı hazırlık seviyesini güçlendirmek amacıyla yeni bir plan hazırladı.",
+   "source": "AA",
+   "category": "Ekonomi",
    "image": null,
-   "published": "2026-10-27T12:42:00+00:00"
-  },
-  {
-   "title": "Türk Dünyası 13. Ankara Zirvesiyle yeni döneme hazırlanıyor",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-dunyasi-13-ankara-zirvesiyle-yeni-doneme-hazirlaniyor-961366.html",
-   "summary": "\"Türk Dünyası'nın geleceği, birlikte hareket etme ve ortak hedefler doğrultusunda sonuç üretme irademizde saklı.\" diyen Türk Devletleri Teşkilatı Genel Sekreteri Kubanıçbek Ömüraliyev, dört yıllık görev süresinde…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:36:00+00:00"
-  },
-  {
-   "title": "Kentsel dönüşüm strateji belgeleri zorunlu hale getirilecek",
-   "link": "https://www.trthaber.com/haber/gundem/kentsel-donusum-strateji-belgeleri-zorunlu-hale-getirilecek-961365.html",
-   "summary": "2027 Yılı Cumhurbaşkanlığı Yıllık Programı'na göre, kentsel dönüşüm strateji belgelerinin hazırlanması zorunlu hale getirilecek, İstanbul başta olmak üzere riskli yapı stokunun yenilenmesine yönelik çalışmalar…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:32:00+00:00"
-  },
-  {
-   "title": "2027'de 10 yeni nesil kütüphane açılacak",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/2027de-10-yeni-nesil-kutuphane-acilacak-961364.html",
-   "summary": "Türkiye'de 2027'de 10 yeni nesil kütüphanenin hizmete açılması, 20 bin yazma ve nadir eserin dijitalleştirilmesi, 1100 yazma ve nadide eserin restore edilmesi hedefleniyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T12:31:00+00:00"
+   "published": "2026-10-27T12:34:35+00:00"
   },
   {
    "title": "Avro Bölgesi'nde bankalar kurumsal kredilerde standartları sıkılaştırdı",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-26T21:08:28+00:00"
-  },
-  {
-   "title": "Galatasaray, Süper Lig'de Fenerbahçe'yi yendi",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-super-ligde-fenerbahceyi-yendi/4101733",
-   "summary": "Trendyol Süper Lig'in 9. haftasındaki derbide Galatasaray, konuk ettiği Fenerbahçe'yi 2-1 yendi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-26T19:27:23+00:00"
   }
  ]
 }
