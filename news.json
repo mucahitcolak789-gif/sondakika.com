@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-28T22:28:39.869513+00:00",
+ "updated": "2026-10-28T23:08:29.411103+00:00",
  "items": [
+  {
+   "title": "İçişleri Bakanı Çiftçi'den kuvvetli sağanak uyarısı",
+   "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftciden-kuvvetli-saganak-uyarisi/4104421",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Vatandaşlarımızdan, Meteoroloji Genel Müdürlüğümüzün ve AFAD'ımızın uyarılarına hassasiyetle riayet etmelerini, can ve mal güvenliklerini riske atabilecek durumlardan uzak durmalarını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T22:37:23+00:00"
+  },
   {
    "title": "Fitch: ABD'deki mali baskılar, ara seçim sonucundan bağımsız olarak sürecek",
    "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abddeki-mali-baskilar-ara-secim-sonucundan-bagimsiz-olarak-surecek/4104418",
@@ -63,15 +72,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-28T20:50:00+00:00"
-  },
-  {
-   "title": "Fitch: Yapay zeka ve piyasa oynaklığına ilişkin riskler 2027'ye girerken artıyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-yapay-zeka-ve-piyasa-oynakligina-iliskin-riskler-2027ye-girerken-artiyor/4104387",
-   "summary": "Fitch Ratings, yapay zeka yatırımlarına yönelik riskler, Orta Doğu kaynaklı jeopolitik gerilimlerin enerji fiyatlarını yüksek tutması ve finansman koşullarının sıkılaşmasının, yeni yıla girerken küresel risk ortamını…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-28T20:37:45+00:00"
   },
   {
    "title": "Rusya: Avrupa, Rus çıkarlarıyla ilgili istişarelere hazır değil",
@@ -560,7 +560,7 @@
    "published": "2026-10-28T15:48:47+00:00"
   },
   {
-   "title": "İspanya'daki hızlı tren kazasında can kaybı 68'e çıktı, üç günlük yas ilan edildi",
+   "title": "İspanya'daki hızlı tren kazasında en az 68 kişi öldü, üç günlük yas ilan edildi",
    "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
    "summary": "İspanya'nın başkenti Madrid'in güneyindeki Toledo kentindeki hızlı tren hattında içlerinde 500'den fazla yolcunun bulunduğu iki tren çarpıştı. Yetkililer can kaybının 68'e yükseldiğini açıkladı.",
    "source": "BBC Türkçe",
@@ -1271,6 +1271,15 @@
    "published": "2026-10-28T08:10:52+00:00"
   },
   {
+   "title": "İstanbul ve 4 ilde sel felaketinin sigorta maliyeti 12 milyar liraya dayandı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-ve-4-ilde-sel-felaketinin-sigorta-maliyeti-12-milyar-liraya-dayandi/4103422",
+   "summary": "İstanbul ve çevre illerde 14-15 Ekim'de etkili olan şiddetli yağış ve su baskınlarının ardından, 27 Ekim itibarıyla sigorta şirketlerine 10 bin 130 ihbar ulaşırken, gerçekleşen toplam hasar tutarı 11 milyar 992,45…",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-10-28T08:07:13+00:00"
+  },
+  {
    "title": "Milli sporcu Hakan'ın hedefi tekerlekli sandalye eskriminde kalıcı bir miras bırakmak",
    "link": "https://www.aa.com.tr/tr/spor/milli-sporcu-hakanin-hedefi-tekerlekli-sandalye-eskriminde-kalici-bir-miras-birakmak-/4103417",
    "summary": "Milli sporcu Hakan Akkaya, Los Angeles 2028'de altın madalya kazanmanın yanı sıra kendisinden sonra gelecek sporcular için kalıcı bir sistem oluşturmayı hedefliyor.",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-27T18:27:22+00:00"
-  },
-  {
-   "title": "Fenerbahçe, teknik direktör İsmail Kartal ile yollarını ayırdı",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktor-ismail-kartal-ile-yollarini-ayirdi/4102941",
-   "summary": "Fenerbahçe Kulübü, teknik direktör İsmail Kartal ile yollarını ayırdığını duyurdu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-27T17:45:03+00:00"
   }
  ]
 }
