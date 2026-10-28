@@ -1,23 +1,32 @@
 {
- "updated": "2026-10-28T00:43:17.437308+00:00",
+ "updated": "2026-10-28T01:38:50.008533+00:00",
  "items": [
   {
-   "title": "ABD, Brezilya'da seçimi kaybeden ve pasaportuna el konulan Bolsonaro'ya vize vereceğini açıkladı",
-   "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
-   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. Bolsonaro'nun ülke dışına çıkmış…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
-   "published": "2026-10-28T00:41:13+00:00"
-  },
-  {
-   "title": "İsrail seçimleri: Eisenkot bloğu önde, partiler meclis çoğunluğunu sağlayamıyor",
+   "title": "İsrail seçimleri: Partiler meclis çoğunluğunu sağlayamıyor",
    "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
    "summary": "Bugün parlamento seçimlerinin düzenlendiği İsrail'de önde gelen televizyon kanallarının yayımladığı sandık çıkış anketleri, muhalefetteki Gadi Eisenkot'un bloğunun, seçimlerde iktidar koalisyonunun önünde olduğunu…",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed00/live/2b0b38b0-d248-11f1-8ba3-9fd3e261415f.jpg",
-   "published": "2026-10-28T00:22:37+00:00"
+   "published": "2026-10-28T01:31:27+00:00"
+  },
+  {
+   "title": "Brezilya'da seçimi kaybeden sağcı lider Bolsonaro ABD'ye gitti",
+   "link": "https://www.bbc.com/turkce/articles/cwx284my7y5ko?at_medium=RSS&at_campaign=rss",
+   "summary": "Brezilya polisi, seçimleri kaybeden sağcı cumhurbaşkanı adayı Flávio Bolsonaro'nun pasaportlarını teslim etme emrine uymamasının ardından pasaportlarını iptal ettiğini açıkladı. ABD'den gelen vize onayının ardından…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/89cf/live/49d6f8b0-d239-11f1-904a-5b90e72e87ff.jpg",
+   "published": "2026-10-28T01:23:59+00:00"
+  },
+  {
+   "title": "Arap Koalisyonu: Taif yönüne fırlatılan balistik füze imha edildi",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-taif-yonune-firlatilan-balistik-fuze-imha-edildi/4103229",
+   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki Husiler tarafından Suudi Arabistan'ın Taif kenti yönüne fırlatılan bir balistik füzenin hava savunma sistemleri tarafından engellenerek imha edildiğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T01:10:01+00:00"
   },
   {
    "title": "Emekli maaşlarına iyileştirme: Yaş ve hane geliri kriterleri tartışılıyor",
@@ -414,15 +423,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-27T17:29:56+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan, Fransa Cumhurbaşkanı Emmanuel Macron ile telefonda görüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-fransa-cumhurbaskani-emmanuel-macron-ile-telefonda-gorustu/4102847",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Fransa Cumhurbaşkanı Emmanuel Macron ile bir telefon görüşmesi gerçekleştirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-27T17:22:25+00:00"
   },
   {
    "title": "Cumhurbaşkanı Erdoğan, Fransa Cumhurbaşkanı Macron ile telefonda görüştü",
@@ -1118,15 +1118,6 @@
    "published": "2026-10-27T09:15:48+00:00"
   },
   {
-   "title": "Atmosferdeki karbondioksit ve diğer temel sera gazları rekor seviyelere ulaştı",
-   "link": "https://www.aa.com.tr/tr/dunya/atmosferdeki-karbondioksit-ve-diger-temel-sera-gazlari-rekor-seviyelere-ulasti/4102167",
-   "summary": "Dünya Meteoroloji Örgütü (WMO), 2025'te atmosferdeki karbondioksit ve diğer temel sera gazlarının seviyelerinin benzeri görülmemiş zirvelere ulaştığını ve bu durumun, gezegenin uzun vadede daha fazla ısınmasını…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-27T09:02:06+00:00"
-  },
-  {
    "title": "Ödeme güvenliği için siber güvenlik tedbiri alınacak",
    "link": "https://www.aa.com.tr/tr/ekonomi/odeme-guvenligi-icin-siber-guvenlik-tedbiri-alinacak/4102160",
    "summary": "Politika faizine ilişkin atılacak adımlar, enflasyon gerçekleşmeleri, ana eğilimi ve beklentiler göz önünde bulundurularak ara hedeflerle uyumlu biçimde dezenflasyonun gerektirdiği sıkılığı sağlayacak şekilde…",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-26T19:27:23+00:00"
+  },
+  {
+   "title": "Trabzonspor, Thomas Reis yönetiminde yoluna kayıpsız devam ediyor",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor/4101631",
+   "summary": "Trendyol Süper Lig'de deplasmanda Çaykur Rizespor'u 4-3 mağlup eden Trabzonspor, teknik direktör Thomas Reis yönetiminde galibiyet serisini sürdürdü.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-26T17:08:58+00:00"
   }
  ]
 }
