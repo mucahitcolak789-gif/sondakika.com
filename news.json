@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-28T01:38:50.008533+00:00",
+ "updated": "2026-10-28T02:24:30.466033+00:00",
  "items": [
   {
    "title": "İsrail seçimleri: Partiler meclis çoğunluğunu sağlayamıyor",
@@ -40,7 +40,7 @@
   {
    "title": "Beyoğlu'nda 4 katlı metruk bina çöktü",
    "link": "https://www.aa.com.tr/tr/gundem/beyoglunda-4-katli-metruk-bina-coktu/4103209",
-   "summary": "Beyoğlu'nda 4 katlı binada çökme meydana geldi.",
+   "summary": "Beyoğlu'nda çöken 4 katlı metruk binanın enkazında tedbir amaçlı başlatılan arama ve inceleme çalışmaları tamamlandı.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -54,6 +54,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-27T23:43:02+00:00"
+  },
+  {
+   "title": "AA Yönetim Kurulu Başkanı ve Genel Müdürü Karagöz: Gazeteciliğin gücünü korumak toplumun ortak sorumluluğudur",
+   "link": "https://www.aa.com.tr/tr/gundem/aa-yonetim-kurulu-baskani-ve-genel-muduru-karagoz-gazeteciligin-gucunu-korumak-toplumun-ortak-sorumlulugudur/4103200",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-27T23:27:49+00:00"
   },
   {
    "title": "Beyoğlu'nda 5 katlı metruk bina çöktü",
@@ -420,7 +429,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonunun-kanadaya-ortak-uyelik-teklifine-uye-ulkelerden-itiraz/4102875",
    "summary": "Almanya'nın öncülüğünde en az 4 üyenin, Avrupa Birliği (AB) Komisyonu Başkanı Ursula von der Leyen'in, Kanada'ya teklif ettiği \"ortak üyelik\" ifadesinin AB-Kanada Zirvesi'nin ortak açıklamasında yer almasına itiraz…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-27T17:29:56+00:00"
   },
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-26T19:27:23+00:00"
-  },
-  {
-   "title": "Trabzonspor, Thomas Reis yönetiminde yoluna kayıpsız devam ediyor",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-thomas-reis-yonetiminde-yoluna-kayipsiz-devam-ediyor/4101631",
-   "summary": "Trendyol Süper Lig'de deplasmanda Çaykur Rizespor'u 4-3 mağlup eden Trabzonspor, teknik direktör Thomas Reis yönetiminde galibiyet serisini sürdürdü.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-26T17:08:58+00:00"
   }
  ]
 }
