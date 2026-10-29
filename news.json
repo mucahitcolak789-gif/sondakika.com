@@ -1,28 +1,82 @@
 {
- "updated": "2026-10-29T17:37:32.939573+00:00",
+ "updated": "2026-10-29T18:22:33.165367+00:00",
  "items": [
   {
-   "title": "BM: İsrail, Ekim 2023'ten bu yana Gazze'de yaklaşık 300 gazeteciyi ve medya çalışanını öldürdü",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-israil-ekim-2023ten-bu-yana-gazzede-yaklasik-300-gazeteciyi-ve-medya-calisanini-oldurdu/4105324",
-   "summary": "BM Filistin Özel Raportörü Albanese, İsrail ordusunun, işgal altında tuttuğu Gazze'de, Ekim 2023'ten bu yana yaklaşık 300 gazeteciyi ve medya çalışanını öldürdüğünü ve sonrasında bunların bazılarını \"terörist olarak…",
+   "title": "Dünya Hızlı ve Yıldırım Satranç Şampiyonası, İstanbul'da düzenlenecek",
+   "link": "https://www.aa.com.tr/tr/spor/dunya-hizli-ve-yildirim-satranc-sampiyonasi-istanbulda-duzenlenecek/4105374",
+   "summary": "",
    "source": "AA",
    "category": "Gündem",
    "image": null,
-   "published": "2026-10-29T17:24:37+00:00"
+   "published": "2026-10-29T18:15:35+00:00"
   },
   {
-   "title": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'ı arayarak TDT Liderler Zirvesi için başarı dileklerini iletti",
-   "link": "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-cumhurbaskani-erdogani-arayarak-tdt-liderler-zirvesi-icin-basari-dileklerini-iletti/4105308",
-   "summary": "",
+   "title": "Ziraat Türkiye Kupası'nda 4. eleme turu kura çekiminin saati değişti",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-4-eleme-turu-kura-cekiminin-saati-degisti/4105360",
+   "summary": "Türkiye Futbol Federasyonu (TFF), Ziraat Türkiye Kupası 4. eleme turu kura çekiminin saatinde değişikliğe gidildiğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T18:00:42+00:00"
+  },
+  {
+   "title": "BM: İsrail, Ekim 2023'ten bu yana Gazze'de yaklaşık 300 gazeteciyi ve medya çalışanını öldürdü",
+   "link": "https://www.trthaber.com/haber/dunya/bm-israil-ekim-2023ten-bu-yana-gazzede-yaklasik-300-gazeteciyi-ve-medya-calisanini-oldurdu-961665.html",
+   "summary": "Birleşmiş Milletler BM Filistin Özel Raportörü Francesca Albanese, İsrail ordusunun, işgal altında tuttuğu Gazze'de, Ekim 2023'ten bu yana yaklaşık 300 gazeteciyi ve medya çalışanını öldürdüğünü ve sonrasında bunların…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T17:39:00+00:00"
+  },
+  {
+   "title": "Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası çok sayıda patlama sesi duyuldu",
+   "link": "https://www.trthaber.com/haber/dunya/suudi-arabistanin-baskenti-riyadda-saldiri-uyarisi-sonrasi-cok-sayida-patlama-sesi-duyuldu-961664.html",
+   "summary": "Yemen'deki İran destekli Husilerin hedefindeki Suudi Arabistan'ın başkenti Riyad'da saldırı uyarısı sonrası hava savunma sistemleri devreye girdi ve çok sayıda patlama sesi duyuldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T17:37:00+00:00"
+  },
+  {
+   "title": "Bosna Hersek'te EUFOR'a ait helikopter düştü",
+   "link": "https://www.aa.com.tr/tr/dunya/bosna-hersekte-eufora-ait-helikopter-dustu/4105339",
+   "summary": "Bosna Hersek'in kuzeyindeki Brcko'da, Avrupa Birliği (AB) Barış Gücü Misyonuna (EUFOR) ait askeri helikopterin düşmesi sonucu 3 kişi hayatını kaybetti, 12 kişi yaralandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T17:32:22+00:00"
+  },
+  {
+   "title": "ABD Başkanı Trump, Cumhurbaşkanı Erdoğan'a TDT Liderler Zirvesi için başarı dileklerini iletti",
+   "link": "https://www.aa.com.tr/tr/gundem/abd-baskani-trump-cumhurbaskani-erdogana-tdt-liderler-zirvesi-icin-basari-dileklerini-iletti/4105308",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Trump, Cumhurbaşkanı Erdoğan'a Türk Devletleri Teşkilatı (TDT) Liderler Zirvesi için başarı dileklerini iletti.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
    "published": "2026-10-29T17:19:17+00:00"
   },
   {
+   "title": "ABD'li gazeteci Carlson, Batı Şeria'da darbedilen Amerikan vatandaşı için ABD'nin İsrail Büyükelçisi'ni suçladı",
+   "link": "https://www.aa.com.tr/tr/dunya/abdli-gazeteci-carlson-bati-seriada-darbedilen-amerikan-vatandasi-icin-abdnin-israil-buyukelcisini-sucladi/4105304",
+   "summary": "ABD'li gazeteci Carlson, Batı Şeria'da İsrailliler tarafından darbedildiğini belirttiği ABD vatandaşının görüntülerini paylaşarak, ABD'nin İsrail Büyükelçisi Huckabee'yi yardım talebini karşılıksız bırakmakla suçladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T17:17:46+00:00"
+  },
+  {
+   "title": "Nvidia CEO'su Huang'a yakın Çinli iş insanının Pekin'e \"bilgi sızdırdığı\" iddia edildi",
+   "link": "https://www.aa.com.tr/tr/dunya/nvidia-ceosu-huanga-yakin-cinli-is-insaninin-pekine-bilgi-sizdirdigi-iddia-edildi/4105303",
+   "summary": "ABD merkezli çip üreticisi NVIDIA'nın kurucusu ve Üst Yöneticisi (CEO) Jensen Huang'a yakın olduğu belirtilen Çinli iş insanı Alice Huang'ın Pekin'e istihbarat amacıyla \"bilgi sızdırdığı\" öne sürüldü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T17:17:22+00:00"
+  },
+  {
    "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile görüştü",
    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-961663.html",
-   "summary": "Amerika Birleşik Devletleri Başkanı Donald Trump, Cumhurbaşkanı Recep Tayyip Erdoğanı telefonla arayarak Türk Devletleri Teşkilatı Liderler Zirvesi için başarı dileklerini iletti.",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü. Trump, Cumhurbaşkanı Erdoğan'a Türk Devletleri Teşkilatı TDT Liderler Zirvesi için başarı dileklerini iletti.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -371,24 +425,6 @@
    "published": "2026-10-29T13:55:00+00:00"
   },
   {
-   "title": "Google'ın eski mühendisi Soares, yapay zekanın riskleri nedeniyle emeklilik birikimi yapmadığını belirtti",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/googlein-eski-muhendisi-soares-yapay-zekanin-riskleri-nedeniyle-emeklilik-birikimi-yapmadigini-belirtti/4105050",
-   "summary": "ABD'li teknoloji şirketi Google'ın eski mühendisi ve Makine Zekası Araştırma Enstitüsünün (MIRI) Başkanı Nate Soares, yapay zeka nedeniyle insanların \"10 yıl sonra var olmayabileceğini, bu nedenle emeklilik için birikim…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T13:46:05+00:00"
-  },
-  {
-   "title": "Dışişleri Bakanı Fidan, Ürdünlü mevkidaşı es-Safedi ile telefonda görüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-urdunlu-mevkidasi-es-safedi-ile-telefonda-gorustu/4105049",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Ürdün Başbakan Yardımcısı ve Dışişleri Bakanı Eymen es-Safedi ile telefon görüşmesi yaptı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T13:45:49+00:00"
-  },
-  {
    "title": "60 saniyede bugün (29 Ekim 2026)",
    "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-29-ekim-2026/4105043",
    "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet'in katkılarıyla...",
@@ -420,7 +456,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/insan-haklari-izleme-orgutu-husiler-taizdeki-sivilleri-gida-ve-ilactan-mahrum-birakiyor/4105036",
    "summary": "İnsan Hakları İzleme Örgütü (HRW), Yemen'de Husilerin Taiz kentini kuşatarak sivilleri gıda, su ve ilaç gibi temel ihtiyaç maddelerinden mahrum bıraktığını açıkladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-29T13:31:25+00:00"
   },
@@ -627,7 +663,7 @@
    "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporda-hedef-kocaelispor-maciyla-cikisa-gecmek/4104915",
    "summary": "Trendyol Süper Lig'in 10. haftasında 31 Ekim Cumartesi günü deplasmanda Kocaelispor ile karşılaşacak Çaykur Rizespor'un kaptanı Taylan Antalyalı, maçı kazanarak çıkışa geçmek istediklerini söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-29T12:01:06+00:00"
   },
@@ -803,9 +839,9 @@
    "published": "2026-10-29T10:15:00+00:00"
   },
   {
-   "title": "İsrail ordusunun Gazze'de ateşkese rağmen bir araca düzenlediği saldırıda 2 Filistinli hayatını kaybetti",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusunun-gazzede-ateskese-ragmen-bir-araca-duzenledigi-saldirida-2-filistinli-hayatini-kaybetti/4104783",
-   "summary": "İsrail ordusunun Gazze Şeridi'nde ateşkese rağmen sivil bir aracı insansız hava aracıyla (İHA) hedef alması sonucu 2 Filistinli yaşamını yitirdi.",
+   "title": "İsrail'in ateşkese rağmen Gazze'de bugün düzenlediği saldırılarda can kaybı 3'e yükseldi",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzede-bugun-duzenledigi-saldirilarda-can-kaybi-3e-yukseldi/4104783",
+   "summary": "İsrail ordusunun Gazze Şeridi'nde ateşkese rağmen bugün düzenlediği hava saldırılarında hayatını kaybeden Filistinlilerin sayısı 3'e yükseldi.",
    "source": "AA",
    "category": "Dünya",
    "image": null,
@@ -866,15 +902,6 @@
    "published": "2026-10-29T09:49:00+00:00"
   },
   {
-   "title": "Çin'de rüşvetle suçlanan borsa denetim kurumunun eski yöneticisine idam cezası verildi",
-   "link": "https://www.aa.com.tr/tr/dunya/cinde-rusvetle-suclanan-borsa-denetim-kurumunun-eski-yoneticisine-idam-cezasi-verildi/4104759",
-   "summary": "Çin'de, borsaların denetiminden sorumlu Menkul Kıymetler Düzenleme Komisyonunun (CSRC) eski başkanı Yi Huiman, hakkında yürütülen yolsuzluk soruşturmasının ardından rüşvet suçundan idam cezasına çarptırıldı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T09:48:58+00:00"
-  },
-  {
    "title": "İşgalci İsrail ordusu, El Halil'deki abluka ve saldırılarını 7. gününde sürdürüyor",
    "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-el-halildeki-abluka-ve-saldirilarini-7-gununde-surduruyor-961614.html",
    "summary": "İşgalci İsrail ordusu, Batı Şeria'nın güneyindeki El Halil kenti ve çevresinde ablukayı 7. gününde sürdürürken, baskın, saldırı ve ihlallerine devam etti.",
@@ -882,33 +909,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-29T09:46:00+00:00"
-  },
-  {
-   "title": "İsrail ordusu, işgal altındaki El Halil'deki abluka ve saldırılarını 7. gününde sürdürüyor",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-el-halildeki-abluka-ve-saldirilarini-7-gununde-surduruyor/4104752",
-   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyindeki El Halil kenti ve çevresinde ablukayı 7. gününde sürdürürken, baskın, saldırı ve ihlallerine devam etti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T09:41:06+00:00"
-  },
-  {
-   "title": "Kara para aklama soruşturmasında 8 zanlı daha yakalandı",
-   "link": "https://www.trthaber.com/haber/gundem/kara-para-aklama-sorusturmasinda-8-zanli-daha-yakalandi-961611.html",
-   "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin Emir ve Ömer Sarıgül'ün de aralarında bulunduğu 22 zanlının tutuklandığı soruşturma…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T09:34:00+00:00"
-  },
-  {
-   "title": "Yargıda yapay zeka ve dijitalleşme odaklı uygulamalar yaygınlaşıyor",
-   "link": "https://www.trthaber.com/haber/turkiye/yargida-yapay-zeka-ve-dijitallesme-odakli-uygulamalar-yayginlasiyor-961610.html",
-   "summary": "Adalet Bakanlığınca, vatandaşların adalet hizmetlerine erişimini güçlendirmek ve yargıdaki başvuru süreçlerini hızlandırmak amacıyla hayata geçirilen yapay zeka ve dijitalleşme odaklı uygulamalar yaygınlaştırılıyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T09:34:00+00:00"
   },
   {
    "title": "AB, yüksek enerji fiyatları nedeniyle zorlu bir kışa hazırlanıyor",
@@ -1008,15 +1008,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-29T08:07:20+00:00"
-  },
-  {
-   "title": "Ateşkese rağmen İsrail'in saldırılarının sürdüğü Gazze'de halk, kışa sağlık ve barınma sorunlarıyla giriyor",
-   "link": "https://www.aa.com.tr/tr/dunya/ateskese-ragmen-israilin-saldirilarinin-surdugu-gazzede-halk-kisa-saglik-ve-barinma-sorunlariyla-giriyor/4104620",
-   "summary": "Sınır Tanımayan Doktorların (MSF) Gazze'deki Tıbbi Aktivite Yöneticisi Dr. Fady Almadhoun, ateşkese rağmen sivillerin saldırılarda yaralandığını, kış öncesi yetersiz çadırlarda yaşayan Gazzelilerin gerekli sağlık…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T08:01:12+00:00"
   },
   {
    "title": "Enerji şirketi Shell'in karı üçüncü çeyrekte ikiye katlanarak 10,8 milyar dolar oldu",
@@ -1350,6 +1341,15 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-28T08:23:23+00:00"
+  },
+  {
+   "title": "Trabzonspor Basketbol Takımı'nın yıldızı Tillman'ın hedefi çifte şampiyonluk",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-basketbol-takiminin-yildizi-tillmanin-hedefi-cifte-sampiyonluk/4103447",
+   "summary": "Trabzonspor Erkek Basketbol Takımı'nın NBA'den transfer ettiği uzun forvet Xavier Tillman, bordo-mavili ekiple ligde ve Avrupa'da kupa kazanmak için mücadele ediyor.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-28T08:20:38+00:00"
   }
  ]
 }
