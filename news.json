@@ -1,10 +1,136 @@
 {
- "updated": "2026-10-29T13:03:39.135541+00:00",
+ "updated": "2026-10-29T14:09:17.440238+00:00",
  "items": [
   {
-   "title": "Kapadokya'da peribacası yıkıldı",
-   "link": "https://www.trthaber.com/haber/gundem/kapadokyada-peribacasi-yikildi-961636.html",
-   "summary": "Nevşehirin merkez ilçeye bağlı Göreme beldesinde peribacası yıkıldı. Olay yerine çok sayıda ambulans sevk edildiği öğrenildi.",
+   "title": "Hakkında ev hapsi kararı verilen Sinem Dedetaş tahliye oldu",
+   "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss",
+   "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. Dedetaş 31 Temmuz'dan bu yana tutuklu bulunuyordu.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba3f/live/d59c4620-d3a1-11f1-a701-fddedf244c16.png",
+   "published": "2026-10-29T14:07:01+00:00"
+  },
+  {
+   "title": "Google'ın eski mühendisi Soares, yapay zekanın riskleri nedeniyle emeklilik birikimi yapmadığını belirtti",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/googlein-eski-muhendisi-soares-yapay-zekanin-riskleri-nedeniyle-emeklilik-birikimi-yapmadigini-belirtti/4105050",
+   "summary": "ABD'li teknoloji şirketi Google'ın eski mühendisi ve Makine Zekası Araştırma Enstitüsünün (MIRI) Başkanı Nate Soares, yapay zeka nedeniyle insanların \"10 yıl sonra var olmayabileceğini, bu nedenle emeklilik için birikim…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:46:05+00:00"
+  },
+  {
+   "title": "Dışişleri Bakanı Fidan, Ürdünlü mevkidaşı es-Safedi ile telefonda görüştü",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-urdunlu-mevkidasi-es-safedi-ile-telefonda-gorustu/4105049",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Ürdün Başbakan Yardımcısı ve Dışişleri Bakanı Eymen es-Safedi ile telefon görüşmesi yaptı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:45:49+00:00"
+  },
+  {
+   "title": "Kapadokya'da peribacası çökmesi sonucu iki kişi hayatını kaybetti",
+   "link": "https://www.bbc.com/turkce/articles/cwdd8qjqqmnzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Kapadokya'da Göreme Açıkhava Müzesi girişinde yaşanan çökme sonucu iki kişi hayatını kaybetti. Olayda beş kişinin de yaralandığı açıklandı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8083/live/efb63250-d39c-11f1-a012-7186932b0251.jpg",
+   "published": "2026-10-29T13:33:36+00:00"
+  },
+  {
+   "title": "AB, çocukların çevrim içi ortamda korunmasında ortak düzenlemeler hedefliyor",
+   "link": "https://www.trthaber.com/haber/dunya/ab-cocuklarin-cevrim-ici-ortamda-korunmasinda-ortak-duzenlemeler-hedefliyor-961644.html",
+   "summary": "Avrupa Birliği AB Komisyonu, çocukların çevrim içi ortamda korunmasına yönelik ulusal düzenlemeler yerine AB genelinde geçerli ortak kurallar oluşturulmasını hedeflediğini duyurdu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:32:00+00:00"
+  },
+  {
+   "title": "İnsan Hakları İzleme Örgütü: Husiler Taiz'deki sivilleri gıda ve ilaçtan mahrum bırakıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/insan-haklari-izleme-orgutu-husiler-taizdeki-sivilleri-gida-ve-ilactan-mahrum-birakiyor/4105036",
+   "summary": "İnsan Hakları İzleme Örgütü (HRW), Yemen'de Husilerin Taiz kentini kuşatarak sivilleri gıda, su ve ilaç gibi temel ihtiyaç maddelerinden mahrum bıraktığını açıkladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:31:25+00:00"
+  },
+  {
+   "title": "Mersin'de sağanak: Ev ve iş yerlerini su bastı",
+   "link": "https://www.trthaber.com/haber/turkiye/mersinde-saganak-ev-ve-is-yerlerini-su-basti-961642.html",
+   "summary": "Mersin'da sağanak etkili oldu. Sabah saatlerinden itibaren etkisini gösteren yağış nedeniyle bazı cadde ve sokaklarda su birikintileri oluştu. Su basan bazı ev ve iş yerlerinde ekiplerce tahliye çalışması…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:31:00+00:00"
+  },
+  {
+   "title": "Türkiye ile Özbekistan arasında 5 anlaşma imzalandı",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-ozbekistan-arasinda-5-anlasma-imzalandi-961641.html",
+   "summary": "Türkiye ile Özbekistan arasında ticaret, sosyal güvenlik ve iş dünyasının desteklenmesine ilişkin anlaşmalar imzalandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:22:00+00:00"
+  },
+  {
+   "title": "AB, çocukların çevrim içi ortamda korunmasında ulusal kurallar yerine ortak düzenlemeler hedefliyor",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-cocuklarin-cevrim-ici-ortamda-korunmasinda-ulusal-kurallar-yerine-ortak-duzenlemeler-hedefliyor/4105020",
+   "summary": "Avrupa Birliği (AB) Komisyonu, çocukların çevrim içi ortamda korunmasına yönelik ulusal düzenlemeler yerine AB genelinde geçerli ortak kurallar oluşturulmasını hedeflediğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:20:53+00:00"
+  },
+  {
+   "title": "Avrupa Merkez Bankası politika faizini sabit tuttu",
+   "link": "https://www.trthaber.com/haber/dunya/avrupa-merkez-bankasi-politika-faizini-sabit-tuttu-961640.html",
+   "summary": "Avrupa Merkez Bankası ECB, 3 temel politika faizini piyasa beklentileri doğrultusunda sabit tuttu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:20:00+00:00"
+  },
+  {
+   "title": "ECB yüksek enflasyona rağmen faizleri sabit tuttu",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-yuksek-enflasyona-ragmen-faizleri-sabit-tuttu/4105014",
+   "summary": "Avrupa Merkez Bankası (ECB), Orta Doğu'daki gerilimin tetiklediği enerji krizi ve yükselen fiyat baskılarına rağmen üç temel politika faizini beklentiler doğrultusunda sabit tuttu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:19:00+00:00"
+  },
+  {
+   "title": "AKP'de 'süresiz nafaka' düzenlemesine yeni formül arayışı",
+   "link": "https://www.bbc.com/turkce/articles/cq1kdr1v0ml9o?at_medium=RSS&at_campaign=rss",
+   "summary": "AKP'nin yaklaşık 10 yıldır gündeminde olan süresiz nafaka düzenlemesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın üzerinde yeniden çalışılmasını istemesi üzerine, 13. Yargı Paketi'nden çıkarıldı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a670/live/1f0a5b00-d39b-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-10-29T13:18:21+00:00"
+  },
+  {
+   "title": "Nevşehir'de peribacasından kopan kaya parçalarının altında kalan 2 kişi hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/gundem/nevsehirde-peribacasindan-kopan-kaya-parcalarinin-altinda-kalan-2-kisi-hayatini-kaybetti/4105008",
+   "summary": "Nevşehir'in Göreme beldesinde peribacasından kopan kaya parçalarının altında kalan 2 kişi hayatını kaybetti, 1 kişi yaralandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:15:07+00:00"
+  },
+  {
+   "title": "Bakan Fidan: İstişareler ortak hedeflerimize ulaşmamıza katkı sağlayacak",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-istisareler-ortak-hedeflerimize-ulasmamiza-katki-saglayacak-961639.html",
+   "summary": "Dışişleri Bakanı Hakan Fidan, \"Atalarımızdan miras kurultay geleneğimizle sürdürdüğümüz istişarelerin, dayanışmamızı pekiştireceğine ve ortak hedeflerimize ulaşmamıza katkı sağlayacağına inanıyoruz\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T13:00:00+00:00"
+  },
+  {
+   "title": "Kapadokya'da peribacası çöktü: 2 ölü, 5 yaralı",
+   "link": "https://www.trthaber.com/haber/gundem/kapadokyada-peribacasi-coktu-2-olu-5-yarali-961636.html",
+   "summary": "Nevşehirin merkez ilçeye bağlı Göreme beldesinde peribacası yıkıldı. Peribacasından kopan kaya parçalarının altında kalan 2 kişi hayatını kaybetti, 5 kişi yaralandı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -20,9 +146,9 @@
    "published": "2026-10-29T12:44:00+00:00"
   },
   {
-   "title": "ABD ekonomisi bu yılın üçüncü çeyreğinde yüzde 3,4 büyüdü",
-   "link": "https://www.aa.com.tr/tr/ekonomi/abd-ekonomisi-bu-yilin-ucuncu-ceyreginde-yuzde-3-4-buyudu/4104965",
-   "summary": "ABD ekonomisinin bu yılın üçüncü çeyreğinde yüzde 3,4 ile beklentilerin üzerinde büyüdüğü bildirildi.",
+   "title": "ABD ekonomisi üçüncü çeyrekte yüzde 3,4 büyüdü",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abd-ekonomisi-ucuncu-ceyrekte-yuzde-3-4-buyudu/4104965",
+   "summary": "ABD ekonomisi, bu yılın üçüncü çeyreğinde yüzde 3,4 ile beklentilerin üzerinde büyüdü.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -74,6 +200,15 @@
    "published": "2026-10-29T12:28:00+00:00"
   },
   {
+   "title": "Tek öğrencisi olan okulda Cumhuriyet Bayramı törenle kutlandı",
+   "link": "https://www.trthaber.com/haber/turkiye/tek-ogrencisi-olan-okulda-cumhuriyet-bayrami-torenle-kutlandi-961638.html",
+   "summary": "Konyanın Ilgın ilçesindeki Belekler Şehit Hüseyin Topçu İlkokulunda, öğrenci sayısı bire düşmesine rağmen eğitim devam ediyor. Öğretmen Fatih Yalçınkaya ve öğrencisi Hatice Gökmen, 29 Ekim Cumhuriyet Bayramını okulda…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T12:27:00+00:00"
+  },
+  {
    "title": "AB'den üye ülkelere Ukrayna'ya destek için çağrı",
    "link": "https://www.trthaber.com/haber/dunya/abden-uye-ulkelere-ukraynaya-destek-icin-cagri-961632.html",
    "summary": "Avrupa Birliği AB Komisyonu, üye ülkeleri, Avrupa'nın savunma kapasitesini güçlendirmek ve Ukrayna'ya desteği artırmak amacıyla \"Avrupa Güvenlik Eylemi\" SAFE mekanizması kapsamında ayrılan 21,3 milyar euroluk kaynağı…",
@@ -119,15 +254,6 @@
    "published": "2026-10-29T12:10:38+00:00"
   },
   {
-   "title": "İsrail'de sandıkların %93'ü açıldı: Netanyahu'nun bloğu önde, meclis çoğunluğu sağlanamıyor",
-   "link": "https://www.bbc.com/turkce/articles/c6ewez914w98o?at_medium=RSS&at_campaign=rss",
-   "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimlerinde oyların %93'ü sayıldı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e0fd/live/3079c590-d32a-11f1-b0c3-4b2ce0e9f02a.jpg",
-   "published": "2026-10-29T12:09:49+00:00"
-  },
-  {
    "title": "Arnavutluk Meclisinde ülkedeki gösteriler nedeniyle gerginlik yaşandı",
    "link": "https://www.aa.com.tr/tr/dunya/arnavutluk-meclisinde-ulkedeki-gosteriler-nedeniyle-gerginlik-yasandi/4104921",
    "summary": "Arnavutluk Meclisinde, ülkede 17 gündür süren öğrenci gösterileri nedeniyle gerginlik yaşandı.",
@@ -144,6 +270,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-29T12:06:45+00:00"
+  },
+  {
+   "title": "Çaykur Rizespor'da hedef Kocaelispor maçıyla çıkışa geçmek",
+   "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporda-hedef-kocaelispor-maciyla-cikisa-gecmek/4104915",
+   "summary": "Trendyol Süper Lig'in 10. haftasında 31 Ekim Cumartesi günü deplasmanda Kocaelispor ile karşılaşacak Çaykur Rizespor'un kaptanı Taylan Antalyalı, maçı kazanarak çıkışa geçmek istediklerini söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-29T12:01:06+00:00"
   },
   {
    "title": "Putin, Filistin'in unutulmaması gerektiğini söyledi",
@@ -263,18 +398,9 @@
    "published": "2026-10-29T11:08:00+00:00"
   },
   {
-   "title": "Sinem Dedetaş için tahliye ve ev hapsi kararı",
-   "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. Dedetaş 31 Temmuz'dan bu yana tutuklu bulunuyordu.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/313a/live/6a4ed640-8c06-11f1-8665-e382dc49dfdb.jpg",
-   "published": "2026-10-29T11:07:09+00:00"
-  },
-  {
    "title": "Liderlerden Cumhurbaşkanı Erdoğan'a 29 Ekim Cumhuriyet Bayramı mesajı",
    "link": "https://www.aa.com.tr/tr/gundem/liderlerden-cumhurbaskani-erdogana-29-ekim-cumhuriyet-bayrami-mesaji/4104851",
-   "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev ve İran Cumhurbaşkanı Mesud Pezeşkiyan, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'a tebriklerini iletti.",
+   "summary": "Dünya liderleri, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'ı tebrik etti.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -294,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ispanyada-2-hizli-trenin-carpistigi-kazada-olenlerin-sayisi-69a-cikti/4104840",
    "summary": "İspanya'nın Toledo kenti yakınlarında 2 hızlı yolcu treninin çarpıştığı kazada ölenlerin sayısı 69'a yükseldi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-29T10:50:18+00:00"
   },
@@ -326,24 +452,6 @@
    "published": "2026-10-29T10:42:00+00:00"
   },
   {
-   "title": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-29-ekim-cumhuriyet-bayrami-tebriklerini-kabul-etti/4104829",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 29 Ekim Cumhuriyet Bayramı tebriklerini kabul etti.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T10:40:28+00:00"
-  },
-  {
-   "title": "Şanlıurfa'da peygamberlerin ve ilim insanlarının hikayeleri dijital ortamda anlatılıyor",
-   "link": "https://www.aa.com.tr/tr/kultur/sanliurfada-peygamberlerin-ve-ilim-insanlarinin-hikayeleri-dijital-ortamda-anlatiliyor/4104823",
-   "summary": "Türkiye'nin önemli inanç merkezlerinden, \"Peygamberler Şehri\" olarak nitelendirilen Şanlıurfa'daki Balıklıgöl Yerleşkesi'nde, peygamberlerin ve ilim insanlarının hikayeleri dijital ortamda anlatılıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T10:37:35+00:00"
-  },
-  {
    "title": "İnme vakalarında \"çarpıntı ataklarına\" dikkat edilmeli",
    "link": "https://www.aa.com.tr/tr/gundem/inme-vakalarinda-carpinti-ataklarina-dikkat-edilmeli/4104817",
    "summary": "Kırklareli Üniversitesi Tıp Fakültesi Nöroloji Ana Bilim Dalı Öğretim Üyesi Prof. Dr. Özlem Altıntaş Kadırhan, inme vakalarında \"çarpıntı ataklarına\" dikkat edilmesi gerektiğini belirtti.",
@@ -369,33 +477,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-29T10:33:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan'ın kırmızı KAAN kravatında \"gök vatanda bağımsızlık\" vurgusu",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdoganin-kirmizi-kaan-kravatinda-gok-vatanda-bagimsizlik-vurgusu/4104802",
-   "summary": "Cumhurbaşkanı Erdoğan, 29 Ekim Cumhuriyet Bayramı dolayısıyla Anıtkabir'de düzenlenen törende, milli muharip uçak KAAN figürlerinin yer aldığı kırmızı kravatı tercih etti.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T10:26:28+00:00"
-  },
-  {
-   "title": "Türkiye'deki yabancı misyon temsilcilikleri 29 Ekim Cumhuriyet Bayramı'nı kutladı",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiyedeki-yabanci-misyon-temsilcilikleri-29-ekim-cumhuriyet-bayramini-kutladi/4104796",
-   "summary": "",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T10:19:20+00:00"
-  },
-  {
-   "title": "Cumhuriyet’in 103. yılı düzenlenen etkinliklerle kutlanıyor",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhuriyet-in-103-yili-duzenlenen-etkinliklerle-kutlaniyor/4104794",
-   "summary": "29 Ekim Cumhuriyet Bayramı ve Cumhuriyet'in 103. yılı yurt genelinde düzenlenen etkinliklerle kutlanıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T10:18:40+00:00"
   },
   {
    "title": "Gazze'de 21 bin 468 hasta ve yaralı tahliye bekliyor",
@@ -780,7 +861,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-elektrifikasyonda-35te-35-hedefi-icin-donusumun-uc-kat-hizlanmasi-gerekiyor/4104636",
    "summary": "Küresel enerji dönüşümünde elektriğin nihai enerji tüketimindeki payının 2035'e kadar yüzde 35'e çıkarılması için elektrifikasyonun hızlandırılması, yenilenebilir enerji yatırımlarının yanı sıra şebeke altyapısının…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-29T08:08:01+00:00"
   },
@@ -819,15 +900,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-29T08:05:00+00:00"
-  },
-  {
-   "title": "Aliyev'den Cumhurbaşkanı Erdoğan'a Cumhuriyet Bayramı mesajı",
-   "link": "https://www.trthaber.com/haber/gundem/aliyevden-cumhurbaskani-erdogana-cumhuriyet-bayrami-mesaji-961591.html",
-   "summary": "Azerbaycan Cumhurbaşkanı İlham Aliyev, 29 Ekim Cumhuriyet Bayramı dolayısıyla Cumhurbaşkanı Recep Tayyip Erdoğan'a \"aziz gardaşım\" ifadeleri ile başlayan kutlama mesajında, \"Azerbaycan ile Türkiye'yi, tarihin…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T08:04:00+00:00"
   },
   {
    "title": "Sri Lanka Dışişleri Bakan Yardımcısı Hemachandra'dan Ankara-Kolombo ilişkilerine övgü",
@@ -879,45 +951,18 @@
    "link": "https://www.aa.com.tr/tr/spor/nikola-jokic-nbade-200-triple-doublea-ulasan-ikinci-oyuncu-oldu/4104617",
    "summary": "Amerikan Basketbol Ligi'nde (NBA) Nikola Jokic, formasını giydiği Denver Nuggets'ın deplasmanda New Orleans Pelicans'ı 104-91 yendiği maçta, NBA tarihinde 200 triple-double'a ulaşan ikinci oyuncu oldu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-29T07:59:58+00:00"
-  },
-  {
-   "title": "İsrail'in BM Daimi Temsilcisi'nden parlamento seçimi sonrası Trump'a \"Kararlar Washington'da alınmıyor\" mesajı",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-bm-daimi-temsilcisinden-parlamento-secimi-sonrasi-trumpa-kararlar-washingtonda-alinmiyor-mesaji/4104616",
-   "summary": "İsrail'in Birleşmiş Milletler (BM) Daimi Temsilcisi Danny Danon, seçimlerin ardından Netanyahu'ya ulusal birlik hükümeti kurması için baskı yapacağı öne sürülen ABD Başkanı Trump'a, \"Kararlar Washington'da alınmıyor.\"…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T07:58:52+00:00"
-  },
-  {
-   "title": "Bakan Bolat: Türkiye küresel ticaretin güvenilir aktörlerinden biri",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakan-bolat-turkiye-kuresel-ticaretin-guvenilir-aktorlerinden-biri-961589.html",
-   "summary": "Ticaret Bakanı Bolat, Türkiye ekonomisi ve dış ticaretinin son 20 yılda köklü bir dönüşüm yaşadığını belirterek, \"Eylül itibarıyla yıllıklandırılmış mal ve hizmet ihracatımızın, hizmet ihracatına ilişkin tahminimizle…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T07:55:00+00:00"
   },
   {
    "title": "Ticaret Bakanı Bolat: Türkiye ekonomisi ve dış ticareti son 20 yılda köklü bir dönüşüm yaşadı",
    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiye-ekonomisi-ve-dis-ticareti-son-20-yilda-koklu-bir-donusum-yasadi/4104611",
    "summary": "Ticaret Bakanı Ömer Bolat, Türkiye ekonomisi ve dış ticaretinin son 20 yılda köklü bir dönüşüm yaşadığını belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-29T07:52:03+00:00"
-  },
-  {
-   "title": "İşgalci İsrail ordusu Batı Şeria ve Doğu Kudüs'te Filistinlilere ait 3 evi yıktı",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-bati-seria-ve-dogu-kuduste-filistinlilere-ait-3-evi-yikti-961590.html",
-   "summary": "",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T07:31:00+00:00"
   },
   {
    "title": "Spor camiası, 29 Ekim Cumhuriyet Bayramı'nı kutladı",
@@ -927,15 +972,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-29T07:28:40+00:00"
-  },
-  {
-   "title": "MHP Genel Başkanı Bahçeli'den 29 Ekim Cumhuriyet Bayramı mesajı",
-   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahceliden-29-ekim-cumhuriyet-bayrami-mesaji-961587.html",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, 29 Ekim Cumhuriyet Bayramı mesajında \"Cumhuriyet bizim için sadece bir yönetim biçimi değişikliği değil, kadim bir millet olarak varoluş irademizin modern dönemdeki tescili ve dünyaya…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T07:28:00+00:00"
   },
   {
    "title": "Beşiktaş, Basketbol Avrupa Ligi'nde yarın Virtus Bologna'ya konuk olacak",
@@ -956,15 +992,6 @@
    "published": "2026-10-29T07:20:09+00:00"
   },
   {
-   "title": "Kamu personelinin ücret sisteminde yeni dönem",
-   "link": "https://www.trthaber.com/haber/ekonomi/kamu-personelinin-ucret-sisteminde-yeni-donem-961586.html",
-   "summary": "Kamu personelinin ücretlendirme sisteminde değişiklik yolda. 2027 Cumhurbaşkanlığı Yıllık programında yer alan hedeflere göre, kamu çalışanının maaş sistemi sadeleştirilecek. Ücret düzeyleri görev ve sorumluluk esasına…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T07:15:00+00:00"
-  },
-  {
    "title": "Marmaray 13 yılda 1,6 milyar yolcuya hizmet verdi",
    "link": "https://www.aa.com.tr/tr/ekonomi/marmaray-13-yilda-1-6-milyar-yolcuya-hizmet-verdi/4104549",
    "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Marmaray'ın 13 yılda 1,6 milyar yolcuya hizmet verdiğini, bu yılın 10 ayında da yaklaşık 181 milyon yolcunun Marmaray'ı tercih ettiğini bildirdi.",
@@ -981,33 +1008,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-29T07:12:20+00:00"
-  },
-  {
-   "title": "Emine Erdoğan: Bu kıymetli mirasın nesiller boyunca yaşatılmasını diliyorum",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-bu-kiymetli-mirasin-nesiller-boyunca-yasatilmasini-diliyorum-961585.html",
-   "summary": "Emine Erdoğan, Cumhuriyet'in 103. yıl dönümü dolayısıyla yayımladığı mesajda, birlik ve beraberlik içinde Cumhuriyet'in ikinci yüzyılının yeni başarılarla taçlandırıldığını belirterek, bu kıymetli mirasın nesiller…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-29T07:03:00+00:00"
-  },
-  {
-   "title": "İngiltere Deniz Ticaret Operasyonları: Hürmüz Boğazı'nda bir gemide yangın çıktı",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-deniz-ticaret-operasyonlari-hurmuz-bogazinda-bir-gemide-yangin-cikti/4104543",
-   "summary": "İngiltere Deniz Ticaret Operasyonları (UKMTO), Hürmüz Boğazı'nda Umman açıklarında seyreden bir gemide yangın çıktığını bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T06:58:48+00:00"
-  },
-  {
-   "title": "İsrail ordusu işgal altındaki Batı Şeria ve Doğu Kudüs'te Filistinlilere ait 5 evi yıktı",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-isgal-altindaki-bati-seria-ve-dogu-kuduste-filistinlilere-ait-5-evi-yikti/4104534",
-   "summary": "",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T06:46:12+00:00"
   },
   {
    "title": "Lider Galatasaray, Süper Lig'de yarın Konyaspor'a konuk olacak",
@@ -1107,15 +1107,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-28T19:49:16+00:00"
-  },
-  {
-   "title": "Yeni Parti'den Sarıgül açıklaması: 'Hakkında yoğun iddialar var, şu anda parti ile ilişkisi yok'",
-   "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss",
-   "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti üyeliğinin askıya alınması için başvuru yaptı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da6e/live/561263b0-cd8b-11f1-b1e7-39558e114359.jpg",
-   "published": "2026-10-28T19:22:51+00:00"
   },
   {
    "title": "İspanya Kral Kupası'nda 24 maç, tren kazası nedeniyle ertelendi",
@@ -1253,15 +1244,6 @@
    "published": "2026-10-28T12:30:32+00:00"
   },
   {
-   "title": "DOSYA: İşin Ötesi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/dosya-isin-otesi/4103739",
-   "summary": "Hayatın yükünü omuzlayan gizli kahramanların, zorlu doğa şartları, kaza riskleri ve mesleki zorluklara karşı ekmek parası uğruna verdikleri amansız emek mücadelesi dikkat çekiyor.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-28T11:38:51+00:00"
-  },
-  {
    "title": "İngiltere Lig Kupası'ndaki olaylı maçta Arsenal, 4. Lig ekibine elendi",
    "link": "https://www.aa.com.tr/tr/spor/ingiltere-lig-kupasindaki-olayli-macta-arsenal-4-lig-ekibine-elendi/4103639",
    "summary": "",
@@ -1350,6 +1332,24 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-28T08:06:39+00:00"
+  },
+  {
+   "title": "BM yetkilisi Bazergan, Yemen'de artan gerilimin taraflar arasındaki güveni zayıflattığını söyledi",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-yetkilisi-bazergan-yemende-artan-gerilimin-taraflar-arasindaki-guveni-zayiflattigini-soyledi/4103415",
+   "summary": "Birleşmiş Milletler (BM) Yemen Özel Temsilciliği Ofisi Siyasi İşler Şefi Roxanneh Yelena Bazergan, Yemen'de ve bölgede artan askeri gerilimin barış müzakerelerini zorlaştırdığını belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-28T08:06:15+00:00"
+  },
+  {
+   "title": "Archie Brown ile Abdülkerim Bardakcı, PFDK'ye sevk edildi",
+   "link": "https://www.aa.com.tr/tr/spor/archie-brown-ile-abdulkerim-bardakci-pfdkye-sevk-edildi-/4103398",
+   "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Süper Lig'den 6 kulübün yanı sıra Fenerbahçe'nin futbolcusu Archie Brown ile Galatasaray'ın oyuncusu Abdülkerim Bardakcı'yı Profesyonel Futbol Disiplin Kuruluna (PFDK)…",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-28T07:53:44+00:00"
   }
  ]
 }
