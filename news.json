@@ -1,6 +1,186 @@
 {
- "updated": "2026-10-30T10:27:49.800755+00:00",
+ "updated": "2026-10-30T11:09:41.937401+00:00",
  "items": [
+  {
+   "title": "LGS kapsamındaki merkezi sınav 13 Haziran 2027'de yapılacak",
+   "link": "https://www.aa.com.tr/tr/gundem/lgs-kapsamindaki-merkezi-sinav-13-haziran-2027de-yapilacak/4106186",
+   "summary": "Liselere Geçiş Sistemi kapsamındaki merkezi sınav, 13 Haziran 2027 Pazar günü gerçekleştirilecek.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T11:06:08+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan, Türkmenistan Devlet Başkanı Berdimuhammedov ile görüştü",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-turkmenistan-devlet-baskani-berdimuhammedov-ile-gorustu/4106185",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Türkmenistan Devlet Başkanı Serdar Berdimuhammedov ile bir araya geldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T11:05:56+00:00"
+  },
+  {
+   "title": "UEFA Stadyum ve Güvenlik Komitesi, Nyon'da toplandı",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-stadyum-ve-guvenlik-komitesi-nyonda-toplandi/4106183",
+   "summary": "UEFA Stadyum ve Güvenlik Komitesi'nin olağan toplantısı, İsviçre'nin Nyon kentindeki UEFA Genel Merkezi'nde gerçekleştirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T11:05:22+00:00"
+  },
+  {
+   "title": "Mustafa Sarıgül, Yeni Parti'den istifa etti",
+   "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss",
+   "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti'den istifa ettiğini duyurdu.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da6e/live/561263b0-cd8b-11f1-b1e7-39558e114359.jpg",
+   "published": "2026-10-30T11:03:04+00:00"
+  },
+  {
+   "title": "Kapadokya'da peribacası çöktü, üç kişi hayatını kaybetti",
+   "link": "https://www.bbc.com/turkce/articles/cwdd8qjqqmnzo?at_medium=RSS&at_campaign=rss",
+   "summary": "Kapadokya'da toprak kayması nedeniyle peribacasından kopan kaya parçalarının düşmesi sonucu üç kişi yaşamını yitirdi, beş kişi yaralandı. Nevşehir Göreme'de Açık Hava Müzesi girişinde yağış nedeniyle meydana gelen…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95c7/live/c9f6e250-d3a9-11f1-93e1-3b657b665bcf.png",
+   "published": "2026-10-30T11:02:02+00:00"
+  },
+  {
+   "title": "Depremzede öğrenciler kolonların sağlamlığını ölçebilen cihaz geliştirdi",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/depremzede-ogrenciler-kolonlarin-saglamligini-olcebilen-cihaz-gelistirdi/4106170",
+   "summary": "Hatay'da 6 Şubat 2023'teki depremlerden etkilenen üniversite öğrencileri, bina kolonlarının sağlamlığını tespit edebilen cihazla olası afetlerde can kaybının önüne geçmeyi hedefliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:53:11+00:00"
+  },
+  {
+   "title": "Türk Dünyası Diyalog Forumu'nda Türk dünyasının geleceğinin inşası ele alındı",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumunda-turk-dunyasinin-geleceginin-insasi-ele-alindi/4106166",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Dünyasının Büyük Stratejisi: Geleceği Birlikte İnşa Etmek\" konulu yuvarlak masa toplantısı düzenledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:48:12+00:00"
+  },
+  {
+   "title": "Özbekistan Cumhurbaşkanı Mirziyoyev: Stratejik hedeflerimiz etrafında daha da kenetlenmeliyiz",
+   "link": "https://www.aa.com.tr/tr/gundem/ozbekistan-cumhurbaskani-mirziyoyev-stratejik-hedeflerimiz-etrafinda-daha-da-kenetlenmeliyiz/4106165",
+   "summary": "Özbekistan Cumhurbaşkanı Şevket Mirziyoyev, Türk Devletleri Teşkilatının (TDT) stratejik hedefleri etrafında daha da kenetlenmesi gerektiğini belirterek, bütün güçlerini Türk dayanışması için seferber etmeye hazır…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:47:27+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan, Türkmen mevkidaşıyla görüştü",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-turkmen-mevkidasiyla-gorustu-961736.html",
+   "summary": "Cumhurbaşkanı Erdoğan, Türk Devletleri Teşkilatı 13. Zirvesi için Ankarada bulunan Türkmenistan Devlet Başkanı Serdar Berdimuhammedov ile Cumhurbaşkanlığı Külliyesinde bir araya geldi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:47:00+00:00"
+  },
+  {
+   "title": "Türkiye'nin turizm geliri üçüncü çeyrekte 25,5 milyar dolara ulaştı",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-turizm-geliri-ucuncu-ceyrekte-255-milyar-dolara-ulasti-961735.html",
+   "summary": "Türkiye'nin turizm geliri, yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 5 artarak 25 milyar 526 milyon 218 bin dolar oldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:46:00+00:00"
+  },
+  {
+   "title": "Türkiye'de ARGE harcamaları geçen yıl 980,4 milyar lirayı aştı",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiyede-ar-ge-harcamalari-gecen-yil-9804-milyar-lirayi-asti-961734.html",
+   "summary": "Türkiye'de araştırma geliştirme ARGE harcamalarının tutarı, geçen yıl bir önceki yıla göre 328 milyar 607 milyon lira artarak 980 milyar 428 milyon liraya yükseldi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:44:00+00:00"
+  },
+  {
+   "title": "Türkiye'nin elektrik kurulu gücü 140 bin megavatı aşacak",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-elektrik-kurulu-gucu-140-bin-megavati-asacak-961733.html",
+   "summary": "Türkiye'de enerji sektöründeki yatırımların gelecek yıl yaklaşık yüzde 30 artması bekleniyor. Elektrik kurulu gücünün ise 140 bin 47 megavata ulaşması hedefleniyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:42:00+00:00"
+  },
+  {
+   "title": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Dünyasında Diplomaside Kadın Paneli\" düzenlendi",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-turk-dunyasinda-diplomaside-kadin-paneli-duzenlendi/4106157",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Dünyasında Diplomaside Kadın Paneli: Ortak Vizyon, Güçlü Temsil, Sürdürülebilir İşbirliği\" başlıklı panel…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:40:44+00:00"
+  },
+  {
+   "title": "ABD ara seçimleri neden önemli? Yedi temel soru",
+   "link": "https://www.bbc.com/turkce/articles/cmq8nwyxk1gdo?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'li seçmenler, Donald Trump'ın başkanlığı üzerinde büyük etkisi olabilecek ara seçim için 3 Kasım'da sandık başına gidecek.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png",
+   "published": "2026-10-30T10:37:04+00:00"
+  },
+  {
+   "title": "Mustafa Sarıgül partisinden istifa etti",
+   "link": "https://www.trthaber.com/haber/gundem/mustafa-sarigul-partisinden-istifa-etti-961732.html",
+   "summary": "Yeni Parti Erzincan Milletvekili Mustafa Sarıgül, partisinden istifa ettiğini açıkladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:37:00+00:00"
+  },
+  {
+   "title": "Gündüzlü ve geçici bakım hizmetleri yaygınlaştırılacak",
+   "link": "https://www.trthaber.com/haber/turkiye/gunduzlu-ve-gecici-bakim-hizmetleri-yayginlastirilacak-961731.html",
+   "summary": "Engelli bireylerin bakım hizmetlerine erişiminin artırılması amacıyla 2027 yılında gündüzlü bakım merkezlerinin mevzuat altyapısının tamamlanması, geçici ve misafir bakım hizmetlerinin yaygınlaştırılması planlanıyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:37:00+00:00"
+  },
+  {
+   "title": "TSE belgelerinin uluslararası tanınırlığı artırılacak",
+   "link": "https://www.trthaber.com/haber/ekonomi/tse-belgelerinin-uluslararasi-taninirligi-artirilacak-961730.html",
+   "summary": "Türk Standardları Enstitüsünün TSE Ankara Kalite Kampüsü ana hizmet binasının gelecek yıl faaliyete geçmesi, belgelendirme ve uygunluk değerlendirme hizmetlerinin uluslararası tanınırlığının artırılması planlanıyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:35:00+00:00"
+  },
+  {
+   "title": "Türkmenistan Devlet Başkanı Berdimuhamedov: Türk devletleri geniş ekonomik imkanlara sahip",
+   "link": "https://www.aa.com.tr/tr/gundem/turkmenistan-devlet-baskani-berdimuhamedov-turk-devletleri-genis-ekonomik-imkanlara-sahip/4106136",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:28:49+00:00"
+  },
+  {
+   "title": "Cevdet Yılmaz: TDT ile ekonomik bütünleşmeyi ilerletmeyi hedefliyoruz",
+   "link": "https://www.trthaber.com/haber/gundem/cevdet-yilmaz-tdt-ile-ekonomik-butunlesmeyi-ilerletmeyi-hedefliyoruz-961729.html",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Türk Devletleri Teşkilatı TDT üyesi devletler ile siyasi istişarelerini güçlendirmeyi, ekonomik bütünleşmeyi ilerletmeyi, enerji ve ulaştırma bağlantılarını geliştirmeyi…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:27:00+00:00"
+  },
+  {
+   "title": "Klasik araçlara change tuzağına operasyon: 35 gözaltı",
+   "link": "https://www.trthaber.com/haber/turkiye/klasik-araclara-change-tuzagina-operasyon-35-gozalti-961728.html",
+   "summary": "İstanbul merkezli 6 ilde düzenlenen operasyonda, atıl durumdaki araçların şasi numaralarını yurt dışından getirilen koleksiyonluk araçlarda kullanarak \"change oto\" dolandırıcılığı yaptıkları iddiasıyla 35 zanlı…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T10:23:00+00:00"
+  },
   {
    "title": "Nevşehir'de kopan kaya parçalarının bulunduğu alanda enkaz kaldırma çalışması yapılıyor",
    "link": "https://www.aa.com.tr/tr/gundem/nevsehirde-kopan-kaya-parcalarinin-bulundugu-alanda-enkaz-kaldirma-calismasi-yapiliyor/4106129",
@@ -99,6 +279,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-30T09:57:33+00:00"
+  },
+  {
+   "title": "Sağlık Bakanı Memişoğlu: Türkiye olarak bilgimizi ve tecrübemizi tüm dünyayla paylaşmaya hazırız",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-turkiye-olarak-bilgimizi-ve-tecrubemizi-tum-dunyayla-paylasmaya-haziriz/4106088",
+   "summary": "Sağlık Bakanı Memişoğlu, \"Aşıdan tıbbi cihaza, biyoteknolojiden yapay zekaya kadar pek çok alanda birbirimizi tamamlayan imkanlarımız var. Türkiye olarak bilgimizi, tecrübemizi ve geliştirdiğimiz çözümleri tüm dünyayla…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T09:46:12+00:00"
   },
   {
    "title": "Türk Dünyası Diyalog Forumu kapsamında \"Türk Dünyasında Medya ve İletişim\" paneli yapıldı",
@@ -227,38 +416,11 @@
    "published": "2026-10-30T09:04:37+00:00"
   },
   {
-   "title": "Kapadokya'da peribacası çöktü, üç kişi hayatını kaybetti",
-   "link": "https://www.bbc.com/turkce/articles/cwdd8qjqqmnzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Kapadokya'da toprak kayması nedeniyle peribacasından kopan kaya parçalarının düşmesi sonucu üç kişi yaşamını yitirdi, beş kişi yaralandı. Nevşehir Göreme'de Açık Hava Müzesi girişinde yağış nedeniyle meydana gelen…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95c7/live/c9f6e250-d3a9-11f1-93e1-3b657b665bcf.png",
-   "published": "2026-10-30T09:04:06+00:00"
-  },
-  {
-   "title": "Türk devletlerinin ortak uydusunun 2027'nin ikinci yarısında Kazakistan'dan fırlatılması planlanıyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-devletlerinin-ortak-uydusunun-2027nin-ikinci-yarisinda-kazakistandan-firlatilmasi-planlaniyor/4106026",
-   "summary": "Kazakistan'ın başkenti Astana'da geliştirilen Türk devletlerinin ortak küp uydusunun, gelecek yılın ikinci yarısında bu ülkedeki Baykonur Uzay Üssü'nden fırlatılması hedefleniyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T09:03:51+00:00"
-  },
-  {
-   "title": "Hava Kuvvetleri Komutanı Orgeneral Dalkıran, NATO Hava Kuvvetleri Komutanları Sempozyumu'na katıldı",
-   "link": "https://www.aa.com.tr/tr/gundem/hava-kuvvetleri-komutani-orgeneral-dalkiran-nato-hava-kuvvetleri-komutanlari-sempozyumuna-katildi/4106015",
-   "summary": "Milli Savunma Bakanlığı, Hava Kuvvetleri Komutanı Orgeneral Rafet Dalkıran'ın Almanya'da düzenlenen NATO Hava Kuvvetleri Komutanları Sempozyumu'na katıldığını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T08:58:44+00:00"
-  },
-  {
    "title": "Türkiye'nin 9 aylık turizm geliri 51 milyar 278 milyon dolara ulaştı",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-9-aylik-turizm-geliri-51-milyar-278-milyon-dolara-ulasti/4106014",
    "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türkiye'nin 9 aylık turizm gelirinin 51 milyar 278 milyon dolara ulaştığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T08:58:41+00:00"
   },
@@ -272,15 +434,6 @@
    "published": "2026-10-30T08:57:00+00:00"
   },
   {
-   "title": "KKTC Cumhurbaşkanı Erhürman: Ada'da adil ve kalıcı çözüm için çalışmaya devam edeceğiz",
-   "link": "https://www.aa.com.tr/tr/gundem/kktc-cumhurbaskani-erhurman-adada-adil-ve-kalici-cozum-icin-calismaya-devam-edecegiz/4106011",
-   "summary": "KKTC Cumhurbaşkanı Tufan Erhürman, \"Türkiye ile yakın istişare ve işbirliği içinde Ada'da adil ve kalıcı çözüm için çalışmaya devam edeceğiz.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T08:56:42+00:00"
-  },
-  {
    "title": "Aliyev, Türk Devletleri Teşkilatı Zirvesi'ne katılmadı",
    "link": "https://www.bbc.com/turkce/articles/cmrlypdepxy4o?at_medium=RSS&at_campaign=rss",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Cumhurbaşkanlığı Sarayı'nda Türk Devletleri Teşkilatı 13. Zirvesi Devlet Başkanları Konseyi Toplantısı'na ev sahipliği yaptı. Azerbaycan Cumhurbaşkanı İlham Aliyev ise zirveye…",
@@ -290,40 +443,13 @@
    "published": "2026-10-30T08:52:49+00:00"
   },
   {
-   "title": "Kadına yönelik şiddetle mücadelede koruyucu ve önleyici hizmetlerin etkinliği artırılacak",
-   "link": "https://www.aa.com.tr/tr/gundem/kadina-yonelik-siddetle-mucadelede-koruyucu-ve-onleyici-hizmetlerin-etkinligi-artirilacak/4106003",
-   "summary": "Kadına yönelik şiddetle mücadele kapsamında 2027 yılında koruyucu ve önleyici hizmetlerin etkinliğinin artırılması planlanıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T08:49:36+00:00"
-  },
-  {
-   "title": "İletişim Başkanı Duran: Türk dünyasının jeopolitik ağırlığı açıkça artmaktadır",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-turk-dunyasinin-jeopolitik-agirligi-acikca-artmaktadir/4106002",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Enerji dengeleri, tedarik zincirleri ve ticaret yolları yeniden şekillenirken Türk dünyasının jeopolitik ağırlığı da açıkça artmaktadır. Ağırlığımız arttıkça…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T08:49:28+00:00"
-  },
-  {
    "title": "ABD'de Kongre ara seçimlerinde ekonomi seçmenin gündeminde öne çıkıyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/abdde-kongre-ara-secimlerinde-ekonomi-secmenin-gundeminde-one-cikiyor/4105999",
    "summary": "ABD'de 3 Kasım'da yapılacak Kongre ara seçimleri, yüksek enflasyon ve enerji fiyatlarının yanı sıra konut maliyetleri, istihdam artışındaki ivme kaybı ve korumacı ticaret politikalarının ekonomik etkilerinin…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T08:47:26+00:00"
-  },
-  {
-   "title": "16 ilde düzenlenen organize suç operasyonlarında 55 şüpheli tutuklandı",
-   "link": "https://www.aa.com.tr/tr/gundem/16-ilde-duzenlenen-organize-suc-operasyonlarinda-55-supheli-tutuklandi/4105995",
-   "summary": "İçişleri Bakanlığı, 16 ilde organize suçlarla mücadele kapsamında düzenlenen operasyonlarda yakalanan 198 şüpheliden 55'inin tutuklandığını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T08:46:00+00:00"
   },
   {
    "title": "Çevre kirliliğine neden olan Ardeşen Belediyesi'ne 2,3 milyon lira ceza",
@@ -348,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-ozbekistan-ticarette-5-milyar-dolarlik-hedefe-odaklandi/4105991",
    "summary": "Türkiye ile Özbekistan, imzaladıkları anlaşmalarla ticari ilişkileri yeni boyuta taşımayı ve geçen yıl 3,1 milyar dolar olan ticaret hacmini 5 milyar dolara yükseltmeyi hedefliyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T08:38:14+00:00"
   },
@@ -479,13 +605,13 @@
    "published": "2026-10-30T08:10:05+00:00"
   },
   {
-   "title": "Anadolu'nun ilk devlet lisesi 141 yıldır öğrencileri geleceğe hazırlıyor",
-   "link": "https://www.aa.com.tr/tr/kultur/anadolunun-ilk-devlet-lisesi-141-yildir-ogrencileri-gelecege-hazirliyor/4105873",
-   "summary": "Anadolu'da kurulan ilk devlet lisesi olan Kastamonu'daki Abdurrahmanpaşa Lisesi, 141 yıldır kesintisiz eğitim veriyor.",
+   "title": "MotoGP'de sıradaki durak Malezya",
+   "link": "https://www.aa.com.tr/tr/spor/motogpde-siradaki-durak-malezya/4105850",
+   "summary": "MotoGP'de sezonun 19. yarışı Malezya'da gerçekleştirilecek.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
-   "published": "2026-10-30T08:09:34+00:00"
+   "published": "2026-10-30T08:06:42+00:00"
   },
   {
    "title": "Uzun yıllar ara verdikleri güreş kariyerlerini Dünya Şampiyonası'nda dereceyle taçlandırdılar",
@@ -1046,78 +1172,6 @@
    "published": "2026-10-30T03:37:43+00:00"
   },
   {
-   "title": "Yapay zeka Google'a 500 milyar dolar kaybettirdi",
-   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-googlea-500-milyar-dolar-kaybettirdi-961686.html",
-   "summary": "Google'ın ana şirketi Alphabet, perşembe günü ticari operasyonlarına ilişkin yılın son güncellemesiyle Wall Street'i sarsmasının ardından 500 milyar dolardan biraz fazla değer kaybetti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T03:32:00+00:00"
-  },
-  {
-   "title": "Vücudunuz için en büyük lif kaynakları çöp kutunuzda olabilir",
-   "link": "https://www.trthaber.com/haber/dunya/vucudunuz-icin-en-buyuk-lif-kaynaklari-cop-kutunuzda-olabilir-961684.html",
-   "summary": "İngiltereli araştırmacılar, kabuk ve sap gibi meyve ve sebze artıklarını yemenin çoğumuzun eksikliğini hissettiği bir sağlık artısı sağlayabileceğini belirtti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T03:28:00+00:00"
-  },
-  {
-   "title": "Hafta sonu hava nasıl olacak?",
-   "link": "https://www.trthaber.com/haber/gundem/hafta-sonu-hava-nasil-olacak-961685.html",
-   "summary": "Hafta sonu yurdun batı ve kıyı kesimlerinde gök gürültülü sağanak etkili olacak. Ege, Akdeniz ve Marmara'da yağış beklenirken, İç Anadolu ve Doğu Anadolu'da parçalı bulutlu bir hava hakim olacak. Sıcaklıklar ise mevsim…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T03:26:00+00:00"
-  },
-  {
-   "title": "Binance'ta neler oluyor? 6,3 milyar dolarlık kripto para siber saldırısı",
-   "link": "https://www.trthaber.com/haber/dunya/binanceta-neler-oluyor-63-milyar-dolarlik-kripto-para-siber-saldirisi-961683.html",
-   "summary": "Kripto para devi Binance, platformunda yaşanan bir güvenlik olayının yaklaşık 6,3 milyar dolar değerindeki varlığı etkilediğini bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T03:26:00+00:00"
-  },
-  {
-   "title": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
-   "link": "https://www.trthaber.com/haber/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi-961681.html",
-   "summary": "ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığı öne sürüldü.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T03:15:00+00:00"
-  },
-  {
-   "title": "Binance, olası güvenlik sorununda dondurulan varlıkların 2,54 milyar dolar olduğunu açıkladı",
-   "link": "https://www.trthaber.com/haber/dunya/binance-olasi-guvenlik-sorununda-dondurulan-varliklarin-254-milyar-dolar-oldugunu-acikladi-961680.html",
-   "summary": "Kripto para borsası Binance, olası bir güvenlik sorununa ilişkin inceleme sürerken dondurulan varlıkların doğrulanmış toplam tutarının 2,54 milyar dolar olduğunu bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T03:13:00+00:00"
-  },
-  {
-   "title": "TDT 13. Liderler Zirvesi Türk Yüzyılı temasıyla başlıyor",
-   "link": "https://www.trthaber.com/haber/gundem/tdt-13-liderler-zirvesi-turk-yuzyili-temasiyla-basliyor-961682.html",
-   "summary": "Türk Devletleri Teşkilatı TDT 13. Devlet ve Hükümet Başkanları Zirvesi, \"Türk Yüzyılı: Dilde, Fikirde, İşte Birlik\" temasıyla bugün Ankarada düzenlenecek. Türk dünyasında işbirliğinin güçlendirilmesinde ve ortak bir…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T03:08:00+00:00"
-  },
-  {
-   "title": "Çanakkale'de otomobil aydınlatma direğine çarptı: 2 ölü",
-   "link": "https://www.trthaber.com/haber/turkiye/canakkalede-otomobil-aydinlatma-diregine-carpti-2-olu-961678.html",
-   "summary": "Çanakkale'de refüjdeki aydınlatma direğine çarpan otomobildeki 2 kişi hayatını kaybetti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T02:49:00+00:00"
-  },
-  {
    "title": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
    "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo?at_medium=RSS&at_campaign=rss",
    "summary": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler…",
@@ -1145,13 +1199,22 @@
    "published": "2026-10-29T22:01:07+00:00"
   },
   {
-   "title": "BM, Gazze'deki deposunun İsrail hava saldırılarında hasar gördüğünü belirtti",
-   "link": "https://www.trthaber.com/haber/dunya/bm-gazzedeki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-belirtti-961677.html",
-   "summary": "Birleşmiş Milletler BM, ateşkese rağmen İsrail'in Gazze'deki saldırılarının sürdüğünü ve bugün BM'ye ait bir deponun bu saldırılarda hasar gördüğünü bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "title": "ABD'den İsrail'e son 24 saatte en az 10 askeri nakliye uçağının indiği iddia edildi",
+   "link": "https://www.aa.com.tr/tr/dunya/abdden-israile-son-24-saatte-en-az-10-askeri-nakliye-ucaginin-indigi-iddia-edildi/4105536",
+   "summary": "ABD'nin, İsrail'deki seçimlerin ardından Orta Doğu'ya ve İsrail'e askeri bir hava köprüsü operasyonu başlattığı öne sürüldü.",
+   "source": "AA",
+   "category": "Dünya",
    "image": null,
-   "published": "2026-10-29T21:23:00+00:00"
+   "published": "2026-10-29T21:58:07+00:00"
+  },
+  {
+   "title": "BM, Gazze'deki deposunun İsrail hava saldırılarında hasar gördüğünü belirtti",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-gazzedeki-deposunun-israil-hava-saldirilarinda-hasar-gordugunu-belirtti/4105515",
+   "summary": "Birleşmiş Milletler (BM), ateşkese rağmen İsrail'in Gazze'deki saldırılarının sürdüğünü ve bugün BM'ye ait bir deponun bu saldırılarda hasar gördüğünü bildirdi.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-10-29T21:03:57+00:00"
   },
   {
    "title": "Yemen'deki Husiler: Suudi Arabistan'ın saldırılarına 6 saldırıyla karşılık verdik",
@@ -1287,69 +1350,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-29T18:30:48+00:00"
-  },
-  {
-   "title": "İsrail'deki çocuk istismarı olayıyla ilgili ABD'de gözaltılar yapıldı",
-   "link": "https://www.aa.com.tr/tr/dunya/israildeki-cocuk-istismari-olayiyla-ilgili-abdde-gozaltilar-yapildi/4105381",
-   "summary": "ABD'de, İsrail'de çocuklara yönelik cinsel istismar suçlarıyla bağlantılı olduğu öne sürülen bazı ABD vatandaşlarının gözaltına alındığı bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T18:20:04+00:00"
-  },
-  {
-   "title": "Dünya Hızlı ve Yıldırım Satranç Şampiyonası, İstanbul'da düzenlenecek",
-   "link": "https://www.aa.com.tr/tr/spor/dunya-hizli-ve-yildirim-satranc-sampiyonasi-istanbulda-duzenlenecek/4105374",
-   "summary": "",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-29T18:15:35+00:00"
-  },
-  {
-   "title": "Ziraat Türkiye Kupası'nda 4. eleme turu kura çekiminin saati değişti",
-   "link": "https://www.aa.com.tr/tr/spor/ziraat-turkiye-kupasinda-4-eleme-turu-kura-cekiminin-saati-degisti/4105360",
-   "summary": "Türkiye Futbol Federasyonu (TFF), Ziraat Türkiye Kupası 4. eleme turu kura çekiminin saatinde değişikliğe gidildiğini duyurdu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-29T18:00:42+00:00"
-  },
-  {
-   "title": "Londra Belediye Başkanı Khan, COP31'de kentini ve C40 şehirlerini temsil edeceğini belirtti",
-   "link": "https://www.aa.com.tr/tr/dunya/londra-belediye-baskani-khan-cop31de-kentini-ve-c40-sehirlerini-temsil-edecegini-belirtti/4105155",
-   "summary": "İngiltere'nin başkenti Londra'nın Belediye Başkanı Khan, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), kentini ve \"C40 Şehirleri\"ni temsil edeceğini söyledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T14:56:25+00:00"
-  },
-  {
-   "title": "Hakkında ev hapsi kararı verilen Sinem Dedetaş tahliye oldu",
-   "link": "https://www.bbc.com/turkce/articles/ckq6nj1vpzjeo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tutuklandıktan sonra Üsküdar Belediye Başkanlığı görevinden uzaklaştırılan Sinem Dedetaş hakkında tahliye ve ev hapsi kararı verildi. Dedetaş 31 Temmuz'dan bu yana tutuklu bulunuyordu.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ba3f/live/d59c4620-d3a1-11f1-a701-fddedf244c16.png",
-   "published": "2026-10-29T14:10:06+00:00"
-  },
-  {
-   "title": "AKP'de 'süresiz nafaka' düzenlemesine yeni formül arayışı",
-   "link": "https://www.bbc.com/turkce/articles/cq1kdr1v0ml9o?at_medium=RSS&at_campaign=rss",
-   "summary": "AKP'nin yaklaşık 10 yıldır gündeminde olan süresiz nafaka düzenlemesi, Cumhurbaşkanı Recep Tayyip Erdoğan'ın üzerinde yeniden çalışılmasını istemesi üzerine, 13. Yargı Paketi'nden çıkarıldı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a670/live/1f0a5b00-d39b-11f1-93e1-3b657b665bcf.jpg",
-   "published": "2026-10-29T13:18:21+00:00"
-  },
-  {
-   "title": "Çaykur Rizespor'da hedef Kocaelispor maçıyla çıkışa geçmek",
-   "link": "https://www.aa.com.tr/tr/spor/caykur-rizesporda-hedef-kocaelispor-maciyla-cikisa-gecmek/4104915",
-   "summary": "Trendyol Süper Lig'in 10. haftasında 31 Ekim Cumartesi günü deplasmanda Kocaelispor ile karşılaşacak Çaykur Rizespor'un kaptanı Taylan Antalyalı, maçı kazanarak çıkışa geçmek istediklerini söyledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-29T12:01:06+00:00"
   }
  ]
 }
