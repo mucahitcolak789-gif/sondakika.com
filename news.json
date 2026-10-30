@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-30T14:36:06.584373+00:00",
+ "updated": "2026-10-30T15:29:13.219706+00:00",
  "items": [
+  {
+   "title": "Borsa günü düşüşle tamamladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-dususle-tamamladi/4106741",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 3,64 değer kaybederek 10.759,56 puandan tamamladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T15:24:57+00:00"
+  },
+  {
+   "title": "Atlanta'daki G20 Dışişleri Bakanları Toplantısı, aile fotoğrafı çekilmeden başladı",
+   "link": "https://www.aa.com.tr/tr/dunya/atlantadaki-g20-disisleri-bakanlari-toplantisi-aile-fotografi-cekilmeden-basladi/4106736",
+   "summary": "ABD'nin Atlanta kentinde gerçekleştirilen ve Dışişleri Bakanı Hakan Fidan'ın da katıldığı G20 Dışişleri Bakanları Toplantısı, Rusya ile bazı Avrupa ülkeleri arasındaki anlaşmazlıklar nedeniyle aile fotoğrafı çekimi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T15:21:54+00:00"
+  },
+  {
+   "title": "Gazze'de İsrail askerlerinin saldırısında yaralanan 8 yaşındaki çocuk kurtarılamadı",
+   "link": "https://www.aa.com.tr/tr/dunya/gazzede-israil-askerlerinin-saldirisinda-yaralanan-8-yasindaki-cocuk-kurtarilamadi/4106725",
+   "summary": "İsrail askerlerinin, Gazze Şeridi'nin güneyindeki Han Yunus kentinde açtığı ateş sonucu yaralanan 8 yaşındaki Filistinli çocuk, tedavi gördüğü hastanede yaşamını yitirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T15:15:51+00:00"
+  },
+  {
+   "title": "İspanya Ulaştırma Bakanı, tren kazasının ardından istifa etmeyecek",
+   "link": "https://www.bbc.com/turkce/articles/cmx23v6nx3n2o?at_medium=RSS&at_campaign=rss",
+   "summary": "İspanya Ulaştırma Bakanı Óscar Puente, en az 69 kişinin hayatını kaybettiği hızlı tren kazasının ardından istifa etmeyeceğini söyledi",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ece1/live/e88a6500-d37e-11f1-b5f4-fd541fd21001.jpg",
+   "published": "2026-10-30T15:09:18+00:00"
+  },
+  {
+   "title": "Ankara'da \"Türkiye-Almanya İşgücü Anlaşmasının 65. yılı\" dolayısıyla program düzenlendi",
+   "link": "https://www.aa.com.tr/tr/gundem/ankarada-turkiye-almanya-isgucu-anlasmasinin-65-yili-dolayisiyla-program-duzenlendi/4106715",
+   "summary": "Yurtdışı Türkler ve Akraba Topluluklar Başkanlığı (YTB) tarafından \"Türkiye-Almanya İşgücü Anlaşmasının 65. yılı\" başlıklı program düzenlendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T15:07:15+00:00"
+  },
+  {
+   "title": "Kulüpler Birliği Vakfı, Futbol Zirvesi düzenleyecek",
+   "link": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-futbol-zirvesi-duzenleyecek/4106690",
+   "summary": "Kulüpler Birliği Vakfı, Türk futbolunun gelişimi için 17 Kasım Salı günü Futbol Zirvesi düzenleyeceğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T14:51:25+00:00"
+  },
+  {
+   "title": "Hazine'nin vergi dışı normal gelirleri yılın üçüncü çeyreğinde 5,5 milyar lira oldu",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazinenin-vergi-disi-normal-gelirleri-yilin-ucuncu-ceyreginde-5-5-milyar-lira-oldu/4106683",
+   "summary": "Hazine'nin yılın üçüncü çeyreği itibarıyla vergi dışı normal gelirleri 5 milyar 516 milyon 373,1 bin lira olarak hesaplandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T14:47:19+00:00"
+  },
+  {
+   "title": "Giresun'da otomobil kaldırımdaki yayalara çarptı: 3 yaralı",
+   "link": "https://www.trthaber.com/haber/turkiye/giresunda-otomobil-kaldirimdaki-yayalara-carpti-3-yarali-961757.html",
+   "summary": "Giresun'da otomobilin önce refüje ardından kaldırımdaki yayalara çarptığı kazada 3 kişi yaralandı. Kaza anı güvenlik kamerasına yansıdı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T14:38:00+00:00"
+  },
   {
    "title": "Binance'te 'tarihin en büyük siber saldırısı': 6,3 milyar dolarlık kripto varlık etkilendi",
    "link": "https://www.bbc.com/turkce/articles/cm4g10d03rp8o?at_medium=RSS&at_campaign=rss",
@@ -18,6 +90,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-30T14:24:35+00:00"
+  },
+  {
+   "title": "İletişim Başkanı Duran'dan 'Türk Dünyası 2040 vizyonu' vurgusu",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-durandan-turk-dunyasi-2040-vizyonu-vurgusu-961755.html",
+   "summary": "İletişim Başkanı Burhanettin Duran, \"Türk Dünyası 2040 vizyonu doğrultusunda iş birliğimizi geliştirirken, ortak dilimizi, hafızamızı ve iletişim kapasitemizi de güçlendirmeliyiz\" ifadesini kullandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T14:24:00+00:00"
   },
   {
    "title": "Ukrayna Devlet Başkanı Zelenskiy yarın Türkiye'yi ziyaret edecek",
@@ -54,6 +135,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-30T14:08:09+00:00"
+  },
+  {
+   "title": "Bakan Yumaklı: Hayvancılıkta son 24 yılda sağlanan destekler 663 milyar liraya ulaştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-hayvancilikta-son-24-yilda-saglanan-destekler-663-milyar-liraya-ulasti/4106625",
+   "summary": "Tarım ve Orman Bakanı Yumaklı, hayvancılık sektörüne son 24 yılda sağlanan desteklerin 663 milyar liraya ulaştığını belirterek, \"Onay aldığı takdirde 2027 yılı için destek bütçesini yüzde 41,5 artırarak 54,5 milyar…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-30T14:07:52+00:00"
   },
   {
    "title": "Beş soruda Aliyev neden Ankara'ya gitmedi?",
@@ -267,7 +357,7 @@
    "link": "https://www.aa.com.tr/tr/spor/milan-basketbol-takimi-kurarak-nba-avrupa-ligi-projesinde-yer-almayi-planliyor/4106415",
    "summary": "İtalya Birinci Futbol Ligi ekibi Milan, basketbol takımı kurarak NBA Avrupa Ligi projesinde yer almayı planlıyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-30T12:31:03+00:00"
   },
@@ -294,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/avro-bolgesinde-issizlik-eylulde-yuzde-6-5-oldu/4106377",
    "summary": "Avro Bölgesi'nde mevsim etkisinden arındırılmış işsizlik oranı eylül ayında yüzde 6,5 seviyesinde gerçekleşti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T12:23:02+00:00"
   },
@@ -344,29 +434,11 @@
    "published": "2026-10-30T12:09:11+00:00"
   },
   {
-   "title": "Emine Erdoğan: Kadınların toplum hayatında güçlü konumları olması, medeniyet coğrafyamıza yabancı bir tecrübe değildir",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-kadinlarin-toplum-hayatinda-guclu-konumlari-olmasi-medeniyet-cografyamiza-yabanci-bir-tecrube-degildir/4106289",
-   "summary": "Emine Erdoğan, Türk Devletleri Teşkilatı (TDT) Aile ve Kadın Konseyi 1. Yüksek Onur Kurulu Toplantısı'nda, \"Kadınların toplum hayatında güçlü ve etkin konumları olması, medeniyet coğrafyamıza yabancı bir tecrübe…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T12:07:38+00:00"
-  },
-  {
-   "title": "Sıfır Atık Vakfı ve T3 Vakfı, iklim teknolojileri için gençleri buluşturacak",
-   "link": "https://www.aa.com.tr/tr/gundem/sifir-atik-vakfi-ve-t3-vakfi-iklim-teknolojileri-icin-gencleri-bulusturacak/4106232",
-   "summary": "Sıfır Atık Vakfı ile Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) ve T3 Girişim Merkezi yürütücülüğünde düzenlenecek COP31 İklim Teknolojileri Creathonu, gençleri ve girişimcileri iklim teknolojileri alanında çözüm üretmek…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T11:44:11+00:00"
-  },
-  {
    "title": "Binance TR'den açıklama",
    "link": "https://www.aa.com.tr/tr/ekonomi/binance-trden-aciklama/4106230",
    "summary": "Binance TR, platformda tüm kullanıcı varlıklarının güvende olduğunu, tedbir amaçlı olarak yalnızca kripto varlık çekim işlemlerinin geçici olarak durdurulduğunu bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T11:43:29+00:00"
   },
@@ -402,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-ham-celik-uretimi-9-ayda-yuzde-6-1-artisla-29-8-milyon-tona-cikti/4106220",
    "summary": "Türkiye'nin ham çelik üretimi, ocak-eylül döneminde geçen yılın aynı dönemine göre yüzde 6,1 artarak 29,8 milyon tona yükseldi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T11:36:18+00:00"
   },
@@ -477,15 +549,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-30T11:05:00+00:00"
-  },
-  {
-   "title": "Mustafa Sarıgül, Yeni Parti'den istifa etti",
-   "link": "https://www.bbc.com/turkce/articles/cxdd8q9ejvglo?at_medium=RSS&at_campaign=rss",
-   "summary": "Erzincan Milletvekili Mustafa Sarıgül, kendisi ve ailesine yönelik 16 Ekim'de başlatılan soruşturma tamamlanıncaya kadar Yeni Parti'den istifa ettiğini duyurdu.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/da6e/live/561263b0-cd8b-11f1-b1e7-39558e114359.jpg",
-   "published": "2026-10-30T11:03:04+00:00"
   },
   {
    "title": "Bakan Uraloğlu: Sadece 6 ilimiz bölünmüş yollarla bağlı iken bugün 77 ilimizi bölünmüş yollarla birbirine bağladık",
@@ -902,15 +965,6 @@
    "published": "2026-10-30T08:12:23+00:00"
   },
   {
-   "title": "Orta Doğu'daki gerilimlerin Avrupa hava trafiğinde 110 bin uçuşluk kayba yol açması bekleniyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/orta-dogudaki-gerilimlerin-avrupa-hava-trafiginde-110-bin-ucusluk-kayba-yol-acmasi-bekleniyor/4105877",
-   "summary": "Orta Doğu'da devam eden jeopolitik gerilimlerin Avrupa hava trafiğindeki büyümeyi sınırlandırması ve bu yıl yaklaşık 110 bin uçuşluk kayba neden olması bekleniyor.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T08:10:05+00:00"
-  },
-  {
    "title": "MotoGP'de sıradaki durak Malezya",
    "link": "https://www.aa.com.tr/tr/spor/motogpde-siradaki-durak-malezya/4105850",
    "summary": "MotoGP'de sezonun 19. yarışı Malezya'da gerçekleştirilecek.",
@@ -992,15 +1046,6 @@
    "published": "2026-10-30T07:58:00+00:00"
   },
   {
-   "title": "Türkiye'de geçen yıl 980,4 milyar liralık AR-GE harcaması yapıldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-gecen-yil-980-4-milyar-liralik-ar-ge-harcamasi-yapildi/4105778",
-   "summary": "Türkiye'de araştırma geliştirme (AR-GE) harcamalarının tutarı, geçen yıl bir önceki yıla göre 328 milyar 607 milyon lira artarak 980 milyar 428 milyon liraya yükseldi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T07:56:29+00:00"
-  },
-  {
    "title": "Gazprom'dan Avrupa'da doğal gaz için 2 bin 500 dolar tahmini",
    "link": "https://www.trthaber.com/haber/dunya/gazpromdan-avrupada-dogal-gaz-icin-2-bin-500-dolar-tahmini-961715.html",
    "summary": "Rus enerji şirketi Gazprom'un Başkanı Aleksey Miller, kışın sert geçmesi halinde Avrupa'da bin metreküp doğal gazın fiyatının 2 bin 500 dolara kadar çıkabileceğini belirtti.",
@@ -1026,15 +1071,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-30T07:45:00+00:00"
-  },
-  {
-   "title": "Türkiye'nin turizm geliri yılın üçüncü çeyreğinde yıllık bazda yüzde 5 arttı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-turizm-geliri-yilin-ucuncu-ceyreginde-yillik-bazda-yuzde-5-artti/4105705",
-   "summary": "Türkiye'nin turizm geliri, yılın üçüncü çeyreğinde geçen yılın aynı dönemine göre yüzde 5 artarak 25 milyar 526 milyon 218 bin dolar oldu.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T07:44:59+00:00"
   },
   {
    "title": "Çorum FK, Süper Lig'de yarın Erzurumspor FK'ye konuk olacak",
@@ -1181,24 +1217,6 @@
    "published": "2026-10-30T06:51:00+00:00"
   },
   {
-   "title": "Brent petrolün varili 111,57 dolardan işlem görüyor",
-   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-11157-dolardan-islem-goruyor-961706.html",
-   "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 111,57 dolardan işlem görüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T06:49:00+00:00"
-  },
-  {
-   "title": "Gram altın ne kadar oldu? 30 Ekim güncel altın fiyatları",
-   "link": "https://www.trthaber.com/haber/ekonomi/gram-altin-ne-kadar-oldu-30-ekim-guncel-altin-fiyatlari-961705.html",
-   "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 401 liradan işlem görüyor. Çeyrek altın 10 bin 546 liradan, cumhuriyet altını 41 bin 986 liradan satılıyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T06:41:00+00:00"
-  },
-  {
    "title": "ABD'de iki helikopterin çarpışması sonucu 3 kişi hayatını kaybetti",
    "link": "https://www.aa.com.tr/tr/dunya/abdde-iki-helikopterin-carpismasi-sonucu-3-kisi-hayatini-kaybetti/4105622",
    "summary": "ABD'nin Oregon eyaletinde iki helikopterin çarpışması sonucu 3 kişinin hayatını kaybettiği bildirildi.",
@@ -1278,24 +1296,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-29T21:03:57+00:00"
-  },
-  {
-   "title": "Yemen'deki Husiler: Suudi Arabistan'ın saldırılarına 6 saldırıyla karşılık verdik",
-   "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-saldirilarina-6-saldiriyla-karsilik-verdik/4105513",
-   "summary": "Yemen'deki İran destekli Husiler, Suudi Arabistan'ın düzenlediğini ileri sürdükleri saldırılara yanıt olarak 6 saldırı gerçekleştirdiklerini açıkladı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T21:02:11+00:00"
-  },
-  {
-   "title": "İsrail'de Ortak Liste liderlerinden Tıybi: Ortak Liste olarak Eisenkot'a destek vermeye hazırız",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-ortak-liste-liderlerinden-tiybi-ortak-liste-olarak-eisenkota-destek-vermeye-haziriz/4105473",
-   "summary": "İsrail seçimlerinde tarihi bir temsil düzeyine ulaşan İsrail vatandaşı Filistinlileri temsil eden partilerden Taal'in lideri Tıybi, AA'ya yaptığı açıklamada, Ortak Liste olarak Eisenkot'a destek vermeye hazır…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-29T20:26:30+00:00"
   },
   {
    "title": "Ziraat Türkiye Kupası 3. eleme turu 4 maçla tamamlandı",
