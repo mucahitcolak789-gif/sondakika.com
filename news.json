@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T22:13:38.763416+00:00",
+ "updated": "2026-10-31T22:46:48.864618+00:00",
  "items": [
   {
    "title": "Bolu Dağı Tüneli'nde tırın çarptığı otomobil takla attı: 4 yaralı",
@@ -29,6 +29,15 @@
    "published": "2026-10-31T21:29:54+00:00"
   },
   {
+   "title": "Almanya'da gençlerin protesto gösterilerinde birçok kentte olaylar çıktı",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyada-genclerin-protesto-gosterilerinde-bircok-kentte-olaylar-cikti/4107665",
+   "summary": "Almanya'nın birçok kentinde gençlerin sosyal harcamalardaki kesintileri, artan yaşam maliyetlerini ve hükümetin askerlik düzenlemelerini protesto ettiği gösterilerde olaylar çıktı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T21:16:10+00:00"
+  },
+  {
    "title": "Bakan Fidan: Rusya ve Ukrayna bir anlaşmaya varmak zorunda",
    "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-961848.html",
    "summary": "Dışişleri Bakanı Hakan Fidan, RusyaUkrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
@@ -36,15 +45,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T21:03:00+00:00"
-  },
-  {
-   "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar",
-   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-buyuk-bir-fedakarlikta-bulunarak-bir-anlasmaya-varmak-zorundalar/4107662",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T21:02:13+00:00"
   },
   {
    "title": "\"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" programı \"Sonuç Raporu\" oturumuyla tamamlandı",
@@ -1181,15 +1181,6 @@
    "published": "2026-10-31T08:03:32+00:00"
   },
   {
-   "title": "Katar basınından \"ABD ile İran arasındaki müzakerelerde ilerleme kaydedildiği\" iddiası",
-   "link": "https://www.aa.com.tr/tr/dunya/katar-basinindan-abd-ile-iran-arasindaki-muzakerelerde-ilerleme-kaydedildigi-iddiasi/4107097",
-   "summary": "Katar basını, ABD ile İran arasında yürütülen dolaylı müzakerelerde tarafların ilerleme kaydettiğini ve Amerikan heyetinin İranlı yetkililerle doğrudan görüşmeler gerçekleştirmek üzere Katar’ın başkenti Doha’ya…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-31T08:01:55+00:00"
-  },
-  {
    "title": "Fitch, Fransa'nın kredi notu görünümünü negatife çevirdi",
    "link": "https://www.aa.com.tr/tr/ekonomi/fitch-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4107082",
    "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, Fransa'nın uzun vadeli kredi notunu \"A+\" olarak teyit ederken, not görünümünü \"durağan\"dan \"negatif\"e çevirdi.",
@@ -1350,6 +1341,15 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T14:47:19+00:00"
+  },
+  {
+   "title": "KİT'lerde yılın üçüncü çeyreği itibarıyla 106 bin 817 kişi çalışıyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kitlerde-yilin-ucuncu-ceyregi-itibariyla-106-bin-817-kisi-calisiyor/4106658",
+   "summary": "Kamu İktisadi Teşebbüsleri (KİT) ve özelleştirme kapsamındaki kuruluşlarda, yılın üçüncü çeyreği itibarıyla 106 bin 817 kişi görev yapıyor.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-10-30T14:24:35+00:00"
   }
  ]
 }
