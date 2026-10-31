@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-31T17:13:13.998545+00:00",
+ "updated": "2026-10-31T17:43:44.820313+00:00",
  "items": [
+  {
+   "title": "Fon soruşturmaları: Borsa İstanbul Genel Müdürü Ergun gözaltına alındı",
+   "link": "https://www.bbc.com/turkce/articles/cqz0vjm7rjedo?at_medium=RSS&at_campaign=rss",
+   "summary": "Borsa İstanbul Genel Müdürü Korkmaz Enes Ergun, fon soruşturmaları kapsamında gözaltına alındı. İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturmada Ergun'a, \"suç işlemek amacıyla kurulan örgüte üye olma…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67b0/live/c08b4a50-d550-11f1-bcb7-8f812b44c2e5.jpg",
+   "published": "2026-10-31T17:40:34+00:00"
+  },
+  {
+   "title": "Dışişleri Bakanı Fidan, Meksika Dışişleri Bakanı Alvarez ile görüştü",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-meksika-disisleri-bakani-alvarez-ile-gorustu/4107577",
+   "summary": "Dışişleri Bakanı Hakan Fidan, ABD'nin Atlanta kentinde gerçekleştirilen G20 Dışişleri Bakanları Toplantısı marjında Meksika Dışişleri Bakanı Roberto Velasco Alvarez ile bir araya geldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T17:39:20+00:00"
+  },
+  {
+   "title": "Binance, siber saldırıda çalınan varlıkların yüzde 90'ını karşıladığını bildirdi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirida-calinan-varliklarin-yuzde-90ini-karsiladigini-bildirdi/4107567",
+   "summary": "Kripto para borsası Binance, siber saldırıda çalınan varlıklardan kaynaklanan kayıpların yüzde 90'ını karşıladığını, kalan kısmı da tamamlamak için piyasa ve tezgah üstü (OTC) kanallarından alımlarını sürdürdüğünü…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T17:20:24+00:00"
+  },
+  {
+   "title": "Trump, G20 Zirvesi öncesinde Rusya-Ukrayna barış anlaşmasına varılması konusunda umutlu",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-g20-zirvesi-oncesinde-rusya-ukrayna-baris-anlasmasina-varilmasi-konusunda-umutlu/4107562",
+   "summary": "ABD Başkanı Donald Trump, aralık ayında yapılacak G20 Zirvesi öncesinde Rusya ile Ukrayna arasında barış anlaşmasına varılması konusunda umutlu olduğunu belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T17:13:18+00:00"
+  },
+  {
+   "title": "Fransa'da Sarı Yelekliler hayat pahalılığına karşı yeniden sokaklara çıktı",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yelekliler-hayat-pahaliligina-karsi-yeniden-sokaklara-cikti/4107548",
+   "summary": "Fransa'da hükümet, 17 ve 24 Ekim'de şiddet olaylarının yaşandığı gösterilerin ardından güvenlik tedbirlerini sıkılaştırırken, Sarı Yelekliler hayat pahalılığına karşı yeniden sokaklara çıktı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T16:56:36+00:00"
+  },
   {
    "title": "Yemen ordusu: Husilere karşı düzenlenen 1119 operasyonda 427 milis etkisiz hale getirildi",
    "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-husilere-karsi-duzenlenen-1119-operasyonda-427-milis-etkisiz-hale-getirildi-/4107547",
@@ -135,6 +180,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T15:19:00+00:00"
+  },
+  {
+   "title": "Şehit Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün cenazesi Aydın'da toprağa verildi",
+   "link": "https://www.aa.com.tr/tr/gundem/sehit-piyade-sozlesmeli-er-yusuf-sait-unlunun-cenazesi-aydinda-topraga-verildi/4107451",
+   "summary": "Hakkari'nin Yüksekova ilçesinde hudut geçişi olayına müdahale sırasında açılan ateşle yaralanan ve kaldırıldığı hastanede şehit olan Piyade Sözleşmeli Er Yusuf Sait Ünlü'nün cenazesi Aydın'ın Çine ilçesinde son…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T15:18:40+00:00"
   },
   {
    "title": "Anayasa krizinin yaşandığı Polonya'da muhalefet, hükümeti güven oylamasıyla düşürmek istiyor",
@@ -294,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakci-abd-makamlari-ile-gorusme-planlarinin-olmadigini-acikladi-/4107389",
    "summary": "İran Dışişleri Bakanı Abbas Erakçi, ABD makamları ile görüşme planlarının olmadığını ve görüşmeye ilişkin ortaya atılan iddiaların gerçeği yansıtmadığını söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T13:32:15+00:00"
   },
@@ -303,7 +357,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/misirda-trafik-kazasinda-10-kisi-hayatini-kaybetti-24-kisi-yaralandi/4107384",
    "summary": "Mısır'ın başkenti Kahire'nin batısında minibüs ile tırın çarpışması sonucu ilk belirlemelere göre 10 kişi hayatını kaybetti, 24 kişi yaralandı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T13:26:12+00:00"
   },
@@ -342,15 +396,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T12:56:39+00:00"
-  },
-  {
-   "title": "Türk Dünyası Diyalog Forumu'nda \"Çok Kutuplu Dünya Düzeninde Türk Dünyasının Konumu\" ele alındı",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumunda-cok-kutuplu-dunya-duzeninde-turk-dunyasinin-konumu-ele-alindi/4107356",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından Ankara'da düzenlenen \"Türk Dünyası Diyalog Forumu\" kapsamında \"Çok Kutuplu Dünya Düzeninde Türk Dünyasının Konumu\" başlıklı yuvarlak masa toplantısı gerçekleştirildi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T12:56:26+00:00"
   },
   {
    "title": "Yurt genelinde sıcaklıklar hissedilebilir derecede azalacak",
@@ -438,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-hukumet-liselerde-egitim-kosullarini-iyilestirmeye-yonelik-taahhutlerde-bulundu/4107272",
    "summary": "Fransa Eğitim Bakanlığı, liselilerin daha iyi eğitim koşulları talebiyle haftalardır sürdürdüğü eylemlerin ardından öğretmen açıklarının kapatılması ve binaların iklim değişikliğine uyumlu hale getirilmesi gibi adımlar…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T11:30:04+00:00"
   },
@@ -459,15 +504,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T11:23:00+00:00"
-  },
-  {
-   "title": "Kahire'deki Mavi Cami, Memlük mimarisi ve Osmanlı dokunuşlarının izlerini taşıyor",
-   "link": "https://www.aa.com.tr/tr/kultur/kahiredeki-mavi-cami-memluk-mimarisi-ve-osmanli-dokunuslarinin-izlerini-tasiyor/4107268",
-   "summary": "Mısır'ın başkenti Kahire'nin tarihi Derb el-Ahmer bölgesinde yer alan ve \"Mavi Cami\" olarak bilinen Aksungur Camisi, Memlük mimarisini ve Osmanlı döneminin dokunuşlarını asırlardır bir arada yaşatıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T11:22:23+00:00"
   },
   {
    "title": "Rusya dizel ihracatı yasağını ocak sonuna kadar uzattı",
@@ -1208,15 +1244,6 @@
    "published": "2026-10-30T23:25:47+00:00"
   },
   {
-   "title": "Türkiye, Feridun Sinirlioğlu'nu BM Genel Sekreterliği için aday gösterdi",
-   "link": "https://www.aa.com.tr/tr/dunya/turkiye-feridun-sinirlioglunu-bm-genel-sekreterligi-icin-aday-gosterdi/4106991",
-   "summary": "Türkiye, eski Dışişleri Bakanı ve halen Avrupa Güvenlik ve İşbirliği Teşkilatı (AGİT) Genel Sekreteri görevini yürüten Büyükelçi Feridun Sinirlioğlu'nun Birleşmiş Milletler Genel Sekreterliği adaylığı için resmi…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-30T22:45:24+00:00"
-  },
-  {
    "title": "Ankara-Bakü geriliminde ekonominin rolü nasıl tartışılıyor?",
    "link": "https://www.bbc.com/turkce/articles/c5vgjzrmg4ngo?at_medium=RSS&at_campaign=rss",
    "summary": "2026 yılının Ekim ayında Bakü ile Ankara arasında tırmanan gerginlik, Netanyahu'nun Birleşmiş Milletler'deki (BM) konuşması sırasında Azerbaycan'ın salondan çıkmaması ve okullarda başörtüsü meselesi ile başladı. Ancak…",
@@ -1224,15 +1251,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f6ec/live/a79c13a0-d472-11f1-9dda-1ba6fcc7d159.jpg",
    "published": "2026-10-30T19:27:31+00:00"
-  },
-  {
-   "title": "Aliyev'in katılmadığı Türk Devletleri Zirvesi'nden hangi sonuçlar çıktı?",
-   "link": "https://www.bbc.com/turkce/articles/cmvg7zwd2xdzo?at_medium=RSS&at_campaign=rss",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın ev sahipliğinde gerçekleştirilen 13. Türk Devletleri Teşkilatı liderler zirvesine (TDT) Ankara-Bakü arasında yaşanan gerilim ve Azerbaycan Devlet Başkanı İlham Aliyev'in katılmaması…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6519/live/21b7d170-d490-11f1-9a20-f717db279e3e.jpg",
-   "published": "2026-10-30T18:33:14+00:00"
   },
   {
    "title": "Galatasaray, deplasmanda Konyaspor'u 4-0 yenerek liderliğini sürdürdü",
@@ -1332,24 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T14:24:35+00:00"
-  },
-  {
-   "title": "Bakan Yumaklı: Hayvancılıkta son 24 yılda sağlanan destekler 663 milyar liraya ulaştı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-hayvancilikta-son-24-yilda-saglanan-destekler-663-milyar-liraya-ulasti/4106625",
-   "summary": "Tarım ve Orman Bakanı Yumaklı, hayvancılık sektörüne son 24 yılda sağlanan desteklerin 663 milyar liraya ulaştığını belirterek, \"Onay aldığı takdirde 2027 yılı için destek bütçesini yüzde 41,5 artırarak 54,5 milyar…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T14:07:52+00:00"
-  },
-  {
-   "title": "60 saniyede ekonomide bugün (30 Ekim 2026)",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-30-ekim-2026/4106617",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T14:00:59+00:00"
   }
  ]
 }
