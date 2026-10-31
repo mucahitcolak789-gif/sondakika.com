@@ -1,24 +1,6 @@
 {
- "updated": "2026-10-31T11:50:11.838252+00:00",
+ "updated": "2026-10-31T12:30:38.060184+00:00",
  "items": [
-  {
-   "title": "Bakan Kacır, TÜRKPATENT'in ücret tarifesine ilişkin düzenlemeyi değerlendirdi",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-turkpatentin-ucret-tarifesine-iliskin-duzenlemeyi-degerlendirdi/4107280",
-   "summary": "Bakan Kacır, Türk Patent ve Marka Kurumunun (TÜRKPATENT), KOBİ'lerin buluşlarının ve ülkedeki yapay zeka alanında geliştirilen yeniliklerin patentlenmesini teşvik etmek amacıyla önemli bir indirim uygulamasını hayata…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T11:41:49+00:00"
-  },
-  {
-   "title": "\"COP31 İklim Teknolojileri Creathonu\"na başvurular sürüyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/cop31-iklim-teknolojileri-creathonuna-basvurular-suruyor/4107279",
-   "summary": "Küresel iklim zirvesi COP31 kapsamında, iklim krizine karşı teknoloji odaklı çözümler geliştirmeyi hedefleyen \"COP31 İklim Teknolojileri Creathonu\" için başvurular 2 Kasım'a kadar devam edecek.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T11:41:23+00:00"
-  },
   {
    "title": "Ukrayna: Saldırılar nedeniyle Kiev ve Dnipropetrovsk bölgelerinde yaklaşık 280 bin aile elektriksiz",
    "link": "https://www.trthaber.com/haber/dunya/ukrayna-saldirilar-nedeniyle-kiev-ve-dnipropetrovsk-bolgelerinde-yaklasik-280-bin-aile-elektriksiz-961822.html",
@@ -51,7 +33,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti/4107267",
    "summary": "Rus hükümeti, dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ocak 2027'ye kadar uzattı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T11:21:05+00:00"
   },
@@ -60,72 +42,36 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-el-halilde-askeri-baskiyi-sikilastirirken-bolgeye-takviye-birlikler-sevk-etti/4107266",
    "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentinin meskun mahallelerinde askeri varlığını artırıyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T11:20:37+00:00"
+  },
+  {
+   "title": "Bakan Uraloğlu: Dallıkavak Tüneli ile yolumuzu 20 dakikadan 5 dakikaya indirdik",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-uraloglu-dallikavak-tuneli-ile-yolumuzu-20-dakikadan-5-dakikaya-indirdik/4107262",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, Dallıkavak Tüneli'ne ilişkin \"Yolumuzu yaklaşık 4,5 kilometre kısaltarak 20 dakikadan sadece 5 dakikaya indirdik. Bu sayede toplam 103 milyon lira da yıllık buradan…",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-10-31T11:12:23+00:00"
   },
   {
    "title": "Hamaney’den askeri yetkililere olası saldırılara karşı \"ani ve coğrafi sınırı olmayan cevap verilmesi\" talimatı",
    "link": "https://www.aa.com.tr/tr/dunya/hamaney-den-askeri-yetkililere-olasi-saldirilara-karsi-ani-ve-cografi-siniri-olmayan-cevap-verilmesi-talimati/4107261",
    "summary": "İran lideri Mücteba Hamaney'in, ABD ile yeni bir çatışma yaşanabileceğine ilişkin iddiaların ardından askeri yetkililerle bir araya gelerek olası saldırılara karşı \"ani ve coğrafi sınır tanımayan bir karşılık verilmesi\"…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T11:11:24+00:00"
-  },
-  {
-   "title": "Şiirlerinde İstanbul'u ve tarihi yaşatan usta şair: Yahya Kemal Beyatlı",
-   "link": "https://www.aa.com.tr/tr/kultur/siirlerinde-istanbulu-ve-tarihi-yasatan-usta-sair-yahya-kemal-beyatli/4107256",
-   "summary": "\"Kendi Gök Kubbemiz\" ve \"Aziz İstanbul\"un da aralarında bulunduğu çok sayıda kitabı Türk edebiyatına kazandıran usta şair ve yazar Yahya Kemal Beyatlı'nın vefatının üzerinden 68 yıl geçti.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T11:05:16+00:00"
   },
   {
    "title": "Suriye Dışişleri Bakanı, Mekke Ortak Savunma Anlaşması'na katılım için görüşmelerin sürdüğünü söyledi",
    "link": "https://www.aa.com.tr/tr/dunya/suriye-disisleri-bakani-mekke-ortak-savunma-anlasmasina-katilim-icin-gorusmelerin-surdugunu-soyledi/4107255",
    "summary": "Suriye Dışişleri Bakanı Şeybani, ülkesinin Mekke Ortak Savunma Anlaşması'na katılımını değerlendirmek üzere görüşmelerin sürdüğünü belirterek, Türkiye ile olan ilişkilerin siyasi, ekonomik ve askeri alanlarda üst…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T11:04:24+00:00"
-  },
-  {
-   "title": "Kilo vermede medikal yönteme başvuran iki sağlık çalışanı fazla kilolarından kurtuldu",
-   "link": "https://www.aa.com.tr/tr/gundem/kilo-vermede-medikal-yonteme-basvuran-iki-saglik-calisani-fazla-kilolarindan-kurtuldu/4107254",
-   "summary": "Ümraniye Eğitim ve Araştırma Hastanesi'nde fazla kilo nedeniyle tedavi gören asistan doktor Ezgi Renkli Çelik, 9 ayda 50 kilo, hemşire Yasemin Özer ise 1 yılda 30 kilo verdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:59:57+00:00"
-  },
-  {
-   "title": "CANLI: Cumhurbaşkanı Erdoğan konuşuyor",
-   "link": "https://www.aa.com.tr/tr/gundem/canli-cumhurbaskani-erdogan-konusuyor/4107253",
-   "summary": "Cumhurbaşkanı Erdoğan, Rixos Tersane İstanbul'da düzenlenen 12. Türk Tıp Dünyası Kurultayı ve TÜSEB Aziz Sancar Bilim, Hizmet ve Teşvik Ödülleri Töreni'nde konuşuyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:58:30+00:00"
-  },
-  {
-   "title": "Annesinin hastalığı sayesinde erkeklerde de görülen meme kanserini erken fark etti",
-   "link": "https://www.aa.com.tr/tr/gundem/annesinin-hastaligi-sayesinde-erkeklerde-de-gorulen-meme-kanserini-erken-fark-etti/4107252",
-   "summary": "Annesinin meme kanseri tedavisi sürecinde edindiği bilgiler sayesinde kendi hastalığını erken evrede fark eden Erdal Çöten, ameliyat ve ilaç tedavisinin ardından sağlıklı yaşamını sürdürüyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:58:13+00:00"
-  },
-  {
-   "title": "7 yaşındaki oğluyla İzmir'den motosikletle umreye gitti",
-   "link": "https://www.aa.com.tr/tr/gundem/7-yasindaki-ogluyla-izmirden-motosikletle-umreye-gitti/4107251",
-   "summary": "Umre ibadetini yerine getirmek için İzmir'den motosikletle yola çıkan Onur Şafak Çelik ve 7 yaşındaki oğlu Özgür Ulaş, Suriye ve Ürdün üzerinden Suudi Arabistan'daki kutsal topraklara ulaşmanın heyecanını ve sevincini…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:55:14+00:00"
   },
   {
    "title": "C﻿adılar Bayramı nedir, neden kutlanıyor?",
@@ -137,29 +83,11 @@
    "published": "2026-10-31T10:54:44+00:00"
   },
   {
-   "title": "YÖK üniversitelerde haftanın öne çıkan çalışmalarını paylaştı",
-   "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerde-haftanin-one-cikan-calismalarini-paylasti/4107249",
-   "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerde sağlık teknolojileri, kimya, yapay zeka uygulamaları, deniz ekosisteminin korunması, sürdürülebilir tarım gibi birçok alanda haftanın öne çıkan çalışmalarını paylaştı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:53:54+00:00"
-  },
-  {
-   "title": "\"Türk Dünyası Diyalog Forumu\" kapsamında \"Küresel Dönüşüm Çağında Türk Dünyasının Jeopolitik Rolü\" Paneli düzenlendi",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-kuresel-donusum-caginda-turk-dunyasinin-jeopolitik-rolu-paneli-duzenlendi/4107244",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca \"Türk Dünyası Diyalog Forumu\" kapsamında Ankara'daki otelde \"Küresel Dönüşüm Çağında Türk Dünyasının Jeopolitik Rolü\" başlıklı panel düzenlendi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:45:52+00:00"
-  },
-  {
    "title": "Tarımda 2027 üretim yılı biyolojik ve biyoteknik mücadele destekleri belirlendi",
    "link": "https://www.aa.com.tr/tr/ekonomi/tarimda-2027-uretim-yili-biyolojik-ve-biyoteknik-mucadele-destekleri-belirlendi/4107238",
    "summary": "Bitkisel üretimde 2027 yılında sağlanacak biyolojik ve biyoteknik mücadele destek tutarları belli oldu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T10:39:50+00:00"
   },
@@ -213,7 +141,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/rekabet-kurumu-findik-sektorune-yonelik-siki-takibini-surduruyor/4107232",
    "summary": "Rekabet Kurumu Başkanı Birol Küle, \"Fındık alım-satım pazarının önde gelen 6 büyük teşebbüsü hakkında ciddi rekabet ihlali şüphesiyle 22 Ekim'de soruşturma açtık.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T10:22:52+00:00"
   },
@@ -222,7 +150,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/emine-erdogandan-turk-devletleri-teskilati-13-zirvesine-iliskin-paylasim/4107224",
    "summary": "Emine Erdoğan, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi'ne ilişkin paylaşım yaptı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T10:17:18+00:00"
   },
@@ -267,27 +195,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasina-yakin-bolgede-2-balikci-teknesi-dusman-saldirisina-ugradi/4107209",
    "summary": "İran basını, Hürmüz Boğazı’nda yer alan Keşm Adası’nın güneyinde \"düşman\" insansız hava aracının (İHA) 2 balıkçı teknesine saldırdığını, 2 balıkçının yaralandığını, 2 kişinin kayıp olduğunu bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T09:56:47+00:00"
-  },
-  {
-   "title": "Milli Savunma Bakanlığı, Türk Yıldızları'nın Ankara uçuşundan görüntü paylaştı",
-   "link": "https://www.aa.com.tr/tr/gundem/milli-savunma-bakanligi-turk-yildizlarinin-ankara-ucusundan-goruntu-paylasti/4107206",
-   "summary": "Milli Savunma Bakanlığı (MSB), Türk Hava Kuvvetlerinin akrobasi timi Türk Yıldızları'nın, Türk Devletleri Medeniyet Parkı'nın açılış törenindeki selamlama uçuşundan görüntü paylaştı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T09:52:37+00:00"
-  },
-  {
-   "title": "Bakan Memişoğlu: En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-memisoglu-en-gec-2027nin-basinda-tusebden-robotik-cerrahi-cihazi-icin-cagriya-cikacagiz/4107204",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"En geç 2027'nin başında TÜSEB'den robotik cerrahi cihazı için çağrıya çıkacağız. Dünyaya 'Gelin beraber üretelim bunu' diyeceğiz.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T09:45:46+00:00"
   },
   {
    "title": "İstanbul'daki kara para aklama soruşturmasında 2 şüpheli daha tutuklandı",
@@ -299,38 +209,20 @@
    "published": "2026-10-31T09:45:00+00:00"
   },
   {
-   "title": "Kültür Yolu Festivalleri ile yerel lezzetler yıl boyunca tanıtılacak",
-   "link": "https://www.aa.com.tr/tr/kultur/kultur-yolu-festivalleri-ile-yerel-lezzetler-yil-boyunca-tanitilacak/4107202",
-   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, \"Her şehirde, özellikle lezzet konusunda iyi olan ama şehrin kültürüne uygun eski reçetelere menüsünde yer veren restoranları tespit ediyoruz.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T09:44:18+00:00"
-  },
-  {
    "title": "48. İstanbul Maratonu yarın koşulacak",
    "link": "https://www.aa.com.tr/tr/spor/48-istanbul-maratonu-yarin-kosulacak/4107200",
    "summary": "Türkiye İş Bankası 48. İstanbul Maratonu, yarın gerçekleştirilecek. Dünyanın kıtalar arasında koşulan tek maratonu olma özelliğini taşıyan organizasyona 143 ülkeden 45 bin 679 kişi kayıt yaptırdı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-31T09:40:49+00:00"
-  },
-  {
-   "title": "37. Ankara Film Festivali sinemaseverleri dünya sinemasının seçkin yapımlarıyla buluşturacak",
-   "link": "https://www.aa.com.tr/tr/kultur/37-ankara-film-festivali-sinemaseverleri-dunya-sinemasinin-seckin-yapimlariyla-bulusturacak/4107198",
-   "summary": "Bu yıl 37'ncisi düzenlenecek Ankara Film Festivali, 12-20 Kasım'da Kızılay Büyülü Fener Sineması'nda ulusal ve uluslararası sinemanın seçkin örneklerini, yapay zeka odaklı etkinlikleri ve önemli isimleri sanatseverlerle…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T09:38:55+00:00"
   },
   {
    "title": "Türkiye, milyon dolarlık Hint düğünlerinde pazar payını artırıyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-milyon-dolarlik-hint-dugunlerinde-pazar-payini-artiriyor/4107194",
    "summary": "Türkiye, güçlü turizm altyapısı, lüks otelleri ve ulaşım imkanlarıyla uluslararası toplantı, kongre ve düğün organizasyonlarında tercih edilen destinasyonlar arasında yer alıyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T09:31:44+00:00"
   },
@@ -339,18 +231,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-askeri-sanayi-ve-enerji-tesislerini-vurduk/4107193",
    "summary": "Rusya Savunma Bakanlığı, Ukrayna’nın başkenti Kiev ile Harkiv kentinde askeri sanayi ve enerji tesislerini vurduklarını duyurdu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T09:31:11+00:00"
-  },
-  {
-   "title": "\"Türk Dünyası Diyalog Forumu\" kapsamında yapay zekanın sınamaları tartışıldı",
-   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-kapsaminda-yapay-zekanin-sinamalari-tartisildi/4107189",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, \"Türk Dünyası Diyalog Forumu\" kapsamında \"Türk Devletleri İletişim Perspektifi: Yapay Zeka Sınamaları\" konulu yuvarlak masa toplantısı düzenledi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T09:26:32+00:00"
   },
   {
    "title": "MotoGP Malezya Grand Prix'sinde sprint yarışını Pedro Acosta kazandı",
@@ -587,15 +470,6 @@
    "published": "2026-10-31T08:15:39+00:00"
   },
   {
-   "title": "Türkiye ile Kuzey Makedonya arasında sağlık alanında mutabakat zaptı imzalandı",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-kuzey-makedonya-arasinda-saglik-alaninda-mutabakat-zapti-imzalandi/4107122",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, Türkiye ile Kuzey Makedonya arasında sağlık alanındaki işbirliğini geliştirmek amacıyla \"Sağlık ve Tıp Bilimleri Alanında Mutabakat Zaptı\" imzalandığını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T08:15:06+00:00"
-  },
-  {
    "title": "Milletlerarası anlaşma Resmi Gazete'de yayımlandı",
    "link": "https://www.trthaber.com/haber/gundem/milletlerarasi-anlasma-resmi-gazetede-yayimlandi-961796.html",
    "summary": "Türk Devletleri Teşkilatına TDT Üye Devletlerin Hükümetleri Arasında İmzalanan Milletlerarası Anlaşma, Cumhurbaşkanı Recep Tayyip Erdoğan tarafından onaylanmasının ardından Resmi Gazete'de yayımlandı.",
@@ -609,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/spor/dunya-sampiyonu-atici-yuzbasi-ismail-keles-hedefini-los-angeles-olimpiyatlarina-cevirdi/4107119",
    "summary": "Azerbaycan ve Endonezya'da düzenlenen Havalı ve Ateşli Silahlar Dünya Kupaları'nda iki kez dünya şampiyonluğu elde eden Yüzbaşı İsmail Keleş, hedefini 2028 Los Angeles Olimpiyatları olarak belirledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-31T08:13:02+00:00"
   },
@@ -627,7 +501,7 @@
    "link": "https://www.aa.com.tr/tr/spor/trabzonsporun-gaziantep-fk-karsisinda-yenilgisi-yok/4107113",
    "summary": "Trendyol Süper Lig'in 10. haftasında yarın sahasında Gaziantep FK ile karşılaşacak Trabzonspor, rakibi karşısında bugüne dek hiç yenilmeyerek iyi bir grafik gösterdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-31T08:08:30+00:00"
   },
@@ -654,7 +528,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/cop31in-antalya-turizmine-katkisinin-2027de-surmesi-bekleniyor/4107106",
    "summary": "Akdeniz Turistik Otelciler ve İşletmeciler Birliği Başkanı Kaan Kaşif Kavaloğlu, \"Ülkemizde yapılan, olumlu sonuçlanan her pozitif etkinlik muhakkak 2027 yılına, önümüzdeki yıllara yansıyacaktır. COP31, bunun en güzel…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T08:06:33+00:00"
   },
@@ -1334,15 +1208,6 @@
    "published": "2026-10-30T11:40:15+00:00"
   },
   {
-   "title": "Bankacılık sektörünün kredi hacmi 28,8 trilyon liraya yükseldi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bankacilik-sektorunun-kredi-hacmi-28-8-trilyon-liraya-yukseldi/4106223",
-   "summary": "Bankacılık sektörünün toplam kredi hacmi, 23 Ekim itibarıyla 28,8 trilyon liraya çıktı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T11:36:58+00:00"
-  },
-  {
    "title": "Afrika Uluslar Kupası iki yılda bir yapılmaya devam edecek",
    "link": "https://www.aa.com.tr/tr/spor/afrika-uluslar-kupasi-iki-yilda-bir-yapilmaya-devam-edecek/4106184",
    "summary": "Afrika Futbol Konfederasyonu (CAF), daha önce dört yılda bir düzenlenmesine yönelik karar alınan Afrika Uluslar Kupası'nın iki yılda bir yapılmaya devam edeceğini açıkladı.",
@@ -1350,6 +1215,141 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-30T11:05:38+00:00"
+  },
+  {
+   "title": "UEFA Stadyum ve Güvenlik Komitesi, Nyon'da toplandı",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-stadyum-ve-guvenlik-komitesi-nyonda-toplandi/4106183",
+   "summary": "UEFA Stadyum ve Güvenlik Komitesi'nin olağan toplantısı, İsviçre'nin Nyon kentindeki UEFA Genel Merkezi'nde gerçekleştirildi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T11:05:22+00:00"
+  },
+  {
+   "title": "ABD ara seçimleri neden önemli? Yedi temel soru",
+   "link": "https://www.bbc.com/turkce/articles/cmq8nwyxk1gdo?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'li seçmenler, Donald Trump'ın başkanlığı üzerinde büyük etkisi olabilecek ara seçim için 3 Kasım'da sandık başına gidecek.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0722/live/5cb72e20-be3c-11f1-a64c-550be9e3c66b.png",
+   "published": "2026-10-30T10:37:04+00:00"
+  },
+  {
+   "title": "Kocaelispor, Süper Lig'de bugün Çaykur Rizespor'u konuk edecek",
+   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-bugun-caykur-rizesporu-konuk-edecek/4106099",
+   "summary": "Kocaelispor, Trendyol Süper Lig'in 10. haftasında bugün Çaykur Rizespor'u ağırlayacak.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T09:57:39+00:00"
+  },
+  {
+   "title": "Trabzonspor Teknik Direktörü Reis, disiplin ve özgürlüğü ön planda tutuyor",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-teknik-direktoru-reis-disiplin-ve-ozgurlugu-on-planda-tutuyor/4106097",
+   "summary": "Trabzonspor'un Alman teknik direktörü Thomas Reis, bir takımda disiplinin yanı sıra belirli kuralların bulunması gerektiğini, tarzının disiplin ve özgürlük üzerine kurulu olduğunu belirtti.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T09:57:33+00:00"
+  },
+  {
+   "title": "Ziraat Bankkart'ın Dünya Kulüpler Voleybol Şampiyonası'ndaki maç programı belli oldu",
+   "link": "https://www.aa.com.tr/tr/spor/ziraat-bankkartin-dunya-kulupler-voleybol-sampiyonasindaki-mac-programi-belli-oldu/4106054",
+   "summary": "2026 FIVB Erkekler Dünya Kulüpler Voleybol Şampiyonası'nda mücadele edecek Ziraat Bankkart'ın maç programı duyuruldu.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T09:23:57+00:00"
+  },
+  {
+   "title": "PFDK'den 4 Süper Lig kulübüne ceza",
+   "link": "https://www.aa.com.tr/tr/spor/pfdkden-4-super-lig-kulubune-ceza/4106027",
+   "summary": "Türkiye Futbol Federasyonu (TFF) Profesyonel Futbol Disiplin Kurulu (PFDK), Süper Lig'den 4 kulübe ceza verdi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T09:04:37+00:00"
+  },
+  {
+   "title": "Fenerbahçe ile Göztepe 61. randevuda",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-ile-goztepe-61-randevuda/4105947",
+   "summary": "Fenerbahçe ile Göztepe, bugün Süper Lig'de 61. kez karşılaşacak.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T08:20:47+00:00"
+  },
+  {
+   "title": "MotoGP'de sıradaki durak Malezya",
+   "link": "https://www.aa.com.tr/tr/spor/motogpde-siradaki-durak-malezya/4105850",
+   "summary": "MotoGP'de sezonun 19. yarışı Malezya'da gerçekleştirilecek.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T08:06:42+00:00"
+  },
+  {
+   "title": "Uzun yıllar ara verdikleri güreş kariyerlerini Dünya Şampiyonası'nda dereceyle taçlandırdılar",
+   "link": "https://www.aa.com.tr/tr/spor/uzun-yillar-ara-verdikleri-gures-kariyerlerini-dunya-sampiyonasinda-dereceyle-taclandirdilar/4105847",
+   "summary": "İzmir'de ara verdikleri güreş içlerinde ukde kalan, bu nedenle yıllar sonra tekrar mindere dönen Murat Kaya ve Harun Demir, 50 ülkeden yaklaşık 550 sporcunun katıldığı Veteranlar Dünya Şampiyonası'nda başarı elde etti.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T08:06:33+00:00"
+  },
+  {
+   "title": "Almanya'ya göç eden ilk kuşak Türkler, 65 yıllık göç hikayelerini anlattı",
+   "link": "https://www.aa.com.tr/tr/dunya/almanyaya-goc-eden-ilk-kusak-turkler-65-yillik-goc-hikayelerini-anlatti/4105814",
+   "summary": "Çalışmak için Almanya'ya gelen ilk kuşak Türkler, Türkiye ile Almanya arasında 1961'de imzalanan İşgücü Anlaşması'nın 65. yılında bu ülkede kurdukları yaşamı anlattı.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-10-30T08:02:17+00:00"
+  },
+  {
+   "title": "Göztepe, deplasmanda Fenerbahçe ile karşılaşacak",
+   "link": "https://www.aa.com.tr/tr/spor/goztepe-deplasmanda-fenerbahce-ile-karsilasacak/4105741",
+   "summary": "Göztepe, Trendyol Süper Lig'in 10. haftasında bugün deplasmanda Fenerbahçe'ye konuk olacak.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T07:50:47+00:00"
+  },
+  {
+   "title": "Çorum FK, Süper Lig'de bugün Erzurumspor FK'ye konuk olacak",
+   "link": "https://www.aa.com.tr/tr/spor/corum-fk-super-ligde-bugun-erzurumspor-fkye-konuk-olacak/4105684",
+   "summary": "Arca Çorum FK, Trendyol Süper Lig'in 10. haftasında bugün deplasmanda Erzurumspor FK ile karşılaşacak.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T07:41:09+00:00"
+  },
+  {
+   "title": "Formula 1'de sıradaki durak Meksika",
+   "link": "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-meksika/4105657",
+   "summary": "Formula 1 Dünya Şampiyonası'nda heyecan, sezonun 19. yarışı Meksika Grand Prix'siyle devam edecek.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T07:22:10+00:00"
+  },
+  {
+   "title": "Voleybolda haftanın programı",
+   "link": "https://www.aa.com.tr/tr/spor/voleybolda-haftanin-programi/4105643",
+   "summary": "Voleybolda SMS Grup Efeler Ligi'nde 4'üncü, Vodafone Sultanlar Ligi'nde ise 6'ncı hafta karşılaşmaları yapılacak.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T07:08:28+00:00"
+  },
+  {
+   "title": "31 Mart yerel seçimlerinden bugüne İstanbul'un belediye dağılımı nasıl değişti?",
+   "link": "https://www.bbc.com/turkce/articles/ck054dlgm8zdo?at_medium=RSS&at_campaign=rss",
+   "summary": "İstanbul'da seçilmiş 26 CHP'li ilçe belediye başkanından 14'ü çeşitli suçlamalarla soruşturma geçirdi. Tutuklu yargılamaların sürdüğü yönetimlerde başkanvekilliği seçimleri yapıldı. Bazı belediyelerde yönetimler…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d68d/live/53c6d680-d2f0-11f1-b441-2b33b063138f.png",
+   "published": "2026-10-30T00:14:01+00:00"
   }
  ]
 }
