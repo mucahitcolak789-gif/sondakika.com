@@ -1,6 +1,123 @@
 {
- "updated": "2026-10-31T08:33:29.121249+00:00",
+ "updated": "2026-10-31T09:19:41.303696+00:00",
  "items": [
+  {
+   "title": "EPDK meskenlere yönelik elektrik tüketim limitinde değişikliğe gitti",
+   "link": "https://www.aa.com.tr/tr/ekonomi/epdk-meskenlere-yonelik-elektrik-tuketim-limitinde-degisiklige-gitti/4107173",
+   "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), Son Kaynak Tedarik Tarifesinin Düzenlenmesi Hakkında Tebliğ'de değişikliğe gitti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T09:16:10+00:00"
+  },
+  {
+   "title": "Türkiye ve Kazakistan arasındaki üst düzey temaslar dış ticareti rekor seviyeye taşıdı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-kazakistan-arasindaki-ust-duzey-temaslar-dis-ticareti-rekor-seviyeye-tasidi/4107172",
+   "summary": "Türkiye, Kazakistan'la 2025 sonunda 7,9 milyar dolarla rekor seviyeye çıkardığı ticaret hacmini 15 milyar dolara taşımayı hedefliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T09:16:06+00:00"
+  },
+  {
+   "title": "Türkiye Herkes İçin Spor Federasyonu, 3 uluslararası işbirliği protokolü imzaladı",
+   "link": "https://www.aa.com.tr/tr/spor/turkiye-herkes-icin-spor-federasyonu-3-uluslararasi-isbirligi-protokolu-imzaladi/4107169",
+   "summary": "Türkiye Herkes İçin Spor Federasyonu Başkanı Kerim Çomoğlu, Antalya'da Uluslararası Herkes İçin Spor Federasyonu, Avrupa Herkes İçin Spor Birliği ve İtalya Herkes İçin Spor Federasyonu (FISpT Italia) ile üç ayrı…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T09:14:02+00:00"
+  },
+  {
+   "title": "ABD, Ukrayna'ya 500 adet Patriot füzesi satışını onayladı",
+   "link": "https://www.bbc.com/turkce/articles/ck87zqz878ydo?at_medium=RSS&at_campaign=rss",
+   "summary": "Amerika Birleşik Devletleri, Rusya'nın artan hava saldırılarına karşı savunmada kritik rol oynaması beklenen 500 adet Patriot füzesinin Ukrayna'ya satışını onayladı. Amerikan yapımı füze önleme sistemleri, Rusya'nın…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea75/live/f93e2820-d4b7-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-10-31T09:08:18+00:00"
+  },
+  {
+   "title": "Polonya Cumhurbaşkanı, Anayasa Mahkemesindeki olayların ardından siyasetçilerle acil istişarede bulunacak",
+   "link": "https://www.aa.com.tr/tr/dunya/polonya-cumhurbaskani-anayasa-mahkemesindeki-olaylarin-ardindan-siyasetcilerle-acil-istisarede-bulunacak/4107162",
+   "summary": "Polonya Cumhurbaşkanı Karol Nawrocki, Anayasa Mahkemesinde anayasal düzenin ihlal edildiğini, anayasal düzenin yeniden tesis edilmesi amacıyla parlamentodaki siyasi güçlerin temsilcileriyle acil istişareler…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T09:06:08+00:00"
+  },
+  {
+   "title": "Patent ve marka ücret tarifesinde değişik",
+   "link": "https://www.trthaber.com/haber/ekonomi/patent-ve-marka-ucret-tarifesinde-degisik-961807.html",
+   "summary": "Türk Patent ve Marka Kurumunun TÜRKPATENT bu yıl için uyguladığı ücret tarifesinde düzenleme yapıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T09:05:00+00:00"
+  },
+  {
+   "title": "Yerli aşı ve tıbbi cihazda yerli hamle",
+   "link": "https://www.trthaber.com/haber/ekonomi/yerli-asi-ve-tibbi-cihazda-yerli-hamle-961806.html",
+   "summary": "Türkiye, sağlık teknolojilerinde yerlileşme adımlarını hızlandırıyor. Gelecek yıl aşı ve biyoteknolojik ilaç projeleri desteklenirken, yerli kanser tanı kitleri geliştirilecek ve yenilikçi tıbbi cihazların…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:57:00+00:00"
+  },
+  {
+   "title": "TDT Aile ve Kadın Konseyi için lider eşlerinden destek",
+   "link": "https://www.aa.com.tr/tr/gundem/tdt-aile-ve-kadin-konseyi-icin-lider-eslerinden-destek/4107146",
+   "summary": "TDT Aile ve Kadın Konseyi için Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'in eşi Ziroat Mirziyoyeva, Kırgızistan Cumhurbaşkanı Sadır Caparov'un eşi Aygül Caparova ve KKTC Cumhurbaşkanı Tufan Erhürman'ın eşi Nilden…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:49:59+00:00"
+  },
+  {
+   "title": "Türkiye'nin yüksek teknolojiye yatırımı katlandı",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-yuksek-teknolojiye-yatirimi-katlandi-961804.html",
+   "summary": "Milli Teknoloji Hamlesi ile ivme kazanan yüksek teknoloji ARGE harcamaları, son 10 yılda yaklaşık 45 kat artarak 154 milyar liraya ulaştı. İmalat sanayisindeki ARGE harcamalarında aslan payını alan yüksek teknoloji,…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:49:00+00:00"
+  },
+  {
+   "title": "Trump döneminde ABD'nin göç politikası nasıl değişti?",
+   "link": "https://www.bbc.com/turkce/articles/cqrky1552r25o?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD Başkanı Donald Trump, ikinci döneminde göçmenlere karşı sert adımlar attı. Peki Trump'ın yaklaşımı ABD'nin göç politikasını nasıl değiştirdi?",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/eeb3/live/8c0c5bf0-d138-11f1-be77-d1864d279cb0.jpg",
+   "published": "2026-10-31T08:48:47+00:00"
+  },
+  {
+   "title": "Ankara Devlet Tiyatrosu'nun yeni sezonda hedefi 500 bini aşkın seyirciye ulaşmak",
+   "link": "https://www.trthaber.com/haber/kultur-sanat/ankara-devlet-tiyatrosunun-yeni-sezonda-hedefi-500-bini-askin-seyirciye-ulasmak-961803.html",
+   "summary": "Ankara Devlet Tiyatrosu, yeni sezonda 15 oyunun prömiyerini gerçekleştirerek, 500 binin üzerinde seyirciye ulaşmayı hedefliyor. Atatürk'ün Kurtuluş Savaşı öncesindeki yaşamı \"Koza\" ile sahneye taşınacak, Türkistan'dan…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:47:00+00:00"
+  },
+  {
+   "title": "Türkiye ile Kuzey Makedonya arasında sağlıkta işbirliği",
+   "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-kuzey-makedonya-arasinda-saglikta-isbirligi-961802.html",
+   "summary": "Sağlık Bakanı Kemal Memişoğlu, Türkiye ile Kuzey Makedonya arasında sağlık alanındaki işbirliğini geliştirmek amacıyla \"Sağlık ve Tıp Bilimleri Alanında Mutabakat Zaptı\" imzalandığını bildirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:47:00+00:00"
+  },
+  {
+   "title": "Bakan Ersoy: Türk mutfağını dünyada hak ettiği zirveye taşımak için çalışıyoruz",
+   "link": "https://www.aa.com.tr/tr/kultur/bakan-ersoy-turk-mutfagini-dunyada-hak-ettigi-zirveye-tasimak-icin-calisiyoruz/4107144",
+   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, \"Türk mutfağını dünyada hak ettiği zirveye taşımak ve küresel bilinirliğini artırmak için çalışıyoruz. Festivali Türk mutfağının zenginliğini tanıtmak için bir vitrin olarak…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:45:26+00:00"
+  },
   {
    "title": "Suriye'de geçim krizi: 'Nüfusun önemli kısmı Esad dönemine kıyasla daha kötü durumda'",
    "link": "https://www.bbc.com/turkce/articles/cwy8l23nylm0o?at_medium=RSS&at_campaign=rss",
@@ -8,7 +125,25 @@
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/acad/live/bd8904b0-d20c-11f1-b3b6-c1e79e957e40.jpg",
-   "published": "2026-10-31T08:28:06+00:00"
+   "published": "2026-10-31T08:40:21+00:00"
+  },
+  {
+   "title": "Küresel piyasalarda yön arayışı sürüyor",
+   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalarda-yon-arayisi-suruyor-961800.html",
+   "summary": "ABD'li teknoloji şirketlerinin açıkladığı bilançolardan gelen karışık sinyaller ve yapay zeka harcamalarının karlılığına dair endişelerle haftayı dalgalı tamamlayan küresel piyasalarda gözler, yeni rotayı belirleyecek…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:32:00+00:00"
+  },
+  {
+   "title": "ANKA yurt dışında ilk kez Kazakistan'da üretilecek",
+   "link": "https://www.trthaber.com/haber/gundem/anka-yurt-disinda-ilk-kez-kazakistanda-uretilecek-961801.html",
+   "summary": "Türkiye ile Kazakistan arasında savunma sanayisinde hayata geçirilen iş birlikleri öncü şirketlerin attığı adımlarla güçlü ortaklıklara dönüşüyor. Türk zırhlı kara araçlarının üretimine hazırlanan Kazakistan, insansız…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:31:00+00:00"
   },
   {
    "title": "TMO'nun 2027'de 5 milyon ton buğday, 1,5 milyon ton mısır alması öngörülüyor",
@@ -18,15 +153,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T08:27:44+00:00"
-  },
-  {
-   "title": "TDT Aile ve Kadın Konseyi için lider eşlerinden destek",
-   "link": "https://www.trthaber.com/haber/gundem/tdt-aile-ve-kadin-konseyi-icin-lider-eslerinden-destek-961799.html",
-   "summary": "Türk Devletleri Teşkilatı çatısı altında kuruluş çalışmaları başlatılan Aile ve Kadın Konseyi için Özbekistan Cumhurbaşkanı Şevket Mirziyoyev'in eşi Ziroat Mirziyoyeva, Kırgızistan Cumhurbaşkanı Sadır Caparov'un eşi…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T08:25:00+00:00"
   },
   {
    "title": "COP31'de ulaşım çevre dostu otobüslerle sağlanacak",
@@ -74,9 +200,9 @@
    "published": "2026-10-31T08:15:39+00:00"
   },
   {
-   "title": "İran’dan ABD’ye \"savaşın ateşi daha geniş bir coğrafyayı saracak\" tehdidi",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-dan-abd-ye-savasin-atesi-daha-genis-bir-cografyayi-saracak-tehdidi/4107125",
-   "summary": "İran Ordu Sözcüsü Tuğgeneral Muhammed Ekreminiya, ABD’nin İran’a yönelik olası yeni bir saldırı düzenlemesi halinde \"savaşın ateşi daha geniş bir coğrafyayı saracak.\" dedi.",
+   "title": "ABD'nin, Körfez ülkelerini İran'a saldırıların 4 Kasım'da başlayabileceği konusunda uyardığı iddia edildi",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-korfez-ulkelerini-irana-saldirilarin-4-kasimda-baslayabilecegi-konusunda-uyardigi-iddia-edildi/4107125",
+   "summary": "ABD Başkanı Donald Trump yönetiminin, Körfez ülkelerini 4 Kasım gibi erken bir tarihte İran'a yönelik \"kısa ve yoğun bir saldırı dalgası\"na hazır olmaları konusunda uyardığı ileri sürüldü.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -101,6 +227,15 @@
    "published": "2026-10-31T08:14:00+00:00"
   },
   {
+   "title": "Türkiye ve Kazakistan savunmadaki işbirliğini ortaklıklarla perçinliyor",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiye-ve-kazakistan-savunmadaki-isbirligini-ortakliklarla-percinliyor/4107117",
+   "summary": "Türkiye ile Kazakistan arasında savunma sanayisinde hayata geçirilen işbirlikleri öncü şirketlerin attığı adımlarla güçlü ortaklıklara dönüşüyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:12:24+00:00"
+  },
+  {
    "title": "Bilim dünyasında bir ilk: İnsan beyin hücreleriyle çalıştırılan robot köpek geliştirildi",
    "link": "https://www.trthaber.com/haber/dunya/bilim-dunyasinda-bir-ilk-insan-beyin-hucreleriyle-calistirilan-robot-kopek-gelistirildi-961797.html",
    "summary": "Avustralyalı bilim insanları, laboratuvarda çoğalttıkları canlı beyin hücrelerini silikon çiplere entegre ederek bir robot köpeğe yön vermeyi başardı.",
@@ -117,6 +252,33 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T08:08:57+00:00"
+  },
+  {
+   "title": "Üniversitelerde akademik atama ve yükseltmede merkezi alt sınır düzenlemesi 2027'de tamamlanacak",
+   "link": "https://www.aa.com.tr/tr/gundem/universitelerde-akademik-atama-ve-yukseltmede-merkezi-alt-sinir-duzenlemesi-2027de-tamamlanacak/4107112",
+   "summary": "Üniversitelerde akademik personelin atama ve yükseltme kriterlerine merkezi alt sınır getirilmesine yönelik mevzuat çalışmaları gelecek yıl tamamlanacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:08:19+00:00"
+  },
+  {
+   "title": "Meslek ortaokullarının sayısının artırılması planlanıyor",
+   "link": "https://www.aa.com.tr/tr/gundem/meslek-ortaokullarinin-sayisinin-artirilmasi-planlaniyor/4107111",
+   "summary": "Türkiye'de eğitim-istihdam ilişkisinin geliştirilmesi için sektöre entegre okul, bölge okulu ve ihtisaslaşmış meslek liseleri yaygınlaştırılacak, mesleki ve teknik Anadolu liseleri bünyesinde açılan meslek ortaokulları…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:08:07+00:00"
+  },
+  {
+   "title": "Türkiye'de fiber hat uzunluğu yatırımlarla yükseliyor",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turkiyede-fiber-hat-uzunlugu-yatirimlarla-yukseliyor/4107110",
+   "summary": "Türkiye'de işletmecilerin 1 yılda yaptığı 82 bin kilometre fiber altyapı yatırımıyla toplam fiber uzunluğu yüzde 12,9 artış göstererek 2026 yılının ikinci çeyreği itibarıyla 720 bin 12 kilometreye yükseldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:07:55+00:00"
   },
   {
    "title": "Postacılık sektöründe Türkiye'nin ulaştırma ve lojistikte bölgesel üs olma potansiyelinden faydalanılacak",
@@ -182,6 +344,24 @@
    "published": "2026-10-31T08:04:45+00:00"
   },
   {
+   "title": "Diyarbakır'daki 133 yıllık Ziya Gökalp Anadolu Lisesi yetiştirdiği isimlerle kentin tarihinde iz bıraktı",
+   "link": "https://www.aa.com.tr/tr/kultur/diyarbakirdaki-133-yillik-ziya-gokalp-anadolu-lisesi-yetistirdigi-isimlerle-kentin-tarihinde-iz-birakti/4107100",
+   "summary": "Diyarbakır'ın köklü eğitim kurumlarından Ziya Gökalp Anadolu Lisesi, 1893'ten bu yana yetiştirdiği siyasetçi, bilim insanı, iş insanı, sanatçı ve yazarlarla kentin eğitim hafızasında önemli yer tutuyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:04:15+00:00"
+  },
+  {
+   "title": "Ünlüleri yetiştiren İzmir Atatürk Lisesi 140 yıldır eğitime katkı sunuyor",
+   "link": "https://www.aa.com.tr/tr/kultur/unluleri-yetistiren-izmir-ataturk-lisesi-140-yildir-egitime-katki-sunuyor/4107099",
+   "summary": "Temelleri 1886 yılında \"İzmir Mekteb-i İdadisi\" olarak atılan, bünyesinden başbakanlar, bakanlar ve sanatçılar çıkaran İzmir Atatürk Lisesi, 140 yıllık köklü tarihini ve eğitim mirasını geleceğe taşıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T08:04:10+00:00"
+  },
+  {
    "title": "ECB'de Lagarde dönemi sona yaklaşırken, halefini faiz değil \"Fransa krizi\" bekliyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/ecbde-lagarde-donemi-sona-yaklasirken-halefini-faiz-degil-fransa-krizi-bekliyor/4107098",
    "summary": "Avrupa Merkez Bankası (ECB) Başkanı Christine Lagarde'ın normal süresinin dolmasından yaklaşık 9 ay önce görevi bırakacağını açıklaması, küresel piyasalarda ve Avrupa siyasetinde derin yankı uyandırdı.",
@@ -213,27 +393,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-vatandaslar-cumhurbaskani-seciminin-ikinci-turu-icin-yarin-sandik-basina-gidecek/4107095",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T08:00:24+00:00"
-  },
-  {
-   "title": "Bakırköy Belediyesine yönelik soruşturmada 39 şüpheli tutuklandı",
-   "link": "https://www.aa.com.tr/tr/gundem/bakirkoy-belediyesine-yonelik-sorusturmada-39-supheli-tutuklandi-/4107094",
-   "summary": "Bakırköy Belediyesine yönelik \"ihaleye fesat karıştırma\" ve \"irtikap\" suçlarına ilişkin soruşturma kapsamında gözaltına alınan 63 şüpheliden 39'u tutuklandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T07:59:10+00:00"
-  },
-  {
-   "title": "Aile ve Sosyal Hizmetler Bakanlığından kimsesizler için genelge",
-   "link": "https://www.aa.com.tr/tr/gundem/aile-ve-sosyal-hizmetler-bakanligindan-kimsesizler-icin-genelge/4107084",
-   "summary": "Aile ve Sosyal Hizmetler Bakanlığı, kışın sokakta yaşayan kimsesizlerin barınma ve temel ihtiyaçlarının karşılanması için valiliklere, aile ve sosyal hizmetler il müdürlükleri ile sosyal yardımlaşma ve dayanışma…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T07:33:23+00:00"
   },
   {
    "title": "Fitch, Fransa'nın kredi notu görünümünü negatife çevirdi",
@@ -249,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/dogal-gaz-toptan-satis-piyasasinda-teknik-ve-idari-esaslarda-degisiklik-yapildi/4107080",
    "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), organize toptan doğal gaz satış piyasasında sistem dengesini sağlamak amacıyla teknik ve idari esaslarda düzenleme yaptı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T07:23:13+00:00"
   },
@@ -294,7 +456,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzede-duzenledigi-saldirilarda-2-filistinli-hayatini-kaybetti/4107065",
    "summary": "İsrail ordusunun Gazze Şeridi'nde ateşkese rağmen düzenlediği saldırılarda 2 Filistinli hayatını kaybetti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T06:59:06+00:00"
   },
@@ -312,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/spor/sivasspor-yarin-ligde-bolusporu-konuk-edecek/4107064",
    "summary": "Ekenler Beton Sivasspor, Trendyol 1. Lig'in 13. haftasında yarın sahasında Boluspor ile karşılaşacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-31T06:58:59+00:00"
   },
@@ -321,25 +483,16 @@
    "link": "https://www.aa.com.tr/tr/dunya/abd-ukraynaya-savunma-alaninda-2-1-milyar-dolarlik-olasi-satisi-onayladi/4107062",
    "summary": "ABD, Ukrayna'nın savunma kapasitesinin geliştirilmesine yönelik 2,1 milyar dolarlık olası satışa onay verdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T06:56:48+00:00"
-  },
-  {
-   "title": "Adana'da suç örgütü üyeliğinden aranan zanlı, MİT destekli operasyonla yakalandı",
-   "link": "https://www.aa.com.tr/tr/gundem/adanada-suc-orgutu-uyeliginden-aranan-zanli-mit-destekli-operasyonla-yakalandi/4107059",
-   "summary": "Adana'da suç örgütüne üye olduğu iddiasıyla aranan şüpheli, Milli İstihbarat Teşkilatı (MİT) destekli operasyonla yakalandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T06:52:21+00:00"
   },
   {
    "title": "Başakşehir, Süper Lig'de yarın Samsunspor'u ağırlayacak",
    "link": "https://www.aa.com.tr/tr/spor/basaksehir-super-ligde-yarin-samsunsporu-agirlayacak/4107055",
    "summary": "İstanbul Başakşehir, Trendyol Süper Lig'in 10. haftasında yarın Samsunspor'u konuk edecek.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-10-31T06:47:28+00:00"
   },
@@ -348,7 +501,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/somalide-bmnin-30-yili-askin-suredir-yuruttugu-siyasi-misyonlar-sona-erdi/4107051",
    "summary": "Birleşmiş Milletlerin (BM) Somali'de 30 yılı aşkın süredir barışın sağlanması, devlet yapılanması ve uzlaşı süreçlerine destek amacıyla yürüttüğü siyasi misyonlar, BM Güvenlik Konseyinin kararı doğrultusunda 31 Ekim…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T06:42:37+00:00"
   },
@@ -366,7 +519,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-turk-markalarinin-kuresel-rekabet-gucunu-artiracak-yeni-destekleri-uygulamaya-aldi/4107047",
    "summary": "Ticaret Bakanlığı, ihracatçıların değişen ihtiyaçları ve küresel ticaretin dinamikleri doğrultusunda Marka ve Turquality Desteğine İlişkin Genelge'de kapsamlı değişiklikler yaparak yeni destek unsurlarını uygulamaya…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T06:32:45+00:00"
   },
@@ -992,15 +1145,6 @@
    "published": "2026-10-30T13:40:36+00:00"
   },
   {
-   "title": "Altında düşüş sürüyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/altinda-dusus-suruyor-961751.html",
-   "summary": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 350 bin liraya geriledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T13:36:00+00:00"
-  },
-  {
    "title": "Samsunspor, oyunculara uygun sistem arıyor",
    "link": "https://www.aa.com.tr/tr/spor/samsunspor-oyunculara-uygun-sistem-ariyor/4106534",
    "summary": "Trendyol Süper Lig ekiplerinden Samsunspor'un teknik direktörü Nenad Bjelica, \"Elimizdeki kadroya göre en iyi sistemi bulmaya çalışıyoruz. Ancak oyuncuların şu anki sisteme de en iyi şekilde adapte olabileceklerinden…",
@@ -1010,42 +1154,6 @@
    "published": "2026-10-30T13:14:13+00:00"
   },
   {
-   "title": "Rusya: Kiev, petrol rafinerilerine saldırıların durdurulması talebini görmezden geliyor",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-kiev-petrol-rafinerilerine-saldirilarin-durdurulmasi-talebini-gormezden-geliyor/4106493",
-   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Kiev yönetiminin, ABD Başkanı Donald Trump'ın petrol rafinerilerine saldırıların durdurulması yönündeki talebini görmezden geldiğini belirterek \"Trump'ın sözünü yine…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-30T12:56:53+00:00"
-  },
-  {
-   "title": "BM: Yemen'deki çatışmalar nedeniyle 280 binden fazla kişi yerinden edildi",
-   "link": "https://www.trthaber.com/haber/dunya/bm-yemendeki-catismalar-nedeniyle-280-binden-fazla-kisi-yerinden-edildi-961750.html",
-   "summary": "Birleşmiş Milletler Mülteciler Yüksek Komiserliği BMMYK Sözcüsü Matthew Saltmarsh, Yemen'de devam eden çatışmalar nedeniyle 280 binden fazla kişinin yerinden edildiğini bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T12:52:00+00:00"
-  },
-  {
-   "title": "Bakan Kacır: ARGE ve inovasyon ekosistemini her geçen gün daha ileriye taşıyoruz",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakan-kacir-ar-ge-ve-inovasyon-ekosistemini-her-gecen-gun-daha-ileriye-tasiyoruz-961749.html",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'nin ARGE faaliyetlerinde rekorlar kırdığını belirterek, \"Üniversitelerimiz, teknoparklarımız, ARGE ve tasarım merkezlerimiz, yenilikçi girişimlerimiz ve…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T12:40:00+00:00"
-  },
-  {
-   "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda bir petrol tankeri mayına çarptı",
-   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti-961748.html",
-   "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazında bir süper tankerin mayına çarptığını duyurdu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T12:40:00+00:00"
-  },
-  {
    "title": "İSEDAK 42. Bakanlar Toplantısı bugün İstanbul'da başlayacak",
    "link": "https://www.aa.com.tr/tr/ekonomi/isedak-42-bakanlar-toplantisi-bugun-istanbulda-baslayacak/4106419",
    "summary": "İslam İşbirliği Teşkilatı (İİT) Ekonomik ve Ticari İşbirliği Daimi Komitesinin (İSEDAK) 42. Bakanlar Toplantısı, 31 Ekim-3 Kasım tarihlerinde İstanbul'da yapılacak.",
@@ -1053,33 +1161,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T12:37:07+00:00"
-  },
-  {
-   "title": "Gençler COP31'de iklim krizine teknolojik çözüm için buluşuyor",
-   "link": "https://www.trthaber.com/haber/gundem/gencler-cop31de-iklim-krizine-teknolojik-cozum-icin-bulusuyor-961747.html",
-   "summary": "Sıfır Atık Vakfı ile T3 Vakfı ve T3 Girişim Merkezi işbirliğiyle düzenlenecek \"COP31 İklim Teknolojileri Creathonu\", gençleri ve girişimcileri iklim değişikliğine karşı teknolojik çözümler üretmek üzere bir araya…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T12:36:00+00:00"
-  },
-  {
-   "title": "TCMB: Enerji fiyatlarındaki yüksek ve dalgalı seyir sürmektedir",
-   "link": "https://www.trthaber.com/haber/ekonomi/tcmb-enerji-fiyatlarindaki-yuksek-ve-dalgali-seyir-surmektedir-961746.html",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası TCMB Para Politikası Kurulu Toplantı Özeti'nde, devam eden jeopolitik belirsizliklere bağlı olarak enerji fiyatlarındaki yüksek ve dalgalı seyrin sürdüğü belirtildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T12:33:00+00:00"
-  },
-  {
-   "title": "Bankaların kredi hacmi 28,8 trilyon liraya yükseldi",
-   "link": "https://www.trthaber.com/haber/ekonomi/bankalarin-kredi-hacmi-288-trilyon-liraya-yukseldi-961745.html",
-   "summary": "Bankacılık sektörünün toplam kredi hacmi, 23 Ekim itibarıyla 28,8 trilyon liraya çıktı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-30T12:32:00+00:00"
   },
   {
    "title": "Milan, basketbol takımı kurarak NBA Avrupa Ligi projesinde yer almayı planlıyor",
@@ -1107,15 +1188,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T12:17:42+00:00"
-  },
-  {
-   "title": "İtalya'da 'hayat pahalılığı ve savaş ekonomisine karşı' grev ve gösteriler",
-   "link": "https://www.bbc.com/turkce/articles/cqn49p1gd9rjo?at_medium=RSS&at_campaign=rss",
-   "summary": "İtalya'da 50'den fazla kentte düzenlenen eylemlere öğrenci hareketleri de katılıyor. Son haftalarda Milano gibi bazı şehirlerdeki gösterilerde şiddet olaylarının yaşanmasının ardından güvenlik güçleri alarmda.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2fb2/live/efd927c0-d459-11f1-93d9-89af68edb68a.jpg",
-   "published": "2026-10-30T12:09:11+00:00"
   },
   {
    "title": "Binance TR'den açıklama",
@@ -1208,24 +1280,6 @@
    "published": "2026-10-30T10:37:04+00:00"
   },
   {
-   "title": "Borsada yapay zeka depremi: Google 500 milyar dolar değer kaybetti",
-   "link": "https://www.bbc.com/turkce/articles/cqe8lpmkpe2xo?at_medium=RSS&at_campaign=rss",
-   "summary": "Teknoloji devi Google'ın ana şirketi Alphabet, 29 Ekim Perşembe 500 milyar doları (yaklaşık 25 trilyon lira) aşkın kayıp yaşadı. Değer kaybı, şirketin arama motorundaki yapay zeka özeti sebebiyle reklam gelirlerinin…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4461/live/c971aa80-d45e-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-10-30T10:13:43+00:00"
-  },
-  {
-   "title": "Binance'e yönelik siber saldırıda milyarlarca dolarlık varlığın izi sürülüyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/binancee-yonelik-siber-saldirida-milyarlarca-dolarlik-varligin-izi-suruluyor/4106100",
-   "summary": "Kripto para borsası Binance, saldırının toplam etkisini 6,3 milyar dolar olarak hesaplarken, yaklaşık 3 milyar dolarlık dijital varlığın dondurulduğunu açıkladı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T09:57:40+00:00"
-  },
-  {
    "title": "Kocaelispor, Süper Lig'de bugün Çaykur Rizespor'u konuk edecek",
    "link": "https://www.aa.com.tr/tr/spor/kocaelispor-super-ligde-bugun-caykur-rizesporu-konuk-edecek/4106099",
    "summary": "Kocaelispor, Trendyol Süper Lig'in 10. haftasında bugün Çaykur Rizespor'u ağırlayacak.",
@@ -1251,15 +1305,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-30T09:23:57+00:00"
-  },
-  {
-   "title": "Dış ticaret mevzuatına aykırı davranan firmalara 9 ayda 11,7 milyar lira ek tahakkuk ve ceza",
-   "link": "https://www.aa.com.tr/tr/ekonomi/dis-ticaret-mevzuatina-aykiri-davranan-firmalara-9-ayda-11-7-milyar-lira-ek-tahakkuk-ve-ceza/4106034",
-   "summary": "Ticaret Bakanlığı, bu yılın 9 ayında dış ticaret işlemleri kapsamında yapılan sonradan ve ikincil kontrol denetimleri sonucunda toplam 11,7 milyar liralık ek tahakkuk ve ceza kararı düzenlendiğini bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T09:11:03+00:00"
   },
   {
    "title": "PFDK'den 4 Süper Lig kulübüne ceza",
@@ -1305,51 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-30T08:06:33+00:00"
-  },
-  {
-   "title": "Almanya'ya göç eden ilk kuşak Türkler, 65 yıllık göç hikayelerini anlattı",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyaya-goc-eden-ilk-kusak-turkler-65-yillik-goc-hikayelerini-anlatti/4105814",
-   "summary": "Çalışmak için Almanya'ya gelen ilk kuşak Türkler, Türkiye ile Almanya arasında 1961'de imzalanan İşgücü Anlaşması'nın 65. yılında bu ülkede kurdukları yaşamı anlattı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-30T08:02:17+00:00"
-  },
-  {
-   "title": "Göztepe, deplasmanda Fenerbahçe ile karşılaşacak",
-   "link": "https://www.aa.com.tr/tr/spor/goztepe-deplasmanda-fenerbahce-ile-karsilasacak/4105741",
-   "summary": "Göztepe, Trendyol Süper Lig'in 10. haftasında bugün deplasmanda Fenerbahçe'ye konuk olacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-30T07:50:47+00:00"
-  },
-  {
-   "title": "Çorum FK, Süper Lig'de bugün Erzurumspor FK'ye konuk olacak",
-   "link": "https://www.aa.com.tr/tr/spor/corum-fk-super-ligde-bugun-erzurumspor-fkye-konuk-olacak/4105684",
-   "summary": "Arca Çorum FK, Trendyol Süper Lig'in 10. haftasında bugün deplasmanda Erzurumspor FK ile karşılaşacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-30T07:41:09+00:00"
-  },
-  {
-   "title": "Formula 1'de sıradaki durak Meksika",
-   "link": "https://www.aa.com.tr/tr/spor/formula-1de-siradaki-durak-meksika/4105657",
-   "summary": "Formula 1 Dünya Şampiyonası'nda heyecan, sezonun 19. yarışı Meksika Grand Prix'siyle devam edecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-30T07:22:10+00:00"
-  },
-  {
-   "title": "Voleybolda haftanın programı",
-   "link": "https://www.aa.com.tr/tr/spor/voleybolda-haftanin-programi/4105643",
-   "summary": "Voleybolda SMS Grup Efeler Ligi'nde 4'üncü, Vodafone Sultanlar Ligi'nde ise 6'ncı hafta karşılaşmaları yapılacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-30T07:08:28+00:00"
   }
  ]
 }
