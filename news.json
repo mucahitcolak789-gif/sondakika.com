@@ -1,6 +1,15 @@
 {
- "updated": "2026-10-31T19:13:13.920481+00:00",
+ "updated": "2026-10-31T19:48:07.470295+00:00",
  "items": [
+  {
+   "title": "İzmir, Aydın ve Muğla için şiddetli yağış uyarısı",
+   "link": "https://www.trthaber.com/haber/turkiye/izmir-aydin-ve-mugla-icin-siddetli-yagis-uyarisi-961842.html",
+   "summary": "Meteoroloji Genel Müdürlüğü, İzmir, Aydın ve Muğla için şiddetli yağış uyarısında bulundu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T19:01:00+00:00"
+  },
   {
    "title": "İsrail ordusu, El Halil'de sürdürdüğü kuşatma ve saldırılarla 3 bin 300 Filistinliyi yerinden etti",
    "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-el-halilde-surdurdugu-kusatma-ve-saldirilarla-3-bin-300-filistinliyi-yerinden-etti/4107613",
@@ -12,12 +21,12 @@
   },
   {
    "title": "Suriye'nin başkenti Şam'da tarihi Süleymaniye Tekkesi restore edilerek yeniden açıldı",
-   "link": "https://www.aa.com.tr/tr/dunya/suriyenin-baskenti-samda-tarihi-suleymaniye-tekkesi-restore-edilerek-yeniden-acildi/4107611",
+   "link": "https://www.trthaber.com/haber/dunya/suriyenin-baskenti-samda-tarihi-suleymaniye-tekkesi-restore-edilerek-yeniden-acildi-961843.html",
    "summary": "Suriye'nin başkenti Şam'da, Osmanlı padişahı Kanuni Sultan Süleyman tarafından Mimar Sinan'a yaptırılan tarihi Süleymaniye Tekkesi, restorasyon çalışmalarının tamamlanmasının ardından düzenlenen törenle yeniden açıldı.",
-   "source": "AA",
+   "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
-   "published": "2026-10-31T18:54:49+00:00"
+   "published": "2026-10-31T19:00:00+00:00"
   },
   {
    "title": "Zelenskiy: Ukrayna, Türkiye'de liderler düzeyinde üçlü toplantıları destekliyor",
@@ -1136,15 +1145,6 @@
    "published": "2026-10-31T07:23:13+00:00"
   },
   {
-   "title": "Firari suç örgütü üyesi MİT ve polisin ortak operasyonuyla yakalandı",
-   "link": "https://www.trthaber.com/haber/turkiye/firari-suc-orgutu-uyesi-mit-ve-polisin-ortak-operasyonuyla-yakalandi-961790.html",
-   "summary": "Adana'da suç örgütüne üye olduğu iddiasıyla aranan şüpheli, MİT destekli operasyonla yakalandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T07:23:00+00:00"
-  },
-  {
    "title": "Polonya'da Anayasa Mahkemesi krizi: Neler oldu?",
    "link": "https://www.trthaber.com/haber/dunya/polonyada-anayasa-mahkemesi-krizi-neler-oldu-961792.html",
    "summary": "Polonya'da Anayasa Mahkemesi Başkanı Bogdan Swieczkowski ve Başkan Yardımcısı Bartlomiej Sochanski'nin görevlerinden uzaklaştırıldıklarının duyurulmasının ardından mahkeme binası önünde başlayan gösteri ve polis…",
@@ -1152,15 +1152,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T07:20:00+00:00"
-  },
-  {
-   "title": "Bakanlıktan kış genelgesi: Sokakta tek bir vatandaş dahi kalmayacak",
-   "link": "https://www.trthaber.com/haber/gundem/bakanliktan-kis-genelgesi-sokakta-tek-bir-vatandas-dahi-kalmayacak-961791.html",
-   "summary": "Aile ve Sosyal Hizmetler Bakanlığınca, dondurucu soğuklar öncesinde sokakta yaşayan kimsesiz ve evsiz vatandaşlar için 81 il valiliğine gönderilen genelgeyle, sokakta kalan vatandaşların kamu misafirhaneleri ve otellere…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T07:19:00+00:00"
   },
   {
    "title": "Sivasspor, yarın ligde Boluspor'u konuk edecek",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-30T13:14:13+00:00"
+  },
+  {
+   "title": "Milan, basketbol takımı kurarak NBA Avrupa Ligi projesinde yer almayı planlıyor",
+   "link": "https://www.aa.com.tr/tr/spor/milan-basketbol-takimi-kurarak-nba-avrupa-ligi-projesinde-yer-almayi-planliyor/4106415",
+   "summary": "İtalya Birinci Futbol Ligi ekibi Milan, basketbol takımı kurarak NBA Avrupa Ligi projesinde yer almayı planlıyor.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-10-30T12:31:03+00:00"
   }
  ]
 }
