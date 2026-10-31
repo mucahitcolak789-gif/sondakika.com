@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-31T20:59:43.312840+00:00",
+ "updated": "2026-10-31T21:32:28.470679+00:00",
  "items": [
+  {
+   "title": "SPK Başkanlığına Muhsin Atcı atandı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/spk-baskanligina-muhsin-atci-atandi/4107676",
+   "summary": "Sermaye Piyasası Kurulu (SPK) Başkanlığına, Vergi Denetim Kurulu Başkanı Muhsin Atcı atandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T21:29:54+00:00"
+  },
+  {
+   "title": "Atama ve görevden alma kararları Resmi Gazete'de",
+   "link": "https://www.aa.com.tr/tr/gundem/atama-ve-gorevden-alma-kararlari-resmi-gazetede/4107675",
+   "summary": "Bazı bakanlıklara ilişkin atama ve görevden alma kararları Resmi Gazete'de yayımlandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T21:24:42+00:00"
+  },
+  {
+   "title": "Bakan Fidan: Rusya ve Ukrayna bir anlaşmaya varmak zorunda",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-rusya-ve-ukrayna-bir-anlasmaya-varmak-zorunda-961848.html",
+   "summary": "Dışişleri Bakanı Hakan Fidan, RusyaUkrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T21:03:00+00:00"
+  },
+  {
+   "title": "Dışişleri Bakanı Fidan: Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak zorundalar",
+   "link": "https://www.aa.com.tr/tr/gundem/disisleri-bakani-fidan-rusya-ve-ukrayna-buyuk-bir-fedakarlikta-bulunarak-bir-anlasmaya-varmak-zorundalar/4107662",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Rusya-Ukrayna Savaşı'na ilişkin, \"Bu savaş başlayalı yaklaşık 5 yıl olmuş. Artık bu savaş taşınamaz. Dolayısıyla Rusya ve Ukrayna, büyük bir fedakarlıkta bulunarak bir anlaşmaya varmak…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T21:02:13+00:00"
+  },
   {
    "title": "\"Kültür-Sanatın İzinde: Etkinlikten Hafızaya\" programı \"Sonuç Raporu\" oturumuyla tamamlandı",
    "link": "https://www.aa.com.tr/tr/kultur/kultur-sanatin-izinde-etkinlikten-hafizaya-programi-sonuc-raporu-oturumuyla-tamamlandi/4107656",
@@ -9,6 +45,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T20:54:04+00:00"
+  },
+  {
+   "title": "Katil Netanyahu'ya karşı mecliste güç birliği",
+   "link": "https://www.trthaber.com/haber/dunya/katil-netanyahuya-karsi-mecliste-guc-birligi-961846.html",
+   "summary": "Yashar Partisi lideri Gadi Eisenkot, Arap partilerinin de desteğiyle elde ettikleri meclis çoğunluğunu katil Netanyahu hükümetine karşı derhal kullanacaklarını açıkladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T20:40:00+00:00"
   },
   {
    "title": "Zonguldak'ta el freni çekilmeyen kamyonet devrildi: O anlar kamerada",
@@ -303,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/zelenskiy-cumhurbaskani-erdogan-ile-karadeniz-tahil-koridoru-uzerinde-calismak-konusunda-mutabik-kaldik/4107497",
    "summary": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, \"Bugün Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çalışma konusunda mutabık kaldık. Amacımız bu koridorun varlığını sürdürmesini ve etkin bir şekilde işlemesini…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T16:10:54+00:00"
   },
@@ -339,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/abddeki-kongre-ara-secimleri-yaklasirken-anketlerdeki-tablo-netlesiyor/4107468",
    "summary": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimleri yaklaşırken, anketlerin ortaya koyduğu tablo da netleşmeye başladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T15:56:53+00:00"
   },
@@ -504,15 +549,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T13:18:00+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: Barışa giden yolu açmak için elimizden gelen her türlü gayreti göstermeye hazırız",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-barisa-giden-yolu-acmak-icin-elimizden-gelen-her-turlu-gayreti-gostermeye-haziriz/4107374",
-   "summary": "Cumhurbaşkanı Erdoğan, Ukrayna'da barışın sağlanması çabalarını ve Karadeniz'deki güvenlik durumunu ele aldıklarını belirterek, \"Barışa giden yolu açmak için elimizden gelen her türlü gayreti göstermeye hazır olduğumuzu…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T13:16:56+00:00"
   },
   {
    "title": "Ukrayna Devlet Başkanı Zelenskiy İstanbul'da",
@@ -1064,15 +1100,6 @@
    "published": "2026-10-31T08:15:39+00:00"
   },
   {
-   "title": "Milletlerarası anlaşma Resmi Gazete'de yayımlandı",
-   "link": "https://www.trthaber.com/haber/gundem/milletlerarasi-anlasma-resmi-gazetede-yayimlandi-961796.html",
-   "summary": "Türk Devletleri Teşkilatına TDT Üye Devletlerin Hükümetleri Arasında İmzalanan Milletlerarası Anlaşma, Cumhurbaşkanı Recep Tayyip Erdoğan tarafından onaylanmasının ardından Resmi Gazete'de yayımlandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T08:14:00+00:00"
-  },
-  {
    "title": "Dünya şampiyonu atıcı Yüzbaşı İsmail Keleş, hedefini Los Angeles olimpiyatlarına çevirdi",
    "link": "https://www.aa.com.tr/tr/spor/dunya-sampiyonu-atici-yuzbasi-ismail-keles-hedefini-los-angeles-olimpiyatlarina-cevirdi/4107119",
    "summary": "Azerbaycan ve Endonezya'da düzenlenen Havalı ve Ateşli Silahlar Dünya Kupaları'nda iki kez dünya şampiyonluğu elde eden Yüzbaşı İsmail Keleş, hedefini 2028 Los Angeles Olimpiyatları olarak belirledi.",
@@ -1145,15 +1172,6 @@
    "published": "2026-10-31T08:05:18+00:00"
   },
   {
-   "title": "Türkiye ve Kazakistan arasındaki dış ticaret rekor seviyeye taşındı",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ve-kazakistan-arasindaki-dis-ticaret-rekor-seviyeye-tasindi-961795.html",
-   "summary": "Türkiye, Kazakistan'la 2025 sonunda 7,9 milyar dolarla rekor seviyeye çıkardığı ticaret hacmini 15 milyar dolara taşımayı hedefliyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T08:05:00+00:00"
-  },
-  {
    "title": "Kasımpaşa ile Beşiktaş, 47. randevuda",
    "link": "https://www.aa.com.tr/tr/spor/kasimpasa-ile-besiktas-47-randevuda/4107101",
    "summary": "Kasımpaşa ile Beşiktaş, yarın oynanacak maçla Süper Lig'de 47. kez karşı karşıya gelecek.",
@@ -1170,15 +1188,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T08:03:32+00:00"
-  },
-  {
-   "title": "Türkiye ile Özbekistan ekonomik ilişkilerini güçlendiriyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-ozbekistan-ekonomik-iliskilerini-guclendiriyor-961794.html",
-   "summary": "Türkiye ile Özbekistan arasında ticaretin geliştirilmesi, gümrük işlemlerinde bilgi paylaşımı, sosyal güvenlik alanında işbirliği ve iş dünyasının desteklenmesine yönelik imzalanan 5 anlaşmanın, iki ülke arasındaki…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T08:02:00+00:00"
   },
   {
    "title": "Katar basınından \"ABD ile İran arasındaki müzakerelerde ilerleme kaydedildiği\" iddiası",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-30T14:51:25+00:00"
-  },
-  {
-   "title": "Hazine'nin vergi dışı normal gelirleri yılın üçüncü çeyreğinde 5,5 milyar lira oldu",
-   "link": "https://www.aa.com.tr/tr/ekonomi/hazinenin-vergi-disi-normal-gelirleri-yilin-ucuncu-ceyreginde-5-5-milyar-lira-oldu/4106683",
-   "summary": "Hazine'nin yılın üçüncü çeyreği itibarıyla vergi dışı normal gelirleri 5 milyar 516 milyon 373,1 bin lira olarak hesaplandı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-30T14:47:19+00:00"
   }
  ]
 }
