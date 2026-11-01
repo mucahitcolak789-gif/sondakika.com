@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-01T09:56:30.284233+00:00",
+ "updated": "2026-11-01T10:29:48.799227+00:00",
  "items": [
+  {
+   "title": "Burdur'da iki otomobil çarpıştı: 2 ölü, 4 yaralı",
+   "link": "https://www.trthaber.com/haber/turkiye/burdurda-iki-otomobil-carpisti-2-olu-4-yarali-961875.html",
+   "summary": "Burdur'un Çavdır ilçesinde iki otomobilin çarpışması sonucu 2 kişi öldü, 4 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T10:17:00+00:00"
+  },
+  {
+   "title": "KKTC Başbakanı Üstel, GKRY'nin Doğu Akdeniz'de uzatılan işbirliği elini tutması gerektiğini vurguladı",
+   "link": "https://www.aa.com.tr/tr/gundem/kktc-basbakani-ustel-gkrynin-dogu-akdenizde-uzatilan-isbirligi-elini-tutmasi-gerektigini-vurguladi/4107911",
+   "summary": "KKTC Başbakanı Ünal Üstel, Güney Kıbrıs Rum Yönetimi'nin (GKRY) sürekli şikayet mektupları yazarak uluslararası platformlarda \"sızlanmak\" yerine, Kıbrıs Türk tarafının Doğu Akdeniz’de uzattığı işbirliği elini tutması…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T10:11:10+00:00"
+  },
+  {
+   "title": "Galatasaray Kulübü İkinci Başkanı Metin Öztürk istifa etti",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-kulubu-ikinci-baskani-metin-ozturk-istifa-etti/4107910",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T10:10:38+00:00"
+  },
+  {
+   "title": "Dalyan'ın güzellikleri sıcak hava balonuyla izlenebilecek",
+   "link": "https://www.aa.com.tr/tr/gundem/dalyanin-guzellikleri-sicak-hava-balonuyla-izlenebilecek/4107906",
+   "summary": "Doğal güzellikleri, tarihi yapıları ve caretta caretta deniz kaplumbağalarıyla tanınan Muğla'nın Ortaca ilçesindeki Dalyan Mahallesi'nde bölgenin turizm potansiyeline katkı sağlaması amacıyla \"yere bağlı sıcak hava…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T10:07:56+00:00"
+  },
+  {
+   "title": "Türk Dünyası Diyalog Forumu tamamlandı",
+   "link": "https://www.trthaber.com/haber/turk-dunyasi/turk-dunyasi-diyalog-forumu-tamamlandi-961874.html",
+   "summary": "Türkiye'nin ev sahipliği yaptığı Türk Devletleri Teşkilatı TDT 13. Zirvesi marjında, başkanlık tarafından 3031 Ekim tarihlerinde \"Türk Dünyası Diyalog Forumu\" Ankara'da gerçekleştirildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T10:01:00+00:00"
+  },
+  {
+   "title": "Galatasaray-Stuttgart maçını İngiliz hakem Kavanagh yönetecek",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-stuttgart-macini-ingiliz-hakem-kavanagh-yonetecek/4107898",
+   "summary": "Galatasaray'ın UEFA Şampiyonlar Ligi'nin 4. haftasında Almanya'nın Stuttgart takımıyla yapacağı maçı İngiliz hakem Chris Kavanagh yönetecek.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:58:22+00:00"
+  },
+  {
+   "title": "Katar, LNG tankerinin saldırıya uğradığını duyurdu",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-lng-tankerinin-saldiriya-ugradigini-duyurdu/4107897",
+   "summary": "Katar merkezli gaz taşımacılığı şirketi \"Nakilat\", sıvılaştırılmış doğal gaz (LNG) taşıyan bir tankerinin Basra Körfezi'nde seyir halindeyken saldırıya uğrayarak kimliği henüz belirlenemeyen cisimlerin isabet etmesi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:57:40+00:00"
+  },
   {
    "title": "Almanya'da hayat pahalılığına karşı protestolarda bazı dükkanlar yağmalandı",
    "link": "https://www.bbc.com/turkce/articles/cxp8grj2gqpgo?at_medium=RSS&at_campaign=rss",
@@ -38,8 +101,8 @@
    "published": "2026-11-01T09:33:02+00:00"
   },
   {
-   "title": "Sağlıkta yerli teknoloji hamlesi: Robotik cerrahi cihazı Türkiye'de üretilecek",
-   "link": "https://www.trthaber.com/haber/saglik/saglikta-yerli-teknoloji-hamlesi-robotik-cerrahi-cihazi-turkiyede-uretilecek-961873.html",
+   "title": "Bakan Memişoğlu: Robotik cerrahi cihazı Türkiye'de üretilecek",
+   "link": "https://www.trthaber.com/haber/saglik/bakan-memisoglu-robotik-cerrahi-cihazi-turkiyede-uretilecek-961873.html",
    "summary": "Sağlık Bakanı Kemal Memişoğlu, yerli robotik cerrahi cihazı geliştirmeyi hedeflediklerini belirterek, en geç 2027'nin başında TÜSEB aracılığıyla çağrıya çıkacaklarını ve teknolojiyi yazılımıyla birlikte Türkiye'de…",
    "source": "TRT Haber",
    "category": "Gündem",
@@ -153,15 +216,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-01T08:54:33+00:00"
-  },
-  {
-   "title": "Türk Dünyası Diyalog Forumu tamamlandı",
-   "link": "https://www.trthaber.com/haber/gundem/turk-dunyasi-diyalog-forumu-tamamlandi-961868.html",
-   "summary": "İletişim Başkanlığınca, Türk Devletleri Teşkilatı TDT 13. Zirvesi marjında düzenlenen \"Türk Dünyası Diyalog Forumu\" başlıklı uluslararası etkinlik sona erdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-01T08:54:00+00:00"
   },
   {
    "title": "Ağrı Dağı Milli Parkı, nadir görülen gri başlı saz horozlarına ev sahipliği yapıyor",
@@ -294,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/spor/48-istanbul-maratonunu-erkeklerde-philimon-kiptoo-kipchumba-kazandi/4107799",
    "summary": "48. İstanbul Maratonu'nu erkeklerde Kenyalı Philimon Kiptoo Kipchumba, kadınlarda Etiyopyalı Kasanesh Ayenew Baze kazandı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-01T08:10:43+00:00"
   },
@@ -308,20 +362,11 @@
    "published": "2026-11-01T08:10:00+00:00"
   },
   {
-   "title": "MEB, öğrencilerin beceri düzeylerini okul tabanlı izlemeyle belirleyecek",
-   "link": "https://www.aa.com.tr/tr/gundem/meb-ogrencilerin-beceri-duzeylerini-okul-tabanli-izlemeyle-belirleyecek/4107796",
-   "summary": "MEB, ortaokul ve liselerde Türkçe, matematik ve fen bilimleri alanlarında çoktan seçmeli ve açık uçlu soruların yer aldığı \"okul tabanlı izleme\" uygulamasıyla öğrencilerin öğrenme çıktılarını ve beceri düzeylerini…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-01T08:09:42+00:00"
-  },
-  {
    "title": "Türkiye ile Kazakistan ticarette 15 milyar dolarlık hedefe odaklandı",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-kazakistan-ticarette-15-milyar-dolarlik-hedefe-odaklandi/4107795",
    "summary": "DEİK Türkiye-Kazakistan İş Konseyi Başkanı Selçuk Yüce, 15 milyar dolarlık ticaret hacmi hedefine ulaşmak için ürün çeşitliliği ve pazara erişimin artırılması gerektiğini belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-01T08:09:18+00:00"
   },
@@ -384,7 +429,7 @@
    "link": "https://www.aa.com.tr/tr/spor/avrupa-sampiyonu-milli-bocceci-yagmur-tosunun-hedefi-dunya-sampiyonlugu/4107785",
    "summary": "Yunanistan'da düzenlenen Avrupa Şampiyonası'ndan 2 altın ve 1 bronz madalyayla dönen 16 yaşındaki milli sporcu Yağmur Tosun, \"Bir tek dünya şampiyonluğu kaldı, onu da alarak ülkemize armağan edeceğim.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-01T08:03:20+00:00"
   },
@@ -938,15 +983,6 @@
    "published": "2026-10-31T15:20:00+00:00"
   },
   {
-   "title": "ABD Dışişleri Bakanı Rubio, Quad ülkelerinin Hint-Pasifik'teki işbirliğinde somut ilerleme kaydettiğini belirtti",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-disisleri-bakani-rubio-quad-ulkelerinin-hint-pasifikteki-isbirliginde-somut-ilerleme-kaydettigini-belirtti/4107452",
-   "summary": "ABD Dışişleri Bakanı Marco Rubio, ABD, Avustralya, Hindistan ve Japonya'dan oluşan Dörtlü Güvenlik Diyaloğu (Quad) toplantısında, ortak öncelikleri Hint-Pasifik bölgesi için somut faydalara dönüştürme konusunda ilerleme…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-31T15:19:00+00:00"
-  },
-  {
    "title": "Türkiye Basketbol Federasyonu Başkanı Türkoğlu, Katar Türk Okulu öğrencileri ile buluştu",
    "link": "https://www.aa.com.tr/tr/spor/turkiye-basketbol-federasyonu-baskani-turkoglu-katar-turk-okulu-ogrencileri-ile-bulustu/4107447",
    "summary": "Türkiye Basketbol Federasyonu (TBF) Başkanı Hidayet Türkoğlu, FIBA'nın düzenlediği etkinlikte Katar Türk Okulu öğrencileriyle bir araya gelerek, yurt dışında yaşayan genç Türk sporcuları milli takım forması altında…",
@@ -1089,24 +1125,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T12:05:00+00:00"
-  },
-  {
-   "title": "Ukrayna: Saldırılar nedeniyle Kiev ve Dnipropetrovsk bölgelerinde yaklaşık 280 bin aile elektriksiz",
-   "link": "https://www.trthaber.com/haber/dunya/ukrayna-saldirilar-nedeniyle-kiev-ve-dnipropetrovsk-bolgelerinde-yaklasik-280-bin-aile-elektriksiz-961822.html",
-   "summary": "Ukrayna Devlet Başkanı Volodimir Zelenski, Rus ordusunun düzenlediği hava saldırıları nedeniyle ülkesindeki Kiev ve Dnipropetrovsk bölgelerinde yaklaşık 280 bin ailenin elektriksiz kaldığını bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T11:41:00+00:00"
-  },
-  {
-   "title": "Hamaneyden olası saldırılara karşı ani ve coğrafi sınırı olmayan cevap verilmesi talimatı",
-   "link": "https://www.trthaber.com/haber/dunya/hamaneyden-olasi-saldirilara-karsi-ani-ve-cografi-siniri-olmayan-cevap-verilmesi-talimati-961821.html",
-   "summary": "İran lideri Mücteba Hamaney'in, ABD ile yeni bir çatışma yaşanabileceğine ilişkin iddiaların gündeme gelmesinin ardından üst düzey askeri yetkililerle bir araya gelerek olası saldırılara karşı \"ani ve coğrafi sınır…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T11:33:00+00:00"
   },
   {
    "title": "Arca Çorum FK, deplasmanda Erzurumspor FK'yı 3-1 mağlup etti",
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-31T08:05:51+00:00"
-  },
-  {
-   "title": "Ticaret Bakanı Bolat, Kazakistan, Özbekistan ve Türkiye ticari ilişkilerini AA'ya değerlendirdi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-kazakistan-ozbekistan-ve-turkiye-ticari-iliskilerini-aaya-degerlendirdi/4107103",
-   "summary": "Ticaret Bakanı Ömer Bolat, AA muhabirine, Türk Devletleri Teşkilatı (TDT) Devlet Başkanları Konseyi 13. Zirvesi'ne ilişkin değerlendirmede bulundu.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-31T08:05:18+00:00"
-  },
-  {
-   "title": "Kasımpaşa ile Beşiktaş, 47. randevuda",
-   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-ile-besiktas-47-randevuda/4107101",
-   "summary": "Kasımpaşa ile Beşiktaş, bugün oynanacak maçla Süper Lig'de 47. kez karşı karşıya gelecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-31T08:04:45+00:00"
   }
  ]
 }
