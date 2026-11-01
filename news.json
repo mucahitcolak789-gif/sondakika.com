@@ -1,6 +1,114 @@
 {
- "updated": "2026-11-01T09:14:07.782322+00:00",
+ "updated": "2026-11-01T09:56:30.284233+00:00",
  "items": [
+  {
+   "title": "Almanya'da hayat pahalılığına karşı protestolarda bazı dükkanlar yağmalandı",
+   "link": "https://www.bbc.com/turkce/articles/cxp8grj2gqpgo?at_medium=RSS&at_campaign=rss",
+   "summary": "Cumartesi günü Berlin, Hamburg ve Frankfurt dahil olmak üzere Almanya'nın çeşitli şehirlerindeki protestolara, Fransa'da da aynı gün yüz binlerce kişinin katıldığı gösteriler eşlik etti.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a374/live/2c3746d0-d5d0-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-01T09:49:41+00:00"
+  },
+  {
+   "title": "Trump, G20 Liderler Zirvesi'ne Ukrayna lideri Zelenskiy'i davet edebileceğini bildirdi",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-g20-liderler-zirvesine-ukrayna-lideri-zelenskiyi-davet-edebilecegini-bildirdi/4107880",
+   "summary": "ABD Başkanı Donald Trump, Ukrayna Devlet Başkanı Volodimir Zelenskiy'i de aralıkta ülkesinde düzenlenecek G20 Liderler Zirvesi'ne davet edebileceğini bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:39:23+00:00"
+  },
+  {
+   "title": "Bakan Göktaş'tan sosyal medyada yaş sınırlaması yönetmeliğinin yürürlüğe girmesine ilişkin paylaşım",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktastan-sosyal-medyada-yas-sinirlamasi-yonetmeliginin-yururluge-girmesine-iliskin-paylasim/4107877",
+   "summary": "Aile ve Sosyal Hizmetler Bakanı Göktaş, \"Çocukların güvenle var olabildiği bir dijital dünya için kritik bir eşik olan yeni dönemin çocuklarımız, ailelerimiz ve milletimiz için hayırlara vesile olmasını diliyorum.\"…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:37:58+00:00"
+  },
+  {
+   "title": "Türk ezgileri Asya-Pasifik'te yankılanacak",
+   "link": "https://www.aa.com.tr/tr/kultur/turk-ezgileri-asya-pasifikte-yankilanacak/4107875",
+   "summary": "Türk Halk Müziğinin güçlü sesi Sümer Ezgü, Sri Lanka'da düzenlenecek Asya-Pasifik Yayın Birliği Müzik Festivali'nde \"cura\"sı ile Türk ezgilerini uluslararası sahneye taşıyacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:33:02+00:00"
+  },
+  {
+   "title": "Sağlıkta yerli teknoloji hamlesi: Robotik cerrahi cihazı Türkiye'de üretilecek",
+   "link": "https://www.trthaber.com/haber/saglik/saglikta-yerli-teknoloji-hamlesi-robotik-cerrahi-cihazi-turkiyede-uretilecek-961873.html",
+   "summary": "Sağlık Bakanı Kemal Memişoğlu, yerli robotik cerrahi cihazı geliştirmeyi hedeflediklerini belirterek, en geç 2027'nin başında TÜSEB aracılığıyla çağrıya çıkacaklarını ve teknolojiyi yazılımıyla birlikte Türkiye'de…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:32:00+00:00"
+  },
+  {
+   "title": "İtalya'nın Ankara Büyükelçisi Manzo, ülkesi ve Türkiye'nin bölgede istikrar için aynı tarafta olduğunu söyledi",
+   "link": "https://www.aa.com.tr/tr/gundem/italyanin-ankara-buyukelcisi-manzo-ulkesi-ve-turkiyenin-bolgede-istikrar-icin-ayni-tarafta-oldugunu-soyledi/4107870",
+   "summary": "İtalya'nın Ankara Büyükelçisi Giuseppe Manzo, Türkiye ile İtalya arasındaki ikili ilişkileri \"mükemmel\" olarak nitelendirerek, iki ülke arasındaki bu özel bağın çok taraflı platformlara da taşınması ve yansıtılması…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:26:48+00:00"
+  },
+  {
+   "title": "İstanbul Havalimanı'ndaki İGA Pass yolcu hizmetlerinde indirim kampanyası",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanindaki-iga-pass-yolcu-hizmetlerinde-indirim-kampanyasi/4107863",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:17:45+00:00"
+  },
+  {
+   "title": "Öğrencilerin beceri düzeyleri okul tabanlı izlemeyle belirlenecek",
+   "link": "https://www.trthaber.com/haber/egitim/ogrencilerin-beceri-duzeyleri-okul-tabanli-izlemeyle-belirlenecek-961872.html",
+   "summary": "Milli Eğitim Bakanlığı MEB, Türkiye Yüzyılı Maarif Modeli kapsamında ortaokul ve liselerde Türkçe, matematik ve fen bilimleri alanlarında çoktan seçmeli ve açık uçlu soruların yer aldığı \"okul tabanlı izleme\"…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:15:00+00:00"
+  },
+  {
+   "title": "Bursa'nın 135 yıllık lisesi tarımı uygulamalı öğretiyor",
+   "link": "https://www.aa.com.tr/tr/kultur/bursanin-135-yillik-lisesi-tarimi-uygulamali-ogretiyor/4107859",
+   "summary": "Bursa'da 1891 yılında Ameliye ve Nazari Hüdavendigar Abdülhamid Han Tarım Lisesi adıyla kurulan Hamidiye Tarım Mesleki ve Teknik Anadolu Lisesi, uzun yıllardır ziraat eğitimini sürdürüyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:12:27+00:00"
+  },
+  {
+   "title": "Gümüşhane'deki Örümcek Ormanları sonbaharın renklerine büründü",
+   "link": "https://www.aa.com.tr/tr/gundem/gumushanedeki-orumcek-ormanlari-sonbaharin-renklerine-burundu/4107857",
+   "summary": "Gümüşhane'nin Kürtün ilçesindeki Örümcek Ormanları, sonbaharın tüm renklerini barındırıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:09:49+00:00"
+  },
+  {
+   "title": "İsviçre'nin Zürih ve Basel şehirlerindeki gösterilerde olaylar çıktı",
+   "link": "https://www.aa.com.tr/tr/dunya/isvicrenin-zurih-ve-basel-sehirlerindeki-gosterilerde-olaylar-cikti/4107855",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:07:14+00:00"
+  },
+  {
+   "title": "SPKda yeni dönem: Denetim tecrübesi ve piyasa birikimi aynı masada",
+   "link": "https://www.trthaber.com/haber/ekonomi/spkda-yeni-donem-denetim-tecrubesi-ve-piyasa-birikimi-ayni-masada-961870.html",
+   "summary": "Sermaye Piyasası Kurulunun SPK yeni yönetimi vergi denetimi, mali suçlarla mücadele ve uluslararası kalkınma finansmanı deneyimini bir araya getirirken, yeni SPK Başkanı Muhsin Atcı, Başkan Vekili Ersin Başar Ekmekci ve…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T09:04:00+00:00"
+  },
   {
    "title": "Bolivya'da El Nino kaynaklı kuraklık ve sel riskine karşı ulusal acil durum kararnamesi imzalandı",
    "link": "https://www.aa.com.tr/tr/dunya/bolivyada-el-nino-kaynakli-kuraklik-ve-sel-riskine-karsi-ulusal-acil-durum-kararnamesi-imzalandi/4107852",
@@ -20,8 +128,8 @@
    "published": "2026-11-01T09:03:42+00:00"
   },
   {
-   "title": "TÜRKSAT SORGU ile siber risklere karşı koruma altına alınacak",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/turksat-sorgu-ile-siber-risklere-karsi-koruma-altina-alinacak-961869.html",
+   "title": "Siber tehditlere karşı TÜRKSAT SORGU kalkanı",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/siber-tehditlere-karsi-turksat-sorgu-kalkani-961869.html",
    "summary": "TÜRKSAT'ın yeni nesil bilgi güvenliği yönetim platformu SORGU ile kamu ve özel sektördeki bilgi güvenliği süreçlerinin dijitalleştirilmesi, siber risklerin önceden tespit edilmesi sağlanacak.",
    "source": "TRT Haber",
    "category": "Gündem",
@@ -54,6 +162,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-01T08:54:00+00:00"
+  },
+  {
+   "title": "Ağrı Dağı Milli Parkı, nadir görülen gri başlı saz horozlarına ev sahipliği yapıyor",
+   "link": "https://www.aa.com.tr/tr/gundem/agri-dagi-milli-parki-nadir-gorulen-gri-basli-saz-horozlarina-ev-sahipligi-yapiyor/4107845",
+   "summary": "Genellikle Güney Asya'da yaşayan gri başlı saz horozuna (porphyrio poliocephalus), Ağrı Dağı eteklerindeki Karasu Sulak Alanı ev sahipliği yapıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-01T08:50:08+00:00"
   },
   {
    "title": "TürkiyeGüney Kore ticaretinde hedef 15 milyar dolar",
@@ -218,15 +335,6 @@
    "published": "2026-11-01T08:08:00+00:00"
   },
   {
-   "title": "TBMM'de Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi ele alınacak",
-   "link": "https://www.aa.com.tr/tr/gundem/tbmmde-mekke-ortak-savunma-anlasmasinin-onaylanmasinin-uygun-bulunduguna-dair-kanun-teklifi-ele-alinacak/4107794",
-   "summary": "TBMM Genel Kurulunda, Türk Kızılay Kanunu Teklifi'nin görüşmelerine devam edilecek, Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi ele alınacak.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-01T08:07:11+00:00"
-  },
-  {
    "title": "AK Parti Genel Başkan Yardımcısı Yayman, partisinin 24 yıllık iktidar sürecini ve gelecek hedeflerini değerlendirdi",
    "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-yayman-partisinin-24-yillik-iktidar-surecini-ve-gelecek-hedeflerini-degerlendirdi/4107793",
    "summary": "AK Parti Genel Başkan Yardımcısı, Kültür ve Sanat Politikaları Başkanı Hüseyin Yayman, \"Geçen 24 yılda AK Parti Türkiye'yi az gelişmiş bir ülke olmaktan kurtararak küresel bir güç haline getirmiştir.\" dedi.",
@@ -240,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/sosyal-guvenlik-sistemi-reformlarla-guclendirilecek/4107792",
    "summary": "Çalışma ve Sosyal Güvenlik Bakanlığı, sosyal güvenlik sisteminin kapsayıcılığını ve mali sürdürülebilirliğini artırmak, sistemi daha adil ve etkin bir yapıya kavuşturmak için bir dizi düzenlemeyi hayata geçirecek.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-01T08:06:31+00:00"
   },
@@ -261,15 +369,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-01T08:05:44+00:00"
-  },
-  {
-   "title": "Türkiye, bölgesel krizlere rağmen turizmde büyümesini sürdürüyor",
-   "link": "https://www.aa.com.tr/tr/kultur/turkiye-bolgesel-krizlere-ragmen-turizmde-buyumesini-surduruyor/4107788",
-   "summary": "Kültür ve Turizm Bakanı Mehmet Nuri Ersoy, Türkiye'nin bölgesel krizlere rağmen turizmde istikrarını koruduğunu ve büyüme hedefi doğrultusunda çalışmalarını sürdürdüğünü söyledi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-01T08:05:18+00:00"
   },
   {
    "title": "Emtia piyasalarında faiz beklentileri değerli metalleri baskıladı",
@@ -312,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-kritik-teknoloji-ihracati-9-ayda-86-4-milyar-dolari-buldu/4107782",
    "summary": "Türkiye'nin orta-yüksek ve yüksek teknoloji sınıfındaki ürünlerden oluşan \"kritik teknoloji\" ihracatı, ocak-eylül döneminde 86,4 milyar dolara ulaştı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-01T08:01:15+00:00"
   },
@@ -321,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/spor/goztepe-super-ligde-4-haftadir-kazaniyor/4107781",
    "summary": "Bu sezon 10 maçta 4 galibiyet, 3 beraberlik, 3 de mağlubiyet yaşayan sarı-kırmızılı ekip, 15 puana ulaştı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-01T08:01:00+00:00"
   },
@@ -339,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-askeri-amacla-kullanilan-tren-istasyonu-ve-gemiyi-vurdugunu-bildirdi/4107771",
    "summary": "Rusya Savunma Bakanlığı, Ukrayna'da askeri amaçlarla kullanılan tren istasyonu ve bir gemiyi vurduklarını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-01T07:45:03+00:00"
   },
@@ -348,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-cumhurbaskani-seciminin-ikinci-turu-icin-oy-verme-islemi-basladi/4107763",
    "summary": "Bulgaristan'da seçmenler, cumhurbaşkanı seçiminin ikinci turu için sandık başına gidiyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-01T07:25:03+00:00"
   },
@@ -357,7 +456,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/brezilyada-secimleri-kaybeden-bolsonaronun-mossadin-eski-ajaniyla-kactigi-iddiasi/4107762",
    "summary": "Brezilya'da sağcı Senatör Flavio Bolsonaro'nun devlet başkanlığı seçimlerini kaybettikten sonra ABD'ye \"İsrail istihbarat servisi Mossad'ın eski ajanı eşliğinde kaçtığı\" iddia edildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-01T07:24:57+00:00"
   },
@@ -375,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-triple-doublea-yaklastigi-macta-thunderi-yendi/4107758",
    "summary": "Milli basketbolcu Alperen Şengün, Rockets'ın 119-98 kazandığı mücadelede 16 sayı, 9 ribaunt, 9 asistle oynadı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-01T07:18:17+00:00"
   },
@@ -848,15 +947,6 @@
    "published": "2026-10-31T15:19:00+00:00"
   },
   {
-   "title": "Anayasa krizinin yaşandığı Polonya'da muhalefet, hükümeti güven oylamasıyla düşürmek istiyor",
-   "link": "https://www.aa.com.tr/tr/dunya/anayasa-krizinin-yasandigi-polonyada-muhalefet-hukumeti-guven-oylamasiyla-dusurmek-istiyor/4107448",
-   "summary": "Polonya'da Anayasa Mahkemesi krizi devam ederken, eski Başbakan ve muhalefetteki Rozwoj Plus oluşumunun lideri Mateusz Morawiecki, Başbakan Donald Tusk liderliğindeki hükümete karşı güvensizlik önergesi vereceklerini…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-31T15:14:47+00:00"
-  },
-  {
    "title": "Türkiye Basketbol Federasyonu Başkanı Türkoğlu, Katar Türk Okulu öğrencileri ile buluştu",
    "link": "https://www.aa.com.tr/tr/spor/turkiye-basketbol-federasyonu-baskani-turkoglu-katar-turk-okulu-ogrencileri-ile-bulustu/4107447",
    "summary": "Türkiye Basketbol Federasyonu (TBF) Başkanı Hidayet Türkoğlu, FIBA'nın düzenlediği etkinlikte Katar Türk Okulu öğrencileriyle bir araya gelerek, yurt dışında yaşayan genç Türk sporcuları milli takım forması altında…",
@@ -864,15 +954,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-31T15:14:37+00:00"
-  },
-  {
-   "title": "AP: İran'ın Orta Doğu'daki 20'den fazla ABD üssüne yaptığı saldırılar, milyarlarca dolar hasara yol açtı",
-   "link": "https://www.aa.com.tr/tr/dunya/ap-iranin-orta-dogudaki-20den-fazla-abd-ussune-yaptigi-saldirilar-milyarlarca-dolar-hasara-yol-acti/4107433",
-   "summary": "AP'nin yaptığı incelemelerde, İran’ın Orta Doğu’daki 20'den fazla ABD üssüne düzenlediği saldırıların uçaklara ve binalara isabet etmeden önce erken uyarı sistemlerine odaklandığı ve milyarlarca dolarlık ekipman…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-31T15:02:12+00:00"
   },
   {
    "title": "Kocaelispor ile Çaykur Rizespor golsüz berabere kaldı",
@@ -1037,15 +1118,6 @@
    "published": "2026-10-31T11:27:44+00:00"
   },
   {
-   "title": "Orhun Yazıtları Beştepe Millet Ormanı'nda",
-   "link": "https://www.trthaber.com/haber/turk-dunyasi/orhun-yazitlari-bestepe-millet-ormaninda-961820.html",
-   "summary": "Türk Devletleri Medeniyet Parkı Beştepe Millet Ormanı'nda açıldı. TDK tarafından bire bir ölçülerinde hazırlatılan Köl Tigin, Bilge Kağan ve Bilge Tonyukuk Yazıtlarının replikaları, 16 Türk devletinin bayraklarının da…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T11:23:00+00:00"
-  },
-  {
    "title": "Rusya dizel ihracatı yasağını ocak sonuna kadar uzattı",
    "link": "https://www.aa.com.tr/tr/ekonomi/rusya-dizel-ihracati-yasagini-ocak-sonuna-kadar-uzatti/4107267",
    "summary": "Rus hükümeti, dizel, gemi yakıtı ve gaz yağı ihracatına yönelik yasağı 31 Ocak 2027'ye kadar uzattı.",
@@ -1071,24 +1143,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T10:39:50+00:00"
-  },
-  {
-   "title": "Emine Erdoğan'dan 'Türk Devletleri Teşkilatı 13. Zirvesi' paylaşımı",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-turk-devletleri-teskilati-13-zirvesi-paylasimi-961819.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türk Devletleri Teşkilatı TDT 13. Zirvesi'ne ilişkin paylaşım yaptı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:33:00+00:00"
-  },
-  {
-   "title": "Fındık sektörüne sıkı takip sürüyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/findik-sektorune-siki-takip-suruyor-961818.html",
-   "summary": "Rekabet Kurumu Başkanı Birol Küle, fındık alımsatım pazarının önde gelen 6 teşebbüsü hakkında \"ciddi rekabet ihlali\" şüphesiyle soruşturma açtıklarını belirterek, \"İncelemelerimiz sürecinde çiftçimizi mağdur eden,…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T10:32:00+00:00"
   },
   {
    "title": "Rekabet Kurumu fındık sektörüne yönelik sıkı takibini sürdürüyor",
@@ -1296,60 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-10-31T08:04:45+00:00"
-  },
-  {
-   "title": "ECB'de Lagarde dönemi sona yaklaşırken, halefini faiz değil \"Fransa krizi\" bekliyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ecbde-lagarde-donemi-sona-yaklasirken-halefini-faiz-degil-fransa-krizi-bekliyor/4107098",
-   "summary": "Avrupa Merkez Bankası (ECB) Başkanı Christine Lagarde'ın normal süresinin dolmasından yaklaşık 9 ay önce görevi bırakacağını açıklaması, küresel piyasalarda ve Avrupa siyasetinde derin yankı uyandırdı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-31T08:03:32+00:00"
-  },
-  {
-   "title": "Fitch, Fransa'nın kredi notu görünümünü negatife çevirdi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fitch-fransanin-kredi-notu-gorunumunu-negatife-cevirdi/4107082",
-   "summary": "Uluslararası kredi derecelendirme kuruluşu Fitch Ratings, Fransa'nın uzun vadeli kredi notunu \"A+\" olarak teyit ederken, not görünümünü \"durağan\"dan \"negatif\"e çevirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-31T07:28:48+00:00"
-  },
-  {
-   "title": "Doğal gaz toptan satış piyasasında teknik ve idari esaslarda değişiklik yapıldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/dogal-gaz-toptan-satis-piyasasinda-teknik-ve-idari-esaslarda-degisiklik-yapildi/4107080",
-   "summary": "Enerji Piyasası Düzenleme Kurumu (EPDK), organize toptan doğal gaz satış piyasasında sistem dengesini sağlamak amacıyla teknik ve idari esaslarda düzenleme yaptı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-31T07:23:13+00:00"
-  },
-  {
-   "title": "Sivasspor, bugün ligde Boluspor'u konuk edecek",
-   "link": "https://www.aa.com.tr/tr/spor/sivasspor-bugun-ligde-bolusporu-konuk-edecek/4107064",
-   "summary": "Ekenler Beton Sivasspor, Trendyol 1. Lig'in 13. haftasında bugün sahasında Boluspor ile karşılaşacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-31T06:58:59+00:00"
-  },
-  {
-   "title": "Başakşehir, Süper Lig'de bugün Samsunspor'u ağırlayacak",
-   "link": "https://www.aa.com.tr/tr/spor/basaksehir-super-ligde-bugun-samsunsporu-agirlayacak/4107055",
-   "summary": "İstanbul Başakşehir, Trendyol Süper Lig'in 10. haftasında bugün Samsunspor'u konuk edecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-31T06:47:28+00:00"
-  },
-  {
-   "title": "Ticaret Bakanlığı Türk markalarının küresel rekabet gücünü artıracak yeni destekleri uygulamaya aldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakanligi-turk-markalarinin-kuresel-rekabet-gucunu-artiracak-yeni-destekleri-uygulamaya-aldi/4107047",
-   "summary": "Ticaret Bakanlığı, ihracatçıların değişen ihtiyaçları ve küresel ticaretin dinamikleri doğrultusunda Marka ve Turquality Desteğine İlişkin Genelge'de kapsamlı değişiklikler yaparak yeni destek unsurlarını uygulamaya…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-10-31T06:32:45+00:00"
   }
  ]
 }
