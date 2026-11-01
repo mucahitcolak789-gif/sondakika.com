@@ -1,6 +1,33 @@
 {
- "updated": "2026-10-31T23:56:47.538021+00:00",
+ "updated": "2026-11-01T00:41:37.507055+00:00",
  "items": [
+  {
+   "title": "Türk Dünyası Diyalog Forumu tamamlandı",
+   "link": "https://www.aa.com.tr/tr/gundem/turk-dunyasi-diyalog-forumu-tamamlandi/4107697",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığınca, Türk Devletleri Teşkilatı (TDT) 13. Zirvesi marjında düzenlenen \"Türk Dünyası Diyalog Forumu\" başlıklı uluslararası etkinlik sona erdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T23:45:08+00:00"
+  },
+  {
+   "title": "İngiltere'de yasaklanan Palestine Action'a destek eyleminde gözaltı sayısı 139'a çıktı",
+   "link": "https://www.aa.com.tr/tr/dunya/ingilterede-yasaklanan-palestine-actiona-destek-eyleminde-gozalti-sayisi-139a-cikti/4107695",
+   "summary": "İngiltere'nin başkenti Londra'da, ülkede İsrail ile iş yapan şirketlere yönelik eylemleri nedeniyle yasaklı örgüt ilan edilen Palestine Action'a destek için dün düzenlenen gösteride gözaltına alınanların sayısı 139'a…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T23:43:32+00:00"
+  },
+  {
+   "title": "Filistin asıllı milletvekili Tıybi, Eisenkot liderliğindeki hükümeti destekleyeceklerini duyurdu",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-asilli-milletvekili-tiybi-eisenkot-liderligindeki-hukumeti-destekleyeceklerini-duyurdu/4107687",
+   "summary": "İsrail vatandaşı Filistinli milletvekili Ahmed Tıybi, genel seçimde 11 sandalye elde etmeyi başaran Ortak Liste'nin, Gadi Eisenkot liderliğinde kurulacak bir koalisyon hükümetine dışarıdan destek vermeye hazır olduğunu…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T22:28:01+00:00"
+  },
   {
    "title": "Bolu Dağı Tüneli'nde tırın çarptığı otomobil takla attı: 4 yaralı",
    "link": "https://www.trthaber.com/haber/turkiye/bolu-dagi-tunelinde-tirin-carptigi-otomobil-takla-atti-4-yarali-961850.html",
@@ -63,6 +90,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-10-31T21:19:21+00:00"
+  },
+  {
+   "title": "İsrailli muhalefet lideri, meclisteki çoğunluğu hükümete karşı derhal kullanacaklarını açıkladı",
+   "link": "https://www.aa.com.tr/tr/dunya/israilli-muhalefet-lideri-meclisteki-cogunlugu-hukumete-karsi-derhal-kullanacaklarini-acikladi/4107667",
+   "summary": "İsrail'deki parlamento seçimlerinde muhalefetin en güçlü ismi olarak çıkan Yashar Partisi lideri Gadi Eisenkot, elde ettikleri milletvekili çoğunluğunu Başbakan Binyamin Netanyahu liderliğindeki mevcut hükümete karşı…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-10-31T21:16:36+00:00"
   },
   {
    "title": "Almanya'da gençlerin protesto gösterilerinde birçok kentte olaylar çıktı",
@@ -312,7 +348,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/binance-siber-saldirida-calinan-varliklarin-yuzde-90ini-karsiladigini-bildirdi/4107567",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T17:20:24+00:00"
   },
@@ -321,7 +357,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/trump-g20-zirvesi-oncesinde-rusya-ukrayna-baris-anlasmasina-varilmasi-konusunda-umutlu/4107562",
    "summary": "ABD Başkanı Donald Trump, aralık ayında yapılacak G20 Zirvesi öncesinde Rusya ile Ukrayna arasında barış anlaşmasına varılması konusunda umutlu olduğunu belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T17:13:18+00:00"
   },
@@ -330,7 +366,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-sari-yelekliler-hayat-pahaliligina-karsi-yeniden-sokaklara-cikti/4107548",
    "summary": "Fransa'da hükümet, 17 ve 24 Ekim'de şiddet olaylarının yaşandığı gösterilerin ardından güvenlik tedbirlerini sıkılaştırırken, Sarı Yelekliler hayat pahalılığına karşı yeniden sokaklara çıktı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-10-31T16:56:36+00:00"
   },
@@ -360,15 +396,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-10-31T16:38:49+00:00"
-  },
-  {
-   "title": "İstanbul Emniyet Müdürlüğünden nezarethanelerde verilen kumanyalara ilişkin açıklama",
-   "link": "https://www.aa.com.tr/tr/gundem/istanbul-emniyet-mudurlugunden-nezarethanelerde-verilen-kumanyalara-iliskin-aciklama/4107534",
-   "summary": "İstanbul Emniyet Müdürlüğü, nezarethanelerde gözaltındakilere sunulan kumanyaların ilgili gıda mevzuatı ve teknik şartname hükümlerine uygunluk açısından gerekli kontrol, muayene ve kabul işlemlerinden geçirilerek…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-10-31T16:34:37+00:00"
   },
   {
    "title": "Zelenskiy: Cumhurbaşkanı Erdoğan ile Karadeniz Tahıl Koridoru üzerinde çalışmak konusunda mutabık kaldık",
@@ -1109,15 +1136,6 @@
    "published": "2026-10-31T08:16:13+00:00"
   },
   {
-   "title": "İsrail ordusu ateşkese rağmen Lübnan'ın güneyine hava saldırıları düzenledi",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-ateskese-ragmen-lubnanin-guneyine-hava-saldirilari-duzenledi/4107126",
-   "summary": "İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan’ın güneyindeki bölgelere hava saldırıları düzenledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-31T08:15:39+00:00"
-  },
-  {
    "title": "Dünya şampiyonu atıcı Yüzbaşı İsmail Keleş, hedefini Los Angeles olimpiyatlarına çevirdi",
    "link": "https://www.aa.com.tr/tr/spor/dunya-sampiyonu-atici-yuzbasi-ismail-keles-hedefini-los-angeles-olimpiyatlarina-cevirdi/4107119",
    "summary": "Azerbaycan ve Endonezya'da düzenlenen Havalı ve Ateşli Silahlar Dünya Kupaları'nda iki kez dünya şampiyonluğu elde eden Yüzbaşı İsmail Keleş, hedefini 2028 Los Angeles Olimpiyatları olarak belirledi.",
@@ -1143,15 +1161,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-31T08:07:40+00:00"
-  },
-  {
-   "title": "Fransa'da Danıştay Paris'teki Sarı Yelekliler eylemi için hükümetin belirlediği güzergahı onayladı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-danistay-paristeki-sari-yelekliler-eylemi-icin-hukumetin-belirledigi-guzergahi-onayladi/4107107",
-   "summary": "Fransa'da Danıştay, Paris'te düzenlenecek Sarı Yelekliler eylemlerinde sendikaların talep ettiği merkezi rotanın uygulanmasını kabul eden alt mahkemenin kararını bozarak hükümet yetkililerinin belirlediği çevre yoluna…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-10-31T08:07:16+00:00"
   },
   {
    "title": "COP31'in Antalya turizmine katkısının 2027'de sürmesi bekleniyor",
@@ -1341,15 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-10-30T15:24:57+00:00"
-  },
-  {
-   "title": "Kulüpler Birliği Vakfı, Futbol Zirvesi düzenleyecek",
-   "link": "https://www.aa.com.tr/tr/spor/kulupler-birligi-vakfi-futbol-zirvesi-duzenleyecek/4106690",
-   "summary": "Kulüpler Birliği Vakfı, Türk futbolunun gelişimi için 17 Kasım Salı günü Futbol Zirvesi düzenleyeceğini duyurdu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-10-30T14:51:25+00:00"
   }
  ]
 }
