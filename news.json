@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-02T16:40:36.033172+00:00",
+ "updated": "2026-11-02T17:34:50.662253+00:00",
  "items": [
+  {
+   "title": "DEM Parti'nin belediye meclis üyeliği kararı: İBB'de dengeler değişecek mi?",
+   "link": "https://www.bbc.com/turkce/articles/c6gm0k14138wo?at_medium=RSS&at_campaign=rss",
+   "summary": "DEM Parti yönetimi, 2024 yerel seçimlerinde \"kent uzlaşısı\" kapsamında CHP listelerinden seçilen belediye meclis üyelerinin bundan böyle DEM Parti çatısı altında görev yapacağını açıkladı. Karar, İstanbul Büyükşehir…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d477/live/6ed7ad10-d6e1-11f1-b2be-0146bf989691.jpg",
+   "published": "2026-11-02T17:20:10+00:00"
+  },
+  {
+   "title": "Akdeniz'de 5,1 büyüklüğünde deprem",
+   "link": "https://www.aa.com.tr/tr/gundem/akdenizde-5-1-buyuklugunde-deprem/4109049",
+   "summary": "Akdeniz açıklarında saat 19.49'da 5,1 büyüklüğünde deprem meydana geldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T17:10:24+00:00"
+  },
+  {
+   "title": "MHP Genel Başkanı Bahçeli'nin kız kardeşi Semiha Bahçeli vefat etti",
+   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-semiha-bahceli-vefat-etti-961986.html",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Semiha Bahçeli vefat etti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T17:07:00+00:00"
+  },
+  {
+   "title": "Marvell, Lumentum'u 115 milyar dolarlık anlaşmayla satın alacak",
+   "link": "https://www.aa.com.tr/tr/ekonomi/marvell-lumentumu-115-milyar-dolarlik-anlasmayla-satin-alacak/4109047",
+   "summary": "ABD'li çip üreticisi Marvell Technology, optik ağ teknolojileri şirketi Lumentum'u tamamı hisse takası yoluyla yaklaşık 115 milyar dolarlık işletme değeriyle satın alacağını açıkladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T17:04:30+00:00"
+  },
+  {
+   "title": "Stuttgart'ın teknik direktörü Hoeness: Yarın oluşacak atmosferi dört gözle bekleyeceğiz",
+   "link": "https://www.aa.com.tr/tr/spor/stuttgartin-teknik-direktoru-hoeness-yarin-olusacak-atmosferi-dort-gozle-bekleyecegiz/4109039",
+   "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında yarın Galatasaray'a konuk olacak Almanya temsilcisi Stuttgart'ın teknik direktörü Sebastian Hoeness, galibiyet için ellerinden geleni yapacaklarını söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T16:54:09+00:00"
+  },
   {
    "title": "Kayseri'de toptan satış mağazasında yangın",
    "link": "https://www.trthaber.com/haber/turkiye/kayseride-toptan-satis-magazasinda-yangin-961984.html",
@@ -29,6 +74,15 @@
    "published": "2026-11-02T16:19:50+00:00"
   },
   {
+   "title": "İsrail’de muhalefet bloğundaki Demokratlar Partisi, başbakanlık için Eisenkot'u destekleyeceğini duyurdu",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-de-muhalefet-blogundaki-demokratlar-partisi-basbakanlik-icin-eisenkotu-destekleyecegini-duyurdu/4109009",
+   "summary": "İsrail'de sandıktan koalisyon belirsizliğinin çıktığı 27 Ekim'deki genel seçimlerin ardından muhalefetteki Demokratlar Partisi, başbakanlık için Gadi Eisenkot'u destekleyeceğini açıkladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T16:15:05+00:00"
+  },
+  {
    "title": "28 yıldır yürüyen Karl Bushby, 58 bin km yol sonra evine döndü",
    "link": "https://www.bbc.com/turkce/articles/ckm23dng4rlqo?at_medium=RSS&at_campaign=rss",
    "summary": "Dünyayı yürüyerek dolaşan Karl Bushby, 28 yıl sonra yolculuğu tamamladı. Karl Bushby, İngiltere'nin Hull kentindeki evine vardığında annesi Angela Bushby tarafından karşılandı.",
@@ -47,8 +101,8 @@
    "published": "2026-11-02T15:55:12+00:00"
   },
   {
-   "title": "İstanbul'daki kara para aklama soruşturmasında 4 zanlı için tutuklama talebi",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-kara-para-aklama-sorusturmasinda-4-zanli-icin-tutuklama-talebi-961983.html",
+   "title": "İstanbul'daki kara para aklama soruşturmasında 4 tutuklama",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-kara-para-aklama-sorusturmasinda-4-tutuklama-961983.html",
    "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin Emir ve Ömer Sarıgül'ün de aralarında bulunduğu 24 şüphelinin tutuklandığı soruşturma…",
    "source": "TRT Haber",
    "category": "Gündem",
@@ -72,6 +126,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55a5/live/dcc86bb0-d6ab-11f1-ac90-f7afd947062e.jpg",
    "published": "2026-11-02T15:38:48+00:00"
+  },
+  {
+   "title": "İran Dışişleri Bakanı: Hürmüz Boğazının açılması İranın şartlarının kabul edilmesine bağlı",
+   "link": "https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-hurmuz-bogazinin-acilmasi-iranin-sartlarinin-kabul-edilmesine-bagli-961985.html",
+   "summary": "İran Dışişleri Bakanı Abbas Arakçi, \"Hürmüz Boğazının açılmasının İranın şartlarının kabul edilmesine bağlı\" olduğunu belirtti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T15:32:00+00:00"
   },
   {
    "title": "Borsa günü yükselişle tamamladı",
@@ -299,8 +362,8 @@
    "published": "2026-11-02T13:25:51+00:00"
   },
   {
-   "title": "Samsun'da bulut denizi görüntülendi",
-   "link": "https://www.aa.com.tr/tr/gundem/samsunda-bulut-denizi-goruntulendi/4108841",
+   "title": "Samsun'da bulut denizi güzel görüntüler oluşturdu",
+   "link": "https://www.aa.com.tr/tr/gundem/samsunda-bulut-denizi-guzel-goruntuler-olusturdu/4108841",
    "summary": "Samsun'un Alaçam ilçesinde yüksek kesimlerde oluşan bulut denizi güzel görüntüler oluşturdu.",
    "source": "AA",
    "category": "Gündem",
@@ -348,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/tarihi-filistin-topraklarinda-isgale-zemin-hazirlayan-balfour-deklarasyonu-109-yil-once-bugun-yayimlandi/4108830",
    "summary": "Tarihi Filistin toprakları üzerinde İsrail devletinin kurulmasına zemin hazırlayan İngiltere imzalı \"Balfour Deklarasyonu\"nun üzerinden 109 yıl geçerken, işgal ve abluka altındaki Filistin topraklarında İsrail zulmü…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T13:06:32+00:00"
   },
@@ -380,20 +443,11 @@
    "published": "2026-11-02T13:02:00+00:00"
   },
   {
-   "title": "Siber suçlarla mücadele operasyonlarında 86 şüpheli tutuklandı",
-   "link": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-86-supheli-tutuklandi/4108822",
-   "summary": "İçişleri Bakanlığı, Emniyet Genel Müdürlüğü ekiplerince siber suçlarla mücadele kapsamında 11 ilde düzenlenen operasyonlarda yakalanan 120 şüpheliden 86'sının tutuklandığını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T12:59:23+00:00"
-  },
-  {
    "title": "Ümit Milli Futbol Takımı'nın Çekya maçı ücretsiz izlenebilecek",
    "link": "https://www.aa.com.tr/tr/spor/umit-milli-futbol-takiminin-cekya-maci-ucretsiz-izlenebilecek/4108795",
    "summary": "Ümit Milli Futbol Takımı'nın 2027 UEFA 21 Yaş Altı Avrupa Şampiyonası Elemeleri'nde 13 Kasım Cuma günü Rize'de Çekya ile yapacağı play-off turu ilk maçı ücretsiz izlenebilecek.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-02T12:43:05+00:00"
   },
@@ -441,15 +495,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-02T12:27:00+00:00"
-  },
-  {
-   "title": "Talim ve Terbiye Kurulu 100. Yıl Özel Oturumu'nda \"100. Yıl Kararları\" oy birliğiyle kabul edildi",
-   "link": "https://www.aa.com.tr/tr/gundem/talim-ve-terbiye-kurulu-100-yil-ozel-oturumunda-100-yil-kararlari-oy-birligiyle-kabul-edildi/4108776",
-   "summary": "Milli Eğitim Bakanı Yusuf Tekin başkanlığında, Milli Eğitim Bakanlığı (MEB) Talim ve Terbiye Kurulu Başkanlığının 100. kuruluş yıl dönümü dolayısıyla gerçekleştirilen özel oturumda, \"100. Yıl Kararları\" oy birliğiyle…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T12:26:28+00:00"
   },
   {
    "title": "Mekke Anlaşması TBMM Genel Kurulu'na geliyor",
@@ -740,15 +785,6 @@
    "published": "2026-11-02T10:22:00+00:00"
   },
   {
-   "title": "İliyana Yotova Bulgaristan'ın ilk kadın cumhurbaşkanı oldu",
-   "link": "https://www.bbc.com/turkce/articles/c60e0yyyy9d3o?at_medium=RSS&at_campaign=rss",
-   "summary": "Bulgaristan'da Iliana Iotova, çok düşük katılımla yapılan cumhurbaşkanlığı seçimleri sonrası ülkenin ilk seçilmiş kadın devlet başkanı oldu.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f664/live/a4187a20-d63e-11f1-ba8b-eb8ed8eebc93.jpg",
-   "published": "2026-11-02T10:15:22+00:00"
-  },
-  {
    "title": "Katil İsrail ordusu ve İsrailli işgalciler Batı Şeria'da ekimde 3 bin 133 ihlal gerçekleştirdi",
    "link": "https://www.trthaber.com/haber/dunya/katil-israil-ordusu-ve-israilli-isgalciler-bati-seriada-ekimde-3-bin-133-ihlal-gerceklestirdi-961950.html",
    "summary": "İsrail ordusu ile Filistin topraklarını gasbeden işgalci İsraillilerin, ekim ayında işgal altındaki Batı Şeria'da 3 bin 133 saldırı ve ihlal gerçekleştirdiği, ihlallerin bir önceki aya göre yüzde 52,8 arttığı bildirildi.",
@@ -920,15 +956,6 @@
    "published": "2026-11-02T08:58:31+00:00"
   },
   {
-   "title": "5 soruda Libya'nın henüz yüzde 70'i keşfedilmemiş enerji alanları ve Türkiye'nin sismik araştırma gücü",
-   "link": "https://www.aa.com.tr/tr/dunya/5-soruda-libyanin-henuz-yuzde-70i-kesfedilmemis-enerji-alanlari-ve-turkiyenin-sismik-arastirma-gucu/4108498",
-   "summary": "Libya'nın deniz yetki alanlarında henüz keşfedilmeyi bekleyen hidrokarbon potansiyeli ile Türkiye'nin derin deniz sismik arama gücü ve tecrübesi iki ülke arasında enerjide yeni ortaklık fırsatlarına zemin hazırlıyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T08:57:07+00:00"
-  },
-  {
    "title": "Kamu hizmetinden memnuniyet CİMER başvurularına yansıdı",
    "link": "https://www.trthaber.com/haber/gundem/kamu-hizmetinden-memnuniyet-cimer-basvurularina-yansidi-961942.html",
    "summary": "Kayıp danayı dron ile arayarak bulan güvenlik güçlerine teşekkürden evladını devlet yurduna yerleştiren annenin mutluluğuna kadar vatandaşların kamu hizmetlerine duydukları memnuniyet, CİMER başvurularına yansıdı.",
@@ -1064,15 +1091,6 @@
    "published": "2026-11-02T08:10:00+00:00"
   },
   {
-   "title": "ABD halkı valilik seçimleri için 36 eyalette sandık başına gidiyor",
-   "link": "https://www.trthaber.com/haber/dunya/abd-halki-valilik-secimleri-icin-36-eyalette-sandik-basina-gidiyor-961936.html",
-   "summary": "ABD genelinde düzenlenecek ara seçimler kapsamında seçmenler, ülkedeki eyaletlerden 36'sında görev yapacak valileri belirlemek üzere oy verecek.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T08:08:00+00:00"
-  },
-  {
    "title": "Türkiye ve Kazakistan, ekonomik ilişkilerini Almatı'daki havalimanı yatırımlarıyla pekiştiriyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-kazakistan-ekonomik-iliskilerini-almatidaki-havalimani-yatirimlariyla-pekistiriyor/4108416",
    "summary": "Türkiye ile Kazakistan arasındaki ekonomik ilişkiler farklı sektörlerdeki işbirliklerinin gelişmesine de katkı sağlarken bu kapsamda TAV Havalimanları da 2021'den bu yana işlettiği Kazakistan'daki Almatı Havalimanı'na…",
@@ -1089,24 +1107,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-02T08:04:28+00:00"
-  },
-  {
-   "title": "TSK Spor Gücü'nün bir asırlık başarı yolculuğu",
-   "link": "https://www.trthaber.com/haber/gundem/tsk-spor-gucunun-bir-asirlik-basari-yolculugu-961935.html",
-   "summary": "Türk Silahlı Kuvvetleri TSK bünyesinde spor faaliyetlerinin geliştirilmesi amacıyla kurulan ve TSK Spor Gücü Komutanlığı adıyla faaliyetlerini sürdüren komutanlık, bir asrı aşkın süredir farklı branşlarda Türk sporuna…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T07:57:00+00:00"
-  },
-  {
-   "title": "ABD Başkanı Trump, bir noktada İran'a çekiçle vurmaları gerekeceğini söyledi",
-   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trump-bir-noktada-irana-cekicle-vurmalari-gerekecegini-soyledi-961934.html",
-   "summary": "ABD Başkanı Donald Trump, İran'a olası saldırı iddialarının gündemde olduğu dönemde Tahran'a karşı \"iyi davranmak istediğini ancak bir noktada onlara çekiçle vurmaları gerektiğini\" belirtti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T07:43:00+00:00"
   },
   {
    "title": "NBA'de Lakers, Luka Doncic'in 45 sayı attığı maçta Raptors'ı yendi",
