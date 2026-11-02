@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-02T19:36:06.305431+00:00",
+ "updated": "2026-11-02T20:25:57.914203+00:00",
  "items": [
+  {
+   "title": "İran basını: ABD ile iletişimde yeni gelişme yok",
+   "link": "https://www.trthaber.com/haber/dunya/iran-basini-abd-ile-iletisimde-yeni-gelisme-yok-961995.html",
+   "summary": "İran ile ABD arasında ara bulucular üzerinden mesaj alışverişinin olağan şekilde devam ettiği fakat bu konuda yeni bir gelişme yaşanmadığı duyuruldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T20:21:00+00:00"
+  },
+  {
+   "title": "İstanbul'da sağanak etkili oluyor",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-saganak-etkili-oluyor-961994.html",
+   "summary": "İstanbul'da gök gürültülü sağanak etkili oluyor. Sağanak nedeniyle bazı cadde ve sokaklarda su birikintileri oluştu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T20:16:00+00:00"
+  },
+  {
+   "title": "Ukrayna: Rusya'nın Komişuvaha köyüne düzenlediği hava saldırılarında 24 kişi hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-rusyanin-komisuvaha-koyune-duzenledigi-hava-saldirilarinda-24-kisi-hayatini-kaybetti/4109145",
+   "summary": "Rus ordusunun, Ukrayna'nın Zaporijya bölgesindeki Komişuvaha köyüne yönelik gerçekleştirdiği hava saldırılarında 24 kişi yaşamını yitirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T19:45:59+00:00"
+  },
+  {
+   "title": "İstanbul için kuvvetli sağanak uyarısı",
+   "link": "https://www.aa.com.tr/tr/gundem/istanbul-icin-kuvvetli-saganak-uyarisi/4109144",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T19:44:25+00:00"
+  },
+  {
+   "title": "İsrail'in Gazze saldırılarında 7 Filistinli daha hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazze-saldirilarinda-7-filistinli-daha-hayatini-kaybetti/4109143",
+   "summary": "İsrail ordusunun ateşkes anlaşmasını ihlal ederek Gazze Şeridi'nin çeşitli bölgelerine düzenlediği saldırılarda 2'si daha önce yaralanan 7 Filistinli yaşamını yitirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T19:43:17+00:00"
+  },
+  {
+   "title": "Meteoroloji'den İstanbul için sağanak uyarısı",
+   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-istanbul-icin-saganak-uyarisi-961993.html",
+   "summary": "İstanbul için kuvvetli sağanak uyarısı yapıldı. Su baskını, ani sel ve ulaşımda aksamalar gibi olumsuzluklara karşı vatandaşlar uyarıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T19:43:00+00:00"
+  },
+  {
+   "title": "Trendyol Süper Lig'de görünüm",
+   "link": "https://www.aa.com.tr/tr/spor/trendyol-super-ligde-gorunum/4109141",
+   "summary": "Trendyol Süper Lig'de 10. hafta mücadelesi tamamlandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T19:38:15+00:00"
+  },
   {
    "title": "Van'da rahatsızlanan asker şehit oldu",
    "link": "https://www.aa.com.tr/tr/gundem/vanda-rahatsizlanan-asker-sehit-oldu/4109130",
@@ -245,6 +308,15 @@
    "published": "2026-11-02T15:20:12+00:00"
   },
   {
+   "title": "İletişim Başkanlığı Seul'de Bir Dostluğun Doğuşu sergisi düzenleyecek",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskanligi-seulde-bir-dostlugun-dogusu-sergisi-duzenleyecek-961981.html",
+   "summary": "İletişim Başkanlığınca Güney Kore'nin başkenti Seul'de \"Bir Dostluğun Doğuşu: Bir Türk Fotoğrafçının Objektifinden 70 Yıl Önceki Kore\" sergisi düzenlenecek.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T14:58:00+00:00"
+  },
+  {
    "title": "Rusya ve Ukrayna'da acil durum uygulamalarına siber saldırılar düzenlendi",
    "link": "https://www.trthaber.com/haber/dunya/rusya-ve-ukraynada-acil-durum-uygulamalarina-siber-saldirilar-duzenlendi-961982.html",
    "summary": "Siber saldırganlar, Rusya ve Ukrayna'da vatandaşları olası tehlikelere karşı uyarmak amacıyla kullanılan acil durum uygulamalarını hedef aldı ve her iki ülkede de halka nükleer ve radyasyon tehdidine ilişkin sahte…",
@@ -263,7 +335,7 @@
    "published": "2026-11-02T14:56:32+00:00"
   },
   {
-   "title": "İBB davasında üçüncü celse başladı, bazı müştekiler şikayetini çekti",
+   "title": "İBB davasında üçüncü celsede bazı müştekiler şikayetini çekti",
    "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss",
    "summary": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasının üçüncü celsesi bugün Silivri'deki Marmara Kapalı Cezaevi'nde başladı.",
    "source": "BBC Türkçe",
@@ -362,20 +434,11 @@
    "published": "2026-11-02T14:14:59+00:00"
   },
   {
-   "title": "Sağlık Bakanı Memişoğlu: Toplum sağlığını tehdit eden alışkanlıklarla mücadelemizi sürdürüyoruz",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-toplum-sagligini-tehdit-eden-aliskanliklarla-mucadelemizi-surduruyoruz/4108882",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Toplum sağlığını tehdit eden alışkanlıklarla mücadelemizi kararlılıkla sürdürüyoruz.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T14:01:50+00:00"
-  },
-  {
    "title": "İran: Hürmüz Boğazı'nın doğusunda bir petrol tankeri mayına çarptı",
    "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinin-dogusunda-bir-petrol-tankeri-mayina-carpti/4108872",
    "summary": "İran Ordusu, Hürmüz Boğazı'nın doğusunda \"yasaklı bölgede\" bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T13:51:27+00:00"
   },
@@ -492,18 +555,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-02-kasim-2026/4108828",
    "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank’ın katkılarıyla…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-02T13:04:47+00:00"
-  },
-  {
-   "title": "60 saniyede bugün (02 Kasım 2026)",
-   "link": "https://www.aa.com.tr/tr/gundem/60-saniyede-bugun-02-kasim-2026/4108825",
-   "summary": "Türkiye ve dünya gündeminin 60 saniyelik özeti. AJet’in katkılarıyla...",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T13:04:04+00:00"
   },
   {
    "title": "Siber suçlarla mücadelede 11 ilde operasyon: 86 tutuklama",
@@ -884,15 +938,6 @@
    "published": "2026-11-02T10:05:00+00:00"
   },
   {
-   "title": "Bulgaristan'da cumhurbaşkanı seçimini kazanan Yotova oyların yüzde 57,57'sini aldı",
-   "link": "https://www.aa.com.tr/tr/dunya/bulgaristanda-cumhurbaskani-secimini-kazanan-yotova-oylarin-yuzde-57-57sini-aldi/4108586",
-   "summary": "Bulgaristan'da cumhurbaşkanı seçiminin galibi mevcut Cumhurbaşkanı İliyana Yotova ile Cumhurbaşkanı Yardımcısı adayı Kiril Valchev'in oyların yüzde 57,57'sini aldıkları açıklandı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T10:04:36+00:00"
-  },
-  {
    "title": "İsveç'teki bazı market zincirlerinin soğutma sistemlerine siber saldırı düzenlendi",
    "link": "https://www.aa.com.tr/tr/dunya/isvecteki-bazi-market-zincirlerinin-sogutma-sistemlerine-siber-saldiri-duzenlendi/4108578",
    "summary": "İsveç'te faaliyet gösteren bazı market zincirlerinin soğutma sistemlerine siber saldırı düzenlenmesi sonucu dondurucu ve buzdolaplarındaki gıdaların bozulduğu bildirildi.",
@@ -909,15 +954,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-02T09:57:00+00:00"
-  },
-  {
-   "title": "Alman Yüksek Mahkemesi, Rus milyarder Usmanov'un AB'ye açtığı itibar davasının önünü açtı",
-   "link": "https://www.aa.com.tr/tr/dunya/alman-yuksek-mahkemesi-rus-milyarder-usmanovun-abye-actigi-itibar-davasinin-onunu-acti/4108565",
-   "summary": "Almanya Federal Yüksek Mahkemesi (BGH), Rus milyarder Alişer Usmanov'un Avrupa Birliği (AB) Konseyi'ne karşı yaptırım gerekçelerinde kullanılan ifadeler nedeniyle açtığı davanın ilerlemesini engelleyen kararları iptal…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T09:50:37+00:00"
   },
   {
    "title": "A Milli Futbol Takımı'nın Fransa ile yapacağı maçın misafir tribün biletleri satışa sunuldu",
@@ -938,15 +974,6 @@
    "published": "2026-11-02T09:40:55+00:00"
   },
   {
-   "title": "15 Temmuz Şehitler Köprüsü'nde zincirleme trafik kazası",
-   "link": "https://www.trthaber.com/haber/turkiye/15-temmuz-sehitler-koprusunde-zincirleme-trafik-kazasi-961945.html",
-   "summary": "15 Temmuz Şehitler Köprüsü'nde 5 aracın karıştığı zincirleme trafik kazası nedeniyle trafik yoğunluğu yaşandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T09:29:00+00:00"
-  },
-  {
    "title": "YEKA RES-2026 yarışmalarında 7 proje için en iyi teklifler belli oldu",
    "link": "https://www.aa.com.tr/tr/ekonomi/yeka-res-2026-yarismalarinda-7-proje-icin-en-iyi-teklifler-belli-oldu/4108532",
    "summary": "Enerji ve Tabii Kaynaklar Bakanlığının 7 proje için toplam 1500 megavatlık rüzgar enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları (YEKA RES-2026) yarışmaları 11 şirketin katılımıyla yapıldı.",
@@ -954,15 +981,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-02T09:21:33+00:00"
-  },
-  {
-   "title": "Kremlin: Zelenski'nin araması halinde Putin telefonu açacak",
-   "link": "https://www.trthaber.com/haber/dunya/kremlin-zelenskinin-aramasi-halinde-putin-telefonu-acacak-961944.html",
-   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Ukrayna Devlet Başkanı Volodimir Zelenski'nin araması halinde, Rusya Devlet Başkanı Vladimir Putin'in telefonu açacağını bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T09:11:00+00:00"
   },
   {
    "title": "Mersin ile Gaziantep arası seyahat hızlı trenle 2 saat 15 dakikaya inecek",
@@ -990,24 +1008,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-02T09:01:06+00:00"
-  },
-  {
-   "title": "TRT Akademiden Nijeryalı editörlere internet haberciliği ve yapay zeka eğitimi",
-   "link": "https://www.trthaber.com/haber/trt-akademi/trt-akademiden-nijeryali-editorlere-internet-haberciligi-ve-yapay-zeka-egitimi-961943.html",
-   "summary": "TRT Akademi, Nijeryada faaliyet gösteren Leadership gazetesinin editörlerine yönelik \"İnternet Haberciliği ve Yapay Zeka Eğitimi\" düzenliyor. 85 editörün katılımıyla 3 Kasımda çevrim içi gerçekleştirilecek programda,…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T08:59:00+00:00"
-  },
-  {
-   "title": "Kamu hizmetinden memnuniyet CİMER başvurularına yansıdı",
-   "link": "https://www.trthaber.com/haber/gundem/kamu-hizmetinden-memnuniyet-cimer-basvurularina-yansidi-961942.html",
-   "summary": "Kayıp danayı dron ile arayarak bulan güvenlik güçlerine teşekkürden evladını devlet yurduna yerleştiren annenin mutluluğuna kadar vatandaşların kamu hizmetlerine duydukları memnuniyet, CİMER başvurularına yansıdı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T08:57:00+00:00"
   },
   {
    "title": "İran savaşı ABD'de enerji maliyetlerini ve siyasi baskıyı artırıyor",
@@ -1325,15 +1325,6 @@
    "published": "2026-11-01T12:17:01+00:00"
   },
   {
-   "title": "Trabzonspor Kulübü 61. Olağan Divan Genel Kurulu Toplantısı yapıldı",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-kulubu-61-olagan-divan-genel-kurulu-toplantisi-yapildi/4107965",
-   "summary": "Bordo-mavili kulübün 31 Ağustos itibarıyla net borcu, 2 milyar 951 milyon 477 bin 836 lira olarak açıklandı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-01T11:59:38+00:00"
-  },
-  {
    "title": "Amed Sportif Faaliyetler, sahasından 3 puanla ayrıldı",
    "link": "https://www.aa.com.tr/tr/spor/amed-sportif-faaliyetler-sahasindan-3-puanla-ayrildi/4107953",
    "summary": "Trendyol Süper Lig'in 10. haftasında Amed Sportif Faaliyetler, sahasında Eyüpspor'u 5-1 yendi.",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-01T10:44:02+00:00"
+  },
+  {
+   "title": "İstanbul Havalimanı'ndaki İGA Pass yolcu hizmetlerinde indirim kampanyası",
+   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanindaki-iga-pass-yolcu-hizmetlerinde-indirim-kampanyasi/4107863",
+   "summary": "",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-01T09:17:45+00:00"
   }
  ]
 }
