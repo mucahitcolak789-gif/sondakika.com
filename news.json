@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-02T15:34:51.663971+00:00",
+ "updated": "2026-11-02T16:40:36.033172+00:00",
  "items": [
+  {
+   "title": "Kayseri'de toptan satış mağazasında yangın",
+   "link": "https://www.trthaber.com/haber/turkiye/kayseride-toptan-satis-magazasinda-yangin-961984.html",
+   "summary": "Kayseri'nin merkez Melikgazi ilçesinde bir iş yerinde çıkan yangına müdahale ediliyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T16:37:00+00:00"
+  },
+  {
+   "title": "Kayseri'de iş yerinde çıkan yangına müdahale ediliyor",
+   "link": "https://www.aa.com.tr/tr/gundem/kayseride-is-yerinde-cikan-yangina-mudahale-ediliyor/4109019",
+   "summary": "Kayseri'nin merkez Melikgazi ilçesinde bir iş yerinde çıkan yangına müdahale ediliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T16:27:22+00:00"
+  },
+  {
+   "title": "Avrupa genelinde süpermarket soğutucularına siber saldırı",
+   "link": "https://www.bbc.com/turkce/articles/cmx23e2dexndo?at_medium=RSS&at_campaign=rss",
+   "summary": "Avrupa genelindeki yedi ülkede onlarca süpermarkette bulunan, soğutucu ve dondurucularını etkileyen bir siber saldırı yapıldı. Bazı marketlerde dondurucuların sıcaklığının 50 dereceye kadar yükseldiği bildirildi.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f2ab/live/a3865ef0-d6d0-11f1-ac20-7783925c811f.jpg",
+   "published": "2026-11-02T16:19:50+00:00"
+  },
+  {
+   "title": "28 yıldır yürüyen Karl Bushby, 58 bin km yol sonra evine döndü",
+   "link": "https://www.bbc.com/turkce/articles/ckm23dng4rlqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Dünyayı yürüyerek dolaşan Karl Bushby, 28 yıl sonra yolculuğu tamamladı. Karl Bushby, İngiltere'nin Hull kentindeki evine vardığında annesi Angela Bushby tarafından karşılandı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ed7a/live/89ae1a30-d6d6-11f1-b2be-0146bf989691.jpg",
+   "published": "2026-11-02T16:03:23+00:00"
+  },
+  {
+   "title": "Almanya Başbakanı Merz: Şiddetin sokaklarımızda yeri yok",
+   "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merz-siddetin-sokaklarimizda-yeri-yok/4108997",
+   "summary": "Almanya Başbakanı ve Hristiyan Demokrat Birlik Partisi (CDU) Genel Başkanı Friedrich Merz, 31 Ekim'de ülkenin farklı kentlerinde gençlerin düzenlediği gösterilerde çıkan olaylara tepki göstererek, şiddetin sokaklarda…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T15:55:12+00:00"
+  },
+  {
+   "title": "İstanbul'daki kara para aklama soruşturmasında 4 zanlı için tutuklama talebi",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-kara-para-aklama-sorusturmasinda-4-zanli-icin-tutuklama-talebi-961983.html",
+   "summary": "Yurt içinde ve yurt dışında kurulan şirketler aracılığıyla kaynağı belirsiz yüksek miktarda paranın aklandığı iddialarına ilişkin Emir ve Ömer Sarıgül'ün de aralarında bulunduğu 24 şüphelinin tutuklandığı soruşturma…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T15:53:00+00:00"
+  },
+  {
+   "title": "Lübnan Tarım Bakanı Hani: İsrail saldırıları Lübnan’daki tarım arazilerinin yüzde 22,5’inde hasara yol açtı",
+   "link": "https://www.aa.com.tr/tr/dunya/lubnan-tarim-bakani-hani-israil-saldirilari-lubnan-daki-tarim-arazilerinin-yuzde-22-5-inde-hasara-yol-acti/4108988",
+   "summary": "Lübnan Tarım Bakanı Nizar Hani, İsrail saldırılarının ülkedeki tarım arazilerinin yaklaşık yüzde 22,5'ine denk gelen 56 bin hektarlık alanda doğrudan hasara yol açtığını belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T15:44:49+00:00"
+  },
+  {
+   "title": "DEM Parti'nin kent uzlaşısı kararı sonrası CHP'den İBB çağrısı",
+   "link": "https://www.bbc.com/turkce/articles/ck0j0lw68749o?at_medium=RSS&at_campaign=rss",
+   "summary": "DEM Parti, 31 Mart 2024 yerel seçimlerindeki kent uzlaşısı stratejisi kampasında seçilen belediye meclis üyelerinin partiye katılacağını açıkladı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55a5/live/dcc86bb0-d6ab-11f1-ac90-f7afd947062e.jpg",
+   "published": "2026-11-02T15:38:48+00:00"
+  },
   {
    "title": "Borsa günü yükselişle tamamladı",
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968",
@@ -54,6 +126,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-02T14:51:00+00:00"
+  },
+  {
+   "title": "Tahran’daki Tecriş Meydanı’nda \"gönüllü savaşçılar\" için üçüncü tatbikat alanı açıldı",
+   "link": "https://www.aa.com.tr/tr/dunya/tahran-daki-tecris-meydani-nda-gonullu-savascilar-icin-ucuncu-tatbikat-alani-acildi/4108925",
+   "summary": "İran'ın başkenti Tahran’daki Tecriş Meydanı’nda, \"gönüllü savaşçıların\" silahlı tatbikat yapabilmeleri için hazırlanan alan hizmete girdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T14:33:14+00:00"
   },
   {
    "title": "ATM'de unutulan 4 bin 900 euroyu sahibine teslim etti",
@@ -321,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/husilerin-lahicte-saglik-merkezine-duzenledigi-saldirida-en-az-20-sivil-oldu-veya-yaralandi/4108793",
    "summary": "Yemen'de İran destekli Husilerin ülkenin güneybatısındaki Lahic vilayetinde bir sağlık merkezine düzenlediği füze saldırısında en az 20 sivilin hayatını kaybettiği veya yaralandığı bildirildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T12:42:11+00:00"
   },
@@ -452,18 +533,9 @@
    "published": "2026-11-02T11:50:00+00:00"
   },
   {
-   "title": "Muşlu besicilerin sıcak bölgelere yolculuğu sürüyor",
-   "link": "https://www.aa.com.tr/tr/gundem/muslu-besicilerin-sicak-bolgelere-yolculugu-suruyor/4108741",
-   "summary": "Muş'ta havaların soğumasıyla besicilerin sürüleriyle sıcak bölgelere yolculuğu devam ediyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T11:47:01+00:00"
-  },
-  {
-   "title": "Ukrayna'nın başkenti Kiev'de sahte radyasyon alarmı uyarısıyla korku",
+   "title": "Ukrayna ve Rusya'da siber saldırılarla sahte radyasyon alarmı",
    "link": "https://www.bbc.com/turkce/articles/c5vgj0dgerm1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukrayna'da hava saldırılarına karşı uyarı amacıyla telefonlarda bulunan uygulama dün gece saatlerinde radyasyon alarmı uyarısı yaptı. Moskova da acil durum uyarı uygulamasının \"büyük çaplı bir siber saldırı\"dan…",
+   "summary": "Ukrayna ve Rusya, pazar gecesi nükleer saldırılar da dahil olmak üzere kullanıcılara saldırı uyarısı içeren sahte mesajlar gönderilmesinin ardından, hava saldırısı uyarı uygulamalarının siber saldırılara maruz kaldığını…",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b7d0/live/66cc8c00-d6b2-11f1-aacc-5b5f23abff4b.jpg",
@@ -501,7 +573,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/lubnanda-israil-saldirilarinda-hasar-goren-yetimhanedeki-kiz-cocuklari-geceleri-patlama-sesleriyle-uyaniyor/4108720",
    "summary": "Lübnan'ın güneyinde İsrail saldırılarında ağır hasar gören Tebnin Yetimhanesi'nde kalan ve geceleri patlama sesleriyle korkuyla uyanan kız çocukları, \"savaşın bitmesi\" dileğiyle hayata tutunmaya çalışıyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T11:35:32+00:00"
   },
@@ -585,15 +657,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-02T10:58:33+00:00"
-  },
-  {
-   "title": "Yerel seçimlerde 'kent uzlaşısı' ile seçilen meclis üyeleri DEM Parti'ye katılıyor",
-   "link": "https://www.bbc.com/turkce/articles/ck0j0lw68749o?at_medium=RSS&at_campaign=rss",
-   "summary": "DEM Parti, 31 Mart 2024 yerel seçimlerindeki kent uzlaşısı stratejisi kampasında seçilen belediye meclis üyelerinin partiye katılacağını açıkladı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/55a5/live/dcc86bb0-d6ab-11f1-ac90-f7afd947062e.jpg",
-   "published": "2026-11-02T10:56:22+00:00"
   },
   {
    "title": "Lübnan'da faturalarını ödemeyen kamu kurumlarının elektriğinin kesilmesi için işlemler başlatıldı",
@@ -884,15 +947,6 @@
    "published": "2026-11-02T08:48:00+00:00"
   },
   {
-   "title": "İspanya'daki tren kazası erken genel seçim öncesi anketlerde sosyalistlerin oyunu düşürdü",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanyadaki-tren-kazasi-erken-genel-secim-oncesi-anketlerde-sosyalistlerin-oyunu-dusurdu/4108472",
-   "summary": "İspanya'da 28 Ekim'de meydana gelen ve 69 kişinin hayatını kaybettiği iki hızlı yolcu treninin çarpıştığı kaza, iktidardaki sosyalistleri de olumsuz etkiledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T08:41:53+00:00"
-  },
-  {
    "title": "İran savaşı ABD'de enerji maliyetlerini ve siyasi baskıyı artırıyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/iran-savasi-abdde-enerji-maliyetlerini-ve-siyasi-baskiyi-artiriyor/4108461",
    "summary": "ABD-İran savaşının başlamasından bu yana ABD'de benzin fiyatlarının yaklaşık yüzde 40 artması, ülkeye 160 milyar dolarlık ek yakıt maliyeti getirdi.",
@@ -902,22 +956,13 @@
    "published": "2026-11-02T08:38:53+00:00"
   },
   {
-   "title": "Fransa'da birçok şehirde liseleri kuşatma eylemleri yeniden başladı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-bircok-sehirde-liseleri-kusatma-eylemleri-yeniden-basladi/4108460",
-   "summary": "Fransa’da hükümetin taahhütlerini yeterli bulmayan liseliler, ülkenin birçok noktasında okulları kuşatma eylemlerine yeniden başladı.",
-   "source": "AA",
-   "category": "Dünya",
+   "title": "İspanya'daki tren kazası erken genel seçim öncesi anketlerde sosyalistlerin oyunu düşürdü",
+   "link": "https://www.trthaber.com/haber/dunya/ispanyadaki-tren-kazasi-erken-genel-secim-oncesi-anketlerde-sosyalistlerin-oyunu-dusurdu-961940.html",
+   "summary": "İspanya'da 28 Ekim'de meydana gelen ve 69 kişinin hayatını kaybettiği iki hızlı yolcu treninin çarpıştığı kaza, iktidardaki sosyalistleri de olumsuz etkiledi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
    "image": null,
-   "published": "2026-11-02T08:37:20+00:00"
-  },
-  {
-   "title": "İspanya'daki hızlı tren kazasında ölen 69 kişiden 66'sının kimliği tespit edildi",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanyadaki-hizli-tren-kazasinda-olen-69-kisiden-66sinin-kimligi-tespit-edildi/4108459",
-   "summary": "İspanya'nın Toledo kenti yakınlarında 28 Ekim'de iki hızlı yolcu treninin çarpıştığı kazada ölen 69 kişiden 66'sının kimlikleri tespit edildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T08:36:42+00:00"
+   "published": "2026-11-02T08:38:00+00:00"
   },
   {
    "title": "TBF Başkanı Hidayet Türkoğlu, 2027 Dünya Kupası için umutlu",
@@ -1062,33 +1107,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-02T07:43:00+00:00"
-  },
-  {
-   "title": "ABD'de yarın düzenlenecek Kongre ara seçimlerindeki anketlerde tablo netleşiyor",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-yarin-duzenlenecek-kongre-ara-secimlerindeki-anketlerde-tablo-netlesiyor-961933.html",
-   "summary": "ABD'de 3 Kasım'da düzenlenecek Kongre ara seçimleri yaklaşırken, anketlerin ortaya koyduğu tablo da netleşmeye başladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T07:28:00+00:00"
-  },
-  {
-   "title": "Bursa'da kamyonun çarptığı 2 ev yıkıldı",
-   "link": "https://www.trthaber.com/haber/turkiye/bursada-kamyonun-carptigi-2-ev-yikildi-961932.html",
-   "summary": "Bursa'nın Mustafakemal ilçesinde kontrolden çıkan kamyonun çarptığı 2 evden biri tamamen, diğeri ise kısmen yıkıldı. Enkaz altından 1 kişi de yaralı olarak çıkarıldı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T07:24:00+00:00"
-  },
-  {
-   "title": "Öcalan'ın İmralı'daki yeni konumu hakkında neler biliniyor?",
-   "link": "https://www.bbc.com/turkce/articles/c9146ym5302eo?at_medium=RSS&at_campaign=rss",
-   "summary": "DEM Parti İmralı Heyeti üyesi Mithat Sancar, PKK lideri Abdullah Öcalan'ın İmralı'da kendisi için hazırlanan yeni bir yere geçtiğini açıkladı. Sancar, bu gelişmenin yürütülen sürecin hızlandırılmasını gerektirdiğini…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4ee1/live/42a76970-d60e-11f1-93e1-3b657b665bcf.jpg",
-   "published": "2026-11-02T07:17:46+00:00"
   },
   {
    "title": "NBA'de Lakers, Luka Doncic'in 45 sayı attığı maçta Raptors'ı yendi",
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-01T10:44:02+00:00"
-  },
-  {
-   "title": "Galatasaray Kulübü İkinci Başkanı Metin Öztürk istifa etti",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-kulubu-ikinci-baskani-metin-ozturk-istifa-etti/4107910",
-   "summary": "",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-01T10:10:38+00:00"
-  },
-  {
-   "title": "İstanbul Havalimanı'ndaki İGA Pass yolcu hizmetlerinde indirim kampanyası",
-   "link": "https://www.aa.com.tr/tr/ekonomi/istanbul-havalimanindaki-iga-pass-yolcu-hizmetlerinde-indirim-kampanyasi/4107863",
-   "summary": "",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-01T09:17:45+00:00"
   }
  ]
 }
