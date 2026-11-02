@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-02T17:34:50.662253+00:00",
+ "updated": "2026-11-02T18:32:09.283015+00:00",
  "items": [
+  {
+   "title": "Osmaniye'de 4,2 büyüklüğünde deprem",
+   "link": "https://www.aa.com.tr/tr/gundem/osmaniyede-4-2-buyuklugunde-deprem/4109093",
+   "summary": "Osmaniye'nin Sumbas ilçesinde saat 20.58'de 4,2 büyüklüğünde deprem meydana geldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T18:10:49+00:00"
+  },
+  {
+   "title": "İngiltere'de göçmenlerin kalıcı oturum alma süresi uzatıldı",
+   "link": "https://www.bbc.com/turkce/articles/c6x2qj0y0ypro?at_medium=RSS&at_campaign=rss",
+   "summary": "İngiltere'de İçişleri Bakanı Shabana Mahmood parlamentoda, çeşitli kategorilerdeki yasal göçmenlerin ülkede ömür boyu oturum (ILR) alabilmesi için gereken süreyi uzatan yeni kuralları açıkladı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/49d2/live/48f59b30-d6e0-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-02T17:47:53+00:00"
+  },
+  {
+   "title": "Washington'da kapsamlı elektrik kesintisi aboneleri olumsuz etkiledi",
+   "link": "https://www.aa.com.tr/tr/dunya/washingtonda-kapsamli-elektrik-kesintisi-aboneleri-olumsuz-etkiledi/4109072",
+   "summary": "ABD'nin başkenti Washington'da seçimlere 1 gün kala yaşanan kapsamlı elektrik kesintisi 1000'den fazla aboneyi olumsuz etkiledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T17:46:42+00:00"
+  },
+  {
+   "title": "Anthropic, üçüncü çeyrekte yaklaşık 17 milyar dolar gelir elde etti",
+   "link": "https://www.aa.com.tr/tr/ekonomi/anthropic-ucuncu-ceyrekte-yaklasik-17-milyar-dolar-gelir-elde-etti/4109069",
+   "summary": "Claude yapay zeka modellerinin geliştiricisi Anthropic, bu yılın üçüncü çeyreğinde yaklaşık 17 milyar dolar gelir elde ettiğini bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T17:41:25+00:00"
+  },
+  {
+   "title": "Almanya Dijital Dönüşüm Bakanı Wildberger, siyasetçileri hedef alan \"siber saldırı girişimini\" doğruladı",
+   "link": "https://www.aa.com.tr/tr/dunya/almanya-dijital-donusum-bakani-wildberger-siyasetcileri-hedef-alan-siber-saldiri-girisimini-dogruladi/4109066",
+   "summary": "Almanya Dijital Dönüşüm ve Devlet Modernizasyonu Bakanı Karsten Wildberger, Federal Meclis (Bundestag) milletvekilleri ile federal hükümet üyelerinin cep telefonlarını hedef alan siber saldırı girişiminin…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T17:39:38+00:00"
+  },
   {
    "title": "DEM Parti'nin belediye meclis üyeliği kararı: İBB'de dengeler değişecek mi?",
    "link": "https://www.bbc.com/turkce/articles/c6gm0k14138wo?at_medium=RSS&at_campaign=rss",
@@ -9,6 +54,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d477/live/6ed7ad10-d6e1-11f1-b2be-0146bf989691.jpg",
    "published": "2026-11-02T17:20:10+00:00"
+  },
+  {
+   "title": "Arap Koalisyonu: Riyad bölgesinde 2 İHA imha edildi",
+   "link": "https://www.trthaber.com/haber/dunya/arap-koalisyonu-riyad-bolgesinde-2-iha-imha-edildi-961988.html",
+   "summary": "Suudi Arabistan öncülüğündeki Arap koalisyonu başkent Riyad bölgesinde 2 insansız hava aracının İHA imha edildiğini duyurdu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T17:12:00+00:00"
   },
   {
    "title": "Akdeniz'de 5,1 büyüklüğünde deprem",
@@ -20,9 +74,9 @@
    "published": "2026-11-02T17:10:24+00:00"
   },
   {
-   "title": "MHP Genel Başkanı Bahçeli'nin kız kardeşi Semiha Bahçeli vefat etti",
-   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-semiha-bahceli-vefat-etti-961986.html",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Semiha Bahçeli vefat etti.",
+   "title": "MHP Genel Başkanı Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti",
+   "link": "https://www.trthaber.com/haber/gundem/mhp-genel-baskani-bahcelinin-kiz-kardesi-serpil-bahceli-vefat-etti-961986.html",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli'nin kız kardeşi Serpil Bahçeli vefat etti.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -335,15 +389,6 @@
    "published": "2026-11-02T13:34:00+00:00"
   },
   {
-   "title": "TÜSİAD, COP31'de Türk iş dünyasının iklim gündemine katkısını güçlendirmek için çalışmalarını sürdürüyor",
-   "link": "https://www.aa.com.tr/tr/gundem/tusiad-cop31de-turk-is-dunyasinin-iklim-gundemine-katkisini-guclendirmek-icin-calismalarini-surduruyor/4108847",
-   "summary": "TÜSİAD'ın COP31 kapsamında ulusal ve uluslararası paydaşlarla yürüttüğü çalışmalarda sanayinin karbonsuzlaşması, temiz enerji dönüşümü, finansman ve temiz teknoloji başlıkları öne çıkıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T13:32:30+00:00"
-  },
-  {
    "title": "Katil İsrail, Gazze'de Ekim 2025'te yürürlüğe giren ateşkesi yaklaşık 6 bin kez ihlal etti",
    "link": "https://www.trthaber.com/haber/dunya/katil-israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti-961974.html",
    "summary": "İşgalci İsrail ordusu, Gazze Şeridi'nde ateşkesin yürürlüğe girdiği Ekim 2025'ten bu yana yaklaşık 6 bin ihlal gerçekleştirdi.",
@@ -357,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-gazzede-ekim-2025te-yururluge-giren-ateskesi-yaklasik-6-bin-kez-ihlal-etti/4108843",
    "summary": "İsrail ordusu, Gazze Şeridi'nde ateşkesin yürürlüğe girdiği Ekim 2025'ten bu yana yaklaşık 6 bin ihlal gerçekleştirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T13:25:51+00:00"
   },
@@ -375,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinlileri-temsil-eden-partiler-netanyahu-hukumetine-karsi-bir-araya-geldi/4108840",
    "summary": "Seçimlerde 19 milletvekiliyle tarihi bir başarı elde eden İsrail vatandaşı Filistinlileri temsil eden partiler, Başbakan Binyamin Netanyahu liderliğindeki aşırı sağcı hükümeti devirme amacıyla bir araya geldi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T13:21:10+00:00"
   },
@@ -393,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/urdun-krali-israilin-yayilmaci-emelleri-bolgenin-gelecegine-yonelik-en-buyuk-tehdit/4108836",
    "summary": "Ürdün Kralı 2. Abdullah, İsrail'in yayılmacı emellerinin bölgenin geleceğine yönelik en büyük tehdit olduğunu belirterek bölgesel güvenlik ve istikrarın Filistin halkının toprakları üzerindeki haklarına kavuşmasına…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T13:14:46+00:00"
   },
@@ -459,15 +504,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-02T12:42:11+00:00"
-  },
-  {
-   "title": "Florida'da özel uçak şehre düştü, 9 kişi hayatını kaybetti",
-   "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD’nin Florida eyaletinde, Teksas’tan Bahamalar’a giden özel uçağın yerleşim bölgesine düşmesi sonucu uçaktaki dokuz kişinin tamamı hayatını kaybetti",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6891/live/2a0a8670-d6ba-11f1-93e1-3b657b665bcf.png",
-   "published": "2026-11-02T12:38:26+00:00"
   },
   {
    "title": "YEKA RES2026 yarışmalarından 75,5 milyon euroluk katkı",
@@ -911,15 +947,6 @@
    "published": "2026-11-02T09:09:45+00:00"
   },
   {
-   "title": "Netanyahu'dan Eisenkot'a \"Meclis Başkanı'nı değiştirmeyin, birlik hükümetini görüşelim\" mesajı",
-   "link": "https://www.aa.com.tr/tr/dunya/netanyahudan-eisenkota-meclis-baskanini-degistirmeyin-birlik-hukumetini-goruselim-mesaji/4108515",
-   "summary": "İsrail'de 27 Ekim seçimlerinin ardından Başbakan Binyamin Netanyahu'nun muhalefet lideri Gadi Eisenkot'a, \"Meclis Başkanı'nı değiştirmezseniz birlik hükümeti için görüşmeye hazırız.\" şeklinde mesaj ilettiği ileri…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T09:05:55+00:00"
-  },
-  {
    "title": "Sanayi ve Teknoloji Bakanlığının 2027 yılı bütçesi TBMM Plan ve Bütçe Komisyonunda",
    "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-ve-teknoloji-bakanliginin-2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda/4108507",
    "summary": "TBMM Plan ve Bütçe Komisyonunda, Sanayi ve Teknoloji Bakanlığı ile bağlı kurum ve kuruluşların bütçe, kesin hesap ve Sayıştay raporlarının görüşmelerine başlandı.",
@@ -945,15 +972,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-02T08:59:00+00:00"
-  },
-  {
-   "title": "Fransa'da eğitim sendikalarından 5 Kasım'da genel grev çağrısı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-egitim-sendikalarindan-5-kasimda-genel-grev-cagrisi/4108502",
-   "summary": "Fransa'da hükümetin eğitim sektörüne ilişkin iyileştirme taahhütlerini yeterli bulmayan liseliler okul kuşatma eylemlerini sürdürürken ülkenin önde gelen eğitim sendikaları da 5 Kasım'da öğretmenlere genel grev çağrısı…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T08:58:31+00:00"
   },
   {
    "title": "Kamu hizmetinden memnuniyet CİMER başvurularına yansıdı",
@@ -1064,15 +1082,6 @@
    "published": "2026-11-02T08:14:09+00:00"
   },
   {
-   "title": "77 saat elektriksiz kalan mahallelinin mağduriyeti giderildi",
-   "link": "https://www.trthaber.com/haber/gundem/77-saat-elektriksiz-kalan-mahallelinin-magduriyeti-giderildi-961938.html",
-   "summary": "Kütahya'da bir mahallede 2025'te 70, 2026'nın ilk üç ayında 11 kez yaşanan elektrik kesintileri nedeniyle Kamu Denetçiliği Kurumuna KDK başvuran vatandaşın şikayeti üzerine şebekede bakım ve yenileme çalışmaları…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T08:14:00+00:00"
-  },
-  {
    "title": "Türk hentbolunda gözler Avrupa ve dünya şampiyonalarına çevrildi",
    "link": "https://www.aa.com.tr/tr/spor/turk-hentbolunda-gozler-avrupa-ve-dunya-sampiyonalarina-cevrildi/4108431",
    "summary": "Türkiye Hentbol Federasyonu Başkanı Mesut Çebi, 2026 Kadınlar Avrupa Hentbol Şampiyonası ile erkek milli takımının ilk kez mücadele edeceği Almanya'daki Dünya Şampiyonası'nda üst tura çıkmayı hedeflediklerini söyledi.",
@@ -1080,15 +1089,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-02T08:12:20+00:00"
-  },
-  {
-   "title": "ABD ara seçimlerinde ekonomik kaygılar ilk sırada yer alırken seçmen İran savaşına karşı",
-   "link": "https://www.trthaber.com/haber/dunya/abd-ara-secimlerinde-ekonomik-kaygilar-ilk-sirada-yer-alirken-secmen-iran-savasina-karsi-961937.html",
-   "summary": "ABD'de 3 Kasım'da yapılacak ara seçimler öncesinde seçmenlerin siyasi tercihlerini belirleyen en önemli unsurun ekonomi olduğunu ortaya koyan ABD merkezli kamuoyu araştırma şirketi Cygnal'ın CEO'su Brent Buchanan, İran…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T08:10:00+00:00"
   },
   {
    "title": "Türkiye ve Kazakistan, ekonomik ilişkilerini Almatı'daki havalimanı yatırımlarıyla pekiştiriyor",
