@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-02T23:58:03.659619+00:00",
+ "updated": "2026-11-03T00:49:11.283016+00:00",
  "items": [
+  {
+   "title": "Enflasyon verileri bugün açıklanacak",
+   "link": "https://www.trthaber.com/haber/ekonomi/enflasyon-verileri-bugun-aciklanacak-962007.html",
+   "summary": "Türkiye İstatistik Kurumu TÜİK ekim ayı enflasyon verilerini bugün açıklayacak.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T00:23:00+00:00"
+  },
+  {
+   "title": "Onlarca kez yoğun bakım, yedi ameliyat: Kadınların yüzde 10'unu etkileyen kronik bir hastalığa tanı koymak neden bu kadar zor?",
+   "link": "https://www.bbc.com/turkce/articles/cqdjv02l7jgno?at_medium=RSS&at_campaign=rss",
+   "summary": "20 yıl boyunca doktorlar Melisa Gaona'yı ağrısını abartmakla veya taklit etmekle suçladı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8fb9/live/2c86d160-cb93-11f1-93a7-b36f3083f4d3.jpg",
+   "published": "2026-11-03T00:13:45+00:00"
+  },
+  {
+   "title": "ABD, Ukrayna ile Rusya arasında yürütülecek müzakerelerde arabuluculuk yapacak",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-ukrayna-ile-rusya-arasinda-yurutulecek-muzakerelerde-arabuluculuk-yapacak/4109254",
+   "summary": "ABD'nin, 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi'de Ukrayna ile Rusya arasında çalışma düzeyinde yürütülecek müzakerelere arabuluculuk yapacağı bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T23:59:03+00:00"
+  },
+  {
+   "title": "İsrail askerlerinin Batı Şeria'daki baskınlarında 2 Filistinli yaralandı",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerinin-bati-seriadaki-baskinlarinda-2-filistinli-yaralandi/4109252",
+   "summary": "İsrail askerlerinin işgal altındaki Batı Şeria’nın çeşitli bölgelerine düzenlediği baskınlarda darbedilen 2 Filistinli yaralandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-02T23:50:56+00:00"
+  },
   {
    "title": "Ukrayna ve Rusya heyetleri ABD ara buluculuğunda bir araya gelecek",
    "link": "https://www.trthaber.com/haber/dunya/ukrayna-ve-rusya-heyetleri-abd-ara-buluculugunda-bir-araya-gelecek-962006.html",
@@ -501,7 +537,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4108968",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,88 değer kazanarak 10.961,67 puandan tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-02T15:20:12+00:00"
   },
@@ -546,7 +582,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/tahran-daki-tecris-meydani-nda-gonullu-savascilar-icin-ucuncu-tatbikat-alani-acildi/4108925",
    "summary": "İran'ın başkenti Tahran’daki Tecriş Meydanı’nda, \"gönüllü savaşçıların\" silahlı tatbikat yapabilmeleri için hazırlanan alan hizmete girdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-02T14:33:14+00:00"
   },
@@ -875,15 +911,6 @@
    "published": "2026-11-02T11:43:00+00:00"
   },
   {
-   "title": "Rusya: İran'a yönelik yeni askeri saldırı hazırlıkları ciddi endişe yaratıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-irana-yonelik-yeni-askeri-saldiri-hazirliklari-ciddi-endise-yaratiyor/4108730",
-   "summary": "Rusya Dışişleri Bakanlığı Sözcüsü Mariya Zaharova, İran'a yönelik yeni askeri saldırılar planlandığına ilişkin haberlerin ciddi endişe yarattığını belirterek, bölgedeki durumun diplomatik yollarla normalleştirilmesi…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T11:42:05+00:00"
-  },
-  {
    "title": "Belçika Başbakanı De Wever, Kral Philippe'e istifasını sundu",
    "link": "https://www.trthaber.com/haber/dunya/belcika-basbakani-de-wever-kral-philippee-istifasini-sundu-961959.html",
    "summary": "Belçika Başbakanı Bart De Wever'in federal hükümetin bütçe müzakerelerinde uzlaşma sağlayamamasının ardından istifasını Kral Philippe'e sunduğu bildirildi.",
@@ -936,15 +963,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-02T11:07:50+00:00"
-  },
-  {
-   "title": "Avrasya Tüneli'nin sürdürülebilirlik başarısına uluslararası ödül",
-   "link": "https://www.trthaber.com/haber/turkiye/avrasya-tunelinin-surdurulebilirlik-basarisina-uluslararasi-odul-961956.html",
-   "summary": "Avrasya Tüneli, 20242025 Sürdürülebilirlik Raporu'yla küresel iş dünyasındaki inovasyon, liderlik ve kurumsal başarıları ödüllendirmeyi amaçlayan Stevie Uluslararası İş Ödülleri'nde International Business Awards \"En İyi…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T11:01:00+00:00"
   },
   {
    "title": "Gazprom 9 ayda zarardan kara geçti",
@@ -1332,24 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-01T12:23:30+00:00"
-  },
-  {
-   "title": "Ticaret Bakanı Bolat: Türkiye'nin İİT ülkeleriyle olan ticaret hacmi 108 milyar dolara ulaşmıştır",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ticaret-bakani-bolat-turkiyenin-iit-ulkeleriyle-olan-ticaret-hacmi-108-milyar-dolara-ulasmistir/4107973",
-   "summary": "Ticaret Bakanı Ömer Bolat, \"Yılın dokuz ayında Türkiye'nin İslam İşbirliği Teşkilatı (İİT) ülkeleriyle olan ticaret hacmi 108 milyar dolara ulaşmıştır.\" dedi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-01T12:17:01+00:00"
-  },
-  {
-   "title": "Bakan Kurum, milli sporcu Şentunalı'nın COP31 için performans sergilediği \"İklim\" klibini paylaştı",
-   "link": "https://www.aa.com.tr/tr/spor/bakan-kurum-milli-sporcu-sentunalinin-cop31-icin-performans-sergiledigi-iklim-klibini-paylasti/4107938",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, artistik buz pateni milli sporcusu​​​​​​​ İklim Şentunalı'nın eriyen buz kütlesi üzerinde performans sergilediği COP31 tanıtım filmini sosyal…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-01T10:44:02+00:00"
   }
  ]
 }
