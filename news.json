@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-03T00:49:11.283016+00:00",
+ "updated": "2026-11-03T01:51:11.475960+00:00",
  "items": [
+  {
+   "title": "Trump'tan Amerikalı seçmenlere 'sandığa gidin' çağrısı",
+   "link": "https://www.trthaber.com/haber/dunya/trumptan-amerikali-secmenlere-sandiga-gidin-cagrisi-962009.html",
+   "summary": "ABD Başkanı Donald Trump, 3 Kasım Salı günü yapılacak Kongre ara seçimleri öncesinde seçmenlere son kez seslenerek \"sandığa gitmeleri\" çağrısında bulundu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T01:28:00+00:00"
+  },
+  {
+   "title": "Manisa'da ambulans ve traktör çarpıştı",
+   "link": "https://www.trthaber.com/haber/turkiye/manisada-ambulans-ve-traktor-carpisti-962008.html",
+   "summary": "Manisa'nın Köprübaşı ilçesinde hasta taşıyan ambulansla traktörün çarpışması sonucu 6 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T01:26:00+00:00"
+  },
+  {
+   "title": "TÜİK ekim ayı enflasyon verilerini açıklayacak",
+   "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss",
+   "summary": "Türkiye İstatistik Kurumu (TÜİK) bugün ekim ayı enflasyon verilerini açıklayacak",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/dd03/live/feb7c680-d723-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-03T01:15:39+00:00"
+  },
   {
    "title": "Enflasyon verileri bugün açıklanacak",
    "link": "https://www.trthaber.com/haber/ekonomi/enflasyon-verileri-bugun-aciklanacak-962007.html",
@@ -893,15 +920,6 @@
    "published": "2026-11-02T11:50:00+00:00"
   },
   {
-   "title": "Ukrayna ve Rusya'da siber saldırılarla sahte radyasyon alarmı",
-   "link": "https://www.bbc.com/turkce/articles/c5vgj0dgerm1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Ukrayna ve Rusya, pazar gecesi nükleer saldırılar da dahil olmak üzere kullanıcılara saldırı uyarısı içeren sahte mesajlar gönderilmesinin ardından, hava saldırısı uyarı uygulamalarının siber saldırılara maruz kaldığını…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b7d0/live/66cc8c00-d6b2-11f1-aacc-5b5f23abff4b.jpg",
-   "published": "2026-11-02T11:46:27+00:00"
-  },
-  {
    "title": "Soykırımcı İsrail ordusu ateşkese rağmen Lübnan'ın güneyine saldırılarını sürdürdü",
    "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-ordusu-ateskese-ragmen-lubnanin-guneyine-saldirilarini-surdurdu-961960.html",
    "summary": "İşgalci İsrail ordusu, ateşkese ve çerçeve anlaşmasına rağmen Lübnan'ın güneyindeki bölgelere hava ve topçu saldırıları düzenledi.",
@@ -929,15 +947,6 @@
    "published": "2026-11-02T11:35:32+00:00"
   },
   {
-   "title": "Metrekareye 46 kilogram yağış: Evleri su bastı, araç denize sürüklendi",
-   "link": "https://www.trthaber.com/haber/turkiye/metrekareye-46-kilogram-yagis-evleri-su-basti-arac-denize-suruklendi-961958.html",
-   "summary": "Muğla'nın Bodrum ilçesinde kuvvetli yağış görüldü. Metrekareye 46 kilogram yağış düşerken 9 mahallede 17 ev ve 3 iş yerini su bastı, Mazı Mahallesi'nde bir otomobil denize sürüklendi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T11:27:00+00:00"
-  },
-  {
    "title": "Galatasaray Teknik Direktörü Okan Buruk: Kara bulutları dağıttık",
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-teknik-direktoru-okan-buruk-kara-bulutlari-dagittik/4108709",
    "summary": "Okan Buruk, \"Kazanmak için hem bireysel hem de kulüp olarak birçok nedenimiz var. Türk futbolunun böyle galibiyetlere ve Şampiyonlar Ligi'nde ilerlemeye ihtiyacı var.\" dedi.",
@@ -945,15 +954,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-02T11:26:58+00:00"
-  },
-  {
-   "title": "Çukur ve yol bozukluklarının yol açtığı hasarda tazminat mümkün",
-   "link": "https://www.trthaber.com/haber/turkiye/cukur-ve-yol-bozukluklarinin-yol-actigi-hasarda-tazminat-mumkun-961957.html",
-   "summary": "Yollardaki bozulmalar ve çukurlar nedeniyle meydana gelebilecek tek taraflı kazalarda sürücüler, ispatlamaları halinde zararlarını kasko poliçesi kapsamında sigorta şirketlerinden karşılayabilir, kasko poliçesi…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-02T11:14:00+00:00"
   },
   {
    "title": "Çin Merkez Bankası, borsadaki düşüşe karşı 15 milyar dolarlık takas aracını devreye sokuyor",
