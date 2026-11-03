@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-03T10:35:53.854973+00:00",
+ "updated": "2026-11-03T11:31:59.196451+00:00",
  "items": [
+  {
+   "title": "Trakya'da sağanak etkisini sürdürüyor",
+   "link": "https://www.aa.com.tr/tr/gundem/trakyada-saganak-etkisini-surduruyor/4109908",
+   "summary": "Edirne, Kırklareli ve Tekirdağ'da sağanak yaşamı olumsuz etkilemeye devam ediyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T11:28:23+00:00"
+  },
+  {
+   "title": "İspanyol futbolcu Jesus De Miguel sahadaki çarpışma sonucu hayatını kaybetti",
+   "link": "https://www.bbc.com/turkce/articles/cx5yn0j3e2yyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Tenerife'nin 30 yaşındaki forvet oyuncusu Jesus de Miguel, İspanya ikinci ligi maçındaki çarpışmada aldığı ağır sakatlığın ardından hayatını kaybetti.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae7/live/95eedac0-d76a-11f1-a956-ff083523ef77.jpg",
+   "published": "2026-11-03T11:26:34+00:00"
+  },
+  {
+   "title": "Türkiye'nin en büyük şehir hastanesi, 534 hastaya organ nakli için umut oldu",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-en-buyuk-sehir-hastanesi-534-hastaya-organ-nakli-icin-umut-oldu-/4109896",
+   "summary": "Ankara Bilkent Şehir Hastanesi Koordinatör Başhekimi Prof. Dr. Levent Öztürk, 49 kalp, 53 akciğer, 189 karaciğer, 243 böbrek nakli ameliyatının hastanede yapıldığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T11:23:55+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Yıllıklandırılmış ihracatımız Cumhuriyet tarihimizin en yüksek seviyesine yükseldi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-yilliklandirilmis-ihracatimiz-cumhuriyet-tarihimizin-en-yuksek-seviyesine-yukseldi/4109876",
+   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"Ekim ayında ihracatımız geçen yılın aynı ayına göre yüzde 8,1 artarak 25,9 milyar dolara ulaşırken, yıllıklandırılmış ihracatımız 285,6 milyar dolarla Cumhuriyet tarihimizin en yüksek…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T11:16:20+00:00"
+  },
+  {
+   "title": "ABD ara seçimleri Ankara-Washington ilişkilerini nasıl etkileyebilir?",
+   "link": "https://www.bbc.com/turkce/articles/ckqxn781l88po?at_medium=RSS&at_campaign=rss",
+   "summary": "Bugünkü ara seçimler, ABD'nin iç politikasının yanı sıra dış politikasında da önemli değişimlere yol açabilir. Cumhuriyetçilerin, Senato ve Temsilciler Meclisi'nde çoğunluğu kaybetmesi, Türkiye'nin savunma sanayi…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e3ee/live/c206bc10-d6d7-11f1-b441-2b33b063138f.png",
+   "published": "2026-11-03T11:15:12+00:00"
+  },
+  {
+   "title": "ABD'de ara seçimlerde oy verme işlemi başladı",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerde-oy-verme-islemi-basladi/4109862",
+   "summary": "ABD'de Başkan Donald Trump yönetiminin yasama gücünü ve Kongredeki siyasi dengeyi şekillendirecek ara seçimlerde oy verme işlemi başladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T11:11:12+00:00"
+  },
+  {
+   "title": "Otomotiv ihracatı aylık bazda ilk kez 4 milyar dolar eşiğini aştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/otomotiv-ihracati-aylik-bazda-ilk-kez-4-milyar-dolar-esigini-asti/4109859",
+   "summary": "Türkiye otomotiv endüstrisi, ekim ayında gerçekleştirdiği 4 milyar doları aşan ihracatla aylık bazda tüm zamanların en yüksek seviyesine ulaştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T11:09:12+00:00"
+  },
+  {
+   "title": "İletişim Başkanlığından Dokuzuncu Fon Koordinasyon Kurulu Toplantısı'na ilişkin açıklama",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-dokuzuncu-fon-koordinasyon-kurulu-toplantisina-iliskin-aciklama/4109842",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı, tasfiye sürecinden sorumlu kurumların koordinasyonunda bu hafta ara ödemelere devam edileceğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:57:45+00:00"
+  },
+  {
+   "title": "Yargıtay'dan emsal karar: Dede ve babaanne torununu yatılı görebilecek",
+   "link": "https://www.trthaber.com/haber/turkiye/yargitaydan-emsal-karar-dede-ve-babaanne-torununu-yatili-gorebilecek-962086.html",
+   "summary": "Yargıtay, torunlarıyla görüşme süresini yetersiz bulduğu babaanne ve dedenin her ayın ilk hafta sonu ve ağustosun ilk haftası yatılı görüşmesine karar verdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:57:00+00:00"
+  },
+  {
+   "title": "Türk öğrenci Einstein Olimpiyatları'nda matematikte dünya birincisi oldu",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-ogrenci-einstein-olimpiyatlarinda-matematikte-dunya-birincisi-oldu/4109839",
+   "summary": "Doğa Koleji Isparta Kampüsü öğrencisi Zeynep Elif Altınkeser, Berlin'de düzenlenen Einstein Olimpiyatları'nda matematikte dünya birincisi, fen bilimlerinde ise dünya altıncısı oldu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:56:44+00:00"
+  },
   {
    "title": "30. yılında Susurluk skandalı: 3 Kasım 1996'daki kaza sonrası neler yaşandı?",
    "link": "https://www.bbc.com/turkce/articles/cq5e3z1edp9o?at_medium=RSS&at_campaign=rss",
@@ -8,7 +98,70 @@
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b3d9/live/c108c800-7d18-11ef-a8f7-6510b893a4f7.png",
-   "published": "2026-11-03T10:32:44+00:00"
+   "published": "2026-11-03T10:52:48+00:00"
+  },
+  {
+   "title": "ABD ara seçimleri: Kim, nasıl kazanabilir ya da kaybedebilir?",
+   "link": "https://www.bbc.com/turkce/articles/cj5ynrx0dgego?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'de seçmenler, Donald Trump'ın ikinci başkanlık döneminde kalan iki yıllık sürenin nasıl şekilleneceğine karar vermek için bugün sandık başına gitti. Kongre'nin iki kanadı da şu anda Başkan Trump'ın mensubu olduğu…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f64c/live/4e58ab20-c552-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-11-03T10:52:05+00:00"
+  },
+  {
+   "title": "Devrim Muhafızları Ordusu: Hürmüz Boğazı'nda 3 petrol tankeri mayına çarptı",
+   "link": "https://www.aa.com.tr/tr/dunya/devrim-muhafizlari-ordusu-hurmuz-bogazinda-3-petrol-tankeri-mayina-carpti/4109828",
+   "summary": "İran Devrim Muhafızları Ordusu, dün geceden bu yana Hürmüz Boğazı’nda 3 petrol tankerinin mayına çarptığını ve çarpma sonucu gemilerde patlama meydana geldiğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:49:16+00:00"
+  },
+  {
+   "title": "Kremlin: Rus heyeti, 10-11 Kasım'da Ukrayna konusundaki üçlü müzakerelere katılacak",
+   "link": "https://www.aa.com.tr/tr/dunya/kremlin-rus-heyeti-10-11-kasimda-ukrayna-konusundaki-uclu-muzakerelere-katilacak/4109821",
+   "summary": "Kremlin Sözcüsü Dmitriy Peskov, Rus heyetinin 10-11 Kasım'da Birleşik Arap Emirlikleri'nin (BAE) başkenti Abu Dabi’de yapılacak Ukrayna konusundaki üçlü müzakerelere katılacağını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:46:34+00:00"
+  },
+  {
+   "title": "AB, süpermarketlere yönelik siber saldırıların gıda tedarik zincirine etkisini değerlendirecek",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ab-supermarketlere-yonelik-siber-saldirilarin-gida-tedarik-zincirine-etkisini-degerlendirecek/4109820",
+   "summary": "AB Komisyonunun Tarımdan Sorumlu Üyesi Christophe Hansen, Avrupa'da süpermarketleri hedef alan siber saldırıların gıda arz güvenliğini şu aşamada riske atmadığını ancak tedarik zincirinin dayanıklılığının…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:45:55+00:00"
+  },
+  {
+   "title": "Avukatlık asgari ücret tarifesi belirlendi",
+   "link": "https://www.trthaber.com/haber/ekonomi/avukatlik-asgari-ucret-tarifesi-belirlendi-962085.html",
+   "summary": "Türkiye Barolar Birliğince TBB hazırlanan yeni avukatlık asgari ücret tarifesi, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:41:00+00:00"
+  },
+  {
+   "title": "Türkiye, AB'de tescilli coğrafi işaretli ürün sayısını 80'e çıkaracak",
+   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-abde-tescilli-cografi-isaretli-urun-sayisini-80e-cikaracak-962084.html",
+   "summary": "Türkiye'nin Avrupa Birliği AB nezdinde tescillenen coğrafi işaretli ürünlerinin artırılması için çalışmalar sürerken, 46 olan sayının 2027'de 80'e yükseltilmesi amaçlanıyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:38:00+00:00"
+  },
+  {
+   "title": "14. Boğaziçi Film Festivali'nin masterclass ve atölye programı açıklandı",
+   "link": "https://www.aa.com.tr/tr/kultur/14-bogazici-film-festivalinin-masterclass-ve-atolye-programi-aciklandi/4109815",
+   "summary": "Boğaziçi Kültür Sanat Vakfı tarafından 8-15 Kasım'da gerçekleştirilecek 14. Boğaziçi Film Festivali, zengin film seçkisinin yanı sıra sinemanın mutfağına ve sektör dinamiklerine odaklanan özel etkinlik programını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:37:47+00:00"
   },
   {
    "title": "Geleceğin güvenlik teknolojileri ve yapay zeka çözümleri SEDEC 2026'da masaya yatırılacak",
@@ -18,15 +171,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T10:30:59+00:00"
-  },
-  {
-   "title": "İspanyol futbolcu De Miguel sahadaki çarpışma sonucu hayatını kaybetti",
-   "link": "https://www.bbc.com/turkce/articles/cx5yn0j3e2yyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tenerife'nin 30 yaşındaki forvet oyuncusu Jesus de Miguel, İspanya ikinci ligi maçındaki çarpışmada aldığı ağır sakatlığın ardından hayatını kaybetti.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae7/live/95eedac0-d76a-11f1-a956-ff083523ef77.jpg",
-   "published": "2026-11-03T10:26:08+00:00"
   },
   {
    "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 6 kişi hayatını kaybetti",
@@ -74,6 +218,15 @@
    "published": "2026-11-03T10:21:00+00:00"
   },
   {
+   "title": "Arap Koalisyonu: Mekke bölgesinde 1 İHA imha edildi",
+   "link": "https://www.aa.com.tr/tr/dunya/-arap-koalisyonu-mekke-bolgesinde-1-iha-imha-edildi-/4109776",
+   "summary": "Suudi Arabistan öncülüğündeki Arap Koalisyonu, Mekke bölgesinde bir insansız hava aracını (İHA) imha ettiğini duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T10:16:08+00:00"
+  },
+  {
    "title": "Emine Erdoğan, İzzet Keribar'ın Güney Kore'de çektiği fotoğraflardan oluşan sergiyi ziyaret etti",
    "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-izzet-keribarin-guney-korede-cektigi-fotograflardan-olusan-sergiyi-ziyaret-etti/4109774",
    "summary": "Emine Erdoğan, fotoğraf sanatçısı Keribar'ın Güney Kore'de açılan sergisine dair, \"Kendisinin yıllar önce Güney Kore'de gönüllü askerlik yaptığı sırada çektiği her bir fotoğraf, sanatsal değerinin yanında tarihin de…",
@@ -94,7 +247,7 @@
   {
    "title": "MHP Genel Başkanı Bahçeli: Avrupa'nın ektiği fitne tohumları kendilerine dönmeye başlamıştır",
    "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceli-avrupanin-ektigi-fitne-tohumlari-kendilerine-donmeye-baslamistir/4109754",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Uzun zamandır göçmen karşıtlığıyla İslamofobi ve Türkfobiyi kaşımak suretiyle siyasi rant oluşturma peşinde koşan Avrupa'nın, ektiği fitne tohumları kendilerine dönmeye başlamıştır.\"…",
+   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Uzun zamandır göçmen karşıtlığıyla İslamofobi ve Türkfobiyi kaşımak suretiyle siyasi rant oluşturma peşinde koşan Avrupa'nın ektiği fitne tohumları kendilerine dönmeye başlamıştır.\"…",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -240,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/-alman-otomotiv-tedarikcisi-schaeffler-3-bin-460-kisiyi-isten-cikaracak/4109631",
    "summary": "Almanya merkezli otomotiv ve sanayi tedarikçisi Schaeffler, Avrupa genelinde 3 bin 460 kişiyi işten çıkaracağını ve ülkede bulunan 4 üretim tesisini kapatacağını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T09:17:22+00:00"
   },
@@ -258,14 +411,14 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/rizede-palamudun-tanesi-100-liradan-satiliyor/4109620",
    "summary": "Rize'de palamudun tanesi 100 liradan alıcı bulurken, balıkçılar sezonun ilerleyen döneminde hamsi bolluğu yaşanmasını bekliyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T09:14:57+00:00"
   },
   {
    "title": "Güney Kore Devlet Başkanı Lee'den Türkiye ile iş birliğini derinleştirme mesajı",
    "link": "https://www.trthaber.com/haber/dunya/guney-kore-devlet-baskani-leeden-turkiye-ile-is-birligini-derinlestirme-mesaji-962073.html",
-   "summary": "Güney Kore Devlet Başkanı Lee, \"Cumhurbaşkanı Erdoğan ile Savunma sanayisi iş birliğini derinleştirmeyi kararlaştırdık\" dedi.",
+   "summary": "Güney Kore Devlet Başkanı Lee Jae Myung, Cumhurbaşkanı Recep Tayyip Erdoğan ile iki ülke arasındaki stratejik ortaklığı derinleştirme konusunda mutabık kaldıklarını belirterek, nükleer enerji, savunma sanayii, ticaret…",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -281,24 +434,6 @@
    "published": "2026-11-03T09:08:00+00:00"
   },
   {
-   "title": "ABD ara seçimleri Ankara-Washington ilişkilerini nasıl etkileyebilir?",
-   "link": "https://www.bbc.com/turkce/articles/ckqxn781l88po?at_medium=RSS&at_campaign=rss",
-   "summary": "Bugünkü ara seçimler, ABD'nin iç politikasının yanı sıra dış politikasında da önemli değişimlere yol açabilir. Cumhuriyetçilerin, Senato ve Temsilciler Meclisi'nde çoğunluğu kaybetmesi, Türkiye'nin savunma sanayi…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e3ee/live/c206bc10-d6d7-11f1-b441-2b33b063138f.png",
-   "published": "2026-11-03T09:06:25+00:00"
-  },
-  {
-   "title": "Türkiye ile Güney Kore arasında 4 anlaşma imzalandı",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-ile-guney-kore-arasinda-4-anlasma-imzalandi/4109586",
-   "summary": "Türkiye ile Güney Kore arasında bilim, teknoloji, doğal kaynaklar, madencilik, enerji ve nükleer enerji alanlarında 4 anlaşma imzalandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T09:06:12+00:00"
-  },
-  {
    "title": "Türkiye ile Güney Kore arasında anlaşmalar imzalandı",
    "link": "https://www.trthaber.com/haber/gundem/turkiye-ile-guney-kore-arasinda-anlasmalar-imzalandi-962071.html",
    "summary": "Türkiye ile Güney Kore arasında bilim, teknoloji, doğal kaynaklar, madencilik, enerji ve nükleer enerji alanlarında 4 anlaşma imzalandı.",
@@ -312,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-vatandasi-filistinliler-netanyahu-hukumetinin-baskilarina-karsi-sandiga-akin-ettiklerini-vurguladi/4109582",
    "summary": "İsrail'deki seçimlere yüksek katılım gösteren ve Başbakan Binyamin Netanyahu tarafından hedef alınan İsrail vatandaşı Filistinliler, mevcut aşırı sağcı hükümetin baskıları ve onu devirme gerekliliği nedeniyle sandığa…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T09:03:19+00:00"
   },
@@ -321,7 +456,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/1953-darbesinden-1979daki-elcilik-baskinina-ve-bolgesel-savasa-uzanan-iran-abd-gerilimi/4109581",
    "summary": "İran'da 1979 Devrimi'nin ardından Tahran'daki ABD Büyükelçiliğine baskınla derinleşen İran-ABD gerilimi, aradan geçen 47 yılda yaptırımlar, nükleer anlaşmazlıklar ve güvensizlikle tırmanarak bölgesel ve küresel etkileri…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T09:03:15+00:00"
   },
@@ -330,7 +465,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/yeka-ges-2026-yarismalarinda-11-proje-icin-en-iyi-teklifler-belli-oldu/4109579",
    "summary": "Enerji ve Tabii Kaynaklar Bakanlığının 11 proje için toplam 785 megavatlık güneş enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları (YEKA GES-2026) yarışmaları 19 şirketin katılımıyla yapıldı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T09:02:36+00:00"
   },
@@ -357,7 +492,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-ekim-ayi-enflasyon-verilerini-degerlendirdi/4109572",
    "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"​​Enflasyonu yeniden tek haneli seviyelere düşürme hedefimiz doğrultusunda, ekonomimizde sağlayacağımız kazanımları vatandaşlarımızın alım gücüne ve yaşam standartlarına kalıcı biçimde…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T08:55:11+00:00"
   },
@@ -369,15 +504,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-03T08:52:59+00:00"
-  },
-  {
-   "title": "Aydın'daki tarihi lise 135 yıllık binasında eğitime katkı sunuyor",
-   "link": "https://www.aa.com.tr/tr/kultur/aydindaki-tarihi-lise-135-yillik-binasinda-egitime-katki-sunuyor/4109565",
-   "summary": "Aydın Mesleki ve Teknik Anadolu Lisesi, 135 yıllık tarihi binasında öğrencileri geleceğe hazırlamayı sürdürüyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T08:50:46+00:00"
   },
   {
    "title": "Himalaya'da dağ yürüyüşüne çıkan 8 kişi kayboldu",
@@ -429,18 +555,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/rusyada-iha-saldirilari-havacilik-sektorundeki-baskiyi-artiriyor/4109532",
    "summary": "Rusya'da Ukrayna'nın insansız hava aracı (İHA) saldırıları nedeniyle havalimanlarına getirilen uçuş kısıtlamaları artarken, seferlerde yaşanan gecikmeler ve iptaller hava ulaşımını olumsuz etkiliyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T08:38:11+00:00"
-  },
-  {
-   "title": "Öğrencilerin geliştirdiği su altı robotu 250 metre derinliğe inebiliyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ogrencilerin-gelistirdigi-su-alti-robotu-250-metre-derinlige-inebiliyor/4109529",
-   "summary": "Gaziantep'te 2023 yılında 3 öğrenciyle kurulan Teknogaraj Mergeniye Takımı, yaklaşık 3 yıllık çalışma sonucunda uzaktan kontrol edilebilen büyük ve mini ROV olarak adlandırılan iki su altı aracı geliştirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T08:37:04+00:00"
   },
   {
    "title": "Ticaret Bakanlığı ekim ayı veri bültenini yayımladı",
@@ -486,6 +603,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T08:32:00+00:00"
+  },
+  {
+   "title": "Bakan Işıkhan: Emekli maaşlarında ilave iyileştirmeleri içeren çalışma yapıyoruz",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-isikhan-emekli-maaslarinda-ilave-iyilestirmeleri-iceren-calisma-yapiyoruz/4109508",
+   "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, emekli maaşlarına ilişkin, \"2027 Ocak ayından itibaren geçerli olması hedeflenen mevcut yasal artışlara, ilave iyileştirmeleri de içeren bir çalışma yapıyoruz.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T08:29:12+00:00"
   },
   {
    "title": "Fiyatlamalar küresel merkez bankalarının yılı \"şahin\" adımlarla tamamlayacağına işaret ediyor",
@@ -668,15 +794,6 @@
    "published": "2026-11-03T08:05:00+00:00"
   },
   {
-   "title": "Terör örgütü DEAŞ ile bağlantılı kişilerle para transferleri belirlenen 9 şüpheli için gözaltı kararı",
-   "link": "https://www.aa.com.tr/tr/gundem/teror-orgutu-deas-ile-baglantili-kisilerle-para-transferleri-belirlenen-9-supheli-icin-gozalti-karari/4109461",
-   "summary": "İstanbul Cumhuriyet Başsavcılığınca, terör örgütü DEAŞ kapsamında adli işlem gören kişilerle para transferi ilişkisi bulunduğu belirlenen 9 şüpheli hakkında gözaltı kararı verildi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T08:04:07+00:00"
-  },
-  {
    "title": "Fenerbahçe, 310. Avrupa maçına çıkacak",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-310-avrupa-macina-cikacak/4109462",
    "summary": "UEFA Şampiyonlar Ligi'nin dördüncü haftasında yarın İngiltere'nin Liverpool takımını ağırlayacak Fenerbahçe, Avrupa kupalarındaki 310. karşılaşmasında boy gösterecek.",
@@ -819,15 +936,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T07:22:48+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: Güney Kore ile ikili ticaretimizi 15 milyar dolar hedefine ulaştıracak adımları görüştük",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-kore-ile-ikili-ticaretimizi-15-milyar-dolar-hedefine-ulastiracak-adimlari-gorustuk/4109382",
-   "summary": "Cumhurbaşkanı Erdoğan, Güney Kore ile geçtiğimiz yıl 11 milyar doları aşan ikili ticaretimizi dengeli ve sürdürülebilir şekilde evvelce belirlediğimiz 15 milyar dolar hedefine ulaştıracak adımları görüştük.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T07:22:13+00:00"
   },
   {
    "title": "New York'ta 30 yıl sonra kızamık kaynaklı ilk çocuk ölümü",
@@ -1082,33 +1190,6 @@
    "published": "2026-11-03T06:32:28+00:00"
   },
   {
-   "title": "TİGEM 15 safkan Arap kısrağı satacak",
-   "link": "https://www.trthaber.com/haber/ekonomi/tigem-15-safkan-arap-kisragi-satacak-962036.html",
-   "summary": "Tarım ve Orman Bakanlığı Tarım İşletmeleri Genel Müdürlüğü TİGEM Karacabey Tarım İşletmesi Müdürlüğü, 15 safkan Arap kısrağının satışını yapacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T06:30:00+00:00"
-  },
-  {
-   "title": "Brent petrolün varili 105,81 dolardan işlem görüyor",
-   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10581-dolardan-islem-goruyor-962035.html",
-   "summary": "Dün 112,41 dolara kadar yükselen Brent petrolün ocak vadeli varil fiyatı günü 104,77 dolardan tamamladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T06:27:00+00:00"
-  },
-  {
-   "title": "Altın güne nasıl başladı?",
-   "link": "https://www.trthaber.com/haber/ekonomi/altin-gune-nasil-basladi-962034.html",
-   "summary": "Gram altın, güne düşüşle başlamasının ardından 6 bin 302 liradan işlem görüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T06:20:00+00:00"
-  },
-  {
    "title": "A Milli Erkek Hentbol Takımı, yarın Avusturya ile karşılaşacak",
    "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-hentbol-takimi-yarin-avusturya-ile-karsilasacak/4109314",
    "summary": "A Milli Erkek Hentbol Takımı, 2028 Avrupa Şampiyonası Elemeleri 2. Grup'taki ilk maçında yarın Avusturya ile karşı karşıya gelecek.",
@@ -1145,15 +1226,6 @@
    "published": "2026-11-03T06:07:36+00:00"
   },
   {
-   "title": "Küresel piyasalar Orta Doğu iyimserliği ve yapay zeka endişeleri arasında yön arıyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-orta-dogu-iyimserligi-ve-yapay-zeka-endiseleri-arasinda-yon-ariyor/4109302",
-   "summary": "Küresel piyasalar, ABD'deki seçim sürecinin beraberinde getirdiği siyasi belirsizlikler ve yapay zeka yatırımlarının finansmanına dair endişelerin, Orta Doğu'daki diplomatik ilerlemeye yönelik iyimserliği gölgede…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-03T06:04:11+00:00"
-  },
-  {
    "title": "Rusya'nın Yaroslavl bölgesine İHA saldırısı düzenlendi",
    "link": "https://www.aa.com.tr/tr/dunya/rusyanin-yaroslavl-bolgesine-iha-saldirisi-duzenlendi/4109284",
    "summary": "Ukrayna'nın, Rusya'nın Yaroslavl bölgesine insansız hava araçlarıyla (İHA) saldırı düzenlediği bildirildi.",
@@ -1161,24 +1233,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-03T05:34:48+00:00"
-  },
-  {
-   "title": "TOGG'da Anadolu Grubu ve Vestel'in payları TVF ve Turkcell'e geçiyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/toggda-anadolu-grubu-ve-vestelin-paylari-tvf-ve-turkcelle-geciyor/4109280",
-   "summary": "Türkiye'nin Otomobili Girişim Grubu'ndaki (TOGG) AG Anadolu Grubu Holding ve Vestel Elektronik'in paylarının Türkiye Varlık Fonu (TVF) ve Turkcell'e devrine ilişkin sözleşmeler imzalandı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-03T05:13:57+00:00"
-  },
-  {
-   "title": "Apple'ın geliri temmuz-eylül döneminde arttı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/applein-geliri-temmuz-eylul-doneminde-artti/4109279",
-   "summary": "ABD'nin teknoloji devlerinden Apple'ın geliri temmuz-eylül döneminde yıllık bazda yaklaşık yüzde 12 artış gösterdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-03T05:10:12+00:00"
   },
   {
    "title": "Onlarca kez yoğun bakım, yedi ameliyat: Kadınların yüzde 10'unu etkileyen bir hastalığa tanı koymak neden zor?",
@@ -1233,51 +1287,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f39f/live/31fe8820-d70c-11f1-b441-2b33b063138f.jpg",
    "published": "2026-11-02T22:25:43+00:00"
-  },
-  {
-   "title": "ABD Başkan Yardımcısı Vance, İran'la uzlaşma ihtimaline \"oldukça iyimser\" yaklaştıklarını belirtti",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskan-yardimcisi-vance-iranla-uzlasma-ihtimaline-oldukca-iyimser-yaklastiklarini-belirtti/4109231",
-   "summary": "ABD Başkan Yardımcısı JD Vance, İran'la birtakım ilerlemeler kaydedildiğini ve müzakere yoluyla uzlaşmaya varılması ihtimali konusunda oldukça iyimser olduklarını söyledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T21:39:32+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Başdanışmanı Uçum'dan seçim için 16 Nisan 2028 önerisi",
-   "link": "https://www.bbc.com/turkce/articles/c60me7rd2xgno?at_medium=RSS&at_campaign=rss",
-   "summary": "Cumhurbaşkanı Başdanışmanı Mehmet Uçum, Cumhurbaşkanı Recep Tayyip Erdoğan'ın görevinde yeniden aday olabilmesi için seçimlerin 7 Mayıs 2028'den önce yapılması gerektiğinin Anayasa'da açıkça yazdığını söyledi. Uçum…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9661/live/453c4440-d702-11f1-ae68-7d4a4f90db74.png",
-   "published": "2026-11-02T21:30:18+00:00"
-  },
-  {
-   "title": "ABD ordusu İran'ın Keşm Adası'na \"sınırlı\" saldırı düzenledi",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ordusu-iranin-kesm-adasina-sinirli-saldiri-duzenledi/4109221",
-   "summary": "İran'ın gece saatlerinde bölgede ABD ordusuna ait bir uçağı karadan havaya füzeyle hedef almaya çalıştığı, buna karşılık ABD'nin Keşm Adası'na “sınırlı” saldırı düzenlediği bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T21:23:12+00:00"
-  },
-  {
-   "title": "İsrail basını: ABD'deki ara seçimler arifesinde İsrail en üst düzey alarmda",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-abddeki-ara-secimler-arifesinde-israil-en-ust-duzey-alarmda/4109195",
-   "summary": "İsrail'in, İran'a karşı savaşın yeniden başlatılabileceğine ilişkin söylemlerin gündemde olduğu ABD'deki ara seçimlerin arifesinde alarm seviyesini en üst düzeye çıkardığı bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T21:02:36+00:00"
-  },
-  {
-   "title": "Trump'ın İran savaşı konusunda üst düzey ABD'li yetkililerin performansını sorguladığı öne sürüldü",
-   "link": "https://www.aa.com.tr/tr/dunya/trumpin-iran-savasi-konusunda-ust-duzey-abdli-yetkililerin-performansini-sorguladigi-one-suruldu/4109194",
-   "summary": "ABD Başkanı Trump'ın, İran'a yönelik saldırıları yeniden başlatmayı değerlendirdiği, \"suçlayacak\" isim aradığı ve bu kapsamda Savunma Bakanı Pete Hegseth ile Genelkurmay Başkanı Orgeneral Caine'in performanslarını…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-02T21:02:02+00:00"
   },
   {
    "title": "Milli kick boksçuların Avrupa Şampiyonası'ndaki hedefi altın madalya",
@@ -1341,15 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7f7/live/94e21600-d6b7-11f1-a701-fddedf244c16.jpg",
    "published": "2026-11-02T14:14:59+00:00"
-  },
-  {
-   "title": "Bahçeli'den 19 yeni il önerisi: Bir ilçenin il olması ne anlama geliyor?",
-   "link": "https://www.bbc.com/turkce/articles/cwe9l7g8z9d7o?at_medium=RSS&at_campaign=rss",
-   "summary": "MHP lideri Devlet Bahçeli Türkiye'de 19 yeni il ve 78 yeni ilçe kurulmasını önerdi. Bir ilçenin il olması ne anlama geliyor? İl olan bir ilçede neler değişiyor?",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a66c/live/e4731180-d6bf-11f1-aacc-5b5f23abff4b.png",
-   "published": "2026-11-02T13:15:53+00:00"
   }
  ]
 }
