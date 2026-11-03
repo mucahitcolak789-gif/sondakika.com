@@ -1,14 +1,86 @@
 {
- "updated": "2026-11-03T19:03:32.193904+00:00",
+ "updated": "2026-11-03T19:58:07.865923+00:00",
  "items": [
   {
-   "title": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart karşısında 2-0 önde",
+   "title": "Fransa'da liselilerin eylemleri, üniversite öğrencilerinin desteğiyle devam ediyor",
+   "link": "https://www.aa.com.tr/tr/dunya/fransada-liselilerin-eylemleri-universite-ogrencilerinin-destegiyle-devam-ediyor/4110502",
+   "summary": "Fransa'da hükümetin eğitim alanındaki taahhütlerini yeterli bulmayan liselilerin eylemleri, üniversite öğrencilerinin desteğiyle devam ediyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T19:54:46+00:00"
+  },
+  {
+   "title": "Galatasaray, Şampiyonlar Ligi'nde evinde Stuttgart'ı 2-0 yendi",
    "link": "https://www.bbc.com/turkce/articles/cr62yxwp5jdyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Almanya temsilcisi Stuttgart'ı konuk ediyor. Sarı kırmızılı takım ilk yarıyı 2-0 önde kapattı",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü hafta maçında Aleksey Batrakov'un attığı iki golle Almanya temsilcisi Stuttgart'ı 2-0 yendi",
    "source": "BBC Türkçe",
    "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6a39/live/225a02a0-d7b6-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-11-03T18:42:00+00:00"
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d04/live/440b9090-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
+   "published": "2026-11-03T19:47:49+00:00"
+  },
+  {
+   "title": "Galatasaray, Stuttgart'ı iki golle geçti",
+   "link": "https://www.trthaber.com/haber/gundem/galatasaray-stuttgarti-iki-golle-gecti-962137.html",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nde Stuttgart'ı 20 yendi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T19:41:00+00:00"
+  },
+  {
+   "title": "Kasımpaşa, teknik direktör Emre Belözoğlu'na veda etti",
+   "link": "https://www.aa.com.tr/tr/spor/kasimpasa-teknik-direktor-emre-belozogluna-veda-etti/4110481",
+   "summary": "Süper Lig ekiplerinden Kasımpaşa, teknik direktör Emre Belözoğlu ile yolların ayrıldığını duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T19:33:34+00:00"
+  },
+  {
+   "title": "Bakan Kacır, sel felaketinden etkilenen işletmelere 1 milyon lira destek vereceklerini duyurdu",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-sel-felaketinden-etkilenen-isletmelere-1-milyon-lira-destek-vereceklerini-duyurdu/4110472",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T19:21:08+00:00"
+  },
+  {
+   "title": "Süper Lig'den 7 takım, PFDK'ye sevk edildi",
+   "link": "https://www.aa.com.tr/tr/spor/super-ligden-7-takim-pfdkye-sevk-edildi/4110470",
+   "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig'den 7 takımı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T19:18:11+00:00"
+  },
+  {
+   "title": "Ben-Gvir'in tehdit ettiği Filistinli esire, 9 kurşunla yaralanmasına rağmen sadece ağrı kesici verilmiş",
+   "link": "https://www.aa.com.tr/tr/dunya/ben-gvirin-tehdit-ettigi-filistinli-esire-9-kursunla-yaralanmasina-ragmen-sadece-agri-kesici-verilmis/4110469",
+   "summary": "Ben-Gvir'in hücresine baskın düzenleyerek idamla tehdit ettiği Filistinli esir Selame'nin nişanlısı Zamil, Selame'nin 9 kurşunla yaralandığını, 3 gün sonra revire götürülüp ağrı kesici verildikten sonra yeniden hücre…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T19:16:58+00:00"
+  },
+  {
+   "title": "111 lira yazdığı ürüne 6 bin lira isteyen satıcıya 1 milyon lira ceza",
+   "link": "https://www.trthaber.com/haber/turkiye/111-lira-yazdigi-urune-6-bin-lira-isteyen-saticiya-1-milyon-lira-ceza-962136.html",
+   "summary": "Ticaret Bakanlığı, internet sitesinde 111 liradan ilana koyduğu otomobil yedek parçası için satın almak isteyen tüketicilerden 5 bin ve 6 bin lira talep eden satıcıya 1 milyon 83 bin 706 lira idari para cezası kesti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T19:00:00+00:00"
+  },
+  {
+   "title": "Galatasaray, Stuttgart'ı mağlup etti",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-stuttgarti-maglup-etti/4110444",
+   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü haftasında konuk ettiği Almanya ekibi Stuttgart'ı 2-0 mağlup etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T18:48:29+00:00"
   },
   {
    "title": "İranlı yetkili, Hürmüz Boğazı'nın 4 ülkenin gemilerinin geçişine açık olduğunu söyledi",
@@ -330,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4110273",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 0,56 değer kazanarak 11.023,55 puandan tamamladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T15:24:21+00:00"
   },
@@ -375,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/abd-nin-michigan-eyaletinde-secmenlerin-onceligi-ulkedeki-hayat-pahaliligi/4110264",
    "summary": "ABD'de ülkenin siyasi geleceği açısından önem taşıyan ara seçimler için sabah erken saatlerden itibaren oy kullanmaya başlayan Michiganlılar, ülkedeki hayat pahalılığına vurgu yapıyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T15:12:40+00:00"
   },
@@ -411,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/biontech-ucuncu-ceyrekte-kara-gecti-yil-sonu-hedeflerini-yukseltti/4110234",
    "summary": "Alman biyoteknoloji firması BioNTech, yılın üçüncü çeyreğinde yeniden karlılığa geçerek yıl sonu gelir hedeflerini yukarı yönlü revize etti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T14:52:15+00:00"
   },
@@ -456,7 +528,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/basbakanin-istifasini-sunmasinin-ardindan-belcika-krali-parti-liderleriyle-gorusmelere-basladi/4110183",
    "summary": "Belçika Kralı Philippe, bütçe müzakerelerinin başarısızlıkla sonuçlanmasının ardından Başbakan Bart De Wever'in istifasını sunmasıyla başlayan hükümet krizinin çözümü için koalisyon partilerinin liderleriyle görüşmelere…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T14:17:57+00:00"
   },
@@ -465,7 +537,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusya-bati-avrasyadaki-sorunlarla-ilgili-diyalog-kurmaya-yanasmiyor/4110175",
    "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Batı'nın Avrasya'daki sorunlarla ilgili diyalog kurmaya yanaşmadığını belirterek, \"Batı, doğu kesimi dahi tüm Avrasya kıtasında kendi düzenini kurmak istiyor.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T14:16:20+00:00"
   },
@@ -596,15 +668,6 @@
    "published": "2026-11-03T13:31:42+00:00"
   },
   {
-   "title": "İran'dan nükleer silah kullanılma ihtimaline \"ellerimiz bağlı değildir\" yanıtı",
-   "link": "https://www.aa.com.tr/tr/dunya/irandan-nukleer-silah-kullanilma-ihtimaline-ellerimiz-bagli-degildir-yaniti/4110087",
-   "summary": "İran Dışişleri Bakanlığı Sözcüsü Garibabadi, ülkesine nükleer silahla saldırılması halinde yasal yollara başvurmanın yanı sıra gerekli önlemleri alacaklarını ve \"ellerinin bağlı kalmayacağını\" söyledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T13:30:16+00:00"
-  },
-  {
    "title": "Türkiye ve Güney Kore, enerji ve madencilik alanında üç anlaşma imzaladı",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-guney-kore-enerji-ve-madencilik-alaninda-uc-anlasma-imzaladi-/4110085",
    "summary": "Türkiye ile Güney Kore arasında enerji arz güvenliğini pekiştirmeyi, teknoloji transferini hızlandırmayı ve madencilik sektöründe katma değerli üretimi artırmayı hedefleyen üç mutabakat zaptı imzalandı.",
@@ -612,6 +675,15 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T13:29:13+00:00"
+  },
+  {
+   "title": "İran'dan nükleer silah kullanılma ihtimaline ellerimiz bağlı değildir yanıtı",
+   "link": "https://www.trthaber.com/haber/dunya/irandan-nukleer-silah-kullanilma-ihtimaline-ellerimiz-bagli-degildir-yaniti-962104.html",
+   "summary": "İran Dışişleri Bakanlığı Sözcüsü Kazım Garibabadi, ülkesine karşı nükleer silah kullanılması durumunda uluslararası düzeyde yasal yollara başvurmakla yetinmeyeceklerini, ülkesinin bu tür koşullarda gerekli önlemleri…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T13:27:00+00:00"
   },
   {
    "title": "Fenerbahçe yarın Liverpool'u ağırlayacak",
@@ -929,24 +1001,6 @@
    "published": "2026-11-03T11:09:12+00:00"
   },
   {
-   "title": "Gazze'deki çocuklar, İsrail saldırılarının izlerini ve barış özlemlerini sanatla anlattı",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzedeki-cocuklar-israil-saldirilarinin-izlerini-ve-baris-ozlemlerini-sanatla-anlatti/4109851",
-   "summary": "Gazze Şeridi'ndeki Filistinli çocuklar, İsrail'in ağır saldırıları nedeniyle maruz kaldıkları zorlukları, özgürlüğe, barışa ve güvenliğe duydukları özlemi yaptıkları tablo, resim ve maketlerle ifade ediyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T11:02:55+00:00"
-  },
-  {
-   "title": "Yargıtay'dan emsal karar: Dede ve babaanne torununu yatılı görebilecek",
-   "link": "https://www.trthaber.com/haber/turkiye/yargitaydan-emsal-karar-dede-ve-babaanne-torununu-yatili-gorebilecek-962086.html",
-   "summary": "Yargıtay, torunlarıyla görüşme süresini yetersiz bulduğu babaanne ve dedenin her ayın ilk hafta sonu ve ağustosun ilk haftası yatılı görüşmesine karar verdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T10:57:00+00:00"
-  },
-  {
    "title": "30. yılında Susurluk skandalı: 3 Kasım 1996'daki kaza sonrası neler yaşandı?",
    "link": "https://www.bbc.com/turkce/articles/cq5e3z1edp9o?at_medium=RSS&at_campaign=rss",
    "summary": "3 Kasım 1996'da yaşanan Susurluk kazasını, tetiklediği tartışmaları ve olayın bugüne kadar uzanan etkilerini inceledik.",
@@ -965,15 +1019,6 @@
    "published": "2026-11-03T10:45:55+00:00"
   },
   {
-   "title": "Avukatlık asgari ücret tarifesi belirlendi",
-   "link": "https://www.trthaber.com/haber/ekonomi/avukatlik-asgari-ucret-tarifesi-belirlendi-962085.html",
-   "summary": "Türkiye Barolar Birliğince TBB hazırlanan yeni avukatlık asgari ücret tarifesi, Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T10:41:00+00:00"
-  },
-  {
    "title": "Trabzonspor-Freiburg maçını Estonyalı hakem Kristo Tohver yönetecek",
    "link": "https://www.aa.com.tr/tr/spor/trabzonspor-freiburg-macini-estonyali-hakem-kristo-tohver-yonetecek/4109728",
    "summary": "Trabzonspor'un UEFA Konferans Ligi'nin 3. haftasında 5 Kasım Perşembe günü Almanya'nın Freiburg takımını konuk edeceği mücadelede Estonyalı hakem Kristo Tohver düdük çalacak.",
@@ -987,7 +1032,7 @@
    "link": "https://www.aa.com.tr/tr/spor/kaleci-ile-carpistigi-pozisyonda-kalbi-duran-ispanyol-futbolcu-jesus-de-miguel-hayatini-kaybetti/4109726",
    "summary": "İspanya 2. Futbol Ligi'nde Andorra ile yapılan maçta kaleciyle çarpıştığı pozisyonda kalbi duran Tenerife'nin 30 yaşındaki İspanyol futbolcusu Jesus de Miguel Alameda, kaldırıldığı hastanede hayatını kaybetti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-03T09:51:20+00:00"
   },
@@ -1071,15 +1116,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T08:36:51+00:00"
-  },
-  {
-   "title": "Fiyatlamalar küresel merkez bankalarının yılı \"şahin\" adımlarla tamamlayacağına işaret ediyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fiyatlamalar-kuresel-merkez-bankalarinin-yili-sahin-adimlarla-tamamlayacagina-isaret-ediyor/4109504",
-   "summary": "Politika faizlerini geçen ayki toplantılarında bekle-gör stratejisi izleyerek sabit tutan ABD, Avrupa ve Japonya merkez bankalarının, artan enflasyonist baskılar nedeniyle aralık ayında para politikalarını…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-03T08:26:39+00:00"
   },
   {
    "title": "Suudi Arabistan'da düzenlenecek 2027 Asya Kupası \"olağanüstü koşullar\" nedeniyle ertelendi",
@@ -1314,42 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-02T08:35:56+00:00"
-  },
-  {
-   "title": "Beşiktaş'tan deplasmanda son 5 sezonun en kötü başlangıcı",
-   "link": "https://www.aa.com.tr/tr/spor/besiktastan-deplasmanda-son-5-sezonun-en-kotu-baslangici/4108444",
-   "summary": "Siyah-beyazlı takım, 2026-2027 sezonunda dış sahada oynadığı ilk 5 maçta 4 puan topladı ve son 5 sezonun en düşük puanlı performansını sergiledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T08:22:24+00:00"
-  },
-  {
-   "title": "Galatasaray, Almanya ekibi Stuttgart ile Avrupa kupalarında ilk kez karşılaşacak",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-almanya-ekibi-stuttgart-ile-avrupa-kupalarinda-ilk-kez-karsilasacak/4108440",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin dördüncü haftasında konuk edeceği Almanya temsilcisi Stuttgart ile ilk kez bir resmi maçta karşı karşıya gelecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T08:18:06+00:00"
-  },
-  {
-   "title": "Trabzonspor, sahasında kayıp vermiyor",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-sahasinda-kayip-vermiyor/4108434",
-   "summary": "Süper Lig'in ilk 10 haftasında evindeki 5 maçı kazanarak 15 puan elde eden bordo-mavililer, rakip fileleri de 15 kez havalandırdı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T08:14:09+00:00"
-  },
-  {
-   "title": "Türk hentbolunda gözler Avrupa ve dünya şampiyonalarına çevrildi",
-   "link": "https://www.aa.com.tr/tr/spor/turk-hentbolunda-gozler-avrupa-ve-dunya-sampiyonalarina-cevrildi/4108431",
-   "summary": "Türkiye Hentbol Federasyonu Başkanı Mesut Çebi, 2026 Kadınlar Avrupa Hentbol Şampiyonası ile erkek milli takımının ilk kez mücadele edeceği Almanya'daki Dünya Şampiyonası'nda üst tura çıkmayı hedeflediklerini söyledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T08:12:20+00:00"
   }
  ]
 }
