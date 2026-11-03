@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-03T22:56:01.207269+00:00",
+ "updated": "2026-11-03T23:30:28.848532+00:00",
  "items": [
+  {
+   "title": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi-962150.html",
+   "summary": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri Indiana ve Kentucky eyaletlerinde tamamlandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T23:12:00+00:00"
+  },
+  {
+   "title": "Hatay'da iş yerinde yangın",
+   "link": "https://www.trthaber.com/haber/turkiye/hatayda-is-yerinde-yangin-962149.html",
+   "summary": "Hatay'ın Arsuz ilçesinde bir iş yerinde çıkan yangında 3 kişi dumandan etkilendi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T23:00:00+00:00"
+  },
   {
    "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
    "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
@@ -438,7 +456,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/binance-ugradigi-siber-saldiriya-dair-ilk-bulgularini-acikladi/4110365",
    "summary": "Kripto para borsası Binance, geçen hafta uğradığı siber saldırının çok aşamalı ve gelişmiş bir kampanya olduğunu, tek bir güvenlik ihlalinden veya basit bir kimlik avı girişiminden ibaret olmadığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T16:59:40+00:00"
   },
@@ -686,15 +704,6 @@
    "published": "2026-11-03T14:17:57+00:00"
   },
   {
-   "title": "Rusya: Batı, Avrasya'daki sorunlarla ilgili diyalog kurmaya yanaşmıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-bati-avrasyadaki-sorunlarla-ilgili-diyalog-kurmaya-yanasmiyor/4110175",
-   "summary": "Rusya Dışişleri Bakanı Sergey Lavrov, Batı'nın Avrasya'daki sorunlarla ilgili diyalog kurmaya yanaşmadığını belirterek, \"Batı, doğu kesimi dahi tüm Avrasya kıtasında kendi düzenini kurmak istiyor.\" dedi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T14:16:20+00:00"
-  },
-  {
    "title": "Brükselde tarım işçileri haklarının korunması için gösteri düzenledi",
    "link": "https://www.trthaber.com/haber/ekonomi/brukselde-tarim-iscileri-haklarinin-korunmasi-icin-gosteri-duzenledi-962113.html",
    "summary": "Belçika'nın başkenti Brüksel'de yaklaşık 200 kişi, Avrupa Birliği'nin AB tarım desteklerinin işçi haklarına uyulması şartına bağlanmasını sağlayan uygulamanın korunması talebiyle gösteri yaptı.",
@@ -891,24 +900,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T12:59:00+00:00"
-  },
-  {
-   "title": "Otomotiv ihracatında 4 milyar dolar eşiği aşıldı",
-   "link": "https://www.trthaber.com/haber/ekonomi/otomotiv-ihracatinda-4-milyar-dolar-esigi-asildi-962099.html",
-   "summary": "Türkiye otomotiv endüstrisi, ekim ayında gerçekleştirdiği 4 milyar doları aşan ihracatla aylık bazda tüm zamanların en yüksek seviyesine ulaştı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T12:58:00+00:00"
-  },
-  {
-   "title": "İran: Hürmüzgan eyaletinde 2 ABD İHA'sını düşürdük",
-   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuzgan-eyaletinde-2-abd-ihasini-dusurduk-962098.html",
-   "summary": "İran, Hürmüzgan eyaletinde ABDye ait iki Lucas marka kamikaze insansız hava aracını İHA düşürdüğünü iddia etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T12:56:00+00:00"
   },
   {
    "title": "Avro Bölgesi ülkeleri yeni ECB başkanlığı için adayları 6 Kasım'a kadar bildirecek",
