@@ -1,12 +1,336 @@
 {
- "updated": "2026-11-04T06:24:09.202314+00:00",
+ "updated": "2026-11-04T07:44:48.002046+00:00",
  "items": [
+  {
+   "title": "Emine Erdoğan, Yunus Emre Enstitüsünün Seul'deki kültür merkezinin resmi açılışını yaptı",
+   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-yunus-emre-enstitusunun-seuldeki-kultur-merkezinin-resmi-acilisini-yapti/4111082",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Yunus Emre Enstitüsünün (YEE) Seul'deki kültür merkezinin resmi açılışını gerçekleştirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:39:56+00:00"
+  },
+  {
+   "title": "Türkiye'nin nüfusu 1 Ekim itibarıyla 86 milyon 502 bini geçti",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyenin-nufusu-1-ekim-itibariyla-86-milyon-502-bini-gecti/4111081",
+   "summary": "Türkiye'nin nüfusu, 1 Ekim itibarıyla 86 milyon 502 bin 286 kişi oldu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:39:04+00:00"
+  },
+  {
+   "title": "Bakırköy'de D-100 Topkapı istikameti yan yolu 15 gün trafiğe kapatılacak",
+   "link": "https://www.aa.com.tr/tr/gundem/bakirkoyde-d-100-topkapi-istikameti-yan-yolu-15-gun-trafige-kapatilacak/4111074",
+   "summary": "Bakırköy D-100 İncirli Köprüsü'nde yapılacak güçlendirme çalışmaları kapsamında, Topkapı istikameti yan yolu 8 Kasım Pazar günü saat 23.00 itibarıyla 15 gün süreyle trafiğe kapatılacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:34:21+00:00"
+  },
+  {
+   "title": "11 ildeki siber suçlar ve dolandırıcılık operasyonlarında 230 şüpheli hakkında işlem yapıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/11-ildeki-siber-suclar-ve-dolandiricilik-operasyonlarinda-230-supheli-hakkinda-islem-yapildi/4111068",
+   "summary": "İçişleri Bakanlığı, siber suçlar ve dolandırıcılığa yönelik 11 ilde gerçekleştirilen operasyonlarda 230 şüpheli hakkında adli işlem yapıldığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:33:20+00:00"
+  },
+  {
+   "title": "ABD'de ara seçimler: Demokratlar Kongre'nin iki kanadında da çoğunluğu kazandı",
+   "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Demokratlar, Senato ve Temsilciler Meclisi'nde Cumhuriyetçilerin sahip olduğu çoğunluğu ele geçirdi",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/294e/live/34a98000-d821-11f1-a9b6-0f4245e849b7.jpg",
+   "published": "2026-11-04T07:29:52+00:00"
+  },
+  {
+   "title": "\"6. Korkut Ata Türk Dünyası Film Festivali\", İstanbul'da başladı",
+   "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-istanbulda-basladi/4111057",
+   "summary": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\", doğduğu şehir olan İstanbul'da yeniden sinemaseverlerle buluştu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:28:35+00:00"
+  },
+  {
+   "title": "ABD'de ara seçimlerin ardından siyasetin önemli isimlerinden ilk açıklamalar geldi",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimlerin-ardindan-siyasetin-onemli-isimlerinden-ilk-aciklamalar-geldi/4111054",
+   "summary": "ABD'de düzenlenen ara seçimlerde resmi olmayan sonuçlara göre Kongrede dengelerin Cumhuriyetçiler aleyhine değişmesinin ardından siyasetin önemli isimlerinden açıklamalar geldi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:28:14+00:00"
+  },
+  {
+   "title": "UEFA Konferans Ligi'nde 3. hafta maçları yarın oynanacak",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-konferans-liginde-3-hafta-maclari-yarin-oynanacak/4111051",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:24:17+00:00"
+  },
+  {
+   "title": "Fenerbahçe Tarfin, Avrupa Ligi'nde yarın Baskonia'yı konuk edecek",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-liginde-yarin-baskoniayi-konuk-edecek/4111050",
+   "summary": "Fenerbahçe Tarfin Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) 10. haftasında yarın sahasında İspanya ekibi Kosner ​​​​​​​Baskonia ile karşılaşacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:24:12+00:00"
+  },
+  {
+   "title": "Güney Kore: Kuzey Kore, Doğu Denizine doğru çok sayıda füze fırlattı",
+   "link": "https://www.trthaber.com/haber/dunya/guney-kore-kuzey-kore-dogu-denizine-dogru-cok-sayida-fuze-firlatti-962192.html",
+   "summary": "Güney Kore ordusu, Kuzey Korenin Doğu Denizine doğru çok sayıda füze fırlattığını duyurdu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:23:00+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan Güney Kore'den ayrıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koreden-ayrildi/4111046",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Güney Kore Devlet Başkanı Lee Jae Myung'ın davetine icabetle gerçekleştirdiği resmi ziyaretin ardından başkent Seul'den İstanbul'a hareket etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:21:54+00:00"
+  },
+  {
+   "title": "Zorlu: Rusya'nın olası talebi tüm üye devletlerin onayıyla değerlendirilecek",
+   "link": "https://www.trthaber.com/haber/gundem/zorlu-rusyanin-olasi-talebi-tum-uye-devletlerin-onayiyla-degerlendirilecek-962190.html",
+   "summary": "AK Parti Genel Başkan Yardımcısı ve Türk Devletleri ile İlişkiler Başkanı Kürşad Zorlu, Rusya'nın Türk Devletleri Teşkilatı'na gözlemci üye olarak katılmasına yönelik olası bir talebin, tüm üye devletlerin onayı ve Türk…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:20:00+00:00"
+  },
+  {
+   "title": "Michigan'da Senato yarışını önde götüren Müslüman aday Sayed zaferini ilan etti",
+   "link": "https://www.trthaber.com/haber/dunya/michiganda-senato-yarisini-onde-goturen-musluman-aday-sayed-zaferini-ilan-etti-962189.html",
+   "summary": "ABD'de Kongre ara seçimlerde Michigan eyaletindeki Senato yarışını önde götüren Demokratların Müslüman adayı Abdul elSayed, destekçilerine hitaben yaptığı konuşmada zaferini ilan ederek \"Michigan, başardık. Bu eyaletin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:19:00+00:00"
+  },
+  {
+   "title": "Trakya'da sağanak etkisini sürdürüyor",
+   "link": "https://www.aa.com.tr/tr/gundem/trakyada-saganak-etkisini-surduruyor/4111038",
+   "summary": "Edirne, Kırklareli ve Tekirdağ'da sağanak devam ediyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:18:05+00:00"
+  },
+  {
+   "title": "Bakan Çiftçi, deprem konutları ve iş yerlerindeki peşin ödeme indirimlerini duyurdu",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-deprem-konutlari-ve-is-yerlerindeki-pesin-odeme-indirimlerini-duyurdu/4111037",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, 6 Şubat depremlerinden etkilenen illerdeki afet konutları ve iş yerleri için hak sahiplerine ödeme kolaylıkları sağlandığını belirterek, konutlar için yüzde 74, iş yerleri için yüzde 48…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:17:52+00:00"
+  },
+  {
+   "title": "ABD seçimlerinde 'Demokrat' dalgası altının yönünü yukarı çevirdi",
+   "link": "https://www.trthaber.com/haber/ekonomi/abd-secimlerinde-demokrat-dalgasi-altinin-yonunu-yukari-cevirdi-962188.html",
+   "summary": "ABD Kongre ara seçimlerinde Demokratların kontrolü ele geçirmesiyle artan siyasi ve ekonomik belirsizlikler, yatırımcıları güvenli limana yöneltti. Artan talebin etkisiyle güne yüzde 2,5 yükselişle başlayan altının gram…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:12:00+00:00"
+  },
+  {
+   "title": "Anadolu Efes, Avrupa Ligi'nde yarın Paris Basketbol'u ağırlayacak",
+   "link": "https://www.aa.com.tr/tr/spor/anadolu-efes-avrupa-liginde-yarin-paris-basketbolu-agirlayacak/4111022",
+   "summary": "Anadolu Efes Erkek Basketbol Takımı, Avrupa Ligi'nin (EuroLeague) onuncu haftasında yarın Fransa temsilcisi Paris Basketbol'u konuk edecek.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:09:35+00:00"
+  },
+  {
+   "title": "İsrail Merkez Seçim Komitesi: Seçimlerde şeffaflığa aykırı herhangi bir bulguya rastlanmadı",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-merkez-secim-komitesi-secimlerde-seffafliga-aykiri-herhangi-bir-bulguya-rastlanmadi/4111021",
+   "summary": "İsrail Merkez Seçim Komitesi, 27 Ekim'deki parlamento seçimlerinin ardından yapılan tüm itirazları incelediğini ve seçimlerde şeffaflığa aykırı herhangi bir bulguya rastlanmadığını açıkladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:09:22+00:00"
+  },
+  {
+   "title": "Borsa güne yükselişle başladı",
+   "link": "https://www.trthaber.com/haber/ekonomi/borsa-gune-yukselisle-basladi-962187.html",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 1,22 yükselişle 11.157,96 puandan başladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:08:00+00:00"
+  },
+  {
+   "title": "Trump seçim sonuçlarından dolayı Fox News'i da suçladı",
+   "link": "https://www.trthaber.com/haber/dunya/trump-secim-sonuclarindan-dolayi-fox-newsi-da-sucladi-962186.html",
+   "summary": "ABD Başkanı Donald Trump, Demokratların önde götürdüğü Kongre ara seçimlerinin sonuçları açıklanmaya devam ederken Demokrat partiye yayınlarında \"sürekli\" yer verdiği gerekçesiyle Fox News kanalının \"kayıplardan sorumlu…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:05:00+00:00"
+  },
+  {
+   "title": "TCMB'den Fon Tasfiyeleri ve Reel Sektör: Firma Verileri Ne Söylüyor? analizi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-fon-tasfiyeleri-ve-reel-sektor-firma-verileri-ne-soyluyor-analizi/4111010",
+   "summary": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) blog sayfası Merkezin Güncesi'nde yer alan analizde, fon piyasasındaki gelişmelerin reel sektörü farklı kanallar üzerinden etkileyebileceği belirtildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:04:40+00:00"
+  },
+  {
+   "title": "2026 ABD ara seçimleri ilklere sahne oldu",
+   "link": "https://www.aa.com.tr/tr/dunya/2026-abd-ara-secimleri-ilklere-sahne-oldu/4111008",
+   "summary": "ABD'de Başkan Donald Trump'ın ikinci döneminde düzenlenen ara seçimlerde ilk sonuçlar, Kongre'nin dengesinin değişeceğini gösterirken, aynı zamanda ülke genelinde temsil noktasında birçok ilk yaşandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:04:23+00:00"
+  },
+  {
+   "title": "Trabzonspor, UEFA Konferans Ligi'nde yarın sahasında Freiburg ile karşılaşacak",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-uefa-konferans-liginde-yarin-sahasinda-freiburg-ile-karsilasacak/4110999",
+   "summary": "Trabzonspor, UEFA Konferans Ligi'nin 3. haftasında yarın sahasında Almanya'nın Freiburg takımı ile karşılaşacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T07:01:23+00:00"
+  },
+  {
+   "title": "Deprem bölgesindeki kalıcı konutlarda peşin ödemeye yüzde 74 indirim",
+   "link": "https://www.trthaber.com/haber/gundem/deprem-bolgesindeki-kalici-konutlarda-pesin-odemeye-yuzde-74-indirim-962184.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, 6 Şubat depremlerinden etkilenen illerdeki kalıcı konutlar için peşin ödemelerde 31 Aralık 2026'ya kadar yüzde 74, iş yerleri için ise yüzde 48 indirim uygulanacağını, taksitli ödemelerde…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:57:00+00:00"
+  },
+  {
+   "title": "COP31'de ana salonlara Anadolu ve Gazze isimleri verildi",
+   "link": "https://www.trthaber.com/haber/gundem/cop31de-ana-salonlara-anadolu-ve-gazze-isimleri-verildi-962183.html",
+   "summary": "Antalya'da dünya liderleri dahil 1,5 milyon kişinin katılımıyla düzenlenecek COP31 İklim Zirvesi'nde salon isimleri belli oldu. Zirvenin Genel Kurul salonuna 'Anadolu', Türkiye'nin Filistin hassasiyetini yansıtan 5 bin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:50:00+00:00"
+  },
+  {
+   "title": "Rusya'da e-ticaret şirketi Ozon'un lojistik merkezinde İHA saldırısı sonucu yangın çıktı",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyada-e-ticaret-sirketi-ozonun-lojistik-merkezinde-iha-saldirisi-sonucu-yangin-cikti/4110981",
+   "summary": "Rusya'nın Adıgey Cumhuriyeti'ndeki Adıgeysk şehrinde, e-ticaret şirketi Ozon'a ait lojistik merkezinde insansız hava aracı (İHA) saldırısı sonucu yangın çıktığı bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:49:21+00:00"
+  },
+  {
+   "title": "Gazze'nin gönüllü doktoru, New Jersey'de Kongre üyesi seçilen ilk Müslüman oldu",
+   "link": "https://www.trthaber.com/haber/dunya/gazzenin-gonullu-doktoru-new-jerseyde-kongre-uyesi-secilen-ilk-musluman-oldu-962181.html",
+   "summary": "ABD Kongre ara seçimlerinde Gazze'ye gönüllü giden plastik cerrah Demokrat Adam Hamawy, New Jersey eyaletinde Temsilciler Meclisi üyesi olarak seçilen ilk Müslüman oldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:44:00+00:00"
+  },
+  {
+   "title": "Gümrükler Muhafaza ekipleri 4 ayrı operasyonda 459 kilogramı aşkın uyuşturucuya el koydu",
+   "link": "https://www.aa.com.tr/tr/gundem/gumrukler-muhafaza-ekipleri-4-ayri-operasyonda-459-kilogrami-askin-uyusturucuya-el-koydu/4110974",
+   "summary": "Gümrükler Muhafaza ekipleri, Edirne ve İstanbul'da yürüttükleri 4 ayrı operasyonda 459 kilo 599 gram uyuşturucu madde ele geçirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:42:11+00:00"
+  },
+  {
+   "title": "Somali asıllı Kongre üyesi Ilhan Omar yeniden seçildi",
+   "link": "https://www.trthaber.com/haber/dunya/somali-asilli-kongre-uyesi-ilhan-omar-yeniden-secildi-962180.html",
+   "summary": "ABD Kongre ara seçimlerinde Temsilciler Meclisi'nin Somali asıllı Müslüman üyesi Ilhan Omar, Minnesota eyaletinden girdiği seçimleri kazandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:42:00+00:00"
+  },
+  {
+   "title": "Beşiktaş, UEFA Avrupa Ligi'nde yarın Celtic'in konuğu olacak",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-uefa-avrupa-liginde-yarin-celticin-konugu-olacak/4110967",
+   "summary": "Beşiktaş, UEFA Avrupa Ligi'nin dördüncü haftasında yarın İskoçya temsilcisi Celtic'in konuğu olacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:37:34+00:00"
+  },
+  {
+   "title": "ABD'de Demokratların seçim zaferi: 'Cumhuriyetçilerin kalelerine girdiler'",
+   "link": "https://www.bbc.com/turkce/articles/cq4g1rpk0rr5o?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'de ara seçimlerde Demokratlar hem Temsilciler Meclisi hem de Senato'da çoğunluğu Cumhuriyetçilerin elinden aldı. Peki seçim sonuçları nasıl yorumlanıyor? Demokratların zaferi Trump'ın bundan sonraki başkanlığını…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e27e/live/408de8a0-d819-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-04T06:36:00+00:00"
+  },
+  {
+   "title": "ABD'de Kongre ara seçimlerinde tüm sandıklar kapandı",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-kongre-ara-secimlerinde-tum-sandiklar-kapandi-962178.html",
+   "summary": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri tüm eyaletlerde sona erdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:31:00+00:00"
+  },
+  {
+   "title": "Abdul elSayed, ABD Senatosuna seçilen ilk Müslüman senatör oldu",
+   "link": "https://www.trthaber.com/haber/dunya/abdul-el-sayed-abd-senatosuna-secilen-ilk-musluman-senator-oldu-962177.html",
+   "summary": "ABD'de Kongre ara seçimlerde Michigan eyaletindeki Senato yarışını önde götüren Demokratların Müslüman adayı Abdul elSayed, destekçilerine hitaben yaptığı konuşmada zaferini ilan ederek \"Michigan, başardık. Bu eyaletin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:28:00+00:00"
+  },
+  {
+   "title": "Brent petrolün varili 103,96 dolardan işlem görüyor",
+   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-10396-dolardan-islem-goruyor-962176.html",
+   "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 103,96 dolardan işlem görüyor.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:24:00+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan, Güney Kore'deki şirketlerin üst düzey yöneticilerini kabul etti",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-guney-koredeki-sirketlerin-ust-duzey-yoneticilerini-kabul-etti/4110944",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, resmi ziyaret kapsamında bulunduğu Güney Kore'nin başkenti Seul'de, teknoloji, elektronik, biyoteknoloji ve kimya alanlarında faaliyet gösteren şirketlerin üst düzey yöneticilerini…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:22:11+00:00"
+  },
+  {
+   "title": "Jandarma komandolar \"Savaşçı Yarışması\"nda sınırlarını zorluyor",
+   "link": "https://www.aa.com.tr/tr/gundem/jandarma-komandolar-savasci-yarismasinda-sinirlarini-zorluyor/4110932",
+   "summary": "Jandarma Komando birliklerinin taktik becerilerini, durumsal farkındalıklarını, zihinsel ve fiziksel dayanıklılıklarını artırmak amacıyla bu yıl ikincisi düzenlenen \"Savaşçı Yarışması\" İzmir'de devam ediyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T06:12:45+00:00"
+  },
   {
    "title": "İran Meclis Başkanı: ABD halkı savaşa hayır dedi ve biz bu mesajı destekliyoruz",
    "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskani-abd-halki-savasa-hayir-dedi-ve-biz-bu-mesaji-destekliyoruz/4110923",
    "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD Kongre ara seçimlerinde resmi olmayan sonuçlara göre Demokratların Senato'da çoğunluğu elde etmesine ilişkin, \"ABD halkı savaşa hayır dedi ve biz bu mesajı destekliyoruz.\"…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-04T06:05:01+00:00"
   },
@@ -15,7 +339,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-abddeki-ara-secim-sonuclarina-odaklandi/4110919",
    "summary": "Küresel piyasalarda ABD'deki Kongre ara seçimlerinin sonuçları öncesinde negatif seyir izlenirken, kesin olmayan sonuçlara göre Demokratların Temsilciler Meclisi'ni kazanması ve Senato'da çoğunluk elde etmesi bekleniyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-04T06:02:27+00:00"
   },
@@ -42,7 +366,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/trump-ara-secimlerdeki-kayiplarin-nedeninin-iran-savasi-olabilecegini-soyledi/4110909",
    "summary": "ABD Başkanı Donald Trump, ülkede düzenlenen ara seçimlerde Cumhuriyetçilerin yaşadığı kayıpların nedeninin kısmen İran'a yönelik sürdürülen savaş olabileceğini belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-04T05:51:43+00:00"
   },
@@ -72,15 +396,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-04T05:28:00+00:00"
-  },
-  {
-   "title": "ABD'de ara seçimler: Demokratlar Kongre'nin iki kanadında da çoğunluğu kazandı",
-   "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Demokratlar, Senato ve Temsilciler Meclisi'nde Cumhuriyetçilerin sahip olduğu çoğunluğu ele geçirdi",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fac3/live/863d4270-d7ff-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-11-04T05:24:29+00:00"
   },
   {
    "title": "Erdoğan, Güney Kore'de küresel şirketlerin üst yöneticilerini kabul etti",
@@ -229,20 +544,11 @@
   {
    "title": "ABD'de ara seçimler: ilk sonuçlar neyi gösteriyor?",
    "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-ilk-sonuclar-neyi-gosteriyor-962156.html",
-   "summary": "ABD medyasındaki tahminlere göre seçmenlerin ABD Başkanı Donald Trump ve Cumhuriyetçilere sert bir tepki göstermesiyle Demokratlar, Temsilciler Meclisi'nin kontrolünü yaklaşık yirmi yılın en büyük çoğunluğuyla kazandı.",
+   "summary": "Demokratlar, ABD Senatosu'nun ve Temsilciler Meclisi'nin kontrolünü yeniden ele geçirerek ülke genelinde Cumhuriyetçilere karşı tarihi zaferler elde etti. Bu sonuçlar, ABD Başkanı Donald Trump'ın başkanlığının geri…",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
    "published": "2026-11-04T03:24:00+00:00"
-  },
-  {
-   "title": "ABD'de Kongre ara seçimlerinde oy sayımı devam ediyor",
-   "link": "https://www.aa.com.tr/tr/live-blog/abdde-kongre-ara-secimlerinde-oy-sayimi-devam-ediyor/7124",
-   "summary": "ABD Kongre ara seçimlerinde Demokratlar, resmi olmayan sonuçlara göre Senato'da çoğunluğu elde ederek 52 sandalyeye ulaştı. Temsilciler Meclisi için yapılan yarışta ise Demokratlar 205, Cumhuriyetçiler 123 sandalye…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-04T03:13:40+00:00"
   },
   {
    "title": "Öcalan'ın İmralı'da yeni yere geçişi ne anlama geliyor?",
@@ -288,33 +594,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-04T00:48:00+00:00"
-  },
-  {
-   "title": "Trump, \"gerekirse\" Demokratların yönettiği şehirlere Ulusal Muhafız birliklerini göndereceğini söyledi",
-   "link": "https://www.aa.com.tr/tr/dunya/trump-gerekirse-demokratlarin-yonettigi-sehirlere-ulusal-muhafiz-birliklerini-gonderecegini-soyledi/4110680",
-   "summary": "ABD Başkanı Donald Trump, Kongre ara seçimleriyle bağlantılı olarak \"gerekirse\" Demokratların yönettiği şehirlere Ulusal Muhafız birliklerini göndereceğini belirtti.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-04T00:26:34+00:00"
-  },
-  {
-   "title": "Yemen hükümeti, İran ve Lübnan'daki Hizbullah'ı Husilerin askeri eylemlerini yönetmekle suçladı",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-hukumeti-iran-ve-lubnandaki-hizbullahi-husilerin-askeri-eylemlerini-yonetmekle-sucladi/4110670",
-   "summary": "Yemen İçişleri Bakanı İbrahim Haydan, İran ve Lübnan'daki Hizbullah'ın, Husilerin kontrolündeki bölgelerde görev yapan 21 askeri uzman aracılığıyla hükümet güçlerine karşı askeri eylemleri yönettiklerini söyledi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-04T00:11:14+00:00"
-  },
-  {
-   "title": "ABD Başkanı Trump, İran'a saldırmak için \"acil bir planının\" olmadığını belirtti",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-irana-saldirmak-icin-acil-bir-planinin-olmadigini-belirtti/4110667",
-   "summary": "ABD Başkanı Donald Trump, İran'a saldırmak konusunda \"acil bir planının\" olmadığını söyledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-04T00:08:46+00:00"
   },
   {
    "title": "Trump: İran'ı derhal vurma planımız yok",
@@ -461,15 +740,6 @@
    "published": "2026-11-03T20:24:00+00:00"
   },
   {
-   "title": "Sergen Yalçın'ın ilk milli takım kadrosu 6 Kasım'da açıklanacak",
-   "link": "https://www.trthaber.com/haber/spor/sergen-yalcinin-ilk-milli-takim-kadrosu-6-kasimda-aciklanacak-962138.html",
-   "summary": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, ilk aday kadrosunu \"canlı yayında\" açıklayacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T20:21:00+00:00"
-  },
-  {
    "title": "Cumhurbaşkanı Yardımcısı Yılmaz: 2027'de daha olumlu bir uluslararası konjonktür olacağına inanıyoruz",
    "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-2027de-daha-olumlu-bir-uluslararasi-konjonktur-olacagina-inaniyoruz/4110520",
    "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, \"2027'de daha olumlu bir uluslararası konjonktür olacağına inanıyoruz. İhracatçılarımız gelecek sene çok daha fazlasını, çok daha iyisini yapacaktır. Buna inanıyoruz.\" dedi.",
@@ -495,15 +765,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5d04/live/440b9090-d7bf-11f1-a719-bf3dc3a3d5b5.jpg",
    "published": "2026-11-03T19:47:49+00:00"
-  },
-  {
-   "title": "Galatasaray, Stuttgart'ı iki golle geçti",
-   "link": "https://www.trthaber.com/haber/gundem/galatasaray-stuttgarti-iki-golle-gecti-962137.html",
-   "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında konuk ettiği Almanya'nın Stuttgart takımını 20 yenerek puanını 6'ya çıkardı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T19:41:00+00:00"
   },
   {
    "title": "Kasımpaşa, teknik direktör Emre Belözoğlu'na veda etti",
@@ -533,15 +794,6 @@
    "published": "2026-11-03T19:18:11+00:00"
   },
   {
-   "title": "111 lira yazdığı ürüne 6 bin lira isteyen satıcıya 1 milyon lira ceza",
-   "link": "https://www.trthaber.com/haber/turkiye/111-lira-yazdigi-urune-6-bin-lira-isteyen-saticiya-1-milyon-lira-ceza-962136.html",
-   "summary": "Ticaret Bakanlığı, internet sitesinde 111 liradan ilana koyduğu otomobil yedek parçası için satın almak isteyen tüketicilerden 5 bin ve 6 bin lira talep eden satıcıya 1 milyon 83 bin 706 lira idari para cezası kesti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T19:00:00+00:00"
-  },
-  {
    "title": "Galatasaray, Stuttgart'ı 2-0 yenerek Şampiyonlar Ligi'nde puanını 6'ya yükselti",
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-stuttgarti-2-0-yenerek-sampiyonlar-liginde-puanini-6ya-yukselti/4110444",
    "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında konuk ettiği Almanya'nın Stuttgart takımını 2-0 yenerek puanını 6'ya çıkardı.",
@@ -551,51 +803,6 @@
    "published": "2026-11-03T18:48:29+00:00"
   },
   {
-   "title": "İranlı yetkili, Hürmüz Boğazı'nın 4 ülkenin gemilerinin geçişine açık olduğunu söyledi",
-   "link": "https://www.trthaber.com/haber/dunya/iranli-yetkili-hurmuz-bogazinin-4-ulkenin-gemilerinin-gecisine-acik-oldugunu-soyledi-962135.html",
-   "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkan Yardımcısı Emir Hayat Mukaddem, Hürmüz Boğazı'nda Hindistan, Çin, Irak ve Katar'a ait gemilerin geçiş kısıtlamalarından muaf tutulduğunu söyledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T18:37:00+00:00"
-  },
-  {
-   "title": "Çatılarda gezen maymun yavrusu koruma altına alındı",
-   "link": "https://www.trthaber.com/haber/turkiye/catilarda-gezen-maymun-yavrusu-koruma-altina-alindi-962134.html",
-   "summary": "Samsun'un İlkadım ilçesinde binaların çatılarında dolaşırken görülen maymun yavrusu, itfaiye ekiplerince yakalanarak Doğa Koruma ve Milli Parklar ekiplerine teslim edildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T18:08:00+00:00"
-  },
-  {
-   "title": "Selden etkilenen işletmelere 24 ay vadeli, 6 ay ödemesiz kredi desteği",
-   "link": "https://www.trthaber.com/haber/ekonomi/selden-etkilenen-isletmelere-24-ay-vadeli-6-ay-odemesiz-kredi-destegi-962133.html",
-   "summary": "Sel ve taşkınlardan etkilenen KOBİ'ler için KOSGEB aracılığıyla Acil Durumlar Desteği hayata geçirildi. Destek kapsamında küçük işletmelere 1 milyon TL, mikro işletmelere ise 500 bin TL'ye kadar kredi sağlanacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T17:57:00+00:00"
-  },
-  {
-   "title": "Grönland Parlamentosu, ABD ile güvenlik anlaşmasını onayladı",
-   "link": "https://www.trthaber.com/haber/dunya/gronland-parlamentosu-abd-ile-guvenlik-anlasmasini-onayladi-962132.html",
-   "summary": "Grönland Parlamentosunda ABD'nin Ada'daki askeri varlığının genişletilmesinin önünü açan güvenlik anlaşmasının onaylandığı bildirildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T17:55:00+00:00"
-  },
-  {
-   "title": "Valilikten Ankaralılara soğuk hava ve zirai don uyarısı",
-   "link": "https://www.trthaber.com/haber/turkiye/valilikten-ankaralilara-soguk-hava-ve-zirai-don-uyarisi-962131.html",
-   "summary": "Ankara'da yarından itibaren hava sıcaklıkları hissedilir derecede azalacak. Valilik, 410 Kasım tarihleri arasında sıcaklığın 0 dereceye kadar düşmesinin beklendiğini ve yerel ölçekte zirai don riski bulunduğunu açıkladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T17:41:00+00:00"
-  },
-  {
    "title": "Fenerbahçe Kulübü Başkan Vekili Barış Göktürk'ten istifa açıklaması",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-kulubu-baskan-vekili-baris-gokturkten-istifa-aciklamasi/4110382",
    "summary": "",
@@ -603,24 +810,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-03T17:23:29+00:00"
-  },
-  {
-   "title": "İstanbul'u sağanak vurdu: Yollar göle döndü, araçlar suya gömüldü",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbulu-saganak-vurdu-yollar-gole-dondu-araclar-suya-gomuldu-962128.html",
-   "summary": "İstanbul'da akşam saatlerinde başlayan şiddetli yağış Anadolu Yakası'nın pek çok noktasını kısa sürede göle çevirdi. Özellikle Pendik ve Tuzla'da yollar göle döndü, araçlar suya gömüldü. Kentte hasarlı trafik kazaları…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T17:23:00+00:00"
-  },
-  {
-   "title": "Avrupa'da art arda gelen bomba ihbarları uçuşları aksattı",
-   "link": "https://www.trthaber.com/haber/dunya/avrupada-art-arda-gelen-bomba-ihbarlari-ucuslari-aksatti-962130.html",
-   "summary": "Avrupa genelinde en az yedi uçuşa bomba ihbarı yapılması havalimanlarında hareketliliğe neden olurken, yapılan aramalarda herhangi bir patlayıcıya rastlanmadı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T17:03:00+00:00"
   },
   {
    "title": "Binance, uğradığı siber saldırıya dair ilk bulgularını açıkladı",
@@ -639,33 +828,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a994/live/e297b930-d76c-11f1-88b3-31a86f29508d.jpg",
    "published": "2026-11-03T16:54:51+00:00"
-  },
-  {
-   "title": "DMM: Şişli Haydar Aliyev Parkı'ndaki büstün kaldırılacağı iddiası asılsız",
-   "link": "https://www.trthaber.com/haber/gundem/dmm-sisli-haydar-aliyev-parkindaki-bustun-kaldirilacagi-iddiasi-asilsiz-962129.html",
-   "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı ve alanın yıkılarak yerine kültür merkezi yapılacağı\" iddiasını yalanladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T16:46:00+00:00"
-  },
-  {
-   "title": "Collins'e göre 2026'nın kelimesi gölgede bırakmak anlamındaki Mogging",
-   "link": "https://www.trthaber.com/haber/dunya/collinse-gore-2026nin-kelimesi-golgede-birakmak-anlamindaki-mogging-962127.html",
-   "summary": "İngilizce sözlük yayıncısı Collins, yılın kelimesini \"birini ya da bir şeyi gölgede bırakmak\" anlamına gelen \"Mogging\" olarak açıkladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T16:09:00+00:00"
-  },
-  {
-   "title": "Sel nedeniyle ağaçta mahsur kalan kişinin kurtarılması kamerada",
-   "link": "https://www.trthaber.com/haber/turkiye/sel-nedeniyle-agacta-mahsur-kalan-kisinin-kurtarilmasi-kamerada-962126.html",
-   "summary": "Muğla'nın Ula ilçesinde kuvvetli yağış sele neden oldu. Yaklaşık 2 kilometre sürüklenen otomobilin sürücüsü Kamuran Kaplan aracının takıldığı ağaca tırmanarak hayatta kaldı. Ağaçta mahsur kalan Kaplan'ın yardımına…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T16:08:00+00:00"
   },
   {
    "title": "Suriye, IMF ve Dünya Bankası Grubu bünyesindeki Arap gruplarına yeniden katıldı",
@@ -947,24 +1109,6 @@
    "published": "2026-11-03T09:14:57+00:00"
   },
   {
-   "title": "YEKA GES-2026 yarışmalarında 11 proje için en iyi teklifler belli oldu",
-   "link": "https://www.aa.com.tr/tr/ekonomi/yeka-ges-2026-yarismalarinda-11-proje-icin-en-iyi-teklifler-belli-oldu/4109579",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanlığının 11 proje için toplam 785 megavatlık güneş enerjisine dayalı Yenilenebilir Enerji Kaynak Alanları (YEKA GES-2026) yarışmaları 19 şirketin katılımıyla yapıldı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-03T09:02:36+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, ekim ayı enflasyon verilerini değerlendirdi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskani-yardimcisi-yilmaz-ekim-ayi-enflasyon-verilerini-degerlendirdi/4109572",
-   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, \"​​Enflasyonu yeniden tek haneli seviyelere düşürme hedefimiz doğrultusunda, ekonomimizde sağlayacağımız kazanımları vatandaşlarımızın alım gücüne ve yaşam standartlarına kalıcı biçimde…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-03T08:55:11+00:00"
-  },
-  {
    "title": "Basketbol Avrupa Ligi'nde 10. hafta heyecanı yarın başlayacak",
    "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-10-hafta-heyecani-yarin-baslayacak/4109569",
    "summary": "Basketbol Avrupa Ligi'nde (EuroLeague) 10. haftanın perdesi yarın açılacak.",
@@ -1125,60 +1269,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e7f7/live/94e21600-d6b7-11f1-a701-fddedf244c16.jpg",
    "published": "2026-11-02T14:14:59+00:00"
-  },
-  {
-   "title": "Bahçeli'den 19 yeni il önerisi: Bir ilçenin il olması ne anlama geliyor?",
-   "link": "https://www.bbc.com/turkce/articles/cwe9l7g8z9d7o?at_medium=RSS&at_campaign=rss",
-   "summary": "MHP lideri Devlet Bahçeli Türkiye'de 19 yeni il ve 78 yeni ilçe kurulmasını önerdi. Bir ilçenin il olması ne anlama geliyor? İl olan bir ilçede neler değişiyor?",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a66c/live/e4731180-d6bf-11f1-aacc-5b5f23abff4b.png",
-   "published": "2026-11-02T13:15:53+00:00"
-  },
-  {
-   "title": "Ümit Milli Futbol Takımı'nın Çekya maçı ücretsiz izlenebilecek",
-   "link": "https://www.aa.com.tr/tr/spor/umit-milli-futbol-takiminin-cekya-maci-ucretsiz-izlenebilecek/4108795",
-   "summary": "Ümit Milli Futbol Takımı'nın 2027 UEFA 21 Yaş Altı Avrupa Şampiyonası Elemeleri'nde 13 Kasım Cuma günü Rize'de Çekya ile yapacağı play-off turu ilk maçı ücretsiz izlenebilecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T12:43:05+00:00"
-  },
-  {
-   "title": "Galatasaray Teknik Direktörü Okan Buruk: Kara bulutları dağıttık",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-teknik-direktoru-okan-buruk-kara-bulutlari-dagittik/4108709",
-   "summary": "Okan Buruk, \"Kazanmak için hem bireysel hem de kulüp olarak birçok nedenimiz var. Türk futbolunun böyle galibiyetlere ve Şampiyonlar Ligi'nde ilerlemeye ihtiyacı var.\" dedi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T11:26:58+00:00"
-  },
-  {
-   "title": "A Milli Futbol Takımı'nın Fransa ile yapacağı maçın misafir tribün biletleri satışa sunuldu",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-fransa-ile-yapacagi-macin-misafir-tribun-biletleri-satisa-sunuldu/4108564",
-   "summary": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'ta 15 Kasım Pazar günü deplasmanda Fransa ile oynayacağı müsabakanın sınırlı sayıdaki misafir tribün bilet satışları başladı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T09:50:10+00:00"
-  },
-  {
-   "title": "Fenerbahçe-Liverpool maçını Fransız hakem Clement Turpin yönetecek",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-liverpool-macini-fransiz-hakem-clement-turpin-yonetecek/4108549",
-   "summary": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nin 4. haftasında 4 Kasım Çarşamba günü İngiliz ekibi Liverpool'u konuk edeceği karşılaşmayı Fransız hakem Clement Turpin yönetecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T09:40:55+00:00"
-  },
-  {
-   "title": "TBF Başkanı Hidayet Türkoğlu, 2027 Dünya Kupası için umutlu",
-   "link": "https://www.aa.com.tr/tr/spor/tbf-baskani-hidayet-turkoglu-2027-dunya-kupasi-icin-umutlu/4108457",
-   "summary": "Türkiye Basketbol Federasyonu (TBF) Başkanı Hidayet Türkoğlu, A Milli Erkek Basketbol Takımı'nın mücadele edeceği 2027 FIBA Dünya Kupası'nda Türkiye'yi yeniden gururlandıracak bir başarı elde etmek istediklerini söyledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-02T08:35:56+00:00"
   },
   {
    "title": "Abone olmak için tıklayın",
