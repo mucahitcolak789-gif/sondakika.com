@@ -1,14 +1,41 @@
 {
- "updated": "2026-11-04T02:27:23.786150+00:00",
+ "updated": "2026-11-04T03:19:15.542261+00:00",
  "items": [
   {
-   "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
+   "title": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
+   "link": "https://www.aa.com.tr/tr/live-blog/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi/7124",
+   "summary": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri Indiana ve Kentucky eyaletlerinde tamamlandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:13:40+00:00"
+  },
+  {
+   "title": "ABD'de ara seçimler: İlk sonuçlar gelmeye başladı",
    "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
    "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sandıkların kapanmaya başladığı doğu ve orta kesim eyaletlerin bazılarından ilk sonuçlar gelmeye başladı.",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
-   "published": "2026-11-04T02:26:23+00:00"
+   "published": "2026-11-04T03:09:54+00:00"
+  },
+  {
+   "title": "Öcalan'ın İmralı'da yeni yere geçişi ne anlama geliyor?",
+   "link": "https://www.bbc.com/turkce/articles/cqe9lez7j1r8o?at_medium=RSS&at_campaign=rss",
+   "summary": "PKK lideri Abdullah Öcalan'ın İmralı Cezaevi'nde kendisi için hazırlanan yeni alana geçmesi, yürütülen çözüm sürecinde yeni bir aşamaya geçilip geçilmediği tartışmasını gündeme getirdi. Ankara'da DEM Partili ve AKP'li…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b92/live/b4e5db20-d7f8-11f1-abc5-0dcba7a60c65.jpg",
+   "published": "2026-11-04T03:05:17+00:00"
+  },
+  {
+   "title": "İstanbul'da dolandırıcılık operasyonunda 23 kişi tutuklandı",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-dolandiricilik-operasyonunda-23-kisi-tutuklandi-962154.html",
+   "summary": "İstanbulda kendilerini devlet büyüğü, kamu görevlisi ve avukat olarak tanıtarak vatandaşları dolandırdıkları gerekçesiyle gözaltına alınan 33 şüpheliden 23'ü tutuklandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T02:23:00+00:00"
   },
   {
    "title": "İşgalci İsrailliler, Batı Şeria'da 4 Filistinliyi yaraladı",
@@ -63,15 +90,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T23:53:00+00:00"
-  },
-  {
-   "title": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi-962150.html",
-   "summary": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri Indiana ve Kentucky eyaletlerinde tamamlandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T23:12:00+00:00"
   },
   {
    "title": "Hatay'da iş yerinde yangın",
@@ -402,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-hukumet-kurmak-icin-haredi-partileriyle-isbirligi-ariyor/4110431",
    "summary": "İsrail'de muhalefet lideri Gadi Eisenkot'un Netanyahu'yu iktidardan uzaklaştırmak için Haredi partilerle işbirliği arayışına, Şas'ın Netanyahu'ya desteğini sürdürme kararı gölge düşürdü ve siyasi çıkmazı derinleştirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T18:22:16+00:00"
   },
@@ -411,7 +429,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/somaliden-israilin-somalilanddaki-diplomatik-girisimlerine-tepki/4110421",
    "summary": "Somali hükümeti, İsrail'in Somaliland'ın Hargeisa kentinde büyükelçi akredite etme ve büyükelçilik binası inşa etme girişimlerini ülkenin egemenliği ve toprak bütünlüğünün ihlali olarak nitelendirerek tepki gösterdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T18:14:24+00:00"
   },
@@ -447,7 +465,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/gazzede-biri-komiser-biri-cocuk-3-kisi-israil-saldirisi-sonucu-hayatini-kaybetti/4110404",
    "summary": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda biri polis komiseri, bir çocuk olmak üzere 3 Filistinli yaşamını yitirdi, 11 kişi yaralandı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T17:42:42+00:00"
   },
@@ -596,15 +614,6 @@
    "published": "2026-11-03T15:59:23+00:00"
   },
   {
-   "title": "BM, çatışmaların şiddetlendiği Yemen'de yerinden edilmelerin 3 katına çıktığını bildirdi",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-catismalarin-siddetlendigi-yemende-yerinden-edilmelerin-3-katina-ciktigini-bildirdi/4110300",
-   "summary": "Birleşmiş Milletler Nüfus Fonu (UNFPA) Yemen Temsilcisi Francesco Galtieri, ülkede yerinden edilmelerin 3 katına çıktığını, yaklaşık 300 bin kişinin evlerinden ayrılmak zorunda kaldığını bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T15:55:01+00:00"
-  },
-  {
    "title": "Topladıkları mantarları yiyen 7 kişi hastanelik oldu",
    "link": "https://www.trthaber.com/haber/turkiye/topladiklari-mantarlari-yiyen-7-kisi-hastanelik-oldu-962123.html",
    "summary": "Siirt'in Şirvan ilçesinde doğadan topladıkları mantarları yedikten sonra rahatsızlanan aynı aileden 7 kişi, zehirlenme şüphesiyle hastaneye kaldırıldı.",
@@ -612,15 +621,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T15:55:00+00:00"
-  },
-  {
-   "title": "Kolombiya'da 5,4 büyüklüğünde deprem",
-   "link": "https://www.aa.com.tr/tr/dunya/kolombiyada-5-4-buyuklugunde-deprem/4110295",
-   "summary": "Kolombiya'da meydana gelen 5,4 büyüklüğündeki depremde ilk belirlemelere göre 1 kişi yaralandı, bazı yapılarda hasar oluştu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T15:46:47+00:00"
   },
   {
    "title": "Gönülden CİMER'e bülteninin eylül sayısı yayımlandı",
@@ -666,15 +666,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T15:21:00+00:00"
-  },
-  {
-   "title": "İngiltere'deki turizm fuarında eylemciler, İsrail standına \"Suç mahallidir girilmez\" şeridi çekti",
-   "link": "https://www.aa.com.tr/tr/dunya/ingilteredeki-turizm-fuarinda-eylemciler-israil-standina-suc-mahallidir-girilmez-seridi-cekti/4110269",
-   "summary": "İngiltere'deki WTM Londra Uluslararası Turizm Fuarı'nda iki eylemci, İsrail standında \"Her yerleşim yeri savaş suçudur\" yazılı pankart açarak işgal altındaki Filistin topraklarında kurulan İsrail yerleşimlerini protesto…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T15:19:12+00:00"
   },
   {
    "title": "Türkiye turizm gelirinde üçüncü çeyrekte rekor kırdı",
@@ -846,15 +837,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T13:27:00+00:00"
-  },
-  {
-   "title": "Fenerbahçe yarın Liverpool'u ağırlayacak",
-   "link": "https://www.trthaber.com/haber/turkiye/fenerbahce-yarin-liverpoolu-agirlayacak-962103.html",
-   "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi'nin 4. haftasında yarın İngiltere'nin Liverpool takımını konuk edecek. Maç, TRT 1, tabii ve TRT Radyo 1'den canlı yayınlanacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:24:00+00:00"
   },
   {
    "title": "Dünya Bankası Grubu Türkiye’deki yatırımlarını derinleştiriyor",
@@ -1161,15 +1143,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-03T08:04:07+00:00"
-  },
-  {
-   "title": "Ekim ayı enflasyonu TÜİK'e göre yüzde 29,77; ENAG'a göre 45,12",
-   "link": "https://www.bbc.com/turkce/articles/cked3j59ld35o?at_medium=RSS&at_campaign=rss",
-   "summary": "Enflasyon, TÜİK verilerine göre ekimde aylık bazda yüzde 2,58, yıllık bazda yüzde 29,77 oldu. Akademisyenlerden oluşan bağımsız Enflasyon Araştırma Grubu'na (ENAG) göre ise ekimde aylık bazda enflasyon %2,68, yıllık…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/890f/live/c1fd21e0-d755-11f1-8bf4-5f3ca896096e.jpg",
-   "published": "2026-11-03T07:49:59+00:00"
   },
   {
    "title": "UEFA Avrupa Ligi'nde 4. hafta heyecanı yarın başlayacak",
