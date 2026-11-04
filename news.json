@@ -1,23 +1,140 @@
 {
- "updated": "2026-11-04T03:19:15.542261+00:00",
+ "updated": "2026-11-04T04:23:01.849898+00:00",
  "items": [
   {
-   "title": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
-   "link": "https://www.aa.com.tr/tr/live-blog/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi/7124",
-   "summary": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri Indiana ve Kentucky eyaletlerinde tamamlandı.",
+   "title": "ABD'de ara seçimler: Demokratlar Temsilciler Meclisi'nde çoğunluğu sağlıyor",
+   "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. CBS News'un tahminine göre Demokratlar, ABD Temsilciler Meclisi'nde Cumhuriyetçilerin elinde olan çoğunluğu ele geçiriyor.…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fac3/live/863d4270-d7ff-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-04T04:16:35+00:00"
+  },
+  {
+   "title": "Türkiye-Azerbaycan hattında gerginliğin nedenleri neler?",
+   "link": "https://www.bbc.com/turkce/articles/c8kgev55zxywo?at_medium=RSS&at_campaign=rss",
+   "summary": "Ankara-Bakü hattında başörtüsü tartışması ile başlayan gerilim, Cumhurbaşkanı İlham Aliyev'in Türkiye'de düzenlenen Türk Devletleri Teşkilatı zirvesine katılmamasıyla gündemde. Peki \"tek millet iki devlet\" ilkesini…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8e1c/live/23afdc30-d796-11f1-801d-cf196dc7232c.jpg",
+   "published": "2026-11-04T04:06:11+00:00"
+  },
+  {
+   "title": "Florida'da düşen uçağın kritik parçaları kaza yerinden kilometrelerce uzakta bulundu",
+   "link": "https://www.bbc.com/turkce/articles/crz65v4wxxljo?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD’nin Florida eyaletinde, Teksas’tan Bahamalar’a giden özel uçağın yerleşim bölgesine düşmesi sonucu uçaktaki dokuz kişinin tamamı hayatını kaybetti. Olayı soruşturan yetkililer düşen uçağın kritik parçalarının kaza…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6891/live/2a0a8670-d6ba-11f1-93e1-3b657b665bcf.png",
+   "published": "2026-11-04T04:04:42+00:00"
+  },
+  {
+   "title": "ABD ara seçiminde Texas şoku: Demokrat parti zafer kazandı",
+   "link": "https://www.trthaber.com/haber/dunya/abd-ara-seciminde-texas-soku-demokrat-parti-zafer-kazandi-962166.html",
+   "summary": "Demokrat Parti Temsilcisi James Talarico, Texas eyaletinde yapılan ABD Senatosu yarışında Cumhuriyetçi rakibi Ken Paxton'ı mağlup etti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T04:03:00+00:00"
+  },
+  {
+   "title": "Filistin asıllı Kongre üyesi Rashida Tlaib yeniden seçildi",
+   "link": "https://www.trthaber.com/haber/dunya/filistin-asilli-kongre-uyesi-rashida-tlaib-yeniden-secildi-962165.html",
+   "summary": "ABD Kongre ara seçimlerinde Temsilciler Meclisinin Filistin asıllı üyesi Rashida Tlaib, Michigan eyaletinden girdiği seçimleri kazandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:59:00+00:00"
+  },
+  {
+   "title": "2026 ABD ara seçimleri: Senato'da Cumhuriyetçiler 4, Demokratlar 11 sandalye kazandı",
+   "link": "https://www.trthaber.com/haber/dunya/2026-abd-ara-secimleri-senatoda-cumhuriyetciler-4-demokratlar-11-sandalye-kazandi-962164.html",
+   "summary": "ABD'de 2026 Kongre ara seçimlerinde seçime giren Senato koltuklarından 4'ünü Cumhuriyetçiler, 11'ini Demokratlar aldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:58:00+00:00"
+  },
+  {
+   "title": "Donald Trump'tan seçim sonrası ilk mesaj: Pusulada olsaydım ezici bir zafer kazanırdık",
+   "link": "https://www.trthaber.com/haber/dunya/donald-trumptan-secim-sonrasi-ilk-mesaj-pusulada-olsaydim-ezici-bir-zafer-kazanirdik-962163.html",
+   "summary": "ABD Başkanı Donald Trump, ara seçim sonuçları netleşmeye başlarken yaptığı ilk açıklamada, seçim gecesini kendisinin parçası olmadığı bir süreç olarak değerlendirdi. Desteklediği adaylardan bahsetmeyen Trump, sosyal…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:55:00+00:00"
+  },
+  {
+   "title": "ABD'nin ilk siyahi kadın valisi Georgia eyaletinden Demokrat Keisha Lance Bottoms oldu",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-ilk-siyahi-kadin-valisi-georgia-eyaletinden-demokrat-keisha-lance-bottoms-oldu-962162.html",
+   "summary": "ABD'de oy sayımının sürdüğü ara seçimlerde, Georgia eyaletinde Demokrat aday Keisha Lance Bottoms, ABD'nin ilk siyahi kadın valisi seçildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:52:00+00:00"
+  },
+  {
+   "title": "Meteoroloji'den 21 il için sarı, 2 il için turuncu uyarı",
+   "link": "https://www.trthaber.com/haber/turkiye/meteorolojiden-21-il-icin-sari-2-il-icin-turuncu-uyari-962161.html",
+   "summary": "Meteoroloji Genel Müdürlüğü, bugünden itibaren batı kesimlerden başlayarak Türkiye genelinde serin ve yağışlı havanın etkili olacağını belirterek 21 il için sarı, 2 il için turuncu kodlu uyarı yayımladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:50:00+00:00"
+  },
+  {
+   "title": "Yapay zekanın babası Geoffrey Hinton: Yapay zeka hiç geliştirilmeseydi daha iyi olabilirdi",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zekanin-babasi-geoffrey-hinton-yapay-zeka-hic-gelistirilmeseydi-daha-iyi-olabilirdi-962160.html",
+   "summary": "Yapay zekanın öncülerinden Nobel ödüllü bilim insanı Geoffrey Hinton, insanlığın bu teknolojiyi hiç geliştirmemiş olmasının daha hayırlı olabileceğini belirtti. Hinton, yapay zekanın bu yıl veya gelecek yıl elektrik ya…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:49:00+00:00"
+  },
+  {
+   "title": "Öyle bir fotoğraf çekti ki herkes yapay zeka zannediyor",
+   "link": "https://www.trthaber.com/haber/dunya/oyle-bir-fotograf-cekti-ki-herkes-yapay-zeka-zannediyor-962159.html",
+   "summary": "Yeni Zelandalı astrofotoğrafçı Brendan Larsen, Taranaki Dağı üzerinde çektiği ve binlerce uydu izinin görüldüğü fotoğrafın yapay zeka ile üretildiği yönündeki iddialara yanıt verdi. Sosyal medyada milyonlarca kez…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:45:00+00:00"
+  },
+  {
+   "title": "Binance'e 6,3 milyar dolarlık siber saldırının arkasından sahte iş görüşmesi çıktı",
+   "link": "https://www.trthaber.com/haber/dunya/binancee-63-milyar-dolarlik-siber-saldirinin-arkasindan-sahte-is-gorusmesi-cikti-962158.html",
+   "summary": "Dünyanın en büyük kripto para borsası Binance, 6,3 milyar dolarlık rekor siber saldırının arkasında sahte iş görüşmeleri ve ele geçirilen şirket içi bir yapay zeka aracının bulunduğunu açıkladı. Şirket tarafından…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:40:00+00:00"
+  },
+  {
+   "title": "Tartıştığı annesi ve kız kardeşini pompalı tüfekle öldürdü",
+   "link": "https://www.trthaber.com/haber/turkiye/tartistigi-annesi-ve-kiz-kardesini-pompali-tufekle-oldurdu-962157.html",
+   "summary": "Şanlıurfa'nın Haliliye ilçesinde bir kişi, tartıştığı annesi ve kız kardeşini pompalı tüfekle öldürdü, diğer kız kardeşini yaraladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:30:00+00:00"
+  },
+  {
+   "title": "ABD'de ara seçimler: ilk sonuçlar neyi gösteriyor?",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-ara-secimler-ilk-sonuclar-neyi-gosteriyor-962156.html",
+   "summary": "ABD medyasındaki tahminlere göre seçmenlerin ABD Başkanı Donald Trump ve Cumhuriyetçilere sert bir tepki göstermesiyle Demokratlar, Temsilciler Meclisi'nin kontrolünü yaklaşık yirmi yılın en büyük çoğunluğuyla kazandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T03:24:00+00:00"
+  },
+  {
+   "title": "ABD'de Kongre ara seçimlerinde oy sayım işlemleri devam ediyor",
+   "link": "https://www.aa.com.tr/tr/live-blog/abdde-kongre-ara-secimlerinde-oy-sayim-islemleri-devam-ediyor/7124",
+   "summary": "ABD'de Kongre ara seçimleri kapsamında Indiana ve Kentucky eyaletlerinde oy verme işlemi tamamlanırken, AP'nin resmi olmayan sonuçlarına göre Temsilciler Meclisinde Demokratlar 143, Cumhuriyetçiler 86 sandalye kazandı.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
    "published": "2026-11-04T03:13:40+00:00"
-  },
-  {
-   "title": "ABD'de ara seçimler: İlk sonuçlar gelmeye başladı",
-   "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sandıkların kapanmaya başladığı doğu ve orta kesim eyaletlerin bazılarından ilk sonuçlar gelmeye başladı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
-   "published": "2026-11-04T03:09:54+00:00"
   },
   {
    "title": "Öcalan'ın İmralı'da yeni yere geçişi ne anlama geliyor?",
@@ -27,6 +144,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1b92/live/b4e5db20-d7f8-11f1-abc5-0dcba7a60c65.jpg",
    "published": "2026-11-04T03:05:17+00:00"
+  },
+  {
+   "title": "Mekke Anlaşması TBMM Genel Kurulu'nda görüşülecek",
+   "link": "https://www.trthaber.com/haber/gundem/mekke-anlasmasi-tbmm-genel-kurulunda-gorusulecek-962155.html",
+   "summary": "Mekke Ortak Savunma Anlaşması'nın onaylanmasının uygun bulunduğuna dair kanun teklifi bugün TBMM Genel Kurulu'nda görüşülecek.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T02:55:00+00:00"
   },
   {
    "title": "İstanbul'da dolandırıcılık operasyonunda 23 kişi tutuklandı",
@@ -90,6 +216,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T23:53:00+00:00"
+  },
+  {
+   "title": "ABD'de Kongre ara seçimlerinde ilk sandıklar kapandı",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-kongre-ara-secimlerinde-ilk-sandiklar-kapandi-962150.html",
+   "summary": "ABD'de, Senatonun bir kısmının ve Temsilciler Meclisinin tamamının yenileneceği ara seçimler için oy kullanma işlemleri Indiana ve Kentucky eyaletlerinde tamamlandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T23:12:00+00:00"
   },
   {
    "title": "Hatay'da iş yerinde yangın",
@@ -303,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takiminin-aday-kadrosu-canli-yayinda-aciklanacak/4110512",
    "summary": "A Milli Futbol Takımı'nın yeni teknik direktörü Sergen Yalçın, ilk aday kadrosunu \"canlı yayında\" açıklayacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-03T20:07:58+00:00"
   },
@@ -312,7 +447,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-liselilerin-eylemleri-universite-ogrencilerinin-destegiyle-devam-ediyor/4110502",
    "summary": "Fransa'da hükümetin eğitim alanındaki taahhütlerini yeterli bulmayan liselilerin eylemleri, üniversite öğrencilerinin desteğiyle devam ediyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T19:54:46+00:00"
   },
@@ -339,7 +474,7 @@
    "link": "https://www.aa.com.tr/tr/spor/kasimpasa-teknik-direktor-emre-belozogluna-veda-etti/4110481",
    "summary": "Süper Lig ekiplerinden Kasımpaşa, teknik direktör Emre Belözoğlu ile yolların ayrıldığını duyurdu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-03T19:33:34+00:00"
   },
@@ -348,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-sel-felaketinden-etkilenen-isletmelere-1-milyon-lira-destek-vereceklerini-duyurdu/4110472",
    "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, İstanbul başta olmak üzere farklı şehirlerde yaşanan sel ve taşkın felaketlerinden etkilenen KOBİ'lere 1 milyon lira, mikro işletmelere ise 500 bin liraya kadar kredi…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T19:21:08+00:00"
   },
@@ -357,7 +492,7 @@
    "link": "https://www.aa.com.tr/tr/spor/super-ligden-7-takim-pfdkye-sevk-edildi/4110470",
    "summary": "Türkiye Futbol Federasyonu (TFF) Hukuk Müşavirliği, Trendyol Süper Lig'den 7 takımı Profesyonel Futbol Disiplin Kuruluna (PFDK) sevk etti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-03T19:18:11+00:00"
   },
@@ -366,7 +501,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ben-gvirin-tehdit-ettigi-filistinli-esire-9-kursunla-yaralanmasina-ragmen-sadece-agri-kesici-verilmis/4110469",
    "summary": "Ben-Gvir'in hücresine baskın düzenleyerek idamla tehdit ettiği Filistinli esir Selame'nin nişanlısı Zamil, Selame'nin 9 kurşunla yaralandığını, 3 gün sonra revire götürülüp ağrı kesici verildikten sonra yeniden hücre…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T19:16:58+00:00"
   },
@@ -384,7 +519,7 @@
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-stuttgarti-2-0-yenerek-sampiyonlar-liginde-puanini-6ya-yukselti/4110444",
    "summary": "Galatasaray, UEFA Şampiyonlar Ligi'nin 4. haftasında konuk ettiği Almanya'nın Stuttgart takımını 2-0 yenerek puanını 6'ya çıkardı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-03T18:48:29+00:00"
   },
@@ -393,45 +528,9 @@
    "link": "https://www.aa.com.tr/tr/dunya/iranli-yetkili-hurmuz-bogazinin-4-ulkenin-gemilerinin-gecisine-acik-oldugunu-soyledi/4110441",
    "summary": "İran Meclisi Ulusal Güvenlik ve Dış Politika Komisyonu Başkan Yardımcısı Emir Hayat Mukaddem, Hürmüz Boğazı'nda Hindistan, Çin, Irak ve Katar'a ait gemilerin geçiş kısıtlamalarından muaf tutulduğunu söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-03T18:40:55+00:00"
-  },
-  {
-   "title": "İspanya hükümeti, tren kazalarını önlemek için ek güvenlik tedbirleri getirdi",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanya-hukumeti-tren-kazalarini-onlemek-icin-ek-guvenlik-tedbirleri-getirdi/4110436",
-   "summary": "İspanya'da azınlık sol koalisyon hükümeti, Toledo yakınlarında 2 hızlı trenin çarpıştığı ve 69 kişinin hayatını kaybettiği kazanın ardından yüksek hızlı trenlerde güvenliği artırmak için yeni bir plan devreye soktu.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T18:33:09+00:00"
-  },
-  {
-   "title": "ABD'nin ilk Müslüman senatörü olabilecek Abdul El-Sayed kimdir?",
-   "link": "https://www.bbc.com/turkce/articles/cmwyqjz313ggo?at_medium=RSS&at_campaign=rss",
-   "summary": "Michigan eyaletinde yapılan anketler, Demokrat Parti adayı Abdul El-Sayed'in ülkenin ilk Müslüman senatörü olacağını gösteriyor.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4911/live/f658cc20-d7d0-11f1-93e1-3b657b665bcf.jpg",
-   "published": "2026-11-03T18:22:33+00:00"
-  },
-  {
-   "title": "İsrail'de muhalefet, hükümet kurmak için Haredi partileriyle işbirliği arıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/israilde-muhalefet-hukumet-kurmak-icin-haredi-partileriyle-isbirligi-ariyor/4110431",
-   "summary": "İsrail'de muhalefet lideri Gadi Eisenkot'un Netanyahu'yu iktidardan uzaklaştırmak için Haredi partilerle işbirliği arayışına, Şas'ın Netanyahu'ya desteğini sürdürme kararı gölge düşürdü ve siyasi çıkmazı derinleştirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T18:22:16+00:00"
-  },
-  {
-   "title": "Somali'den İsrail'in Somaliland'daki diplomatik girişimlerine tepki",
-   "link": "https://www.aa.com.tr/tr/dunya/somaliden-israilin-somalilanddaki-diplomatik-girisimlerine-tepki/4110421",
-   "summary": "Somali hükümeti, İsrail'in Somaliland'ın Hargeisa kentinde büyükelçi akredite etme ve büyükelçilik binası inşa etme girişimlerini ülkenin egemenliği ve toprak bütünlüğünün ihlali olarak nitelendirerek tepki gösterdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T18:14:24+00:00"
   },
   {
    "title": "Çatılarda gezen maymun yavrusu koruma altına alındı",
@@ -461,15 +560,6 @@
    "published": "2026-11-03T17:55:00+00:00"
   },
   {
-   "title": "Gazze'de biri komiser, biri çocuk 3 kişi İsrail saldırısı sonucu hayatını kaybetti",
-   "link": "https://www.aa.com.tr/tr/dunya/gazzede-biri-komiser-biri-cocuk-3-kisi-israil-saldirisi-sonucu-hayatini-kaybetti/4110404",
-   "summary": "İsrail ordusunun, ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda biri polis komiseri, bir çocuk olmak üzere 3 Filistinli yaşamını yitirdi, 11 kişi yaralandı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T17:42:42+00:00"
-  },
-  {
    "title": "Valilikten Ankaralılara soğuk hava ve zirai don uyarısı",
    "link": "https://www.trthaber.com/haber/turkiye/valilikten-ankaralilara-soguk-hava-ve-zirai-don-uyarisi-962131.html",
    "summary": "Ankara'da yarından itibaren hava sıcaklıkları hissedilir derecede azalacak. Valilik, 410 Kasım tarihleri arasında sıcaklığın 0 dereceye kadar düşmesinin beklendiğini ve yerel ölçekte zirai don riski bulunduğunu açıkladı.",
@@ -495,15 +585,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T17:23:00+00:00"
-  },
-  {
-   "title": "KKTC Cumhurbaşkanı Erhürman: Ankara ile tam bir istişare yürütüyoruz",
-   "link": "https://www.aa.com.tr/tr/dunya/kktc-cumhurbaskani-erhurman-ankara-ile-tam-bir-istisare-yurutuyoruz/4110368",
-   "summary": "Kuzey Kıbrıs Türk Cumhuriyeti (KKTC) Cumhurbaşkanı Tufan Erhürman, Kıbrıs konusunda Türkiye ile her alanda diyalog içinde olduklarını belirterek, \"Ankara ile tam bir istişare yürütüyoruz.\" ifadesini kullandı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T17:07:07+00:00"
   },
   {
    "title": "Avrupa'da art arda gelen bomba ihbarları uçuşları aksattı",
@@ -533,15 +614,6 @@
    "published": "2026-11-03T16:54:51+00:00"
   },
   {
-   "title": "Irak Başbakanı Zeydi'den Kerkük'teki elektrik ve yakıt krizinin çözümüne yönelik talimat",
-   "link": "https://www.aa.com.tr/tr/dunya/irak-basbakani-zeydiden-kerkukteki-elektrik-ve-yakit-krizinin-cozumune-yonelik-talimat/4110352",
-   "summary": "Irak Başbakanı Ali Falih ez-Zeydi, Kerkük kentinde halkın protesto gösterileri düzenlemesine yol açan elektrik kesintileri, yakıt sıkıntısı ve mahalle jeneratörlerine yapılan zamların çözüme kavuşturulması için talimat…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T16:47:26+00:00"
-  },
-  {
    "title": "DMM: Şişli Haydar Aliyev Parkı'ndaki büstün kaldırılacağı iddiası asılsız",
    "link": "https://www.trthaber.com/haber/gundem/dmm-sisli-haydar-aliyev-parkindaki-bustun-kaldirilacagi-iddiasi-asilsiz-962129.html",
    "summary": "İletişim Başkanlığı Dezenformasyonla Mücadele Merkezi DMM, \"Şişli'deki Haydar Aliyev Parkı'nda bulunan büstün kaldırılacağı ve alanın yıkılarak yerine kültür merkezi yapılacağı\" iddiasını yalanladı.",
@@ -551,15 +623,6 @@
    "published": "2026-11-03T16:46:00+00:00"
   },
   {
-   "title": "Polonya Başbakanı Tusk, Rusya sınırında şüpheli hareketlilik gözlemlendiğini bildirdi",
-   "link": "https://www.aa.com.tr/tr/dunya/polonya-basbakani-tusk-rusya-sinirinda-supheli-hareketlilik-gozlemlendigini-bildirdi/4110340",
-   "summary": "Polonya Başbakanı Donald Tusk, Rusya'nın Kaliningrad eksklavıyla ülkesi arasındaki sınırda gece saatlerinde şüpheli hareketlilik gözlemlendiğini ve bölgeye güvenlik güçlerinin sevk edildiğini bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T16:30:04+00:00"
-  },
-  {
    "title": "İş insanlarını tehdit edip haraç isteyen suç örgütüne operasyon: 19 gözaltı",
    "link": "https://www.trthaber.com/haber/turkiye/is-insanlarini-tehdit-edip-harac-isteyen-suc-orgutune-operasyon-19-gozalti-962122.html",
    "summary": "Adana merkezli 3 ilde düzenlenen operasyonda, iş insanlarını yurt dışı telefon numaralarından arayarak tehdit ettikleri ve haraç topladıkları öne sürülen \"Aylar\" silahlı suç örgütü üyesi 19 şüpheli yakalandı.",
@@ -567,15 +630,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-03T16:21:00+00:00"
-  },
-  {
-   "title": "Evrensel yardım sinyali \"SOS\" 120. yılında",
-   "link": "https://www.aa.com.tr/tr/dunya/evrensel-yardim-sinyali-sos-120-yilinda/4110330",
-   "summary": "Dünyanın en tanınmış imdat sinyali SOS, 120 yıldır evrensel bir yardım sembolü olmaya devam ediyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-03T16:15:09+00:00"
   },
   {
    "title": "Collins'e göre 2026'nın kelimesi gölgede bırakmak anlamındaki Mogging",
@@ -612,6 +666,15 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T15:59:23+00:00"
+  },
+  {
+   "title": "Polonya Başbakanı Tusk, Rusya sınırında şüpheli hareketlilik gözlemlendiğini bildirdi",
+   "link": "https://www.trthaber.com/haber/dunya/polonya-basbakani-tusk-rusya-sinirinda-supheli-hareketlilik-gozlemlendigini-bildirdi-962124.html",
+   "summary": "Polonya Başbakanı Donald Tusk, Rusya'nın Kaliningrad eksklavıyla ülkesi arasındaki sınırda gece saatlerinde şüpheli hareketlilik gözlemlendiğini ve bölgeye güvenlik güçlerinin sevk edildiğini bildirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-03T15:59:00+00:00"
   },
   {
    "title": "Topladıkları mantarları yiyen 7 kişi hastanelik oldu",
@@ -677,24 +740,6 @@
    "published": "2026-11-03T15:12:00+00:00"
   },
   {
-   "title": "İran Güvenlik Konseyi Genel Sekreteri: ABD'nin İran'ın taleplerine verdiği yanıt ikna edici olmadı",
-   "link": "https://www.trthaber.com/haber/dunya/iran-guvenlik-konseyi-genel-sekreteri-abdnin-iranin-taleplerine-verdigi-yanit-ikna-edici-olmadi-962116.html",
-   "summary": "İran Ulusal Güvenlik Yüksek Konseyi Genel Sekreteri Muhsin Rızai, ABD'nin İran'ın hak ve taleplerine verdiği yanıtın ikna edici olmadığını ifade etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T15:09:00+00:00"
-  },
-  {
-   "title": "MİT Başkanı Kalın BAE'yi ziyaret etti",
-   "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-baeyi-ziyaret-etti-962115.html",
-   "summary": "Milli İstihbarat Teşkilatı MİT Başkanı İbrahim Kalın, Birleşik Arap Emirlikleri'ni BAE ziyaret etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T14:54:00+00:00"
-  },
-  {
    "title": "BioNTech üçüncü çeyrekte kara geçti, yıl sonu hedeflerini yükseltti",
    "link": "https://www.aa.com.tr/tr/ekonomi/biontech-ucuncu-ceyrekte-kara-gecti-yil-sonu-hedeflerini-yukseltti/4110234",
    "summary": "Alman biyoteknoloji firması BioNTech, yılın üçüncü çeyreğinde yeniden karlılığa geçerek yıl sonu gelir hedeflerini yukarı yönlü revize etti.",
@@ -704,24 +749,6 @@
    "published": "2026-11-03T14:52:15+00:00"
   },
   {
-   "title": "Rusya'nın önde gelen bulut ve barındırma sağlayıcısı Beget'e siber saldırı",
-   "link": "https://www.trthaber.com/haber/dunya/rusyanin-onde-gelen-bulut-ve-barindirma-saglayicisi-begete-siber-saldiri-962114.html",
-   "summary": "Rusya'nın önde gelen internet barındırma ve bulut hizmetleri sağlayıcılarından Beget, altyapısına düzenlenen siber saldırı sonucunda bulut sistemlerindeki verilerin kaybolduğunu ve hizmetlerin yeniden başlatılması için…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T14:51:00+00:00"
-  },
-  {
-   "title": "Brükselde tarım işçileri haklarının korunması için gösteri düzenledi",
-   "link": "https://www.trthaber.com/haber/ekonomi/brukselde-tarim-iscileri-haklarinin-korunmasi-icin-gosteri-duzenledi-962113.html",
-   "summary": "Belçika'nın başkenti Brüksel'de yaklaşık 200 kişi, Avrupa Birliği'nin AB tarım desteklerinin işçi haklarına uyulması şartına bağlanmasını sağlayan uygulamanın korunması talebiyle gösteri yaptı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T14:16:00+00:00"
-  },
-  {
    "title": "Bakan Bayraktar: YEKA GES-2026 yarışmalarıyla 2 bin 285 megavatlık kapasite tahsisi gerçekleştirdik",
    "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-bayraktar-yeka-ges-2026-yarismalariyla-2-bin-285-megavatlik-kapasite-tahsisi-gerceklestirdik/4110165",
    "summary": "Bakan Bayraktar, 18 ayrı saha için düzenlenen rüzgar ve güneş enerjisi yarışmalarıyla 2 bin 285 megavatlık kapasite tahsisi gerçekleştirdiklerini belirterek \"Bu sayede yıllık 1 milyar 220 milyon metreküp doğal gaz…",
@@ -729,42 +756,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T14:09:36+00:00"
-  },
-  {
-   "title": "İç kesimler için zirai don uyarısı yapıldı",
-   "link": "https://www.trthaber.com/haber/turkiye/ic-kesimler-icin-zirai-don-uyarisi-yapildi-962111.html",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı, yarından itibaren etkili olacak soğuk hava nedeniyle yurdun iç kesimleri için yerel ölçekte zirai don riskine karşı uyarıda bulundu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T14:08:00+00:00"
-  },
-  {
-   "title": "Trump, İsrail'e 4 milyar dolarlık yardımın durdurulacağını duyurdu",
-   "link": "https://www.trthaber.com/haber/dunya/trump-israile-4-milyar-dolarlik-yardimin-durdurulacagini-duyurdu-962112.html",
-   "summary": "ABD Başkanı Donald Trump, ABD'nin İsrail'e yapacağı 4 milyar dolarlık yardımın durdurulacağını açıkladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T14:06:00+00:00"
-  },
-  {
-   "title": "İran Cumhurbaşkanı: Üretim çarkının durmaması için gerekirse odamdaki elektriği keserim",
-   "link": "https://www.trthaber.com/haber/dunya/iran-cumhurbaskani-uretim-carkinin-durmamasi-icin-gerekirse-odamdaki-elektrigi-keserim-962110.html",
-   "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, ülkedeki üretim çarkının durmaması için gerekirse odasındaki elektriği keseceğini, oda sıcaklığını minimuma indireceğini söyledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:49:00+00:00"
-  },
-  {
-   "title": "Bakan Şimşek: Hizmet enflasyonunda ataletin azalması enflasyondaki düşüşü destekleyecektir",
-   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-hizmet-enflasyonunda-ataletin-azalmasi-enflasyondaki-dususu-destekleyecektir-962109.html",
-   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, gelecek dönemde ekonomik aktivitenin dengeli seyri, enerji ve emtia fiyatlarında öngörülen gerileme, beklentilerde iyileşme ve hizmet enflasyonunda ataletin azalmasının…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:48:00+00:00"
   },
   {
    "title": "Bakan Şimşek: Enerji ve emtia fiyatlarında öngörülen gerileme, enflasyondaki düşüşü destekleyecek",
@@ -785,33 +776,6 @@
    "published": "2026-11-03T13:45:52+00:00"
   },
   {
-   "title": "Altın fiyatlarında son durum",
-   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-962107.html",
-   "summary": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP, standart altının kilogram fiyatı, günün sonunda 6 milyon 305 bin liraya çıktı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:42:00+00:00"
-  },
-  {
-   "title": "Bakan Fidan'dan Türkiye'nin Juba Büyükelçisi Ergin için taziye mesajı",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidandan-turkiyenin-juba-buyukelcisi-ergin-icin-taziye-mesaji-962106.html",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Türkiye'nin Juba Büyükelçisi Metin Ergin'i kaybetmenin derin üzüntüsü içinde olduklarını belirterek, kendisine Allahtan rahmet, ailesine ve yakınlarına başsağlığı diledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:41:00+00:00"
-  },
-  {
-   "title": "Yağışlı ve soğuk hava geliyor",
-   "link": "https://www.trthaber.com/haber/guncel/yagisli-ve-soguk-hava-geliyor-962105.html",
-   "summary": "Meteoroloji Genel Müdürlüğü tahminlerine göre ülke geneli yarın itibarıyla batı kesimlerinden başlayarak serin ve yağışlı havanın etkisine girecek.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:33:00+00:00"
-  },
-  {
    "title": "Fenerbahçe'de teknik sorumlu Kuyt: İyi bir performansla reaksiyon göstermeliyiz",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahcede-teknik-sorumlu-kuyt-iyi-bir-performansla-reaksiyon-gostermeliyiz/4110093",
    "summary": "UEFA Şampiyonlar Ligi'nin 4. haftasında yarın İngiltere'nin Liverpool takımını ağırlayacak Fenerbahçe'de teknik sorumlu Dirk Kuyt, iyi bir performansla reaksiyon göstermeleri gerektiğini söyledi.",
@@ -828,15 +792,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T13:29:13+00:00"
-  },
-  {
-   "title": "İran'dan nükleer silah kullanılma ihtimaline ellerimiz bağlı değildir yanıtı",
-   "link": "https://www.trthaber.com/haber/dunya/irandan-nukleer-silah-kullanilma-ihtimaline-ellerimiz-bagli-degildir-yaniti-962104.html",
-   "summary": "İran Dışişleri Bakanlığı Sözcüsü Kazım Garibabadi, ülkesine karşı nükleer silah kullanılması durumunda uluslararası düzeyde yasal yollara başvurmakla yetinmeyeceklerini, ülkesinin bu tür koşullarda gerekli önlemleri…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:27:00+00:00"
   },
   {
    "title": "Dünya Bankası Grubu Türkiye’deki yatırımlarını derinleştiriyor",
@@ -945,15 +900,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-03T11:27:13+00:00"
-  },
-  {
-   "title": "İspanyol futbolcu Jesus De Miguel sahadaki çarpışma sonucu hayatını kaybetti",
-   "link": "https://www.bbc.com/turkce/articles/cx5yn0j3e2yyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Tenerife'nin 30 yaşındaki forvet oyuncusu Jesus de Miguel, İspanya ikinci ligi maçındaki çarpışmada aldığı ağır sakatlığın ardından hayatını kaybetti.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7ae7/live/95eedac0-d76a-11f1-a956-ff083523ef77.jpg",
-   "published": "2026-11-03T11:26:34+00:00"
   },
   {
    "title": "\"COP31'e Doğru: VakıfBank Geleceğe Değer Paneli ve Ürün Lansmanı\" programı gerçekleştirildi",
@@ -1296,15 +1242,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-02T08:35:56+00:00"
-  },
-  {
-   "title": "'Gazze ya da hiç': İsrail'e destek, ABD ara seçimlerinde gerilim noktası haline geldi",
-   "link": "https://www.bbc.com/turkce/articles/cqvg0zd84rd1o?at_medium=RSS&at_campaign=rss",
-   "summary": "Michigan, ABD'de 3 Kasım'da yapılacak ara seçimlerde yarışın en çekişmeli geçmesi beklenen yerlerden biri. ABD'nin İsrail'e verdiği desteğe dair endişeler Gazze tartışmasının her iki tarafındaki Michiganlı seçmenlerin…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8f13/live/c3769230-d486-11f1-80bc-6d398902272f.jpg",
-   "published": "2026-10-31T00:43:03+00:00"
   },
   {
    "title": "Abone olmak için tıklayın",
