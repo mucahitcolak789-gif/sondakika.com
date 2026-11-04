@@ -1,14 +1,23 @@
 {
- "updated": "2026-11-04T01:34:02.001480+00:00",
+ "updated": "2026-11-04T02:27:23.786150+00:00",
  "items": [
   {
    "title": "ABD'de ara seçimler: Kongre'nin kontrolü ve Trump'ın son iki yılı oylanıyor",
    "link": "https://www.bbc.com/turkce/articles/ck62yep62nyjo?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sonuçlar, Başkan Donald Trump'ın görev süresinin kalan iki yılında politikalarını ne ölçüde hayata geçirebileceğini de…",
+   "summary": "ABD'de seçmenler, Kongre'nin hangi partinin kontrolünde olacağını belirlemek için sandığa gitti. Sandıkların kapanmaya başladığı doğu ve orta kesim eyaletlerin bazılarından ilk sonuçlar gelmeye başladı.",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d474/live/4b806710-d7d8-11f1-8cb0-d304936875f3.jpg",
-   "published": "2026-11-04T01:24:52+00:00"
+   "published": "2026-11-04T02:26:23+00:00"
+  },
+  {
+   "title": "İşgalci İsrailliler, Batı Şeria'da 4 Filistinliyi yaraladı",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-4-filistinliyi-yaraladi-962153.html",
+   "summary": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'nın Nablus ve Beytüllahim kentlerinde 4 Filistinliyi darbetti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-04T01:37:00+00:00"
   },
   {
    "title": "Riyad'da erken uyarı sistemi devreye alındı",
@@ -848,15 +857,6 @@
    "published": "2026-11-03T13:24:00+00:00"
   },
   {
-   "title": "Savunma ve havacılık ihracatı ekimde 1,1 milyar doları aştı",
-   "link": "https://www.trthaber.com/haber/ekonomi/savunma-ve-havacilik-ihracati-ekimde-11-milyar-dolari-asti-962102.html",
-   "summary": "Türkiye'nin savunma ve havacılık sanayisi ihracatı, ekim ayında geçen yılın aynı dönemine göre yüzde 61 artarak 1 milyar 140 milyon dolara ulaştı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-03T13:18:00+00:00"
-  },
-  {
    "title": "Dünya Bankası Grubu Türkiye’deki yatırımlarını derinleştiriyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/dunya-bankasi-grubu-turkiye-deki-yatirimlarini-derinlestiriyor/4110057",
    "summary": "Dünya Bankası Türkiye Ülke Direktörü Carret, “Haziran sonunda tamamlanan son mali yılımızda 5,6 milyar dolar finansman sağladık. Bu mali yıl içinde yaklaşık 4 milyar dolarlık yeni finansman daha sağlamaya yönelik…",
@@ -1026,6 +1026,15 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-03T10:45:55+00:00"
+  },
+  {
+   "title": "Savunma ve havacılık ihracatı ekimde 1,1 milyar doları aştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/savunma-ve-havacilik-ihracati-ekimde-1-1-milyar-dolari-asti/4109783",
+   "summary": "Türkiye'nin savunma ve havacılık sanayisi ihracatı, ekim ayında geçen yılın aynı dönemine göre yüzde 61 artarak 1 milyar 140 milyon dolara ulaştı.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-03T10:20:02+00:00"
   },
   {
    "title": "Trabzonspor-Freiburg maçını Estonyalı hakem Kristo Tohver yönetecek",
