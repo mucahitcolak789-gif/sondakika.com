@@ -1,14 +1,68 @@
 {
- "updated": "2026-11-05T18:05:40.994868+00:00",
+ "updated": "2026-11-05T19:01:34.223953+00:00",
  "items": [
   {
-   "title": "Afyon'da silahlı saldırılarda en az 8 kişi öldü, 1 yaralı",
+   "title": "Afyon'da en az 8 kişiyi öldüren saldırgan yakalandı",
    "link": "https://www.bbc.com/turkce/articles/cm8xzzl5q98xo?at_medium=RSS&at_campaign=rss",
    "summary": "Afyonkarahisar Valiliği, ilde meydana gelen silahlı saldırılarda sekiz kişinin hayatını kaybettiğini ve bir kişinin de yaralandığını duyurdu.",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/67e6/live/a50604a0-d942-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-11-05T18:03:36+00:00"
+   "published": "2026-11-05T18:54:57+00:00"
+  },
+  {
+   "title": "Bakan Şimşek: Düzenleme tüm emeklilerimizi kapsayacak",
+   "link": "https://www.trthaber.com/haber/ekonomi/bakan-simsek-duzenleme-tum-emeklilerimizi-kapsayacak-962369.html",
+   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Emeklilerimizin alım güçlerini desteklemesi amacıyla yürüttüğümüz teknik çalışma henüz tamamlanmadı. Düzenleme tüm emeklilerimizi kapsayacaktır.\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T18:54:00+00:00"
+  },
+  {
+   "title": "ABD'de ara seçimler, Demokratların demografik gruplar arasında ilerleme kaydettiğini gösterdi",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-ara-secimler-demokratlarin-demografik-gruplar-arasinda-ilerleme-kaydettigini-gosterdi/4113377",
+   "summary": "ABD'de 3 Kasım'da yapılan Kongre ara seçimlerinin ardından seçmen anketleri, Demokratların kilit demografik gruplar arasında önemli ölçüde ilerleme kaydettiğini ortaya koydu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T18:46:34+00:00"
+  },
+  {
+   "title": "Bolu'da kar yağışı",
+   "link": "https://www.trthaber.com/haber/turkiye/boluda-kar-yagisi-962368.html",
+   "summary": "Bolu'nun Gerede ilçesinde kar yağışı etkili oldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T18:41:00+00:00"
+  },
+  {
+   "title": "ABD'nin ilk Müslüman senatörü Sayed, Trump'ın İsrail'e yardımların kesilmesi çağrısını destekledi",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-ilk-musluman-senatoru-sayed-trumpin-israile-yardimlarin-kesilmesi-cagrisini-destekledi/4113361",
+   "summary": "ABD Senatosuna seçilen ilk Müslüman senatör Abdul el-Sayed, Başkan Donald Trump'ın İsrail'e dış yardımların kesilmesi yönündeki çağrısına destek verdiğini belirterek, birlikte çalışma çağrısında bulundu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T18:28:08+00:00"
+  },
+  {
+   "title": "NATO, İHA karşıtı teknolojilerin tedarikini hızlandırmak için yeni pazar yeri oluşturdu",
+   "link": "https://www.aa.com.tr/tr/dunya/nato-iha-karsiti-teknolojilerin-tedarikini-hizlandirmak-icin-yeni-pazar-yeri-olusturdu/4113348",
+   "summary": "NATO, Ankara Zirvesi'nde kabul ettiği \"Drone Edge\" programı kapsamında insansız hava araçlarına (İHA) karşı geliştirilen teknolojilerin tedarikini hızlandırmak amacıyla İHA karşıtı sistemler için yeni bir pazar yeri…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T18:09:17+00:00"
+  },
+  {
+   "title": "İranlı yetkili, ABD'nin doğrudan müzakere önerisini Tahran'ın kabul etmediğini söyledi",
+   "link": "https://www.trthaber.com/haber/dunya/iranli-yetkili-abdnin-dogrudan-muzakere-onerisini-tahranin-kabul-etmedigini-soyledi-962367.html",
+   "summary": "İran Yüksek Siber Uzay Konseyi Üyesi İzzetullah Zergami, Rusya Devlet Başkanı Vladimir Putin'in, Tahran ile Washington arasında doğrudan müzakerelerin başlatılması için arabuluculuk talebinde bulunduğunu ancak İran'ın…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T17:57:00+00:00"
   },
   {
    "title": "ABD borsaları sert düşerken petrol fiyatları yeniden yükselişte",
@@ -18,15 +72,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-05T17:52:41+00:00"
-  },
-  {
-   "title": "İranlı yetkili, ABD'nin \"doğrudan müzakere\" önerisini Tahran'ın kabul etmediğini söyledi",
-   "link": "https://www.aa.com.tr/tr/dunya/iranli-yetkili-abdnin-dogrudan-muzakere-onerisini-tahranin-kabul-etmedigini-soyledi/4113332",
-   "summary": "İranlı yetkili Zergami, Putin'in Tahran-Washington arasında doğrudan müzakereler için arabuluculuk teklif ettiğini ancak İran'ın bunu kabul etmediğini söyledi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-05T17:52:28+00:00"
   },
   {
    "title": "Iraklı hava yolu şirketi Fly Erbil, İstanbul Havalimanı'na uçuş başlattı",
@@ -92,8 +137,8 @@
    "published": "2026-11-05T17:10:25+00:00"
   },
   {
-   "title": "Emniyet Genel Müdürlüğünden COP31 açıklaması: 25 bin 739 personel sahada aktif olarak görevlendirildi",
-   "link": "https://www.aa.com.tr/tr/gundem/emniyet-genel-mudurlugunden-cop31-aciklamasi-25-bin-739-personel-sahada-aktif-olarak-gorevlendirildi/4113290",
+   "title": "COP31 kapsamında 25 bin 739 emniyet personeli sahada görevlendirildi",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-25-bin-739-emniyet-personeli-sahada-gorevlendirildi/4113290",
    "summary": "Emniyet Genel Müdürlüğü (EGM), 9-20 Kasım'da Antalya'da düzenlenecek COP31 kapsamında, toplam 25 bin 739 personelin sahada aktif olarak görevlendirildiğini bildirdi.",
    "source": "AA",
    "category": "Gündem",
@@ -148,7 +193,7 @@
   {
    "title": "Afyonkarahisar'da silahlı saldırı: 8 ölü",
    "link": "https://www.trthaber.com/haber/turkiye/afyonkarahisarda-silahli-saldiri-8-olu-962362.html",
-   "summary": "Afyonkarahisar'da silahla vurulan 8 kişi hayatını kaybetti, 1 kişi ağır yaralandı.",
+   "summary": "Afyonkarahisar'da silahla vurulan 8 kişi hayatını kaybetti, 1 kişi ağır yaralandı. Saldırgan Eskişehir'in Seyitgazi ilçesinde yakalandı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -344,24 +389,6 @@
    "published": "2026-11-05T14:20:39+00:00"
   },
   {
-   "title": "İletişim Başkanlığından \"Ortak Gelecekte Biriz\" paneli",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskanligindan-ortak-gelecekte-biriz-paneli/4113107",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanlığı tarafından \"Ortak Gelecekte Biriz\" paneli düzenlendi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-05T14:08:54+00:00"
-  },
-  {
-   "title": "YÖK, Dijital Üniversite Platformuna ek kontenjan sağlayacak",
-   "link": "https://www.aa.com.tr/tr/gundem/yok-dijital-universite-platformuna-ek-kontenjan-saglayacak/4113106",
-   "summary": "Yükseköğretim Kurulu (YÖK) öncülüğünde hayata geçirilen Dijital Üniversite Platformu için katılımcılardan gelen talepler doğrultusunda ek süre ve ek kontenjan kararı alındı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-05T14:08:39+00:00"
-  },
-  {
    "title": "Türkiye ve AB'den vize mesajları: Ankara muafiyet, Brüksel uyum istiyor",
    "link": "https://www.bbc.com/turkce/articles/c5y43z3pdk3wo?at_medium=RSS&at_campaign=rss",
    "summary": "Türkiye'nin Avrupa Birliği'nden öncelikli beklentilerinden biri, Türk vatandaşlarına Schengen Bölgesi'nde vize muafiyeti. AB, bu konuda adım atması gerekenin Türkiye olduğu görüşünde. Brüksel'in Ankara'dan bir talebi…",
@@ -393,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/boe-baskani-bailey-faiz-patikasina-iliskin-orta-dogudaki-gelismelere-isaret-etti/4113085",
    "summary": "İngiltere Merkez Bankası (BoE) Başkanı Andrew Bailey, Orta Doğu'daki savaş sonrası artan enerji fiyatlarının enflasyonist baskılara yol açtığını belirterek, Orta Doğu'da barış sağlanmadığı sürece faiz artışının devam…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-05T13:54:28+00:00"
   },
@@ -1055,15 +1082,6 @@
    "published": "2026-11-05T08:43:00+00:00"
   },
   {
-   "title": "İsrail basını: Cumhurbaşkanı Herzog, Netanyahu'yu Batı Şeria'da \"yaklaşan bir iç savaş\" konusunda uyardı",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-cumhurbaskani-herzog-netanyahuyu-bati-seriada-yaklasan-bir-ic-savas-konusunda-uyardi/4112376",
-   "summary": "İsrail Cumhurbaşkanı Isaac Herzog'un, Başbakan Binyamin Netanyahu ve Savunma Bakanı Yisrael Katz'ın da aralarında bulunduğu üst düzey yetkililere, Batı Şeria'da \"yaklaşan bir iç savaş konusunda\" uyarıda bulunduğu…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-05T08:39:38+00:00"
-  },
-  {
    "title": "Fenerbahçe'nin Liverpool zaferi İngiliz basınında",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahcenin-liverpool-zaferi-ingiliz-basininda/4112375",
    "summary": "Fenerbahçe'nin UEFA Şampiyonlar Ligi'nde iki kez geriye düştüğü maçta Liverpool'u 3-2 yenmesi İngiliz basınında geniş yer buldu.",
@@ -1071,33 +1089,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-05T08:38:31+00:00"
-  },
-  {
-   "title": "Bakan Kurum: Türkiye'nin dirençli şehirler vizyonu, COP31'de dünyaya ilham olacak",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-turkiyenin-direncli-sehirler-vizyonu-cop31de-dunyaya-ilham-olacak-962319.html",
-   "summary": "COP31 Eylem Gündeminin öncelikli 10 başlığından biri İklim Dirençli Şehirler olacak. Bu kapsamda COP31 Alanı'ndaki Yeşil Bölgede, deprem bölgesindeki enkaz kalıntıları kullanılarak Anka Kuşu yapısı inşa edildi. Bu…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-05T08:38:00+00:00"
-  },
-  {
-   "title": "İstanbul'a suikast için geldikleri iddia edilen 4 şüpheli yakalandı",
-   "link": "https://www.trthaber.com/haber/turkiye/istanbula-suikast-icin-geldikleri-iddia-edilen-4-supheli-yakalandi-962318.html",
-   "summary": "İstanbul'da bir hücre evine düzenlenen operasyonda, suikast yapmak üzere şehir dışından geldiği iddia edilen 4 şüpheli yakalandı. Şüphelilerin evlerinden adeta cephanelik çıktı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-05T08:30:00+00:00"
-  },
-  {
-   "title": "Rüzgar ve güneşte 2040 hedefi 175 bin megavat kurulu güç",
-   "link": "https://www.trthaber.com/haber/ekonomi/ruzgar-ve-guneste-2040-hedefi-175-bin-megavat-kurulu-guc-962317.html",
-   "summary": "Enerji Bakanı Alparslan Bayraktar, \"Türkiye 2040 itibarıyla 175 bin megavatlık rüzgar ve güneş kurulu gücüne ulaşacak. Yatırım tutarı yaklaşık 100 milyar dolar dedi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-05T08:28:00+00:00"
   },
   {
    "title": "Demir yollarında ray sıcaklıkları yakından takip edilecek",
@@ -1134,24 +1125,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-05T08:22:36+00:00"
-  },
-  {
-   "title": "Yemen’in Taiz kentinde, kuşatma ve çatışmalar nedeniyle insani kriz derinleşiyor",
-   "link": "https://www.aa.com.tr/tr/dunya/yemen-in-taiz-kentinde-kusatma-ve-catismalar-nedeniyle-insani-kriz-derinlesiyor/4112346",
-   "summary": "Yemen’in güneybatısındaki Taiz vilayetinde, Husilerin uyguladığı abluka, kent çevresinde yaşanan aralıksız çatışmalar ve biriken çöplerin tetiklediği salgın hastalıklar nedeniyle insani krizin en üst seviyeye ulaştığı…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-05T08:22:20+00:00"
-  },
-  {
-   "title": "ABD'nin en zenginleri, ara seçimleri için milyonlarca dolar para akıttı",
-   "link": "https://www.aa.com.tr/tr/dunya/abdnin-en-zenginleri-ara-secimleri-icin-milyonlarca-dolar-para-akitti/4112332",
-   "summary": "ABD'nin en zenginlerinin çoğu ABD'deki ara seçimlerde hem Temsilciler Meclisi hem de Senatoda çoğunluğu Demokratlara kaptıran Cumhuriyetçi adaylar için milyonlarca dolar para harcadı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-05T08:13:35+00:00"
   },
   {
    "title": "Britanyalı uzmana göre İngiltere için AB'ye hızlı üyelik dışındaki seçenekler avantajlı değil",
@@ -1350,6 +1323,33 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-04T11:26:50+00:00"
+  },
+  {
+   "title": "Samsunspor, Süper Lig'de çıkış peşinde",
+   "link": "https://www.aa.com.tr/tr/spor/samsunspor-super-ligde-cikis-pesinde/4111431",
+   "summary": "Samsunspor Kulübü Basın Sözcüsü Suat Çakır, Trendyol Süper Lig'in 11. haftasında TÜMOSAN Konyaspor ile yapacakları maçı kazanarak çıkışa geçmek istediklerini söyledi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-04T11:22:21+00:00"
+  },
+  {
+   "title": "Geleneksel Türk Okçuluk Takımı, Dünya Şampiyonası'nda 4 madalya kazandı",
+   "link": "https://www.aa.com.tr/tr/spor/geleneksel-turk-okculuk-takimi-dunya-sampiyonasinda-4-madalya-kazandi/4111338",
+   "summary": "Güney Kore'de düzenlenen Dünya Geleneksel Okçuluk Şampiyonası'nda mücadele eden milli takım, 4 madalya kazandı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-04T10:14:15+00:00"
+  },
+  {
+   "title": "UEFA Şampiyonlar Ligi'nde 2 Türk teknik direktör ilk kez karşı karşıya gelecek",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-sampiyonlar-liginde-2-turk-teknik-direktor-ilk-kez-karsi-karsiya-gelecek/4111307",
+   "summary": "UEFA Şampiyonlar Ligi tarihinde ilk kez iki Türk teknik direktör karşı karşıya gelecek.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-04T09:51:58+00:00"
   }
  ]
 }
