@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-05T23:10:44.778506+00:00",
+ "updated": "2026-11-05T23:51:00.108540+00:00",
  "items": [
+  {
+   "title": "Trump, sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini öne sürdü",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-sadece-18-kayipla-hurmuz-bogazinda-kontrolu-saglayabildigini-one-surdu/4113552",
+   "summary": "ABD Başkanı Donald Trump, Vietnam Savaşı'nda binlerce ABD askerinin kaybedildiğini hatırlatarak, kendi yönetiminin ise sadece 18 kayıpla Hürmüz Boğazı'nda kontrolü sağlayabildiğini iddia etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T23:33:12+00:00"
+  },
+  {
+   "title": "Fatma Betül Sayan Kaya tutuklandı",
+   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
+   "summary": "Savcılığın, \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç işlemek amacıyla kurulan örgüte üye olma\" suçlarından tutuklama talep ettiği eski AKP'li bakan Fatma Betül Sayan Kaya, çıkarıldığı nöbetçi mahkemece tutuklandı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/3e49/live/6fc84870-d96f-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-05T23:23:19+00:00"
+  },
+  {
+   "title": "Hazine ve Maliye Bakanı Şimşek: Düzenleme tüm emeklilerimizi kapsayacak",
+   "link": "https://www.aa.com.tr/tr/ekonomi/hazine-ve-maliye-bakani-simsek-duzenleme-tum-emeklilerimizi-kapsayacak/4113546",
+   "summary": "Hazine ve Maliye Bakanı Mehmet Şimşek, \"Yapılacak artışın emeklilerimizin yaş ve prim ödeme gün sayısına göre farklılaşmasının doğru olacağını düşünüyoruz. Çünkü bu daha adaletli bir yaklaşım olur. Seyyanen olsa da bu…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-05T23:13:08+00:00"
+  },
   {
    "title": "Avrupa uçuşlarında bomba ihbarları: En az 21 uçuş etkilendi",
    "link": "https://www.bbc.com/turkce/articles/ckz7xd2g9edqo?at_medium=RSS&at_campaign=rss",
@@ -9,15 +36,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b549/live/72afb9f0-d90c-11f1-94c6-3f8050561bf5.jpg",
    "published": "2026-11-05T21:59:26+00:00"
-  },
-  {
-   "title": "Fatma Betül Sayan Kaya için tutuklama talebi",
-   "link": "https://www.bbc.com/turkce/articles/cw77p42vg76do?at_medium=RSS&at_campaign=rss",
-   "summary": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya eşi İlyas Kaya ve eski SPK başkanı İbrahim Ömer Gönül şüpheli sıfatıyla ifade verdi. İfade sonunda Savcılık, Kaya'yı \"Sermaye Piyasası Kanunu'na muhalefet\" ile \"suç…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b52c/live/6b6dbce0-c242-11f1-b2a8-994b2a5598cb.jpg",
-   "published": "2026-11-05T21:42:03+00:00"
   },
   {
    "title": "KYB Başkanı Talabani: IKBY yönetiminden çekiliyoruz, meclisin kararlarını tanımayacağız",
@@ -119,9 +137,9 @@
    "published": "2026-11-05T19:59:00+00:00"
   },
   {
-   "title": "Fon soruşturması kapsamında Fatma Betül Sayan Kaya'ya tutuklama talebi",
-   "link": "https://www.aa.com.tr/tr/gundem/fon-sorusturmasi-kapsaminda-fatma-betul-sayan-kayaya-tutuklama-talebi/4113433",
-   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında \"şüpheli\" sıfatıyla ifadesi alınan Fatma Betül Sayan Kaya tutuklama talebiyle hakimliğe sevk edildi.",
+   "title": "Eski bakan Fatma Betül Sayan Kaya fon soruşturması kapsamında tutuklandı",
+   "link": "https://www.aa.com.tr/tr/gundem/eski-bakan-fatma-betul-sayan-kaya-fon-sorusturmasi-kapsaminda-tutuklandi/4113433",
+   "summary": "Sermaye piyasalarında gerçekleştirilen işlemlere ilişkin yürütülen fon soruşturması kapsamında hakimliğe sevk edilen eski bakan Fatma Betül Sayan Kaya tutuklandı.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -294,18 +312,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/fitch-abdde-veri-merkezi-projelerinin-giderek-artan-zorluklarla-karsi-karsiya-olduguna-isaret-etti/4113296",
    "summary": "Fitch Ratings, ABD'deki yapay zeka veri merkezi projelerinin olası eyalet düzenlemeleri ve elektrik tedarikindeki gecikmeler nedeniyle giderek daha fazla zorlukla karşılaştığını bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-05T17:17:44+00:00"
-  },
-  {
-   "title": "COP31 kapsamında 25 bin 739 emniyet personeli sahada görevlendirildi",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-kapsaminda-25-bin-739-emniyet-personeli-sahada-gorevlendirildi/4113290",
-   "summary": "Emniyet Genel Müdürlüğü (EGM), 9-20 Kasım'da Antalya'da düzenlenecek COP31 kapsamında, toplam 25 bin 739 personelin sahada aktif olarak görevlendirildiğini bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-05T17:08:18+00:00"
   },
   {
    "title": "İran: UAEA Başkanı Grossi, düşmanımızın bir unsuru haline geldi",
@@ -659,15 +668,6 @@
    "published": "2026-11-05T09:48:43+00:00"
   },
   {
-   "title": "İran Meclis Başkanı'ndan \"Vance'in açıklamasına rağmen Trump savaşın sonraki aşamasına hazırlanıyor\" yorumu",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-meclis-baskanindan-vancein-aciklamasina-ragmen-trump-savasin-sonraki-asamasina-hazirlaniyor-yorumu/4112702",
-   "summary": "İran Meclis Başkanı Muhammed Bakır Kalibaf, ABD Başkan Yardımcısı JD Vance'in İran ile savaşın durdurulması gerektiğine dair açıklamasına rağmen ABD'nin, \"savaşın bir sonraki aşamasına\" hazırlık yaptığını belirtti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-05T09:46:39+00:00"
-  },
-  {
    "title": "Avrupa Parlamentosu komitesi, otomobillerin 2035 emisyon hedefinin düşürülmesini istedi",
    "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-parlamentosu-komitesi-otomobillerin-2035-emisyon-hedefinin-dusurulmesini-istedi/4112700",
    "summary": "AB'de yeni otomobiller için 2035'te geçerli olacak karbondioksit emisyon azaltım hedefinin yüzde 100'den yüzde 87,5'e indirilmesi öngörülüyor.",
@@ -747,15 +747,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-05T08:38:31+00:00"
-  },
-  {
-   "title": "Avrupa İmar ve Kalkınma Bankasından bu yıl Türkiye'ye 2,7 milyar avroyu aşan rekor yatırım",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-imar-ve-kalkinma-bankasindan-bu-yil-turkiyeye-2-7-milyar-avroyu-asan-rekor-yatirim/4112351",
-   "summary": "Avrupa İmar ve Kalkınma Bankası (EBRD) Başkanı Odile Renaud-Basso, Türkiye'de bu yıl halihazırda 2,5 milyar avro yatırım gerçekleştirdiklerini ve bu yatırımların yıl sonunda 2,7 milyar avroyu aşarak rekor seviyeye…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-05T08:26:01+00:00"
   },
   {
    "title": "Kocaelispor, 10 haftada savunmada başarılı",
