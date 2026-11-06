@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-06T22:05:54.480934+00:00",
+ "updated": "2026-11-06T22:48:29.088569+00:00",
  "items": [
+  {
+   "title": "Donald Trump ara seçim yenilgisi sonrası özel kalemini değiştirdi",
+   "link": "https://www.bbc.com/turkce/articles/cwp9ggvdg7rdo?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD Başkanı Donald Trump, ABD ara seçimlerinde yaşanan tarihi kayıpların ardından, sert göçmenlik siyasetinin mimarı Stephen Miller'ı yeni Beyaz Saray Genel Sekreteri olarak atadı. Cumhuriyetçilerin Kongre'yi…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f45c/live/b31258a0-da32-11f1-9fbd-45a32d24ae34.jpg",
+   "published": "2026-11-06T22:41:33+00:00"
+  },
+  {
+   "title": "ABD'den Kanadalı 8 şirkete yaptırım",
+   "link": "https://www.trthaber.com/haber/dunya/abdden-kanadali-8-sirkete-yaptirim-962482.html",
+   "summary": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T22:28:00+00:00"
+  },
+  {
+   "title": "Katar, ABD ile İran arasında anlaşmaya varılamadığı yönündeki iddiaları yalanladı",
+   "link": "https://www.aa.com.tr/tr/dunya/katar-abd-ile-iran-arasinda-anlasmaya-varilamadigi-yonundeki-iddialari-yalanladi-/4114822",
+   "summary": "Katar, Başbakan ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani'nin ABD ile İran arasında anlaşmaya varılamadığı yönünde açıklama yaptığına ilişkin iddiaların gerçeği yansıtmadığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T22:16:56+00:00"
+  },
+  {
+   "title": "İran basını: Keşm Adası ile Bender Hamir’de kaynağı belirsiz patlama sesleri duyuldu",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-basini-kesm-adasi-ile-bender-hamir-de-kaynagi-belirsiz-patlama-sesleri-duyuldu/4114819",
+   "summary": "Hürmüz Boğazı’na yakın Keşm Adası ile Bender Hamir kenti yakınlarında kaynağı belirlenemeyen patlama seslerinin duyulduğu bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T22:05:36+00:00"
+  },
+  {
+   "title": "Güneydoğu Anadolu'nun kalkınmasında GAP imzası",
+   "link": "https://www.aa.com.tr/tr/ekonomi/guneydogu-anadolunun-kalkinmasinda-gap-imzasi/4114817",
+   "summary": "Sanayi ve Teknoloji Bakanlığına bağlı Güneydoğu Anadolu Projesi (GAP) Bölge Kalkınma İdaresi Başkanlığı, tarımdan sanayiye, enerjiden turizme kadar farklı alanlarda yaptığı yatırımlarla bölgenin ekonomik ve sosyal…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T22:04:38+00:00"
+  },
+  {
+   "title": "Palamudun lezzeti salamurayla yaz sofralarına taşınıyor",
+   "link": "https://www.aa.com.tr/tr/gundem/palamudun-lezzeti-salamurayla-yaz-sofralarina-tasiniyor/4114816",
+   "summary": "Karadeniz'de bu sezon yaşanan palamut bolluğu, Ordu'daki balıkçıları geleneksel salamura mesaisine yönlendirirken, palamudun lezzeti sezon sonrasına taşınıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T22:03:18+00:00"
+  },
+  {
+   "title": "Gençlik olimpiyatlarında Türkiye'ye yüzmede ilk madalyasını kazandıran Kırhan Yılmaz'a göre başarının sırrı disiplin",
+   "link": "https://www.aa.com.tr/tr/spor/genclik-olimpiyatlarinda-turkiyeye-yuzmede-ilk-madalyasini-kazandiran-kirhan-yilmaza-gore-basarinin-sirri-disiplin/4114812",
+   "summary": "Senegal'de düzenlenen 4. Yaz Gençlik Olimpiyat Oyunları'nda (Dakar 2026) bronz madalyaya ulaşan milli sporcu Kırhan Yılmaz, organizasyon tarihinde yüzmede madalya kazanan ilk Türk sporcu olmanın gururunu yaşadığını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T21:59:23+00:00"
+  },
+  {
+   "title": "Yemen'de Husilerin ablukası sağlık tesislerinin yüzde 80'ini kapattı",
+   "link": "https://www.trthaber.com/haber/dunya/yemende-husilerin-ablukasi-saglik-tesislerinin-yuzde-80ini-kapatti-962480.html",
+   "summary": "Yemen'in güneybatısında bulunan Taiz kentindeki sağlık tesislerinin yüzde 80'inin İran destekli Husilerin uyguladığı abluka nedeniyle hizmet dışı kaldığı bildirildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T21:54:00+00:00"
+  },
+  {
+   "title": "Bakan Çiftçi: Fon soruşturmasında sorumlular hesabını verecek",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-fon-sorusturmasinda-sorumlular-hesabini-verecek-962481.html",
+   "summary": "İçişleri Bakanı Çiftçi, fon soruşturmasına ilişkin, \"Şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda. 38 firari hakkında da yakalama kararı çıkarılmış durumda. Yine 359 gerçek ve 111 tüzel kişinin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-06T21:53:00+00:00"
+  },
   {
    "title": "İçişleri Bakanı Çiftçi: Fon soruşturmasında şu ana kadar toplamda 433 şüpheli şahıstan 112'si tutuklanmış durumda",
    "link": "https://www.aa.com.tr/tr/gundem/icisleri-bakani-ciftci-fon-sorusturmasinda-su-ana-kadar-toplamda-433-supheli-sahistan-112si-tutuklanmis-durumda/4114807",
@@ -330,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-lise-eylemleri-kapsaminda-10-kisi-daha-gozaltina-alindi/4114678",
    "summary": "Fransa'da daha iyi eğitim koşulları talebiyle düzenlenen eylemler kapsamında 10 kişinin daha gözaltına alındığı öğrenildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-06T18:32:32+00:00"
   },
@@ -351,15 +432,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-06T18:02:20+00:00"
-  },
-  {
-   "title": "Fenerbahçe takım otobüsüne saldırıya ilişkin 5 şüpheli hakkındaki iddianame tamamlandı",
-   "link": "https://www.aa.com.tr/tr/gundem/fenerbahce-takim-otobusune-saldiriya-iliskin-5-supheli-hakkindaki-iddianame-tamamlandi/4114655",
-   "summary": "Fenerbahçe takım otobüsüne Nisan 2015'te Trabzon'un Sürmene ilçesinde gerçekleştirilen silahlı saldırıya yönelik 5 şüpheli hakkında iddianame düzenlendi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-06T17:48:42+00:00"
   },
   {
    "title": "EuroCup'ta 19 yıl sonra \"Türk MVP\"",
@@ -387,15 +459,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-06T17:34:59+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Türkiye, diplomatik temaslarını genişleterek krizlerin kontrolünde aktif rol almıştır",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-turkiye-diplomatik-temaslarini-genisleterek-krizlerin-kontrolunde-aktif-rol-almistir/4114632",
-   "summary": "Cevdet Yılmaz, Cumhurbaşkanı Erdoğan'ın güçlü desteğiyle Türkiye'nin, 24 yılda savunma sanayisini geliştirdiğini, farklı bölgelerdeki diplomatik temaslarını genişleterek krizlerin kontrolü ve siyasi çözümlerinde aktif…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-06T17:33:36+00:00"
   },
   {
    "title": "Cumhurbaşkanı Yardımcısı Yılmaz'dan fon tasfiye süreciyle ilgili açıklama",
@@ -468,15 +531,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-06T17:00:00+00:00"
-  },
-  {
-   "title": "Sağlık Bakanı Memişoğlu: Türkiye, sağlık turizmi markası olma yolunda kararlılıkla ilerliyor",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-turkiye-saglik-turizmi-markasi-olma-yolunda-kararlilikla-ilerliyor/4114613",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Türkiye, dünyanın dört bir yanından gelen insanlara hizmet veren güçlü bir sağlık turizmi markası olma yolunda kararlılıkla ilerliyor.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-06T16:56:17+00:00"
   },
   {
    "title": "Avrupa Merkez Bankası başkanlığı için iki aday çıktı",
@@ -866,15 +920,6 @@
    "published": "2026-11-06T13:01:00+00:00"
   },
   {
-   "title": "Rusya: Ukrayna'da bir haftada askeri yük taşıyan 14 gemiyi vurduk",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynada-bir-haftada-askeri-yuk-tasiyan-14-gemiyi-vurduk/4114255",
-   "summary": "Rusya Savunma Bakanlığı, bir haftada Ukrayna'da askeri yük taşıyan 14 gemiyi vurduklarını bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-06T13:00:32+00:00"
-  },
-  {
    "title": "Avrupa'da doğal gaz fiyatları haftalık bazda yüzde 15,5 düştü",
    "link": "https://www.aa.com.tr/tr/ekonomi/avrupada-dogal-gaz-fiyatlari-haftalik-bazda-yuzde-15-5-dustu/4114186",
    "summary": "Avrupa'da doğal gaz fiyatları, Orta Doğu'daki gerilimin diplomatik yollarla azaltılabileceğine yönelik beklentilerin artmasıyla haftalık bazda yüzde 15,5 geriledi.",
@@ -884,15 +929,6 @@
    "published": "2026-11-06T12:53:03+00:00"
   },
   {
-   "title": "Avrupa'da yolcu uçaklarına sahte bomba ihbarlarının arkasında kim olabilir?",
-   "link": "https://www.bbc.com/turkce/articles/cmvgxx5xn42qo?at_medium=RSS&at_campaign=rss",
-   "summary": "Avrupa'da havayolu şirketleri ve havalimanlarına yönelik bomba tehditlerinini arkasında kim olduğu henüz bilinmiyor. Rusya ve İran'dan şüphelenilse de henüz bu iki ülke veya onlara bağlı grupları ihbarlara bağlayan bir…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/feab/live/224ee450-d951-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-11-06T12:43:43+00:00"
-  },
-  {
    "title": "Gazze'de eşini ve kızını tedavi için Mısır'a uğurlayan kadının İsrail ateşiyle öldürülmesi ailesini yasa boğdu",
    "link": "https://www.trthaber.com/haber/dunya/gazzede-esini-ve-kizini-tedavi-icin-misira-ugurlayan-kadinin-israil-atesiyle-oldurulmesi-ailesini-yasa-bogdu-962450.html",
    "summary": "Soykırımcı İsrail'in abluka ve saldırıları altındaki Gazze Şeridi'nde, Filistinli bir kadının, tedavi için eşi ve kızını Mısır'a uğurladıktan sadece birkaç saat sonra İsrail ateşiyle yaşamını yitirmesi, geride büyük bir…",
@@ -900,15 +936,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-06T12:42:00+00:00"
-  },
-  {
-   "title": "İsrailli muhalif lider Golan, Netanyahu'yu \"iktidarı ele geçirmek için darbe planlamakla\" suçladı",
-   "link": "https://www.aa.com.tr/tr/dunya/israilli-muhalif-lider-golan-netanyahuyu-iktidari-ele-gecirmek-icin-darbe-planlamakla-sucladi/4114070",
-   "summary": "İsrail'de muhalefetteki Demokratlar Partisi lideri Yair Golan, Başbakan Binyamin Netanyahu'nun \"panik halinde\" olduğunu belirterek, güvenlik kurumlarını kullanarak iktidarı ele geçirmek için \"darbe planladığını\" öne…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-06T12:38:51+00:00"
   },
   {
    "title": "AB ülkeleri, enerji ithalatında metan kurallarının ertelenmesinde uzlaştı",
@@ -1244,33 +1271,6 @@
    "published": "2026-11-06T08:33:00+00:00"
   },
   {
-   "title": "Kültür Yolu Festivali'nin bu yılki son durağı Adana",
-   "link": "https://www.trthaber.com/haber/turkiye/kultur-yolu-festivalinin-bu-yilki-son-duragi-adana-962428.html",
-   "summary": "Kültür ve Turizm Bakanlığınca düzenlenen Türkiye Kültür Yolu Festivali'nin bu yılki son durağı Adana'da 23 noktada 252 etkinlik yapılacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-06T08:30:00+00:00"
-  },
-  {
-   "title": "Rüzgar enerjisinde 50 milyar doları aşan dev yatırım geliyor",
-   "link": "https://www.trthaber.com/haber/ekonomi/ruzgar-enerjisinde-50-milyar-dolari-asan-dev-yatirim-geliyor-962427.html",
-   "summary": "Türkiye Rüzgar Enerjisi Birliği TÜREB Başkanı İbrahim Erden, Türkiye'nin 2040'a yönelik enerji yol haritası kapsamında belirlenen 63 bin megavatlık rüzgar enerjisi kurulu güç hedefi için 50 milyar doları aşan yatırım…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-06T08:28:00+00:00"
-  },
-  {
-   "title": "Fransa'da hayat pahalılığına karşı gösterilerde 448 kişi gözaltına alındı",
-   "link": "https://www.trthaber.com/haber/dunya/fransada-hayat-pahaliligina-karsi-gosterilerde-448-kisi-gozaltina-alindi-962426.html",
-   "summary": "Fransa'da hayat pahalılığına karşı ve maaş artışı talebiyle düzenlenen gösteriler kapsamında 448 kişinin gözaltına alındığı belirtildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-06T08:28:00+00:00"
-  },
-  {
    "title": "Uzmanlara göre ABD'de Demokratların seçim zaferi Avrupa'ya güvenlik garantisi sağlamıyor",
    "link": "https://www.aa.com.tr/tr/dunya/uzmanlara-gore-abdde-demokratlarin-secim-zaferi-avrupaya-guvenlik-garantisi-saglamiyor/4113742",
    "summary": "ABD'deki ara seçimlerde Demokratların Kongrenin iki kanadında çoğunluğu elde etmesi Avrupa için Washington'la ilişkileri geliştirme fırsatı olarak görülürken, uzmanlar Donald Trump'ın dış politikasında köklü değişim…",
@@ -1343,13 +1343,13 @@
    "published": "2026-11-06T08:07:28+00:00"
   },
   {
-   "title": "Ara tatil döneminde 50 milyar liralık seyahat hacmi bekleniyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ara-tatil-doneminde-50-milyar-liralik-seyahat-hacmi-bekleniyor/4113699",
-   "summary": "Öğrencilerin 16-20 Kasım'daki ara tatil döneminde yaklaşık 1,5 milyon kişinin seyahat etmesi, bu hareketliliğin 50 milyar liralık ekonomik hacim oluşturması bekleniyor.",
+   "title": "Eyüpspor, Süper Lig'de yarın Kocaelispor'u ağırlayacak",
+   "link": "https://www.aa.com.tr/tr/spor/eyupspor-super-ligde-yarin-kocaelisporu-agirlayacak/4113687",
+   "summary": "Eyüpspor, Trendyol Süper Lig'in 11. haftasında yarın sahasında Kocaelispor ile karşı karşıya gelecek.",
    "source": "AA",
-   "category": "Ekonomi",
+   "category": "Spor",
    "image": null,
-   "published": "2026-11-06T08:06:05+00:00"
+   "published": "2026-11-06T08:03:05+00:00"
   }
  ]
 }
