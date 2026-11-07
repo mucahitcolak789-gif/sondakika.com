@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-07T12:57:16.345241+00:00",
+ "updated": "2026-11-07T13:43:35.961548+00:00",
  "items": [
+  {
+   "title": "Antalya Emniyeti, COP31 güvenliği için envanterine İHA kattı",
+   "link": "https://www.aa.com.tr/tr/gundem/antalya-emniyeti-cop31-guvenligi-icin-envanterine-iha-katti/4115228",
+   "summary": "Antalya Emniyet Müdürlüğü, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında güvenlik çalışmalarında kullanılmak üzere envanterine Uçbey VTOL insansız hava aracı…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:28:28+00:00"
+  },
+  {
+   "title": "Bodrum FK'de 4 futbolcuya milli davet",
+   "link": "https://www.aa.com.tr/tr/spor/bodrum-fkde-4-futbolcuya-milli-davet/4115218",
+   "summary": "Trendyol 1. Lig ekiplerinden Bodrum FK'de forma giyen 4 futbolcu, ülkelerinin milli takım kadrolarına davet edildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:16:17+00:00"
+  },
+  {
+   "title": "YÖK üniversitelerin öne çıkan çalışmalarını paylaştı",
+   "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerin-one-cikan-calismalarini-paylasti/4115214",
+   "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerin sağlık, teknoloji, tarım ve kültürel mirasın korunması gibi alanlarda yürüttüğü çalışmaları paylaştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:14:21+00:00"
+  },
+  {
+   "title": "Brüksel'de öğrenciler eylem yaptıkları üniversite binasından polis müdahalesiyle çıkarıldı",
+   "link": "https://www.aa.com.tr/tr/dunya/brukselde-ogrenciler-eylem-yaptiklari-universite-binasindan-polis-mudahalesiyle-cikarildi/4115207",
+   "summary": "Belçika'da Brüksel Özgür Üniversitesinin (ULB) binasında 22 Ekim'den bu yana eylem yapan öğrenciler, polis müdahalesiyle buradan çıkarıldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:00:14+00:00"
+  },
   {
    "title": "SGK'dan lösemili çocukların tedavisine 7,4 milyar liralık destek",
    "link": "https://www.trthaber.com/haber/ekonomi/sgkdan-losemili-cocuklarin-tedavisine-74-milyar-liralik-destek-962541.html",
@@ -108,6 +144,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/5a34/live/c88c2b10-d9c5-11f1-a701-fddedf244c16.jpg",
    "published": "2026-11-07T12:01:32+00:00"
+  },
+  {
+   "title": "Kocaelispor, deplasmanda Eyüpspor'u yendi",
+   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-deplasmanda-eyupsporu-yendi/4115162",
+   "summary": "Trendyol Süper Lig'in 11. haftasında Kocaelispor, deplasmanda Eyüpspor'u 2-0 yendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T12:00:22+00:00"
   },
   {
    "title": "İstanbul merkezli 39 ildeki yasa dışı bahis operasyonunda yakalanan 121 şüpheli tutuklandı",
@@ -330,7 +375,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransa-da-hukumet-sehir-merkezlerinde-eylem-yasaginin-surdugunu-acikladi/4115041",
    "summary": "Fransa’nın birçok şehrinde hayat pahalılığına karşı eylemler devam ederken, hükümet şehir merkezlerinde gösteri yasağının sürdüğünü duyurdu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T09:31:46+00:00"
   },
@@ -348,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/yeni-zelandadaki-genel-secimlerde-oy-sayim-islemi-suruyor/4115038",
    "summary": "Okyanusya ülkesi Yeni Zelanda'da düzenlenen genel seçimlerde oy sayım işleminin sürdüğü belirtildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T09:26:36+00:00"
   },
@@ -366,7 +411,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomun-patent-basvurularindaki-basarisi-odullendirildi/4115035",
    "summary": "Türk Telekom, 2025 yılında yerli patent ve faydalı model başvurularında firmalar kategorisinde elde ettiği birincilik dolayısıyla Türk Patent ve Marka Kurumu (TÜRKPATENT) tarafından ödüllendirildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-07T09:24:05+00:00"
   },
@@ -510,7 +555,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/sosyal-medya-kentlerin-deneyimlenme-bicimini-degistirirken-yerel-kimliklerini-de-golgeliyor/4114981",
    "summary": "Bir zamanlar sokaklarında yürünerek keşfedilen, yerel mekanları ve kendine özgü mimarisiyle hafızalara kazınan kentlerin artık daha çok dijital ekranlar üzerinden tanınması, şehirlerin yerel kimliklerinin arka planda…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T08:24:31+00:00"
   },
@@ -582,7 +627,7 @@
    "link": "https://www.aa.com.tr/tr/spor/kocaelispor-18-yil-sonra-milli-takima-kaleci-gonderdi/4114971",
    "summary": "Kocaelispor'un genç file bekçisi Serhat Öztaşdelen, 18 yıl aradan sonra yeşil-siyahlı kulüpten A Milli Futbol Takımı'na davet edilen ilk oyuncu oldu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-07T08:17:15+00:00"
   },
@@ -1064,15 +1109,6 @@
    "published": "2026-11-06T22:16:56+00:00"
   },
   {
-   "title": "İran Ordusu: Keşm Adası'nda ABD'ye ait MQ-9 tipi İHA düşürüldü",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-kesm-adasinda-abdye-ait-mq-9-tipi-iha-dusuruldu/4114819",
-   "summary": "İran Ordusu, ülkenin güneyindeki Hürmüz Boğazı'nda yer alan Keşm Adası üzerinde, ABD'ye ait MQ-9 tipi insansız hava aracının (İHA) hava savunma sistemlerince düşürüldüğünü duyurdu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-06T22:05:36+00:00"
-  },
-  {
    "title": "ABD'den Kanadalı 8 şirkete İran ile bağlantılı işlemler nedeniyle yaptırım",
    "link": "https://www.aa.com.tr/tr/ekonomi/abdden-kanadali-8-sirkete-iran-ile-baglantili-islemler-nedeniyle-yaptirim/4114818",
    "summary": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
@@ -1314,42 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-06T15:06:36+00:00"
-  },
-  {
-   "title": "Samsunspor'da Bjelica oyuncularına güveniyor",
-   "link": "https://www.aa.com.tr/tr/spor/samsunsporda-bjelica-oyuncularina-guveniyor/4114439",
-   "summary": "Trendyol Süper Lig ekiplerinden Samsunspor'un teknik direktörü Nenad Bjelica, takımın içinde bulunduğu durumdan kurtulması konusunda oyuncularına güvendiğini söyledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-06T14:21:39+00:00"
-  },
-  {
-   "title": "Ümit Milli Futbol Takımı'nın aday kadrosu açıklandı",
-   "link": "https://www.aa.com.tr/tr/spor/umit-milli-futbol-takiminin-aday-kadrosu-aciklandi/4114410",
-   "summary": "Ay-yıldızlı ekip, 2027 Avrupa Şampiyonası play-off turunda 13 ve 17 Kasım'da Çekya ile karşı karşıya gelecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-06T13:59:26+00:00"
-  },
-  {
-   "title": "Sergen Yalçın, A Milli Futbol Takımı'nın aday kadrosunu açıkladı",
-   "link": "https://www.aa.com.tr/tr/spor/sergen-yalcin-a-milli-futbol-takiminin-aday-kadrosunu-acikladi/4113966",
-   "summary": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'ta Belçika ve Fransa ile oynayacağı maçların aday kadrosu belli oldu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-06T11:39:32+00:00"
-  },
-  {
-   "title": "Futbolda haftanın programı",
-   "link": "https://www.aa.com.tr/tr/spor/futbolda-haftanin-programi/4113952",
-   "summary": "Futbolda Trendyol Süper Lig'e 11, Trendyol 1. Lig'e 14, Nesine 2. Lig, Nesine 3. Lig ve Suwen Kadın Futbol Süper Ligi'ne ise 10. hafta müsabakalarıyla devam edilecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-06T11:25:16+00:00"
   }
  ]
 }
