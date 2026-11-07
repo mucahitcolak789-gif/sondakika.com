@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-07T17:06:46.440491+00:00",
+ "updated": "2026-11-07T17:42:27.515211+00:00",
  "items": [
+  {
+   "title": "Cumhurbaşkanı Erdoğan, ABD Başkanı Trump ile telefonda görüştü",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-telefonda-gorustu/4115395",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile telefonda görüştü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T17:37:44+00:00"
+  },
+  {
+   "title": "Polonya'nın Krakow kentinde silahlı saldırı: Altı ölü, en az 10 yaralı",
+   "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss",
+   "summary": "Polonya'nın Krakow kentinin başlıca meydanında gerçekleşen silahlı saldırıda altı kişi hayatını kaybetti, aralarında iki polisin de bulunduğu en az 10 kişi ise yaralandı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d087/live/ec1421a0-dac9-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-11-07T17:33:53+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan ABD Başkanı Trump ile görüştü",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-abd-baskani-trump-ile-gorustu-962557.html",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, ABD Başkanı Donald Trump ile görüştü. Liderler, TürkiyeABD ikili ilişkileri ile bölgesel ve küresel gelişmeleri ele aldı. Cumhurbaşkanı Erdoğan görüşmede, ABD Başkanı Trumpa Türk…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T17:30:00+00:00"
+  },
+  {
+   "title": "Milli basketbolcu Cedi Osman, ameliyat edildi",
+   "link": "https://www.aa.com.tr/tr/spor/milli-basketbolcu-cedi-osman-ameliyat-edildi/4115384",
+   "summary": "A Milli Erkek Basketbol Takımı kaptanı Cedi Osman, ameliyat edildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T17:22:55+00:00"
+  },
+  {
+   "title": "MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
+   "link": "https://www.aa.com.tr/tr/dunyadan-spor/motogp-katar-grand-prixsinde-sprint-yarisini-marc-marquez-kazandi/4115378",
+   "summary": "MotoGP Dünya Şampiyonası'nda sezonun 20. etabı olan Katar Grand Prix'sinin sprint yarışını Ducati Lenovo takımından İspanyol Marc Marquez kazandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T17:12:08+00:00"
+  },
+  {
+   "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
+   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-11-07T17:10:06+00:00"
+  },
+  {
+   "title": "Fon soruşturmasında yeni gelişme: 2 kişi gözaltına alındı",
+   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-yeni-gelisme-2-kisi-gozaltina-alindi-962555.html",
+   "summary": "Fon soruşturmasında Bulls Yatırım Yönetim Kurulu Başkanı Kemal Akkaya ve eski Takasbank Genel Müdürü Yunus Arıncı yeniden gözaltına alındı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T17:05:00+00:00"
+  },
+  {
+   "title": "DMM'nin 'Bir Kare Gerçek' Kısa Film Yarışması'na başvurular başladı",
+   "link": "https://www.trthaber.com/haber/gundem/dmmnin-bir-kare-gercek-kisa-film-yarismasina-basvurular-basladi-962554.html",
+   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, Dezenformasyonla Mücadele Merkezi tarafından düzenlenen \"Bir Kare Gerçek\" Kısa Film Yarışması başvurularının başladığını açıkladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T17:03:00+00:00"
+  },
   {
    "title": "Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda 25 kişi öldü",
    "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-25-kisi-oldu/4115375",
@@ -9,15 +81,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-07T16:56:02+00:00"
-  },
-  {
-   "title": "Polonya'nın Krakow kentinde silahlı saldırı: Beş ölü, en az 10 yaralı",
-   "link": "https://www.bbc.com/turkce/articles/c83vqgrnr6ego?at_medium=RSS&at_campaign=rss",
-   "summary": "Polonya'nın Krakow kentinin başlıca meydanında gerçekleşen silahlı saldırıda en az beş kişi hayatını kaybetti, en az 10 kişi ise yaralandı. Polis, saldırganın kentin ana meydanına gelip, bir araçtan ateş açtığını…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d087/live/ec1421a0-dac9-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-11-07T16:50:21+00:00"
   },
   {
    "title": "İletişim Başkanı Duran: Dijital dünyanın geleceğini birkaç güçlü aktörün eline bırakamayacağımıza yürekten inanıyorum",
@@ -303,25 +366,16 @@
    "link": "https://www.aa.com.tr/tr/spor/bodrum-fkde-4-futbolcuya-milli-davet/4115218",
    "summary": "Trendyol 1. Lig ekiplerinden Bodrum FK'de forma giyen 4 futbolcu, ülkelerinin milli takım kadrolarına davet edildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-07T13:16:17+00:00"
-  },
-  {
-   "title": "YÖK üniversitelerin öne çıkan çalışmalarını paylaştı",
-   "link": "https://www.aa.com.tr/tr/gundem/yok-universitelerin-one-cikan-calismalarini-paylasti/4115214",
-   "summary": "Yükseköğretim Kurulu (YÖK), üniversitelerin sağlık, teknoloji, tarım ve kültürel mirasın korunması gibi alanlarda yürüttüğü çalışmaları paylaştı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T13:14:21+00:00"
   },
   {
    "title": "Brüksel'de öğrenciler eylem yaptıkları üniversite binasından polis müdahalesiyle çıkarıldı",
    "link": "https://www.aa.com.tr/tr/dunya/brukselde-ogrenciler-eylem-yaptiklari-universite-binasindan-polis-mudahalesiyle-cikarildi/4115207",
    "summary": "Belçika'da Brüksel Özgür Üniversitesinin (ULB) binasında 22 Ekim'den bu yana eylem yapan öğrenciler, polis müdahalesiyle buradan çıkarıldı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T13:00:14+00:00"
   },
@@ -429,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/spor/kocaelispor-deplasmanda-eyupsporu-yendi/4115162",
    "summary": "Trendyol Süper Lig'in 11. haftasında Kocaelispor, deplasmanda Eyüpspor'u 2-0 yendi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-07T12:00:22+00:00"
   },
@@ -866,15 +920,6 @@
    "published": "2026-11-07T08:18:55+00:00"
   },
   {
-   "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
-   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-11-07T08:17:33+00:00"
-  },
-  {
    "title": "Kocaelispor, 18 yıl sonra milli takıma kaleci gönderdi",
    "link": "https://www.aa.com.tr/tr/spor/kocaelispor-18-yil-sonra-milli-takima-kaleci-gonderdi/4114971",
    "summary": "Kocaelispor'un genç file bekçisi Serhat Öztaşdelen, 18 yıl aradan sonra yeşil-siyahlı kulüpten A Milli Futbol Takımı'na davet edilen ilk oyuncu oldu.",
@@ -1082,13 +1127,13 @@
    "published": "2026-11-07T07:38:11+00:00"
   },
   {
-   "title": "ABD Başkanı Trump'tan, İran'a saldırıların savaş değil işgal olabileceği yorumu",
-   "link": "https://www.trthaber.com/haber/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu-962503.html",
-   "summary": "ABD Başkanı Donald Trump, İran'a saldırıların bir \"savaş\" olmadığını savunarak, \"Belki sadece işgalci konumunda olabiliriz. Çünkü Hürmüz Boğazı bizim kontrolümüzde. Şu anda Hürmüz Boğazı tarihindeki herhangi bir dönemde…",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "title": "ABD Başkanı Trump'tan, İran'a saldırıların \"savaş değil işgal olabileceği\" yorumu",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trumptan-irana-saldirilarin-savas-degil-isgal-olabilecegi-yorumu/4114921",
+   "summary": "ABD Başkanı Donald Trump, İran'a saldırıların bir \"savaş\" olmadığını savunarak, \"Belki sadece işgalci konumunda olabiliriz. Çünkü Hürmüz Boğazı bizim kontrolümüzde. \" ifadesini kullandı.",
+   "source": "AA",
+   "category": "Dünya",
    "image": null,
-   "published": "2026-11-07T07:37:00+00:00"
+   "published": "2026-11-07T07:35:56+00:00"
   },
   {
    "title": "Savunmada seri üretim gücü: MKE'den rekor teslimat",
@@ -1098,15 +1143,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-07T07:34:00+00:00"
-  },
-  {
-   "title": "Fon soruşturmasında 4 kişi daha tutuklandı",
-   "link": "https://www.trthaber.com/haber/gundem/fon-sorusturmasinda-4-kisi-daha-tutuklandi-962502.html",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından sermaye piyasalarında gerçekleştirilen işlemlere yönelik yürütülen \"fon soruşturması\" kapsamında aralarında eski SPK Başkanvekili Enver Usca'nın da bulunduğu 4 şüpheli daha…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T07:31:00+00:00"
   },
   {
    "title": "EPDK'den COP31 jeneratörlerinde yerli biyodizel kullanımı için özel izin",
@@ -1125,15 +1161,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-07T07:01:39+00:00"
-  },
-  {
-   "title": "Savunma Sanayii Başkanlığı 41 yaşında",
-   "link": "https://www.trthaber.com/haber/gundem/savunma-sanayii-baskanligi-41-yasinda-962501.html",
-   "summary": "Savunma Sanayii Başkanı Haluk Görgün, \"Bir zamanlar yalnızca tedarik eden Türkiye'den, bugün tasarlayan, geliştiren, üreten, entegre eden ve ihraç eden Türkiye'ye geldik\" dedi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T06:51:00+00:00"
   },
   {
    "title": "Putin, JTI'ın Rusya'daki üç varlığını daha geçici yönetime devretti",
@@ -1323,33 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d91/live/1d1488e0-da06-11f1-a701-fddedf244c16.png",
    "published": "2026-11-06T17:11:10+00:00"
-  },
-  {
-   "title": "Bakan Bayraktar: Türkiye, 2040'a geldiği zaman enerjide dışa bağımlılığını bitirmiş bağımsız bir ülke olacak",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-2040a-geldigi-zaman-enerjide-disa-bagimliligini-bitirmis-bagimsiz-bir-ulke-olacak/4114617",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar \"Türkiye, 2040'a geldiği zaman ihtiyacı olan doğal gaz ve petrolü yurt içi ve yurt dışı üretimiyle tamamıyla karşılayabilecek. Dolayısıyla enerjide dışa bağımlılığını bitirmiş…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T17:01:55+00:00"
-  },
-  {
-   "title": "Avrupa Merkez Bankası başkanlığı için iki aday çıktı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskanligi-icin-iki-aday-cikti/4114612",
-   "summary": "Avrupa Merkez Bankası (ECB) Başkanlığı görevinden ayrılacak Christine Lagarde'ın yerine geçmek üzere İspanya'dan Pablo Hernandez de Cos ve Hollanda'dan Klaas Knot aday gösterildi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T16:55:22+00:00"
-  },
-  {
-   "title": "Teknoloji hisseleri trilyonlarca dolarlık kaybın ardından toparlanıyor",
-   "link": "https://www.bbc.com/turkce/articles/cxvgdd06y2m4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Teknoloji devlerinin hisselerinde yapay zeka yatırımlarının yavaşlama ihtimaline dair endişeler sebebiyle trilyonlarca dolarlık düşüş yaşandı. Uzmanlara göre düşüşün ardında yatırımcıların yapay zeka yatırımlarından…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/93ca/live/ce7bd110-d9f2-11f1-93e1-3b657b665bcf.jpg",
-   "published": "2026-11-06T16:33:11+00:00"
   }
  ]
 }
