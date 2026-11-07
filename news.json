@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-07T23:00:12.488378+00:00",
+ "updated": "2026-11-07T23:34:00.723920+00:00",
  "items": [
+  {
+   "title": "Mısır, bölgesel gerilimlerin ekonomik etkilerine karşı kamu harcamalarını kısıtlamaya hazırlanıyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/misir-bolgesel-gerilimlerin-ekonomik-etkilerine-karsi-kamu-harcamalarini-kisitlamaya-hazirlaniyor/4115604",
+   "summary": "Mısır hükümeti, bölgesel gerilimlerin ülke ekonomisi üzerindeki olası etkilerini sınırlandırmak amacıyla elektrik ve yakıt tüketiminin azaltılması, kamu harcamalarının kısıtlanması ve bazı yatırımların ertelenmesini…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T23:17:26+00:00"
+  },
   {
    "title": "İsrail'de hükümet kurma yetkisi almaya hazırlanan Eisenkot: Ulusal acil durum hükümeti kurma zamanı",
    "link": "https://www.aa.com.tr/tr/dunya/israilde-hukumet-kurma-yetkisi-almaya-hazirlanan-eisenkot-ulusal-acil-durum-hukumeti-kurma-zamani/4115600",
@@ -36,6 +45,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-07T22:24:30+00:00"
+  },
+  {
+   "title": "Arda Güler'in gol attığı maçta Real Madrid, Valencia'yı 3-0 yendi",
+   "link": "https://www.aa.com.tr/tr/spor/arda-gulerin-gol-attigi-macta-real-madrid-valenciayi-3-0-yendi/4115597",
+   "summary": "İspanya LaLiga ekiplerinden Real Madrid, milli futbolcu Arda Güler'in 1 gol attığı maçta Valencia'yı 3-0 mağlup etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T22:20:50+00:00"
   },
   {
    "title": "İsrail askerleri Batı Şeria'da bir Filistinliyi bacağından yaraladı",
@@ -90,6 +108,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-07T21:01:30+00:00"
+  },
+  {
+   "title": "\"6. Korkut Ata Türk Dünyası Film Festivali\" ödül töreniyle sona erdi",
+   "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivali-odul-toreniyle-sona-erdi/4115558",
+   "summary": "Kültür ve Turizm Bakanlığı himayesinde, Uluslararası Sinema Derneği tarafından düzenlenen \"6. Korkut Ata Türk Dünyası Film Festivali\" kapanış ve ödül töreni, Atatürk Kültür Merkezi'nde (AKM) gerçekleştirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T21:01:23+00:00"
   },
   {
    "title": "Fransa'da hükümet sözcülüğü görevini geçici olarak Mathieu Lefevre üstlenecek",
@@ -326,15 +353,6 @@
    "published": "2026-11-07T17:14:16+00:00"
   },
   {
-   "title": "MotoGP Katar Grand Prix'sinde sprint yarışını Marc Marquez kazandı",
-   "link": "https://www.aa.com.tr/tr/dunyadan-spor/motogp-katar-grand-prixsinde-sprint-yarisini-marc-marquez-kazandi/4115378",
-   "summary": "MotoGP Dünya Şampiyonası'nda sezonun 20. etabı olan Katar Grand Prix'sinin sprint yarışını Ducati Lenovo takımından İspanyol Marc Marquez kazandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T17:12:08+00:00"
-  },
-  {
    "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
    "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
    "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
@@ -366,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-25-kisi-oldu/4115375",
    "summary": "Yemen ordusu, Husilere yönelik düzenlenen 875 operasyonda 130 milisi etkisiz hale getirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T16:56:02+00:00"
   },
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-06T17:44:29+00:00"
-  },
-  {
-   "title": "Sergen Yalçın'ın ilk A Milli Takım seçkisi ve Serhat Öztaşdelen'in sevinci",
-   "link": "https://www.bbc.com/turkce/articles/c6x299pm5zrxo?at_medium=RSS&at_campaign=rss",
-   "summary": "A Milli Takım Teknik Direktörü Sergen Yalçın, A Milli Takım'da ilk seçkisini yaptı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8d91/live/1d1488e0-da06-11f1-a701-fddedf244c16.png",
-   "published": "2026-11-06T17:11:10+00:00"
-  },
-  {
-   "title": "Bakan Bayraktar: Türkiye, 2040'a geldiği zaman enerjide dışa bağımlılığını bitirmiş bağımsız bir ülke olacak",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bayraktar-turkiye-2040a-geldigi-zaman-enerjide-disa-bagimliligini-bitirmis-bagimsiz-bir-ulke-olacak/4114617",
-   "summary": "Enerji ve Tabii Kaynaklar Bakanı Bayraktar \"Türkiye, 2040'a geldiği zaman ihtiyacı olan doğal gaz ve petrolü yurt içi ve yurt dışı üretimiyle tamamıyla karşılayabilecek. Dolayısıyla enerjide dışa bağımlılığını bitirmiş…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T17:01:55+00:00"
   }
  ]
 }
