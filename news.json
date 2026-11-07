@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-07T13:43:35.961548+00:00",
+ "updated": "2026-11-07T14:26:03.703289+00:00",
  "items": [
+  {
+   "title": "CENTCOM, yeni görev gücüyle İran'ın kara yoluyla silah ve malzeme naklini engellemeyi hedefliyor",
+   "link": "https://www.trthaber.com/haber/dunya/centcom-yeni-gorev-gucuyle-iranin-kara-yoluyla-silah-ve-malzeme-naklini-engellemeyi-hedefliyor-962544.html",
+   "summary": "ABD Merkez Kuvvetler Komutanlığı CENTCOM bünyesinde İran'ın gelişmiş silahları ve diğer malzemeleri kara yolu üzerinden nakletmesini engellemek için \"Iron Gate\" isimli bir görev gücünün kurulduğu bildirildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T14:11:00+00:00"
+  },
+  {
+   "title": "Irak: ABD, İran ile sınır kapılarının büyük bölümünün kapatılmasını istedi",
+   "link": "https://www.trthaber.com/haber/dunya/irak-abd-iran-ile-sinir-kapilarinin-buyuk-bolumunun-kapatilmasini-istedi-962543.html",
+   "summary": "Irak Dışişleri Bakanı Fuad Hüseyin, ABD'nin Bağdat yönetiminden İran ile arasındaki sınır kapılarının büyük bölümünü kapatmasını resmen talep ettiğini açıkladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T14:01:00+00:00"
+  },
+  {
+   "title": "Malezya Başbakan Yardımcısı Hamidi'den Türkiye ile savunma sanayisi işbirliğini derinleştirme vurgusu",
+   "link": "https://www.aa.com.tr/tr/gundem/malezya-basbakan-yardimcisi-hamididen-turkiye-ile-savunma-sanayisi-isbirligini-derinlestirme-vurgusu/4115249",
+   "summary": "Malezya Başbakan Yardımcısı Hamidi, Türkiye'nin savunma teknolojileri ile ülkesinin yüksek teknoloji kapasitesinin birbirini tamamladığını belirterek, üretim, bakım, ortak teknoloji geliştirme alanında işbirliğini…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:56:43+00:00"
+  },
+  {
+   "title": "SGK'den lösemili çocukların tedavisine 7,4 milyar liralık destek",
+   "link": "https://www.aa.com.tr/tr/ekonomi/sgkden-losemili-cocuklarin-tedavisine-7-4-milyar-liralik-destek/4115243",
+   "summary": "Sosyal Güvenlik Kurumu (SGK), lösemili çocukların sağlık harcamaları için bu yılın 7 ayında 7 milyar 431 milyon lira ödeme yaptı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:51:52+00:00"
+  },
+  {
+   "title": "Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'den istifa etti",
+   "link": "https://www.trthaber.com/haber/gundem/tekirdag-buyuksehir-belediye-baskani-yuceer-yeni-partiden-istifa-etti-962542.html",
+   "summary": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa ettiğini açıkladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:50:00+00:00"
+  },
   {
    "title": "Antalya Emniyeti, COP31 güvenliği için envanterine İHA kattı",
    "link": "https://www.aa.com.tr/tr/gundem/antalya-emniyeti-cop31-guvenligi-icin-envanterine-iha-katti/4115228",
@@ -348,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/sigir-karkasinin-pazar-fiyati-sicak-agirliga-gore-belirlenecek/4115053",
    "summary": "Karkas sığır etinin fiyatının belirlenmesinde \"sıcak karkas ağırlığı\" esas alınacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-07T09:44:13+00:00"
   },
@@ -384,7 +429,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilin-saldirilari-altindaki-gazzede-can-kaybi-74-bin-640a-yukseldi/4115040",
    "summary": "İsrail'in saldırılarını sürdürdüğü Gazze Şeridi'nde hayatını kaybedenlerin sayısı son 48 saatte 10 artarak 74 bin 640'a yükseldi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T09:30:29+00:00"
   },
@@ -542,6 +587,15 @@
    "published": "2026-11-07T08:30:03+00:00"
   },
   {
+   "title": "Berlin'den Antalya'ya COP'un 31 yıllık iklim diplomasisi sınavı",
+   "link": "https://www.aa.com.tr/tr/cop31/berlinden-antalyaya-copun-31-yillik-iklim-diplomasisi-sinavi/4114984",
+   "summary": "Almanya'da 1995'te başlayan COP zirveleri, Kyoto Protokolü ve Paris Anlaşması gibi tarihi adımlara sahne olurken iklim finansmanı, fosil yakıtlardan çıkış ve emisyon azaltımı konularındaki anlaşmazlıklar yıllarca sürdü.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-07T08:28:05+00:00"
+  },
+  {
    "title": "Küresel piyasalar haftayı karışık seyirle tamamladı",
    "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-haftayi-karisik-seyirle-tamamladi-962511.html",
    "summary": "Küresel pay piyasaları, bu hafta ABD'de gerçekleştirilen Kongre ara seçimleri, Orta Doğu'daki gelişmeler ve makroekonomik verilerin takip edildiği yoğun haftayı karışık seyirle tamamlarken, gözler gelecek hafta ABD'de…",
@@ -672,7 +726,7 @@
    "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-genclerbirligi-ligde-97-kez-karsilasacak/4114961",
    "summary": "Beşiktaş ile Gençlerbirliği, yarın yapacakları maçla Süper Lig'de 97. kez karşı karşıya gelecek.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-07T08:10:09+00:00"
   },
@@ -729,15 +783,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-07T08:08:58+00:00"
-  },
-  {
-   "title": "Gençler COP31'de geleceğin iklim politikalarına katkı sunacak",
-   "link": "https://www.aa.com.tr/tr/gundem/gencler-cop31de-gelecegin-iklim-politikalarina-katki-sunacak/4114956",
-   "summary": "Türkiye'nin ev sahipliğinde düzenlenecek Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı'nda (COP31), farklı ülkelerden gençler iklim krizine çözüm üretmek ve ortak çalışmalar…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T08:06:44+00:00"
   },
   {
    "title": "Demokratların seçim zaferiyle yarı iletken şirketlerinin hisseleri kan kaybetti",
@@ -1001,33 +1046,6 @@
    "published": "2026-11-07T05:52:27+00:00"
   },
   {
-   "title": "Hafta sonu kış havası kapıda: Sıcaklıklar düşüyor, kar ve fırtına geliyor",
-   "link": "https://www.trthaber.com/haber/gundem/hafta-sonu-kis-havasi-kapida-sicakliklar-dusuyor-kar-ve-firtina-geliyor-962493.html",
-   "summary": "Hafta sonu yurt genelinde sıcaklıklar sert düşüşe geçiyor. Karadeniz kıyılarında şiddetli yağış, iç ve doğu kesimlerde yoğun kar, denizlerde ve güneyde ise fırtına bekleniyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T05:34:00+00:00"
-  },
-  {
-   "title": "SPK'dan 3 şirketin pay piyasasındaki işlemlere ilişkin suç duyurusu kararı",
-   "link": "https://www.trthaber.com/haber/ekonomi/spkdan-3-sirketin-pay-piyasasindaki-islemlere-iliskin-suc-duyurusu-karari-962492.html",
-   "summary": "Sermaye Piyasası Kurulu SPK, pay piyasalarında gerçekleştirilen işlemler nedeniyle Temapol Polimer Plastik ve İnşaat Sanayi Ticaret AŞ TMPOL için 24, İsvea Seramik ve Banyo Ürünleri Sanayi AŞ ISVEA için 22, Tera Yatırım…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T05:27:00+00:00"
-  },
-  {
-   "title": "TRT World Forum 2. gün oturumunlarıyla devam ediyor",
-   "link": "https://www.trthaber.com/haber/gundem/trt-world-forum-2-gun-oturumunlariyla-devam-ediyor-962491.html",
-   "summary": "Cumhurbaşkanı Erdoğan'ın açılışını yaptığı TRT World Forum, ikinci gününde de dünya gündemine yön veren tartışmalara ev sahipliği yapıyor. Küresel liderler, akademisyenler ve uzmanlar; diplomasiden ekonomiye,…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T05:15:00+00:00"
-  },
-  {
    "title": "ABD basını: ABD Başkan Yardımcısı Vance, İran'la anlaşma için 2 haftadır görüşmeler yürütüyor",
    "link": "https://www.aa.com.tr/tr/dunya/abd-basini-abd-baskan-yardimcisi-vance-iranla-anlasma-icin-2-haftadir-gorusmeler-yurutuyor-/4114844",
    "summary": "ABD Başkan Yardımcısı JD Vance'in, yeni bir ateşkes sağlamak ve nükleer müzakereleri yeniden başlatmak amacıyla son 2 haftadır İran'la dolaylı görüşmelere katıldığı iddia edildi.",
@@ -1100,15 +1118,6 @@
    "published": "2026-11-06T22:41:33+00:00"
   },
   {
-   "title": "Katar, ABD ile İran arasında anlaşmaya varılamadığı yönündeki iddiaları yalanladı",
-   "link": "https://www.aa.com.tr/tr/dunya/katar-abd-ile-iran-arasinda-anlasmaya-varilamadigi-yonundeki-iddialari-yalanladi-/4114822",
-   "summary": "Katar, Başbakan ve Dışişleri Bakanı Muhammed bin Abdurrahman Al Sani'nin ABD ile İran arasında anlaşmaya varılamadığı yönünde açıklama yaptığına ilişkin iddiaların gerçeği yansıtmadığını bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-06T22:16:56+00:00"
-  },
-  {
    "title": "ABD'den Kanadalı 8 şirkete İran ile bağlantılı işlemler nedeniyle yaptırım",
    "link": "https://www.aa.com.tr/tr/ekonomi/abdden-kanadali-8-sirkete-iran-ile-baglantili-islemler-nedeniyle-yaptirim/4114818",
    "summary": "ABD Hazine Bakanlığı, İran yönetiminin yaptırımları aşmasına yardımcı oldukları ve yasa dışı finansal faaliyetlere aracılık ettikleri gerekçesiyle Kanada merkezli 8 para hizmetleri şirketini yaptırım listesine aldı.",
@@ -1143,15 +1152,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-06T21:59:17+00:00"
-  },
-  {
-   "title": "Uzmanlar, Etiyopya'nın \"deniz kapısı\" arayışında bölgesel uzlaşıyı zor görüyor",
-   "link": "https://www.aa.com.tr/tr/dunya/uzmanlar-etiyopyanin-deniz-kapisi-arayisinda-bolgesel-uzlasiyi-zor-goruyor/4114810",
-   "summary": "Mısır ile Etiyopya arasında son dönemde \"deniz kapısı\" konusunda yaşanan tartışmaları değerlendiren iki ülkeden uzmanlar, Addis Ababa yönetimi ile bölge ülkeleri arasında kısa vadede uzlaşı sağlanmasını zor görüyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-06T21:59:04+00:00"
   },
   {
    "title": "Yeni Zelanda'daki genel seçimlerde oy verme işlemi başladı",
@@ -1289,15 +1289,6 @@
    "published": "2026-11-06T16:12:58+00:00"
   },
   {
-   "title": "Bu hafta yatırım araçlarının performansı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bu-hafta-yatirim-araclarinin-performansi/4114567",
-   "summary": "Borsa İstanbul'da işlem gören hisse senetleri haftalık bazda yüzde 6,72, altının gram fiyatı yüzde 3,57, avro/TL yüzde 0,37 ve dolar/TL yüzde 0,42 değer kazandı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T16:02:04+00:00"
-  },
-  {
    "title": "Mısırlılar, Muhammed Salah'ın futbol hayatına Trabzon'da devam etmesinden memnun",
    "link": "https://www.aa.com.tr/tr/spor/misirlilar-muhammed-salahin-futbol-hayatina-trabzonda-devam-etmesinden-memnun/4114541",
    "summary": "Necric köyü Belediye Başkanı Maher Shetteh, \"Artık Türkiye ligini izlemek, maçları takip etmek ve Muhammed Salah'ı seyretmek için çok daha büyük bir heyecan duyuyoruz.\" dedi.",
@@ -1334,15 +1325,6 @@
    "published": "2026-11-06T15:30:08+00:00"
   },
   {
-   "title": "Borsa günü yükselişle tamamladı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4114518",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,32 değer kazanarak 11.482,60 puandan tamamladı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T15:24:45+00:00"
-  },
-  {
    "title": "Fenerbahçe'de Emre Belözoğlu dönemi başladı",
    "link": "https://www.aa.com.tr/tr/spor/emre-belozoglu-icin-imza-toreni-yapildi/4114503",
    "summary": "Sarı-lacivertli ekipte teknik direktörlük görevine getirilen Belözoğlu, \"Fenerbahçe için net kriterler tutku ve kalitedir.\" dedi.",
@@ -1350,6 +1332,24 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-06T15:06:36+00:00"
+  },
+  {
+   "title": "Samsunspor'da Bjelica oyuncularına güveniyor",
+   "link": "https://www.aa.com.tr/tr/spor/samsunsporda-bjelica-oyuncularina-guveniyor/4114439",
+   "summary": "Trendyol Süper Lig ekiplerinden Samsunspor'un teknik direktörü Nenad Bjelica, takımın içinde bulunduğu durumdan kurtulması konusunda oyuncularına güvendiğini söyledi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-06T14:21:39+00:00"
+  },
+  {
+   "title": "Ümit Milli Futbol Takımı'nın aday kadrosu açıklandı",
+   "link": "https://www.aa.com.tr/tr/spor/umit-milli-futbol-takiminin-aday-kadrosu-aciklandi/4114410",
+   "summary": "Ay-yıldızlı ekip, 2027 Avrupa Şampiyonası play-off turunda 13 ve 17 Kasım'da Çekya ile karşı karşıya gelecek.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-06T13:59:26+00:00"
   }
  ]
 }
