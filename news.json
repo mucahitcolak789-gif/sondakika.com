@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-07T15:07:10.590430+00:00",
+ "updated": "2026-11-07T15:45:23.227035+00:00",
  "items": [
+  {
+   "title": "İsrail saldırılarında ölen Filistinli spor camiası mensuplarının sayısı 1016'ya yükseldi",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilarinda-olen-filistinli-spor-camiasi-mensuplarinin-sayisi-1016ya-yukseldi/4115318",
+   "summary": "İsrail askerlerinin Gazze Şeridi'nin güneyinde açtığı ateş sonucu 15 yaşındaki Muhammed Nidal Berbah'ın hayatını kaybetmesiyle, İsrail saldırılarında yaşamını yitiren spor camiası mensuplarının sayısı 1016'ya çıktı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T15:34:35+00:00"
+  },
+  {
+   "title": "TRT World Forum'da enerji krizleri ve güvenliği ele alındı",
+   "link": "https://www.trthaber.com/haber/gundem/trt-world-forumda-enerji-krizleri-ve-guvenligi-ele-alindi-962548.html",
+   "summary": "İstanbul'da TRT World Forum kapsamında \"Enerji Krizlerinin Artçı Sarsıntıları: Baskı Altındaki Kurumlar\" başlıklı panel düzenlendi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T15:31:00+00:00"
+  },
+  {
+   "title": "6. Korkut Ata Türk Dünyası Film Festivali'nde \"Yapay Zeka ve Sinema\" paneli düzenlendi",
+   "link": "https://www.aa.com.tr/tr/kultur/6-korkut-ata-turk-dunyasi-film-festivalinde-yapay-zeka-ve-sinema-paneli-duzenlendi/4115308",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T15:26:36+00:00"
+  },
+  {
+   "title": "Türk Telekom, Biotekno Körfez Basket'i 94-82 yendi",
+   "link": "https://www.aa.com.tr/tr/spor/turk-telekom-biotekno-korfez-basketi-94-82-yendi/4115301",
+   "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 7. haftasında Türk Telekom, sahasında Biotekno Körfez Basket'i 94-82 yendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T15:08:12+00:00"
+  },
   {
    "title": "Rusya: Avrupa ülkelerinin Ukrayna müzakere masasında yeri yok",
    "link": "https://www.trthaber.com/haber/dunya/rusya-avrupa-ulkelerinin-ukrayna-muzakere-masasinda-yeri-yok-962546.html",
@@ -99,6 +135,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-07T13:51:52+00:00"
+  },
+  {
+   "title": "Türk teknoloji şirketinin küçük modüler reaktör projesi COP31'de vitrine çıkacak",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/turk-teknoloji-sirketinin-kucuk-moduler-reaktor-projesi-cop31de-vitrine-cikacak/4115240",
+   "summary": "Türk teknoloji şirketi MİA Teknoloji, yüzde 50'nin üzerinde yerli katkıyla geliştirmeyi hedeflediği 100 megavat kapasiteli küçük modüler reaktör projesini Türkiye'nin ev sahipliğinde Antalya'da düzenlenecek COP31'de…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-07T13:50:35+00:00"
   },
   {
    "title": "Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'den istifa etti",
@@ -312,7 +357,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkcell-cop31de-dijital-ve-yesil-donusum-vizyonunu-paylasacak/4115125",
    "summary": "Turkcell, \"Sektör Ortağı\" olarak destek verdiği COP31'de dijital ve yeşil dönüşüm vizyonunu uluslararası kamuoyuyla paylaşacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-07T11:26:59+00:00"
   },
@@ -348,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/avusturya-ile-italya-arasindaki-brenner-tuneli-projesini-yuruten-sirkete-siber-saldiri-duzenlendi/4115118",
    "summary": "Avusturya ile İtalya'yı demir yoluyla bağlayacak Brenner Tüneli projesini yürüten BBT SE, şirketin bilgi sistemlerine siber saldırı düzenlendiğini ve saldırganların bazı verilere eriştiğini doğruladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T11:18:28+00:00"
   },
@@ -375,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusyada-siber-saldiri-nedeniyle-bazi-ekonomik-verilerin-yayimlanmasi-gecikiyor/4115096",
    "summary": "Rusya Federal İstatistik Kurumu (Rosstat), bilişim sistemlerine yönelik siber saldırının ardından bazı ekonomik verilerin açıklanmasında gecikmeler yaşanabileceğini bildirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-07T10:45:41+00:00"
   },
@@ -1037,15 +1082,6 @@
    "published": "2026-11-07T06:45:00+00:00"
   },
   {
-   "title": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 162 sandalyeye ulaştı",
-   "link": "https://www.trthaber.com/haber/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-162-sandalyeye-ulasti-962496.html",
-   "summary": "ABD'de 3 Kasım'da düzenlenen Kongre ara seçimlerinde oy sayımı devam ederken Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 162 sandalye kazandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T06:34:00+00:00"
-  },
-  {
    "title": "Beşiktaş, Süper Lig'de yarın Gençlerbirliği'ni ağırlayacak",
    "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-genclerbirligini-agirlayacak/4114890",
    "summary": "Beşiktaş, Trendyol Süper Lig'de 11. haftanın kapanış maçında yarın Gençlerbirliği'ni konuk edecek.",
@@ -1053,6 +1089,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-07T06:30:00+00:00"
+  },
+  {
+   "title": "ABD'deki ara seçimlerde Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 162 sandalyeye ulaştı",
+   "link": "https://www.aa.com.tr/tr/dunya/abddeki-ara-secimlerde-temsilciler-meclisinde-demokratlar-254-cumhuriyetciler-162-sandalyeye-ulasti/4114889",
+   "summary": "ABD'de 3 Kasım'da düzenlenen Kongre ara seçimlerinde oy sayımı devam ederken Temsilciler Meclisinde Demokratlar 254, Cumhuriyetçiler 162 sandalye kazandı.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-07T06:27:05+00:00"
   },
   {
    "title": "Ticaret Bakanlığı \"Ticarette Kadın-Erkek Eşitliği Uluslararası Ödülü\"ne layık görüldü",
@@ -1190,15 +1235,6 @@
    "published": "2026-11-06T21:59:23+00:00"
   },
   {
-   "title": "Yeni Zelanda'daki genel seçimlerde oy verme işlemi başladı",
-   "link": "https://www.aa.com.tr/tr/dunya/yeni-zelandadaki-genel-secimlerde-oy-verme-islemi-basladi/4114809",
-   "summary": "Okyanusya ülkesi Yeni Zelanda'da yeni hükümeti belirlemek üzere düzenlenen genel seçimlerde oy verme işleminin başladığı bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-06T21:57:19+00:00"
-  },
-  {
    "title": "İsrail'de koalisyon görüşmeleri: Gadi Eisenkot'tan 'önemli ilerlemeler kaydettik' açıklaması",
    "link": "https://www.bbc.com/turkce/articles/cw20338m1l2jo?at_medium=RSS&at_campaign=rss",
    "summary": "İsrail'de 27 Ekim Salı günü yapılan parlamento seçimleri sonrası, muhalefet partileri olası bir koalisyon noktasında ilerleme kaydedildiğini duyurdu.",
@@ -1314,42 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-06T16:22:46+00:00"
-  },
-  {
-   "title": "TCMB Başkanı Karahan: Fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer piyasalarla etkileşimini takip ediyoruz",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-baskani-karahan-fon-piyasasindaki-gelismelerin-bankacilik-sistemi-ve-diger-piyasalarla-etkilesimini-takip-ediyoruz/4114582",
-   "summary": "TCMB Başkanı Karahan, fon piyasasındaki gelişmelerin bankacılık sistemi ve diğer finansal piyasalarla olan etkileşimini yakından takip ettiklerini belirterek, \"Gerek görülmesi halinde her türlü ek tedbiri proaktif bir…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T16:12:58+00:00"
-  },
-  {
-   "title": "Mısırlılar, Muhammed Salah'ın futbol hayatına Trabzon'da devam etmesinden memnun",
-   "link": "https://www.aa.com.tr/tr/spor/misirlilar-muhammed-salahin-futbol-hayatina-trabzonda-devam-etmesinden-memnun/4114541",
-   "summary": "Necric köyü Belediye Başkanı Maher Shetteh, \"Artık Türkiye ligini izlemek, maçları takip etmek ve Muhammed Salah'ı seyretmek için çok daha büyük bir heyecan duyuyoruz.\" dedi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-06T15:49:34+00:00"
-  },
-  {
-   "title": "TRT World Forum 2026'da \"Türkiye: Bölgesel Güçten Bölgeler Arası Bir Aktöre\" paneli düzenlendi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/trt-world-forum-2026da-turkiye-bolgesel-gucten-bolgeler-arasi-bir-aktore-paneli-duzenlendi/4114540",
-   "summary": "İstanbul'da düzenlenen TRT World Forum 2026 kapsamında \"Türkiye: Bölgesel Güçten Bölgeler Arası Bir Aktöre\" adlı panel düzenlendi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T15:48:12+00:00"
-  },
-  {
-   "title": "Bakan Bolat: Türkiye, dünyada seramik karoda 5'inci, genel seramik ürünlerinde ilk 10'un içinde",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-turkiye-dunyada-seramik-karoda-5inci-genel-seramik-urunlerinde-ilk-10un-icinde/4114530",
-   "summary": "Ticaret Bakanı Ömer Bolat, Türkiye'nin yıllık 1,3 milyar dolarlık seramik ihraç ettiğini belirterek, \"Dünyada özellikle seramik karoda 5'inci. Genel seramik ürünlerinde de ilk 10'un içinde.\" dedi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-06T15:38:25+00:00"
   }
  ]
 }
