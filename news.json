@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-08T04:20:25.465279+00:00",
+ "updated": "2026-11-08T05:18:03.180279+00:00",
  "items": [
+  {
+   "title": "18 il için 'sarı' kodlu uyarı",
+   "link": "https://www.trthaber.com/haber/turkiye/18-il-icin-sari-kodlu-uyari-962571.html",
+   "summary": "Soğuk ve yağışlı hava yurt genelinde etkili oluyor. 18 il için Meteoroloji tarafından 'sarı' kodlu uyarı yapıldı. Vatandaşlardan yaşanabilecek olumsuzluklara karşı tedbirli olmaları istendi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T04:27:00+00:00"
+  },
   {
    "title": "Bursa'da apartman dairesinde yangın",
    "link": "https://www.trthaber.com/haber/turkiye/bursada-apartman-dairesinde-yangin-962570.html",
@@ -18,6 +27,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T02:55:00+00:00"
+  },
+  {
+   "title": "Hakkari'de 63 düzensiz göçmen yakalandı",
+   "link": "https://www.trthaber.com/haber/turkiye/hakkaride-63-duzensiz-gocmen-yakalandi-962568.html",
+   "summary": "Hakkari'de, yurda yasa dışı yollarla girmeye çalışan 63 düzensiz göçmen ve göçmenlerin geçişini sağlamaya çalışan 1 şüpheli yakalandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T02:49:00+00:00"
   },
   {
    "title": "Suudi Arabistan'ın 3 kentinde erken uyarı sistemi devreye alındı",
@@ -1010,24 +1028,6 @@
    "published": "2026-11-07T08:47:00+00:00"
   },
   {
-   "title": "Hava yolunda yılın 10 ayında 216,8 milyon yolcuya hizmet verildi",
-   "link": "https://www.trthaber.com/haber/ekonomi/hava-yolunda-yilin-10-ayinda-2168-milyon-yolcuya-hizmet-verildi-962517.html",
-   "summary": "Türkiye'de bu yılın 10 ayında direkt transit yolcularla birlikte hava yolunda toplam 216 milyon 803 bin 230 yolcuya hizmet verildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T08:44:00+00:00"
-  },
-  {
-   "title": "Türkiye, COP31'de iki önemli girişimi dünyaya ilan edilecek",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-cop31de-iki-onemli-girisimi-dunyaya-ilan-edilecek-962518.html",
-   "summary": "İklim Değişikliği Başkanı Halil Hasar, COP31'de 11 Kasım'daki Sıfır Atık Günü kapsamında etkinlikler düzenleneceğini ve aynı gün liderler düzeyinde Döngüsellik Bilgi Paylaşım Ağı Girişimi ile Atıktan Kaynaklanan Metan…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T08:38:00+00:00"
-  },
-  {
    "title": "Cristiano Ronaldo'nun milli takıma vedasında Jorge Jesus etkisi",
    "link": "https://www.aa.com.tr/tr/spor/cristiano-ronaldonun-milli-takima-vedasinda-jorge-jesus-etkisi/4114987",
    "summary": "Dünya futbolunun en önemli yıldızları arasında yer alan Portekizli Cristiano Ronaldo'nun milli takım kariyerini noktalaması, kamuoyunun en önemli gündem maddelerinden biri oldu.",
@@ -1102,7 +1102,7 @@
   {
    "title": "Trabzonspor ile Alanyaspor 21. randevuda",
    "link": "https://www.aa.com.tr/tr/spor/trabzonspor-ile-alanyaspor-21-randevuda/4114966",
-   "summary": "Trabzonspor ile Corendon Alanyaspor, yarın Alanya'da yapacakları maçla ligde 21. kez karşı karşıya gelecek.",
+   "summary": "Trabzonspor ile Corendon Alanyaspor, bugün Alanya'da yapacakları maçla ligde 21. kez karşı karşıya gelecek.",
    "source": "AA",
    "category": "Spor",
    "image": null,
@@ -1129,7 +1129,7 @@
   {
    "title": "Beşiktaş ile Gençlerbirliği ligde 97. kez karşılaşacak",
    "link": "https://www.aa.com.tr/tr/spor/besiktas-ile-genclerbirligi-ligde-97-kez-karsilasacak/4114961",
-   "summary": "Beşiktaş ile Gençlerbirliği, yarın yapacakları maçla Süper Lig'de 97. kez karşı karşıya gelecek.",
+   "summary": "Beşiktaş ile Gençlerbirliği, bugün yapacakları maçla Süper Lig'de 97. kez karşı karşıya gelecek.",
    "source": "AA",
    "category": "Spor",
    "image": null,
@@ -1181,9 +1181,9 @@
    "published": "2026-11-07T08:06:06+00:00"
   },
   {
-   "title": "Trabzonspor, Corendon Alanyaspor ile yarın deplasmanda karşılaşacak",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-corendon-alanyaspor-ile-yarin-deplasmanda-karsilasacak/4114952",
-   "summary": "Trabzonspor, Trendyol Süper Lig'in 11. haftasında yarın deplasmanda Corendon Alanyaspor ile karşılaşacak.",
+   "title": "Trabzonspor, Corendon Alanyaspor ile bugün deplasmanda karşılaşacak",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-corendon-alanyaspor-ile-bugun-deplasmanda-karsilasacak/4114952",
+   "summary": "Trabzonspor, Trendyol Süper Lig'in 11. haftasında bugün deplasmanda Corendon Alanyaspor ile karşılaşacak.",
    "source": "AA",
    "category": "Spor",
    "image": null,
@@ -1199,9 +1199,9 @@
    "published": "2026-11-07T08:02:31+00:00"
   },
   {
-   "title": "Çaykur Rizespor, Süper Lig'de yarın Erzurumspor FK'yi konuk edecek",
-   "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-super-ligde-yarin-erzurumspor-fkyi-konuk-edecek/4114931",
-   "summary": "Çaykur Rizespor, Trendyol Süper Lig'in 11. haftasında yarın sahasında Erzurumspor FK ile karşılaşacak.",
+   "title": "Çaykur Rizespor, Süper Lig'de bugün Erzurumspor FK'yi konuk edecek",
+   "link": "https://www.aa.com.tr/tr/spor/caykur-rizespor-super-ligde-bugun-erzurumspor-fkyi-konuk-edecek/4114931",
+   "summary": "Çaykur Rizespor, Trendyol Süper Lig'in 11. haftasında bugün sahasında Erzurumspor FK ile karşılaşacak.",
    "source": "AA",
    "category": "Spor",
    "image": null,
@@ -1219,7 +1219,7 @@
   {
    "title": "Vodafone Sultanlar Ligi'nde derbi heyecanı yaşanacak",
    "link": "https://www.aa.com.tr/tr/spor/vodafone-sultanlar-liginde-derbi-heyecani-yasanacak/4114923",
-   "summary": "Voleybol Vodafone Sultanlar Ligi'nin 8. haftasında Galatasaray Daikin, yarın Beşiktaş'ı konuk edecek.",
+   "summary": "Voleybol Vodafone Sultanlar Ligi'nin 8. haftasında Galatasaray Daikin, bugün Beşiktaş'ı konuk edecek.",
    "source": "AA",
    "category": "Spor",
    "image": null,
@@ -1244,9 +1244,9 @@
    "published": "2026-11-07T06:49:40+00:00"
   },
   {
-   "title": "Beşiktaş, Süper Lig'de yarın Gençlerbirliği'ni ağırlayacak",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-yarin-genclerbirligini-agirlayacak/4114890",
-   "summary": "Beşiktaş, Trendyol Süper Lig'de 11. haftanın kapanış maçında yarın Gençlerbirliği'ni konuk edecek.",
+   "title": "Beşiktaş, Süper Lig'de bugün Gençlerbirliği'ni ağırlayacak",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-super-ligde-bugun-genclerbirligini-agirlayacak/4114890",
+   "summary": "Beşiktaş, Trendyol Süper Lig'de 11. haftanın kapanış maçında bugün Gençlerbirliği'ni konuk edecek.",
    "source": "AA",
    "category": "Spor",
    "image": null,
@@ -1262,9 +1262,9 @@
    "published": "2026-11-07T06:24:25+00:00"
   },
   {
-   "title": "Fenerbahçe, Süper Lig'de yarın Çorum FK'ye konuk olacak",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-yarin-corum-fkye-konuk-olacak-/4114884",
-   "summary": "Fenerbahçe, Trendyol Süper Lig'in 11. haftasında yarın deplasmanda Arca Çorum FK ile karşılaşacak.",
+   "title": "Fenerbahçe, Süper Lig'de bugün Çorum FK'ye konuk olacak",
+   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-super-ligde-bugun-corum-fkye-konuk-olacak/4114884",
+   "summary": "Fenerbahçe, Trendyol Süper Lig'in 11. haftasında bugün deplasmanda Arca Çorum FK ile karşılaşacak.",
    "source": "AA",
    "category": "Spor",
    "image": null,
