@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-08T10:11:58.223082+00:00",
+ "updated": "2026-11-08T10:52:57.718641+00:00",
  "items": [
+  {
+   "title": "Bitkiler üniversitedeki merkezde ileri teknolojiyle değer kazanıyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bitkiler-universitedeki-merkezde-ileri-teknolojiyle-deger-kazaniyor/4115867",
+   "summary": "Necmettin Erbakan Üniversitesi Tıbbi ve Kozmetik Bitkiler Uygulama ve Araştırma Merkezi'nde, bitkilerden gıda takviyesi ve kozmetik ürünleri geliştiriliyor.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-08T10:50:42+00:00"
+  },
+  {
+   "title": "Arjantin'de Boca Juniors, Enner Valencia'nın uzatma dakikalarındaki golüyle şampiyon oldu",
+   "link": "https://www.aa.com.tr/tr/spor/arjantinde-boca-juniors-enner-valencianin-uzatma-dakikalarindaki-goluyle-sampiyon-oldu/4115862",
+   "summary": "Arjantin Birinci Futbol Ligi'nde Defensa y Justicia'yı 1-0 yenen Boca Juniors, şampiyonluğa ulaştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:41:03+00:00"
+  },
+  {
+   "title": "ASELSAN, enerji ihtiyacının tamamını güneşten karşılayacak",
+   "link": "https://www.trthaber.com/haber/bilim-teknoloji/aselsan-enerji-ihtiyacinin-tamamini-gunesten-karsilayacak-962589.html",
+   "summary": "ASELSAN, üretim faaliyetlerinde kullanılan enerjinin tamamının yenilenebilir kaynaklardan karşılanması amacıyla kurduğu Güneş Enerjisi Santrallerini GES devreye aldığını duyurdu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:37:00+00:00"
+  },
+  {
+   "title": "Gölcük Tabiat Parkı beyaza büründü",
+   "link": "https://www.aa.com.tr/tr/gundem/golcuk-tabiat-parki-beyaza-burundu/4115856",
+   "summary": "Bolu'nun doğal güzellikleriyle ünlü Gölcük Tabiat Parkı, kar yağışının ardından beyaza büründü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:35:47+00:00"
+  },
+  {
+   "title": "İsrail Cumhurbaşkanı, muhalefet lideri Eisenkot'u hükümeti kurmakla görevlendirdi",
+   "link": "https://www.bbc.com/turkce/articles/cw20338m1l2jo?at_medium=RSS&at_campaign=rss",
+   "summary": "İsrail Cumhurbaşkanı Isaac Herzog, muhalefet lideri Gadi Eisenkot'u yeni bir koalisyon hükümeti kurmakla görevlendirdiğini açıkladı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1838/live/969e0330-db5f-11f1-adda-c54f54e3ce6a.jpg",
+   "published": "2026-11-08T10:33:52+00:00"
+  },
+  {
+   "title": "İngiltere 16 yaşından küçüklerin alışveriş sitelerini kullanmasını da yasaklamaya hazırlanıyor",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ingiltere-16-yasindan-kucuklerin-alisveris-sitelerini-kullanmasini-da-yasaklamaya-hazirlaniyor/4115851",
+   "summary": "İngiltere'de 16 yaş altındakilere sosyal medya yasağı getirmek için çalışmalar yapan hükümet, şimdi de mesajlaşma özelliği nedeniyle alışveriş sitelerinin ve uygulamalarının kullanımını yasaklamaya hazırlanıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:30:10+00:00"
+  },
   {
    "title": "Irak'ın Erbil kentinde şiddetli yağışların yol açtığı selde 2 kişi hayatını kaybetti",
    "link": "https://www.aa.com.tr/tr/dunya/irakin-erbil-kentinde-siddetli-yagislarin-yol-actigi-selde-2-kisi-hayatini-kaybetti/4115837",
@@ -36,6 +90,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T09:49:05+00:00"
+  },
+  {
+   "title": "İzmir merkezli 17 ilde yasa dışı bahis operasyonunda yakalanan 35 zanlı tutuklandı",
+   "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-17-ilde-yasa-disi-bahis-operasyonunda-yakalanan-35-zanli-tutuklandi/4115816",
+   "summary": "İzmir merkezli 17 ilde düzenlenen yasa dışı bahis operasyonunda gözaltına alınan 35 şüpheli tutuklandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T09:48:38+00:00"
   },
   {
    "title": "İki kentte kar nedeniyle 250 köy yolu ulaşıma kapandı",
@@ -213,7 +276,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/abdnin-secim-haftasinda-altin-yukselise-gecerken-brent-petrol-geriledi/4115768",
    "summary": "Altının ons fiyatı, çarşamba günü yüzde 3'ün üzerinde yükselirken perşembe günü 22 Ekim'den bu yana en yüksek seviyesini gördü.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-08T08:39:42+00:00"
   },
@@ -240,7 +303,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bilgiyi-ticarilestirme-merkezi-10-yesil-teknoloji-girisimini-cop31e-tasiyor/4115761",
    "summary": "BTM Genel Müdürü Önder Kul, \"Türkiye’nin ev sahipliği yaptığı COP31, iklim teknolojileri alanında çalışan girişimlerimiz için dünyaya açılan önemli bir kapı.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-08T08:32:30+00:00"
   },
@@ -252,15 +315,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4d46/live/5cd1b1d0-d473-11f1-9dda-1ba6fcc7d159.jpg",
    "published": "2026-11-08T08:27:16+00:00"
-  },
-  {
-   "title": "ASPİLSAN Enerji elektrikli araçlar için DC hızlı şarj cihazı üretti",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aspilsan-enerji-elektrikli-araclar-icin-dc-hizli-sarj-cihazi-uretti/4115759",
-   "summary": "ASPİLSAN Enerji Genel Müdürü Özdemir, \"Araç şarj istasyonumuz, DC hızlı şarj özelliğine sahip, çift soketli, sızdırmazlık, darbe ve ısı dayanımı yüksek ticari bir üründür.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T08:27:06+00:00"
   },
   {
    "title": "İletişim Başkanı Duran, Karabağ Zaferi'nin 6. yılını kutladı",
@@ -389,6 +443,15 @@
    "published": "2026-11-08T08:05:04+00:00"
   },
   {
+   "title": "\"Dronban\" planı hazır, kargolar İHA'larla hedefe ulaşacak",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/dronban-plani-hazir-kargolar-ihalarla-hedefe-ulasacak/4115732",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Gökyüzünde dijital olarak tanımlanmış hava yolları oluşturacağız. Böylece İHA'lar, belirlenen güzergahlarda emniyetli ve kontrollü şekilde uçabilecek.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T08:05:03+00:00"
+  },
+  {
    "title": "Galatasaray, zorlu fikstürünü mutlu bitirdi",
    "link": "https://www.aa.com.tr/tr/spor/galatasaray-zorlu-fiksturunu-mutlu-bitirdi/4115729",
    "summary": "Galatasaray, geride bıraktığı 30 günlük zorlu fikstürden mutlu bir şekilde çıktı.",
@@ -396,15 +459,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-08T08:03:48+00:00"
-  },
-  {
-   "title": "Türkiye, COP31'de uluslararası yangın koordinasyon merkezi önerisini gündeme taşıyacak",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-cop31de-uluslararasi-yangin-koordinasyon-merkezi-onerisini-gundeme-tasiyacak/4115728",
-   "summary": "Orman Genel Müdürü Karacabey, COP31'de Türkiye'nin orman yangınlarıyla mücadele tecrübesini paylaşacağını, büyük yangınlara müdahale için ortak koordinasyon ve eğitim merkezleri kurulmasına yönelik işbirlikleri…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T08:03:45+00:00"
   },
   {
    "title": "ASELSAN, iki yeni GES yatırımıyla enerji ihtiyacının tamamını güneşten karşılayacak",
@@ -441,15 +495,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-08T07:54:25+00:00"
-  },
-  {
-   "title": "ASELSAN Çocuk Şenliği Adana'da minik ziyaretçilerini ağırlıyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-cocuk-senligi-adanada-minik-ziyaretcilerini-agirliyor/4115717",
-   "summary": "Kültür ve Turizm Bakanlığı tarafından düzenlenen Türkiye Kültür Yolu Festivali kapsamında gerçekleştirilen ASELSAN Çocuk Şenliği, 15 Kasım'a kadar Adana’da çocuklara bilim, teknoloji ve eğlenceyi bir arada sunacak.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T07:53:11+00:00"
   },
   {
    "title": "Tüketicilerin sağlığını tehlikeye atanlara 201,2 milyon liralık ceza",
@@ -1136,15 +1181,6 @@
    "published": "2026-11-07T13:58:48+00:00"
   },
   {
-   "title": "Batı Şeria'da \"Nekbe\" mağduru Filistinli aileler, ikinci kez sürgün acısı yaşıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/bati-seriada-nekbe-magduru-filistinli-aileler-ikinci-kez-surgun-acisi-yasiyor/4115250",
-   "summary": "Filistinli Mehdi Ebu el-Hica, \"Doğduğumuz yerden bizi söküp attılar.\" dedi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-07T13:57:05+00:00"
-  },
-  {
    "title": "Samsunspor, sahasından 3 puanla ayrıldı",
    "link": "https://www.aa.com.tr/tr/spor/samsunspor-sahasindan-3-puanla-ayrildi/4115246",
    "summary": "Trendyol Süper Lig'in 11. haftasında Samsunspor ile TÜMOSAN Konyaspor arasında oynanan müsabakanın ilk yarısı ev sahibi takımın 1-0 üstünlüğü ile sona erdi.",
@@ -1206,15 +1242,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-07T12:47:00+00:00"
-  },
-  {
-   "title": "Yol verme tartışmasında aracı yumruklayan kadına 180 bin lira ceza",
-   "link": "https://www.trthaber.com/haber/turkiye/yol-verme-tartismasinda-araci-yumruklayan-kadina-180-bin-lira-ceza-962538.html",
-   "summary": "Zeytinburnu'nda yol verme meselesi yüzünden tartıştığı sürücünün aracının camını yumruklayan kadın sürücüye 180 bin lira idari para cezası uygulandı, aracı 60 gün süreyle trafikten menedildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T12:46:00+00:00"
   },
   {
    "title": "Gaziantep FK, teknik direktör Orhan Ak ile yollarını ayırdı",
@@ -1323,33 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-07T08:30:03+00:00"
-  },
-  {
-   "title": "Meghan Markle'ın babası çocuklara cinsel istismar görselleri nedeniyle mahkemeye çıktı",
-   "link": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Sussex Düşesi Meghan Markle'ın babası Thomas Markle, çocuklara cinsel istismar suçlamasıyla Florida'da gözaltına alındı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dd1/live/29892d20-da0a-11f1-93e1-3b657b665bcf.png",
-   "published": "2026-11-07T08:23:10+00:00"
-  },
-  {
-   "title": "Kocaelispor, 18 yıl sonra milli takıma kaleci gönderdi",
-   "link": "https://www.aa.com.tr/tr/spor/kocaelispor-18-yil-sonra-milli-takima-kaleci-gonderdi/4114971",
-   "summary": "Kocaelispor'un genç file bekçisi Serhat Öztaşdelen, 18 yıl aradan sonra yeşil-siyahlı kulüpten A Milli Futbol Takımı'na davet edilen ilk oyuncu oldu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-07T08:17:15+00:00"
-  },
-  {
-   "title": "Trabzonspor ile Alanyaspor 21. randevuda",
-   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-ile-alanyaspor-21-randevuda/4114966",
-   "summary": "Trabzonspor ile Corendon Alanyaspor, bugün Alanya'da yapacakları maçla ligde 21. kez karşı karşıya gelecek.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-07T08:14:41+00:00"
   }
  ]
 }
