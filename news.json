@@ -1,12 +1,84 @@
 {
- "updated": "2026-11-08T10:52:57.718641+00:00",
+ "updated": "2026-11-08T11:26:18.618674+00:00",
  "items": [
+  {
+   "title": "İsrail Cumhurbaşkanı, muhalefet lideri Eisenkot'u hükümeti kurmakla görevlendirdi",
+   "link": "https://www.bbc.com/turkce/articles/cw20338m1l2jo?at_medium=RSS&at_campaign=rss",
+   "summary": "İsrail Cumhurbaşkanı Isaac Herzog, muhalefet lideri Gadi Eisenkot'u yeni bir koalisyon hükümeti kurmakla görevlendirdiğini açıkladı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1838/live/969e0330-db5f-11f1-adda-c54f54e3ce6a.jpg",
+   "published": "2026-11-08T11:22:53+00:00"
+  },
+  {
+   "title": "Gökyüzünde dron otoyolları dönemi başlıyor",
+   "link": "https://www.trthaber.com/haber/gundem/gokyuzunde-dron-otoyollari-donemi-basliyor-962594.html",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İHA'ların uzun mesafeli ve otonom uçuşlarını mümkün kılacak koridorlar için hukuki altyapının oluşturulduğunu belirterek, \"Gökyüzünde dijital olarak tanımlanmış hava…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T11:12:00+00:00"
+  },
+  {
+   "title": "Türkiye'den Polonya'daki terör saldırısında hayatını kaybedenler için taziye mesajı",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-polonyadaki-teror-saldirisinda-hayatini-kaybedenler-icin-taziye-mesaji/4115880",
+   "summary": "Dışişleri Bakanlığı, Polonya'nın Krakov şehrinde düzenlenen terör saldırısında hayatını kaybedenler için taziye mesajı yayımladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T11:08:56+00:00"
+  },
+  {
+   "title": "Bakan Çiftçi'den Ulus'ta mevzuata aykırı yapıların yıkıldığı alandaki denetimlere ilişkin paylaşım",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftciden-ulusta-mevzuata-aykiri-yapilarin-yikildigi-alandaki-denetimlere-iliskin-paylasim/4115878",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Hedefimiz, bu müstesna bölgenin manevi iklimini koruyarak tarihi mirasını ihya etmek, hemşehrilerimizin huzurla vakit geçirebileceği güvenli ve nezih bir çevre oluşturmaktır.\" ifadesini…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T11:07:33+00:00"
+  },
+  {
+   "title": "Hezarfen Havaalanı'nda eğitim uçağı iniş sırasında kaza kırıma uğradı",
+   "link": "https://www.aa.com.tr/tr/gundem/hezarfen-havaalaninda-egitim-ucagi-inis-sirasinda-kaza-kirima-ugradi/4115877",
+   "summary": "Hezarfen Havaalanı'nda eğitim uçuşu yapan uçak, iniş sırasında pistten çıkarak kaza kırıma uğradı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T11:05:31+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan, Karabağ Zaferi'nin 6. yılını kutladı",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-karabag-zaferinin-6-yilini-kutladi/4115874",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'ın Karabağ Zaferi dolayısıyla kutlanan 8 Kasım Zafer Günü'nü tebrik etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T11:03:10+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan'dan Azerbaycan'ın Zafer Günü mesajı",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogandan-azerbaycanin-zafer-gunu-mesaji-962593.html",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Karabağ'ın 30 yıllık işgalden kurtarılmasının 6'ncı yıl dönümü dolayısıyla Azerbaycan'ın Zafer Günü'nü kutladı, şehitleri rahmetle andı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:56:00+00:00"
+  },
+  {
+   "title": "RTÜK'ün medya alanındaki çelik kubbesi Via olacak",
+   "link": "https://www.trthaber.com/haber/gundem/rtukun-medya-alanindaki-celik-kubbesi-via-olacak-962592.html",
+   "summary": "RTÜK'ün yüzde 90 oranında tamamlanan yeni denetim sistemi Via, ses ve görüntü içeriklerindeki mevzuat ihlallerini tespit ederek raporlayabilecek. Sistem ayrıca 300 milyondan fazla görüntü karesini inceleyebilecek. RTÜK…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:54:00+00:00"
+  },
   {
    "title": "Bitkiler üniversitedeki merkezde ileri teknolojiyle değer kazanıyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/bitkiler-universitedeki-merkezde-ileri-teknolojiyle-deger-kazaniyor/4115867",
    "summary": "Necmettin Erbakan Üniversitesi Tıbbi ve Kozmetik Bitkiler Uygulama ve Araştırma Merkezi'nde, bitkilerden gıda takviyesi ve kozmetik ürünleri geliştiriliyor.",
    "source": "AA",
-   "category": "Ekonomi",
+   "category": "Gündem",
    "image": null,
    "published": "2026-11-08T10:50:42+00:00"
   },
@@ -18,6 +90,24 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T10:41:03+00:00"
+  },
+  {
+   "title": "Azerbaycan'da Karabağ Zaferi'nin 6. yıl dönümü kutlanıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/azerbaycanda-karabag-zaferinin-6-yil-donumu-kutlaniyor/4115858",
+   "summary": "Azerbaycan'da 2. Karabağ Savaşı'nda elde edilen zaferin 6. yıl dönümü dolayısıyla 8 Kasım Zafer Günü çeşitli etkinliklerle kutlanıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:38:30+00:00"
+  },
+  {
+   "title": "Hamas: Kışın etkisini artırdığı Gazze'de İsrail'in yardımları engellemesi insani felaketi derinleştiriyor",
+   "link": "https://www.trthaber.com/haber/dunya/hamas-kisin-etkisini-artirdigi-gazzede-israilin-yardimlari-engellemesi-insani-felaketi-derinlestiriyor-962591.html",
+   "summary": "Hamas, İsrail'in Gazze Şeridi'ne barınma ve insani yardım malzemelerinin girişini engellemesinin, ağırlaşan kış koşullarında yerinden edilen Filistinlilerin yaşadığı insani felaketi derinleştirdiğini bildirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T10:37:00+00:00"
   },
   {
    "title": "ASELSAN, enerji ihtiyacının tamamını güneşten karşılayacak",
@@ -36,15 +126,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T10:35:47+00:00"
-  },
-  {
-   "title": "İsrail Cumhurbaşkanı, muhalefet lideri Eisenkot'u hükümeti kurmakla görevlendirdi",
-   "link": "https://www.bbc.com/turkce/articles/cw20338m1l2jo?at_medium=RSS&at_campaign=rss",
-   "summary": "İsrail Cumhurbaşkanı Isaac Herzog, muhalefet lideri Gadi Eisenkot'u yeni bir koalisyon hükümeti kurmakla görevlendirdiğini açıkladı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1838/live/969e0330-db5f-11f1-adda-c54f54e3ce6a.jpg",
-   "published": "2026-11-08T10:33:52+00:00"
   },
   {
    "title": "İngiltere 16 yaşından küçüklerin alışveriş sitelerini kullanmasını da yasaklamaya hazırlanıyor",
@@ -155,15 +236,6 @@
    "published": "2026-11-08T09:32:00+00:00"
   },
   {
-   "title": "Hamas: Kışın etkisini artırdığı Gazze'de İsrail'in yardımları engellemesi insani felaketi derinleştiriyor",
-   "link": "https://www.aa.com.tr/tr/dunya/hamas-kisin-etkisini-artirdigi-gazzede-israilin-yardimlari-engellemesi-insani-felaketi-derinlestiriyor/4115802",
-   "summary": "Hamas, İsrail'in Gazze Şeridi'ne barınma ve insani yardım malzemelerinin girişini engellemesinin, ağırlaşan kış koşullarında yerinden edilen Filistinlilerin yaşadığı insani felaketi derinleştirdiğini bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T09:31:30+00:00"
-  },
-  {
    "title": "Mardin'deki \"Damızlık ve Gen Bahçesi\"nde 24 üzüm çeşidi koruma altına alındı",
    "link": "https://www.aa.com.tr/tr/ekonomi/mardindeki-damizlik-ve-gen-bahcesinde-24-uzum-cesidi-koruma-altina-alindi/4115801",
    "summary": "Mardin'de oluşturulan \"Damızlık ve Gen Bahçesi\"nde tespit edilen 24 yerel üzüm çeşidi koruma altına alındı.",
@@ -240,7 +312,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/iklim-degisikliginin-kiyi-ve-su-alti-kultur-mirasina-etkileri-cop31de-anlatilacak/4115776",
    "summary": "Türkiye'nin ev sahipliğinde düzenlenecek COP31'de, iklim değişikliğinin kıyı ve su altındaki kültürel mirasa etkileri bilimsel çalışmalarla gündeme taşınacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-08T08:55:54+00:00"
   },
@@ -267,7 +339,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/enerji-donusumu-haneleri-de-elektrik-uretim-surecine-dahil-ediyor/4115769",
    "summary": "Türkiye'nin yenilenebilir enerji hedefleri, yalnızca büyük ölçekli santrallerin değil, hanelerin kendi elektriğini üretmesini sağlayan küçük ölçekli güneş ve rüzgar sistemlerinin de yaygınlaşmasını gündeme getiriyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-08T08:43:39+00:00"
   },
@@ -326,15 +398,6 @@
    "published": "2026-11-08T08:25:31+00:00"
   },
   {
-   "title": "Savunma ve havacılık sanayisinin üretim üssü HAB, yeni yatırımlarla büyüyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/savunma-ve-havacilik-sanayisinin-uretim-ussu-hab-yeni-yatirimlarla-buyuyor/4115754",
-   "summary": "Ankara Uzay ve Havacılık İhtisas Organize Sanayi Bölgesi, 422 bin metrekarelik yeni genişleme alanıyla 70 firmaya daha ev sahipliği yapmaya hazırlanıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T08:24:31+00:00"
-  },
-  {
    "title": "Sayıştay, İBB'nin tatlı alımlarında piyasa fiyatının 4 katı ödemeler tespit etti",
    "link": "https://www.aa.com.tr/tr/gundem/sayistay-ibbnin-tatli-alimlarinda-piyasa-fiyatinin-4-kati-odemeler-tespit-etti/4115751",
    "summary": "Sayıştay Başkanlığının, İstanbul Büyükşehir Belediyesine (İBB) ilişkin 2025 Yılı Denetim Raporu'nda, belediyenin şerbetli tatlı alımı işinde bazı tatlıları piyasa fiyatının 4 kat üstünde aldığı tespit edildi.",
@@ -362,15 +425,6 @@
    "published": "2026-11-08T08:17:21+00:00"
   },
   {
-   "title": "İzmit Lisesi köklü eğitim anlayışıyla geçmişten geleceğe köprü kuruyor",
-   "link": "https://www.aa.com.tr/tr/kultur/izmit-lisesi-koklu-egitim-anlayisiyla-gecmisten-gelecege-kopru-kuruyor/4115745",
-   "summary": "Osmanlı'da devletin üst kademelerine ve yüksek okullara öğrenci yetiştirmek amacıyla kurulan İzmit Lisesi, köklü eğitim anlayışını öğrencilerine aktarıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T08:14:22+00:00"
-  },
-  {
    "title": "Esnaf kasım ve yıl sonu indirimleriyle alışveriş hareketliliği bekliyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/esnaf-kasim-ve-yil-sonu-indirimleriyle-alisveris-hareketliligi-bekliyor/4115744",
    "summary": "TESK Genel Başkanı Mehmet Yiğiner, \"Özellikle kasım kampanyalarıyla hareketlenmesi beklenen piyasada esnaf, indirim döneminin müşteri trafiğine ve cirolarına olumlu yansımasını bekliyor.\" dedi.",
@@ -387,15 +441,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T08:10:00+00:00"
-  },
-  {
-   "title": "IKBY’de kriz büyüyor: Yeni bir “Aşbetal” mi?",
-   "link": "https://www.aa.com.tr/tr/analiz/ikby-de-kriz-buyuyor-yeni-bir-asbetal-mi/4115740",
-   "summary": "Bafel Talabani’nin açıklaması ilk bakışta bir bölünme tehdidi olarak okumak mümkün. Ancak hayal kırıklığı ve çözüm arayışı da var. Açıklama, beklenmedik değil.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T08:07:48+00:00"
   },
   {
    "title": "Gençlik ve Spor Bakanı Bak, Antalya'da UCI Gran Fondo Bisiklet Yarışları'nın startını verdi",
@@ -423,15 +468,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-08T08:06:12+00:00"
-  },
-  {
-   "title": "Kars'ta göçerlerin koyun sürüleriyle kar altında zorlu dönüş yolculuğu",
-   "link": "https://www.aa.com.tr/tr/gundem/karsta-gocerlerin-koyun-suruleriyle-kar-altinda-zorlu-donus-yolculugu/4115736",
-   "summary": "Kars'ta yaz aylarını yaylalarda geçiren göçerler, kar yağışı ve soğuk havanın etkisini göstermesiyle birlikte binlerce küçükbaş hayvanıyla karlı dağları aşarak Iğdır'a dönmeye çalışıyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T08:05:19+00:00"
   },
   {
    "title": "Berlin Duvarı'nın yıkılışının üzerinden 37 yıl geçti",
@@ -535,7 +571,7 @@
   {
    "title": "Cumhurbaşkanı Erdoğan Azerbaycan'da",
    "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-azerbaycanda-962577.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, programı kapsamında Azerbaycan'a gitti. Erdoğan'ı Fuzuli Havalimanı'nda Azerbaycan Cumhurbaşkanı İlham Aliyev karşıladı.",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan Cumhurbaşkanı İlham Aliyev'in davetine icabetle geldiği Şuşa'da resmi törenle karşılandı. Erdoğan ve Aliyev'in tören alanındaki yerlerini almalarının ardından askeri bando…",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -1091,15 +1127,6 @@
    "published": "2026-11-07T16:18:00+00:00"
   },
   {
-   "title": "Polonya'nın Krakov kentinde düzenlenen silahlı saldırıda 6 kişi öldü, 15 kişi yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/polonyanin-krakov-kentinde-duzenlenen-silahli-saldirida-6-kisi-oldu-15-kisi-yaralandi/4115349",
-   "summary": "Polonya'nın Krakov kentinin merkezinde düzenlenen silahlı saldırıda 6 kişi hayatını kaybetti, 15 kişi yaralandı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-07T16:14:27+00:00"
-  },
-  {
    "title": "TRT World Forum 2026'da çatışmaların ekonomik etkileri ve yeniden inşa süreci ele alındı",
    "link": "https://www.trthaber.com/haber/gundem/trt-world-forum-2026da-catismalarin-ekonomik-etkileri-ve-yeniden-insa-sureci-ele-alindi-962553.html",
    "summary": "TRT World Forum 2026 kapsamında düzenlenen oturumda, Orta Doğu'daki çatışmaların ekonomik etkileri, savaş sonrası yeniden inşa sürecinin finansmanı, küresel piyasalardaki belirsizlikler ve finansal istikrara yönelik…",
@@ -1199,15 +1226,6 @@
    "published": "2026-11-07T13:51:52+00:00"
   },
   {
-   "title": "Tekirdağ Büyükşehir Belediye Başkanı Yüceer, Yeni Parti'den istifa etti",
-   "link": "https://www.trthaber.com/haber/gundem/tekirdag-buyuksehir-belediye-baskani-yuceer-yeni-partiden-istifa-etti-962542.html",
-   "summary": "Tekirdağ Büyükşehir Belediye Başkanı Candan Yüceer, Yeni Parti'den istifa ettiğini açıkladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T13:50:00+00:00"
-  },
-  {
    "title": "Bodrum FK'de 4 futbolcuya milli davet",
    "link": "https://www.aa.com.tr/tr/spor/bodrum-fkde-4-futbolcuya-milli-davet/4115218",
    "summary": "Trendyol 1. Lig ekiplerinden Bodrum FK'de forma giyen 4 futbolcu, ülkelerinin milli takım kadrolarına davet edildi.",
@@ -1215,33 +1233,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-07T13:16:17+00:00"
-  },
-  {
-   "title": "SGK'dan lösemili çocukların tedavisine 7,4 milyar liralık destek",
-   "link": "https://www.trthaber.com/haber/ekonomi/sgkdan-losemili-cocuklarin-tedavisine-74-milyar-liralik-destek-962541.html",
-   "summary": "Sosyal Güvenlik Kurumu SGK, lösemili çocukların sağlık harcamaları için bu yılın 7 ayında 7 milyar 431 milyon lira ödeme yaptı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T12:54:00+00:00"
-  },
-  {
-   "title": "Türkiye bilimsel yayın üretiminde dünyada 13. sıraya yükseldi",
-   "link": "https://www.trthaber.com/haber/egitim/turkiye-bilimsel-yayin-uretiminde-dunyada-13-siraya-yukseldi-962540.html",
-   "summary": "Yükseköğretim Kurulu YÖK Başkanı Erol Özvar, Türkiye'nin bilimsel yayın üretiminde dünyada 35. sıradan 13. sıraya yükseldiğini bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T12:51:00+00:00"
-  },
-  {
-   "title": "Bursa'da mantardan zehirlenen kadın hayatını kaybetti",
-   "link": "https://www.trthaber.com/haber/turkiye/bursada-mantardan-zehirlenen-kadin-hayatini-kaybetti-962539.html",
-   "summary": "Bursa'nın İnegöl ilçesinde, mantar zehirlenmesi şüphesiyle hastaneye kaldırılan kadın hayatını kaybetti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-07T12:47:00+00:00"
   },
   {
    "title": "Gaziantep FK, teknik direktör Orhan Ak ile yollarını ayırdı",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-07T08:30:03+00:00"
+  },
+  {
+   "title": "Meghan Markle'ın babası çocuklara cinsel istismar görselleri nedeniyle mahkemeye çıktı",
+   "link": "https://www.bbc.com/turkce/articles/cm70p18ldrwjo?at_medium=RSS&at_campaign=rss",
+   "summary": "Sussex Düşesi Meghan Markle'ın babası Thomas Markle, çocuklara cinsel istismar suçlamasıyla Florida'da gözaltına alındı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2dd1/live/29892d20-da0a-11f1-93e1-3b657b665bcf.png",
+   "published": "2026-11-07T08:23:10+00:00"
   }
  ]
 }
