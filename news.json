@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-08T18:16:24.324935+00:00",
+ "updated": "2026-11-08T19:14:22.769280+00:00",
  "items": [
+  {
+   "title": "Amsterdam’da dördüncü “Kırmızı Çizgi” gösterisine 200 binden fazla kişi katıldı",
+   "link": "https://www.aa.com.tr/tr/dunya/amsterdam-da-dorduncu-kirmizi-cizgi-gosterisine-200-binden-fazla-kisi-katildi/4116280",
+   "summary": "Hollanda’nın başkenti Amsterdam’da Gazze’ye destek amacıyla düzenlenen dördüncü “Kırmızı Çizgi” gösterisinde toplanan 200 binden fazla kişi, hükümetin İsrail yanlısı politikasına tepki gösterdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T18:53:19+00:00"
+  },
+  {
+   "title": "MotoGP'de Katar Grand Prix'sini Marco Bezzecchi kazandı",
+   "link": "https://www.aa.com.tr/tr/spor/motogpde-katar-grand-prixsini-marco-bezzecchi-kazandi/4116278",
+   "summary": "MotoGP Dünya Şampiyonası'nda Katar Grand Prix'sini, Aprilia takımından İtalyan Marco Bezzecchi kazandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T18:44:24+00:00"
+  },
+  {
+   "title": "Ukrayna: Zaporijya Nükleer Santrali dış elektrik kaynağını bu yıl 16. kez kaybetti",
+   "link": "https://www.aa.com.tr/tr/dunya/ukrayna-zaporijya-nukleer-santrali-dis-elektrik-kaynagini-bu-yil-16-kez-kaybetti-/4116277",
+   "summary": "Ukrayna Dışişleri Bakanı Andrii Sybiha, ülkesinde Rusya'nın kontrolündeki Zaporijya Nükleer Güç Santrali'nin (NGS) yılın başından bu yana 16. kez tüm dış kaynaklı elektriğini kaybettiğini bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T18:42:47+00:00"
+  },
+  {
+   "title": "Trump, müzakereler sürdükçe ABD'nin İran'a yeniden saldırma ihtimalinin \"son derece düşük\" olduğunu söyledi",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-muzakereler-surdukce-abdnin-irana-yeniden-saldirma-ihtimalinin-son-derece-dusuk-oldugunu-soyledi/4116276",
+   "summary": "ABD Başkanı Donald Trump, İran ile nükleer program ve Hürmüz Boğazı’nın açılması konusundaki müzakerelerde ilerleme kaydedildiği sürece ABD’nin İran’a tekrar saldırmasının “son derece düşük bir ihtimal” olduğunu…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T18:40:46+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan, Azerbaycan'dan yurda döndü",
+   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-azerbaycandan-yurda-dondu/4116274",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, Azerbaycan'daki temaslarının ardından yurda döndü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T18:28:42+00:00"
+  },
+  {
+   "title": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddiası",
+   "link": "https://www.trthaber.com/haber/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddiasi-962616.html",
+   "summary": "ABD yönetiminin, İran'la savaşı sona erdirmek amacıyla Çin'den Tahran üzerindeki nüfuzunu kullanmasını istediği öne sürüldü.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T18:21:00+00:00"
+  },
   {
    "title": "ABD'nin İran'la savaşı bitirmek için Çin'den yardım istediği iddia edildi",
    "link": "https://www.aa.com.tr/tr/dunya/abdnin-iranla-savasi-bitirmek-icin-cinden-yardim-istedigi-iddia-edildi/4116267",
@@ -330,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-saldirilari-ve-yardimlara-getirdigi-kisitlamalarla-gazzede-kis-sartlarini-cevre-felaketine-donusturuyor/4116068",
    "summary": "UNICEF Özel Temsilcisi Jonathan Fitch, \"Yağmur sularının kanalizasyon sularıyla karıştığı Şeyh Rıdvan Göleti'nin taşması halinde halk sağlığı açısından ciddi bir kriz yaşanabilir.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-08T13:28:00+00:00"
   },
@@ -339,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/eski-israil-basbakani-baraktan-eisenkota-hukumeti-kurma-surecini-hizlandirma-cagrisi/4116065",
    "summary": "Eski İsrail Başbakanı Ehud Barak, hükümeti kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot'a süreci hızlandırma çağrısında bulunarak önceliğin Başbakan Binyamin Netanyahu liderliğindeki hükümeti değiştirmek…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-08T13:26:20+00:00"
   },
@@ -348,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/deprem-sonrasi-yeniden-yapilanan-malatya-cevreci-yatirimlarla-gelecege-hazirlaniyor/4116061",
    "summary": "Depremlerin ardından konut ve iş yerlerinin yanı sıra altyapı ve üstyapı yatırımlarıyla yeniden şekillenen Malatya'da atık su arıtma tesisleri ile yenilenebilir enerji projeleri hayata geçiriliyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-08T13:19:59+00:00"
   },
@@ -366,7 +420,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/misirdaki-tren-kazasinda-7-kisi-oldu-112-kisi-yaralandi/4116058",
    "summary": "Mısır'ın Giza vilayetindeki Ayat kentinde meydana gelen tren kazasında 7 kişi öldü, 112 kişi yaralandı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-08T13:19:48+00:00"
   },
@@ -459,15 +513,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T12:19:00+00:00"
-  },
-  {
-   "title": "Bakan Çiftçi: Gayemiz, bu toprakları terörün gölgesinden kalıcı biçimde kurtarmak",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-gayemiz-bu-topraklari-terorun-golgesinden-kalici-bicimde-kurtarmak/4115921",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Gayemiz, bu toprakları terörün gölgesinden kalıcı biçimde kurtarmak ve kardeşliğimizi tahkim etmektir.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T11:59:26+00:00"
   },
   {
    "title": "COP31'in Antalya ekonomisine katkı sunması bekleniyor",
@@ -1127,33 +1172,6 @@
    "published": "2026-11-08T02:29:00+00:00"
   },
   {
-   "title": "Suudi Arabistan'ın Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sistemi devreye alındı",
-   "link": "https://www.aa.com.tr/tr/dunya/suudi-arabistanin-dammam-ahsa-ve-bukayk-kentlerinde-erken-uyari-sistemi-devreye-alindi/4115621",
-   "summary": "Suudi Arabistan Sivil Savunma Müdürlüğü, Dammam, Ahsa ve Bukayk kentlerinde erken uyarı sisteminin tehlike alarmı verdiğini, daha sonra tehlikenin geçtiğini duyurdu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-08T02:12:31+00:00"
-  },
-  {
-   "title": "Filistin'den Gazze'deki insani felaketin önlenmesi için uluslararası topluma çağrı",
-   "link": "https://www.trthaber.com/haber/dunya/filistinden-gazzedeki-insani-felaketin-onlenmesi-icin-uluslararasi-topluma-cagri-962566.html",
-   "summary": "Filistin, Gazze Şeridi'nde etkili olan şiddetli yağış ve fırtına nedeniyle derinleşen insani felaketin önlenmesi için uluslararası topluma acilen harekete geçme çağrısında bulunarak, İsrail'den tüm sınır kapılarını…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T00:44:00+00:00"
-  },
-  {
-   "title": "Paraguay'da azledilen eski Devlet Başkanı Pena hakkında tutuklama kararı",
-   "link": "https://www.aa.com.tr/tr/dunya/paraguayda-azledilen-eski-devlet-baskani-pena-hakkinda-tutuklama-karari/4115613",
-   "summary": "Paraguay'da finansal skandal iddialarının ardından görevinden alınan eski Devlet Başkanı Santiago Pena hakkında tutuklama kararı verildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-08T00:41:39+00:00"
-  },
-  {
    "title": "Iraklı Bakan, Kalkınma Yolu Projesi'nin Türkiye ile ekonomik ve siyasi ilişkileri güçlendireceğini söyledi",
    "link": "https://www.aa.com.tr/tr/ekonomi/irakli-bakan-kalkinma-yolu-projesinin-turkiye-ile-ekonomik-ve-siyasi-iliskileri-guclendirecegini-soyledi/4115609",
    "summary": "Irak Çevre Bakanı Sirve Abdülvahid, Kalkınma Yolu Projesi'nin Türkiye başta olmak üzere komşu ülkelerle ekonomik ve siyasi ilişkilerin daha etkin hale gelmesine yardımcı olacağını belirtti.",
@@ -1332,24 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-07T11:26:59+00:00"
-  },
-  {
-   "title": "11. Türkiye İş Ahlakı Zirvesi'nde güvene dayalı liderlik anlayışının kurumsallaşması ele alındı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/11-turkiye-is-ahlaki-zirvesinde-guvene-dayali-liderlik-anlayisinin-kurumsallasmasi-ele-alindi/4115123",
-   "summary": "Türkiye İktisadi Girişim ve İş Ahlakı Derneği (İGİAD) tarafından düzenlenen 11. Türkiye İş Ahlakı Zirvesi'nde iş dünyasında güvene dayalı liderlik anlayışının kurumsallaşması ve uzun vadeli stratejik planlamanın önemi…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-07T11:24:45+00:00"
-  },
-  {
-   "title": "Galatasaray'ın yıldızı Victor Osimhen, ameliyat edildi",
-   "link": "https://www.aa.com.tr/tr/spor/galatasarayin-yildizi-victor-osimhen-ameliyat-edildi/4115080",
-   "summary": "Galatasaray'ın Nijeryalı santrforu Victor Osimhen, sol dizinden operasyon geçirdi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-07T10:15:07+00:00"
   }
  ]
 }
