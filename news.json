@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T22:18:37.784580+00:00",
+ "updated": "2026-11-08T23:00:25.084063+00:00",
  "items": [
   {
    "title": "İsrail'de seçim yenilgisi sonrası Ultra-Ortodoks Şas Partisi liderinden milletvekilliğini devretme kararı",
@@ -27,6 +27,24 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T21:31:24+00:00"
+  },
+  {
+   "title": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
+   "link": "https://www.aa.com.tr/tr/gundem/ankaraya-247-kilometrelik-akilli-ulasim-koridoru-kuruluyor/4116352",
+   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, toplam 247 kilometrelik akıllı ulaşım sistemi koridoru oluşturulmasına yönelik proje çalışmalarına devam ettiklerini bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T21:14:42+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanlığı Yatırım ve Finans Ofisi, COP31'de yeşil yatırımların hızlandırılmasına odaklanacak",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-yatirim-ve-finans-ofisi-cop31de-yesil-yatirimlarin-hizlandirilmasina-odaklanacak/4116351",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T21:09:11+00:00"
   },
   {
    "title": "Türkiye'nin ev sahipliğindeki COP31 bugün başlıyor",
@@ -321,7 +339,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-duzenledigi-iha-saldirisinda-biri-kadin-2-filistinli-hayatini-kaybetti/4116243",
    "summary": "İsrail ordusunun, Gazze Şeridi'nin güneyindeki Han Yunus kentine düzenlediği İHA saldırısında biri kadın, 2 kişi yaşamını yitirdi, çok sayıda kişi yaralandı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-08T17:14:04+00:00"
   },
@@ -348,7 +366,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/suriye-saglik-bakanligi-deyrizorda-iki-cocukta-cocuk-felci-virusu-tespit-edildigini-duyurdu/4116220",
    "summary": "Suriye Sağlık Bakanı Musab el-Ali, \"İlk kampanya kapsamında, aralarında daha önce hiç aşılanmamış çocukların da bulunduğu 5 yaş altı 34 binden fazla çocuk aşılandı.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-08T16:46:54+00:00"
   },
@@ -1332,24 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-07T13:16:17+00:00"
-  },
-  {
-   "title": "Gaziantep FK, teknik direktör Orhan Ak ile yollarını ayırdı",
-   "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-teknik-direktor-orhan-ak-ile-yollarini-ayirdi/4115177",
-   "summary": "Trendyol Süper Lig ekiplerinden Gaziantep FK, teknik direktör Orhan Ak ile karşılıklı anlaşarak yollarını ayırdı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-07T12:18:55+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı 41. kuruluş yıl dönümünü kutluyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cumhurbaskanligi-savunma-sanayii-baskanligi-41-kurulus-yil-donumunu-kutluyor/4115172",
-   "summary": "",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-07T12:14:14+00:00"
   }
  ]
 }
