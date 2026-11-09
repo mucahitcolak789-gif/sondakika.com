@@ -1,6 +1,33 @@
 {
- "updated": "2026-11-09T00:17:56.630889+00:00",
+ "updated": "2026-11-09T01:42:17.096774+00:00",
  "items": [
+  {
+   "title": "Trump: Haftaya Şi ve Putin ile görüşebilirim",
+   "link": "https://www.trthaber.com/haber/dunya/trump-haftaya-si-ve-putin-ile-gorusebilirim-962624.html",
+   "summary": "ABD Başkanı Trump, gelecek hafta Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin bir araya gelebileceğini söyledi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-09T01:06:00+00:00"
+  },
+  {
+   "title": "Otizmli bireylerin yemekle ilişkisi: 'Daha bebekken zorlanıyordum'",
+   "link": "https://www.bbc.com/turkce/articles/cw1m44pn19g9o?at_medium=RSS&at_campaign=rss",
+   "summary": "Spencer Ali, okuldayken bir poşet dilimlenmiş elma yemektense üç öğle arasından vazgeçti. Şimdi 23 yaşındaki otizmli birey, yiyeceklerle ilişkisini anlatırken, uzmanlar duruma nasıl yaklaşılması gerektiği konusunda…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6549/live/795815e0-d489-11f1-b441-2b33b063138f.jpg",
+   "published": "2026-11-09T00:33:31+00:00"
+  },
+  {
+   "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
+   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
+   "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
+   "published": "2026-11-09T00:26:11+00:00"
+  },
   {
    "title": "Yemen'deki Husiler: Suudi Arabistan'ın Sana'ya düzenlediği saldırılarda ölü sayısı 44’e yükseldi",
    "link": "https://www.aa.com.tr/tr/dunya/yemendeki-husiler-suudi-arabistanin-sanaya-duzenledigi-saldirilarda-olu-sayisi-44-e-yukseldi/4116389",
@@ -18,6 +45,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T23:55:00+00:00"
+  },
+  {
+   "title": "İsrail ordusu Lübnan'ın güneyinde evleri yıkmayı ve bombardımanı sürdürüyor",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-lubnanin-guneyinde-evleri-yikmayi-ve-bombardimani-surduruyor/4116387",
+   "summary": "İsrail ordusu, Lübnan'ın güneyindeki beldelerde topçu atışlarını ve ev yıkımlarını sürdürüyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T23:14:45+00:00"
   },
   {
    "title": "Kütahya'da minibüsle otomobil çarpıştı: 1 ölü",
@@ -54,6 +90,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T21:31:24+00:00"
+  },
+  {
+   "title": "İsrail askerleri, Batı Şeria'daki baskın sırasında 13 yaşındaki bir çocuğu göğsünden yaraladı",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerleri-bati-seriadaki-baskin-sirasinda-13-yasindaki-bir-cocugu-gogsunden-yaraladi/4116368",
+   "summary": "İsrail askerlerinin, işgal altındaki Batı Şeria'nın Cenin kentinde 13 yaşındaki bir çocuğu göğsünden vurduğu belirtildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-08T21:30:03+00:00"
   },
   {
    "title": "Ankara'ya 247 kilometrelik akıllı ulaşım koridoru kuruluyor",
@@ -348,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carparak-alev-aldi/4116254",
    "summary": "İran Ordusu Deniz Kuvvetleri, Hürmüz Boğazı'nın doğusunda, izin verilmeyen bölgede hareket ettiği belirtilen bir petrol tankerinin deniz mayınına çarpması sonucu alev aldığını duyurdu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-08T17:32:28+00:00"
   },
@@ -357,7 +402,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/filistin-saglik-bakani-1-milyar-300-dolari-asan-borcumuz-saglik-hizmetlerini-tehdit-ediyor/4116252",
    "summary": "Filistin Sağlık Bakanı Macid Ebu Ramazan, bakanlığının borcunun 1 milyar 300 milyon doları aştığını belirterek, bu durumun artan tıbbi ve insani ihtiyaçların karşılanmasını tehdit ettiğini söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-08T17:27:14+00:00"
   },
@@ -427,7 +472,7 @@
   {
    "title": "Filistinli gazeteci İsrail güçlerince gözaltına alınmasının \"siyasi baskının bir parçası\" olduğunu söyledi",
    "link": "https://www.aa.com.tr/tr/dunya/filistinli-gazeteci-israil-guclerince-gozaltina-alinmasinin-siyasi-baskinin-bir-parcasi-oldugunu-soyledi/4116183",
-   "summary": "Abed Ebu Şehade: \"Bana yönelik saldırı bağlamından kopuk değil. Bu saldırı, aktivistlere, gazetecilere, yani aşırı sağ ana akıma uymayan herkese yönelik siyasi baskının bir parçası.\" dedi.",
+   "summary": "Abed Ebu Şehade, \"Bana yönelik saldırı bağlamından kopuk değil. Bu saldırı, aktivistlere, gazetecilere, yani aşırı sağ ana akıma uymayan herkese yönelik siyasi baskının bir parçası.\" dedi.",
    "source": "AA",
    "category": "Dünya",
    "image": null,
@@ -812,15 +857,6 @@
    "published": "2026-11-08T10:41:03+00:00"
   },
   {
-   "title": "Azerbaycan'da Karabağ Zaferi'nin 6. yıl dönümü kutlanıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/azerbaycanda-karabag-zaferinin-6-yil-donumu-kutlaniyor/4115858",
-   "summary": "Azerbaycan'da 2. Karabağ Savaşı'nda elde edilen zaferin 6. yıl dönümü dolayısıyla 8 Kasım Zafer Günü çeşitli etkinliklerle kutlanıyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-08T10:38:30+00:00"
-  },
-  {
    "title": "Hamas: Kışın etkisini artırdığı Gazze'de İsrail'in yardımları engellemesi insani felaketi derinleştiriyor",
    "link": "https://www.trthaber.com/haber/dunya/hamas-kisin-etkisini-artirdigi-gazzede-israilin-yardimlari-engellemesi-insani-felaketi-derinlestiriyor-962591.html",
    "summary": "Hamas, İsrail'in Gazze Şeridi'ne barınma ve insani yardım malzemelerinin girişini engellemesinin, ağırlaşan kış koşullarında yerinden edilen Filistinlilerin yaşadığı insani felaketi derinleştirdiğini bildirdi.",
@@ -837,15 +873,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-08T10:37:00+00:00"
-  },
-  {
-   "title": "İngiltere 16 yaşından küçüklerin alışveriş sitelerini kullanmasını da yasaklamaya hazırlanıyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/ingiltere-16-yasindan-kucuklerin-alisveris-sitelerini-kullanmasini-da-yasaklamaya-hazirlaniyor/4115851",
-   "summary": "İngiltere'de 16 yaş altındakilere sosyal medya yasağı getirmek için çalışmalar yapan hükümet, şimdi de mesajlaşma özelliği nedeniyle alışveriş sitelerinin ve uygulamalarının kullanımını yasaklamaya hazırlanıyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-08T10:30:10+00:00"
   },
   {
    "title": "Beslenmeniz cildinizin yaşlanmasına neden olabilir mi?",
@@ -1199,15 +1226,6 @@
    "published": "2026-11-08T06:48:00+00:00"
   },
   {
-   "title": "Ekipler 54 ton uyuşturucunun yurda girişini engelledi",
-   "link": "https://www.trthaber.com/haber/gundem/ekipler-54-ton-uyusturucunun-yurda-girisini-engelledi-962574.html",
-   "summary": "Ticaret Bakanlığı Gümrük Muhafaza ekiplerince ocakekim döneminde düzenlenen operasyonlarda 54 ton 480 kilogram uyuşturucunun yanı sıra milyonlarca kaçak ürün ele geçirildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-08T06:42:00+00:00"
-  },
-  {
    "title": "Iraklı Bakan, Kalkınma Yolu Projesi'nin Türkiye ile ekonomik ve siyasi ilişkileri güçlendireceğini söyledi",
    "link": "https://www.aa.com.tr/tr/ekonomi/irakli-bakan-kalkinma-yolu-projesinin-turkiye-ile-ekonomik-ve-siyasi-iliskileri-guclendirecegini-soyledi/4115609",
    "summary": "Irak Çevre Bakanı Sirve Abdülvahid, Kalkınma Yolu Projesi'nin Türkiye başta olmak üzere komşu ülkelerle ekonomik ve siyasi ilişkilerin daha etkin hale gelmesine yardımcı olacağını belirtti.",
@@ -1298,15 +1316,6 @@
    "published": "2026-11-07T17:14:16+00:00"
   },
   {
-   "title": "Fon krizinde şimdiye kadar neler oldu, ne kadar ödeme yapıldı?",
-   "link": "https://www.bbc.com/turkce/articles/cmzxjn4205xqo?at_medium=RSS&at_campaign=rss",
-   "summary": "Eylül ayında Borsa İstanbul'da sert düşüşlere yol açan fon krizi gündemdeki yerini koruyor. Peki, krizin patlak vermesinden bu yana hangi gelişmeler yaşandı?",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/95d7/live/f93ca920-c56f-11f1-bc2e-018d645d8d21.jpg",
-   "published": "2026-11-07T17:10:06+00:00"
-  },
-  {
    "title": "Türk Telekom, Biotekno Körfez Basket'i 94-82 yendi",
    "link": "https://www.aa.com.tr/tr/spor/turk-telekom-biotekno-korfez-basketi-94-82-yendi/4115301",
    "summary": "Türkiye Sigorta Basketbol Süper Ligi'nin 7. haftasında Türk Telekom, sahasında Biotekno Körfez Basket'i 94-82 yendi.",
@@ -1341,15 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-07T13:51:52+00:00"
-  },
-  {
-   "title": "Bodrum FK'de 4 futbolcuya milli davet",
-   "link": "https://www.aa.com.tr/tr/spor/bodrum-fkde-4-futbolcuya-milli-davet/4115218",
-   "summary": "Trendyol 1. Lig ekiplerinden Bodrum FK'de forma giyen 4 futbolcu, ülkelerinin milli takım kadrolarına davet edildi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-07T13:16:17+00:00"
   }
  ]
 }
