@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T22:13:05.989901+00:00",
+ "updated": "2026-11-09T22:56:58.549972+00:00",
  "items": [
   {
    "title": "ABD Savunma Bakanı Hegseth'in azli için 8 madde Temsilciler Meclisi'ne sunuldu",
@@ -54,6 +54,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-09T21:32:00+00:00"
+  },
+  {
+   "title": "Sudan'ın Kuzey Darfur eyaletinde 2 bin 500'den fazla kişi yerinden edildi",
+   "link": "https://www.aa.com.tr/tr/dunya/sudanin-kuzey-darfur-eyaletinde-2-bin-500den-fazla-kisi-yerinden-edildi/4118025",
+   "summary": "Sudan'ın Kuzey Darfur eyaletinde güvenlik koşullarının kötüleşmesi nedeniyle Um Baru bölgesindeki 5 köyde yaşayan 2 bin 510 kişinin yerinden edildiği bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-09T21:26:10+00:00"
   },
   {
    "title": "Dünyanın farklı noktalarında kültür-sanat etkinlikleri sanatseverlerle buluşacak",
@@ -504,15 +513,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-09T16:43:56+00:00"
-  },
-  {
-   "title": "TRT, Atatürk'ün ebediyete intikalinin 88. yılına özel yayınlar yapacak",
-   "link": "https://www.aa.com.tr/tr/kultur/trt-ataturkun-ebediyete-intikalinin-88-yilina-ozel-yayinlar-yapacak/4117737",
-   "summary": "TRT, Türkiye Cumhuriyeti'nin kurucusu, Milli Mücadele'nin Başkomutanı ve bağımsızlık mücadelesinin simgesi Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88. yıl dönümünde özel yayınlar yapacak.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-09T16:43:22+00:00"
   },
   {
    "title": "Fon soruşturmasıyla ilgili 1 gözaltı daha",
@@ -983,15 +983,6 @@
    "published": "2026-11-09T12:19:47+00:00"
   },
   {
-   "title": "İsrail, işgal altındaki Batı Şeria'da bir Filistinlinin evini yıktı",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-bir-filistinlinin-evini-yikti/4117298",
-   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyindeki El Halil kentinde bir Filistinlinin evini ve su kuyusunu yıktı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-09T12:13:27+00:00"
-  },
-  {
    "title": "Halkbank'tan COP31'e özel 100 milyar liralık dönüşüm paketi",
    "link": "https://www.aa.com.tr/tr/ekonomi/halkbanktan-cop31e-ozel-100-milyar-liralik-donusum-paketi/4117297",
    "summary": "Halkbank Genel Müdürü Recep Süleyman Özdil, \"Paketimizle işletmelerimizin değişen koşullara uyum sağlamasına, rekabet güçlerini artırmasına ve sürdürülebilir büyümelerine katkı sunmayı amaçlıyoruz.\" ifadesini kullandı.",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-08T13:00:55+00:00"
+  },
+  {
+   "title": "Arjantin'de Boca Juniors, Enner Valencia'nın uzatma dakikalarındaki golüyle şampiyon oldu",
+   "link": "https://www.aa.com.tr/tr/spor/arjantinde-boca-juniors-enner-valencianin-uzatma-dakikalarindaki-goluyle-sampiyon-oldu/4115862",
+   "summary": "Arjantin Birinci Futbol Ligi'nde Defensa y Justicia'yı 1-0 yenen Boca Juniors, şampiyonluğa ulaştı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-08T10:41:03+00:00"
   }
  ]
 }
