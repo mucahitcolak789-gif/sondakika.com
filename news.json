@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-10T19:00:22.568944+00:00",
+ "updated": "2026-11-10T19:58:08.514953+00:00",
  "items": [
+  {
+   "title": "Başsavcılık, Adli Tıp'ın Kaşif Kozinoğlu raporuna itiraz etti",
+   "link": "https://www.bbc.com/turkce/articles/cwyzxq2g545o?at_medium=RSS&at_campaign=rss",
+   "summary": "Eski MİT görevlisi Kaşif Kozinoğlu'nun cezaevinde ölümüne ilişkin soruşturmada başsavcılık, Adli Tıp Kurumu'nun raporuna itiraz etti.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4e87/live/bd89f910-acff-11f1-b1d1-571ed4d7ff2c.png",
+   "published": "2026-11-10T19:50:07+00:00"
+  },
+  {
+   "title": "BM: Gazze'de hafta sonu yağan yağmurlardan yaklaşık 200 binden fazla kişi etkilendi",
+   "link": "https://www.trthaber.com/haber/dunya/bm-gazzede-hafta-sonu-yagan-yagmurlardan-yaklasik-200-binden-fazla-kisi-etkilendi-962859.html",
+   "summary": "Birleşmiş Milletler BM, Gazze'de hafta sonu yağan yağmurlardan 40 binden fazla ailenin barınağında ve Gazze'deki 9 sağlık tesisinde hasar yaşandığını belirterek, ilk tahminlere göre 200 binden fazla kişinin etkilenmiş…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:50:00+00:00"
+  },
+  {
+   "title": "İstanbul'da trafikte kavga eden iki sürücüye 562 bin lira ceza",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbulda-trafikte-kavga-eden-iki-surucuye-562-bin-lira-ceza-962858.html",
+   "summary": "İstanbul Pendik'te trafikte tartıştıktan sonra araçlarından inerek birbirlerine saldıran otomobil ve motosiklet sürücülerine toplam 562 bin 719 lira idari para cezası kesildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:43:00+00:00"
+  },
+  {
+   "title": "Gençlik ve Spor Bakanı Osman Aşkın Bak: KYK yurt başvurularının yüzde 96'sını yerleştirdik",
+   "link": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakani-osman-askin-bak-kyk-yurt-basvurularinin-yuzde-96sini-yerlestirdik/4119503",
+   "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, 2026-2027 eğitim öğretim döneminde KYK yurtlarındaki yerleştirme oranının yüzde 96'ya eriştiğini ve kapasiteyi artırmak için çalışmayı sürdürdüklerini söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:39:02+00:00"
+  },
+  {
+   "title": "50 metrelik uçuruma yuvarlanan otomobilden sağ kurtuldular",
+   "link": "https://www.trthaber.com/haber/turkiye/50-metrelik-ucuruma-yuvarlanan-otomobilden-sag-kurtuldular-962857.html",
+   "summary": "Antalya'nın Alanya ilçesinde yaklaşık 50 metreden şarampole yuvarlanan otomobildeki iki kişi, kendi imkanlarıyla araçtan çıkarak kazayı yara almadan atlattı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:23:00+00:00"
+  },
+  {
+   "title": "Türkiye ve Özbekistan gümrük idareleri arasında anlaşmalar imzalandı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ve-ozbekistan-gumruk-idareleri-arasinda-anlasmalar-imzalandi/4119488",
+   "summary": "Türkiye-Özbekistan Ortak Gümrük Konseyi (OGK) 6. Toplantısı, Ticaret Bakan Yardımcısı Sezai Uçarmak ve Özbekistan Gümrük İdaresi Başkanı Akmalkhuja Mavlonov'un eş başkanlıklarında dün İstanbul'da gerçekleştirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:21:11+00:00"
+  },
+  {
+   "title": "AB Siber Güvenlik Ajansı: AB'ye yönelik siber tehdit seviyesi yüksek kalmaya devam ediyor",
+   "link": "https://www.trthaber.com/haber/dunya/ab-siber-guvenlik-ajansi-abye-yonelik-siber-tehdit-seviyesi-yuksek-kalmaya-devam-ediyor-962856.html",
+   "summary": "Avrupa Birliği Siber Güvenlik Ajansı ENISA, birlik genelinde siber güvenlik kapasitesinde iyileşme kaydedilmesine rağmen AB'ye yönelik siber tehdit seviyesinin yüksek kalmaya devam ettiği konusunda uyardı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:14:00+00:00"
+  },
+  {
+   "title": "Filistin topraklarını gasbeden İsrailliler, Batı Şeria'da yeni kaçak yerleşim noktası kurdu",
+   "link": "https://www.aa.com.tr/tr/dunya/filistin-topraklarini-gasbeden-israilliler-bati-seriada-yeni-kacak-yerlesim-noktasi-kurdu-/4119484",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:08:20+00:00"
+  },
+  {
+   "title": "Suriye'de 440 kilometrelik yolda savaş kalıntılarını temizleme çalışması başlatıldı",
+   "link": "https://www.aa.com.tr/tr/dunya/suriyede-440-kilometrelik-yolda-savas-kalintilarini-temizleme-calismasi-baslatildi/4119480",
+   "summary": "Suriye'de, yaklaşık 440 kilometre uzunluğundaki Şam-Tedmur-Deyrizor kara yolunda patlamamış mayın ve savaş kalıntılarının temizlenmesi amacıyla tarama çalışmaları başlatıldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-10T19:02:06+00:00"
+  },
   {
    "title": "ABD ile gerilimin sürdüğü İran'da kadınlar askeri eğitim almaya devam ediyor",
    "link": "https://www.aa.com.tr/tr/dunya/abd-ile-gerilimin-surdugu-iranda-kadinlar-askeri-egitim-almaya-devam-ediyor/4119474",
@@ -240,7 +321,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/cinin-elektrikli-arac-ihracati-ekimde-rekor-seviyeye-cikti/4119284",
    "summary": "Çin'in elektrikli araç ihracatı, Orta Doğu'daki savaşın petrol fiyatlarında artışa yol açmasının​​​​​​​ etkisiyle rekor seviyelere ulaştı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-10T16:27:16+00:00"
   },
@@ -263,15 +344,6 @@
    "published": "2026-11-10T16:20:12+00:00"
   },
   {
-   "title": "Emine Erdoğan, BM Habitat İcra Direktörü Anaclaudia Rossbach ile görüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-bm-habitat-icra-direktoru-anaclaudia-rossbach-ile-gorustu/4119253",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, BM Habitat İcra Direktörü Anaclaudia Rossbach ile…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-10T16:17:36+00:00"
-  },
-  {
    "title": "Emine Erdoğan'dan iklim diplomasisi",
    "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-iklim-diplomasisi-962846.html",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31 kapsamında ikili görüşmelerini sürdürüyor.",
@@ -285,7 +357,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israillilerin-bati-seriadaki-sanayi-bolgesine-saldirisinda-3-milyon-dolarlik-zarar-olustu/4119251",
    "summary": "Filistin topraklarını gasbeden yaklaşık 200 İsraillinin, işgal altındaki Batı Şeria'nın kuzeyindeki Nablus kentine bağlı Beyta beldesinin sanayi bölgesine düzenlediği saldırıda yaklaşık 3 milyon dolarlık maddi zarar…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-10T16:16:49+00:00"
   },
@@ -317,20 +389,11 @@
    "published": "2026-11-10T16:08:58+00:00"
   },
   {
-   "title": "İzmir'de fabrikadaki patlamada hayatını kaybedenler son yolculuğuna uğurlanıyor",
-   "link": "https://www.aa.com.tr/tr/gundem/izmirde-fabrikadaki-patlamada-hayatini-kaybedenler-son-yolculuguna-ugurlaniyor/4119234",
-   "summary": "İzmir'in Aliağa ilçesinde demir çelik fabrikasındaki patlamada hayatını kaybeden işçilerden İlker Sığırtmaçoğlu, Hüsnü Ersoy, Özcan Efe ve Mustafa Sert'in cenazeleri toprağa verildi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-10T16:03:21+00:00"
-  },
-  {
    "title": "AB ülkelerinde geçici koruma altındaki Ukraynalıların sayısı 4,37 milyona geriledi",
    "link": "https://www.aa.com.tr/tr/dunya/ab-ulkelerinde-gecici-koruma-altindaki-ukraynalilarin-sayisi-4-37-milyona-geriledi/4119233",
    "summary": "Rusya-Ukrayna Savaşı'nın ardından ülkelerinden kaçarak Avrupa Birliği (AB) ülkelerine sığınan ve geçici koruma statüsünden yararlananların sayısı, eylül itibarıyla bir önceki aya göre 61 bin 55 kişi azalarak 4,37…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-10T16:02:25+00:00"
   },
@@ -402,7 +465,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/igadan-sebeke-suyuna-bagimliligini-sona-erdirmeyi-hedefleyen-yatirim-icin-isbirligi-/4119177",
    "summary": "İstanbul Havalimanı İşletmecisi İGA, şebeke suyuna bağımlılığını sonlandırmak amacıyla 2027 sonuna kadar tamamlamayı hedeflediği 60 milyon avroluk \"Ters Ozmoz Tesisi\" yatırımının finansmanı için Yapı Kredi Leasing ile…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-10T15:20:46+00:00"
   },
@@ -758,15 +821,6 @@
    "published": "2026-11-10T12:42:07+00:00"
   },
   {
-   "title": "Kıbrıs'ta iki yeni sınır kapısı açılacak",
-   "link": "https://www.bbc.com/turkce/articles/c69vzv2ykpvro?at_medium=RSS&at_campaign=rss",
-   "summary": "Kıbrıs'ın kuzeyindeki Türk yönetiminin lideri Tufan Erhürman ve Kıbrıs Cumhuriyeti Cumhurbaşkanı Nikos Hristodulides 9 Kasım'da yaptıkları görüşmede adada iki geçiş kapısı daha açılması kararı aldı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f823/live/9b0e6bd0-dd03-11f1-b882-b9b1c69603b0.jpg",
-   "published": "2026-11-10T12:36:13+00:00"
-  },
-  {
    "title": "Emekli Yunan Korgeneral: Yunanistan 7 senede 9 kez Türkiye karşısında geri adım attı",
    "link": "https://www.trthaber.com/haber/dunya/emekli-yunan-korgeneral-yunanistan-7-senede-9-kez-turkiye-karsisinda-geri-adim-atti-962820.html",
    "summary": "Yunanistan muhalefetinden Zafer Partisinin milli savunma grubu başkanı, emekli Korgeneral Yannis İnces, Türkiye ve Libya arasında 2019'da imzalanan deniz yetki alanlarına ilişkin mutabakat muhtırasının ardından…",
@@ -929,15 +983,6 @@
    "published": "2026-11-10T11:36:00+00:00"
   },
   {
-   "title": "Taşacak Bu Deniz YouTube aramalarına da damga vurdu",
-   "link": "https://www.trthaber.com/haber/bilim-teknoloji/tasacak-bu-deniz-youtube-aramalarina-da-damga-vurdu-962809.html",
-   "summary": "Türkiye'de 1 Temmuz 2025 30 Haziran 2026 dönemini kapsayan YouTube arama verilerine göre TRT 1'in rekortmen dizisi Taşacak Bu Deniz ilk sırada yer aldı. 10 Ekim 2025'te yayın hayatına başlayan dizinin arama endeksi de…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-10T11:28:00+00:00"
-  },
-  {
    "title": "Çin ve ABD arasındaki casusluk geriliminin odağındaki kişi hakkında neler biliniyor?",
    "link": "https://www.bbc.com/turkce/articles/cmd6d6ezld6do?at_medium=RSS&at_campaign=rss",
    "summary": "Dünyanın en büyük çip üreticilerinden Nvidia'nın CEO'su Jensen Huang'ın merkezinde olduğu olay, bir evlilik dışı ilişki skandalının ötesine geçti.",
@@ -945,15 +990,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d6de/live/38aacfe0-dcf6-11f1-9ef0-4b5930e2f80e.png",
    "published": "2026-11-10T11:21:00+00:00"
-  },
-  {
-   "title": "Araştırma: İngilizlerin yüzde 78'i İsrail'i dünya barışı için ciddi tehdit olarak görüyor",
-   "link": "https://www.trthaber.com/haber/dunya/arastirma-ingilizlerin-yuzde-78i-israili-dunya-barisi-icin-ciddi-tehdit-olarak-goruyor-962808.html",
-   "summary": "İngiltere'de yapılan araştırma, halkın yüzde 78'inin İsrail'i dünya barışı için \"ciddi tehdit\" olarak gördüğünü ortaya koydu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-10T11:18:00+00:00"
   },
   {
    "title": "Von der Leyen, Karadeniz'de seyrüsefer serbestisinin korunması çağrısını yineledi",
@@ -965,13 +1001,13 @@
    "published": "2026-11-10T11:14:52+00:00"
   },
   {
-   "title": "İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın çıktı",
-   "link": "https://www.trthaber.com/haber/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti-962807.html",
-   "summary": "İran Devrim Muhafızları Ordusu Donanması, Hürmüz Boğazı'nda, \"izin verilmeyen bölgede\" hareket eden 2 petrol tankerinden birinin deniz mayınına çarpması sonucu alev aldığını, diğerinde ise meydana gelen bir kaza sonrası…",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "title": "Araştırma: İngilizlerin yüzde 78'i İsrail'i dünya barışı için \"ciddi tehdit\" olarak görüyor",
+   "link": "https://www.aa.com.tr/tr/dunya/arastirma-ingilizlerin-yuzde-78i-israili-dunya-barisi-icin-ciddi-tehdit-olarak-goruyor/4118721",
+   "summary": "İngiltere'de yapılan araştırma, halkın yüzde 78'inin İsrail'i dünya barışı için \"ciddi tehdit\" olarak gördüğünü ortaya koydu.",
+   "source": "AA",
+   "category": "Dünya",
    "image": null,
-   "published": "2026-11-10T11:10:00+00:00"
+   "published": "2026-11-10T11:14:37+00:00"
   },
   {
    "title": "Ali Koç'tan COP31'de \"ekonomik rekabet ve enerji dönüşümü\" vurgusu",
@@ -983,13 +1019,13 @@
    "published": "2026-11-10T11:05:11+00:00"
   },
   {
-   "title": "Atatürk'ün ebediyete intikalinin 88'inci yılında Anıtkabir'de ziyaretçi yoğunluğu",
-   "link": "https://www.trthaber.com/haber/gundem/ataturkun-ebediyete-intikalinin-88inci-yilinda-anitkabirde-ziyaretci-yogunlugu-962806.html",
-   "summary": "Türkiye Cumhuriyeti'nin kurucusu Gazi Mustafa Kemal Atatürk'ün ebediyete intikalinin 88'inci yılında Anıtkabir'de ziyaretçi yoğunluğu yaşandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "title": "İran: Hürmüz Boğazı'nda biri mayına çarpan 2 petrol tankerinde yangın çıktı",
+   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-biri-mayina-carpan-2-petrol-tankerinde-yangin-cikti/4118707",
+   "summary": "İran Devrim Muhafızları Ordusu Donanması, Hürmüz Boğazı'nda, \"izin verilmeyen bölgede\" hareket eden 2 petrol tankerinden birinin deniz mayınına çarpması sonucu alev aldığını, diğerinde ise meydana gelen bir kaza sonrası…",
+   "source": "AA",
+   "category": "Dünya",
    "image": null,
-   "published": "2026-11-10T11:02:00+00:00"
+   "published": "2026-11-10T11:04:42+00:00"
   },
   {
    "title": "Rusya Dışişleri Bakanı Lavrov, İsrail'in Trump'ın Gazze planını uygulamadığını söyledi",
@@ -1064,15 +1100,6 @@
    "published": "2026-11-10T10:25:39+00:00"
   },
   {
-   "title": "İsrail’de \"Değişim Bloğu\", Meclis ve komisyon başkanlıkları için ortak adaylar konusunda uzlaştı",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-de-degisim-blogu-meclis-ve-komisyon-baskanliklari-icin-ortak-adaylar-konusunda-uzlasti/4118642",
-   "summary": "İsrail'de hükümet kurma yetkisini alan Gadi Eisenkot liderliğindeki \"Değişim Bloğu\"nun, Meclis Başkanlığı ve kilit komisyonların başına getirilecek isimler konusunda anlaşmaya vardığı duyuruldu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-10T10:18:38+00:00"
-  },
-  {
    "title": "Sanayi üretim endeksi eylülde yıllık yüzde 2,6, aylık yüzde 2,1 arttı",
    "link": "https://www.aa.com.tr/tr/ekonomi/sanayi-uretim-endeksi-eylulde-yillik-yuzde-2-6-aylik-yuzde-2-1-artti/4118633",
    "summary": "Sanayi üretim endeksi, eylülde aylık bazda yüzde 2,1, yıllık bazda yüzde 2,6 artış gösterdi.",
@@ -1080,15 +1107,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-10T10:10:09+00:00"
-  },
-  {
-   "title": "Protesto gösterilerinin sürdüğü Fransa'da lise ateşe verildi",
-   "link": "https://www.aa.com.tr/tr/dunya/protesto-gosterilerinin-surdugu-fransada-lise-atese-verildi/4118625",
-   "summary": "Protesto gösterilerinin haftalardır devam ettiği ve eğitim sendikalarının bugün greve gittiği Fransa'da bir lise sabah saatlerinde ateşe verildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-10T10:04:50+00:00"
   },
   {
    "title": "Bakan Bayraktar Türkiye'nin enerji dönüşümü için 2040'a kadar 300 milyar dolar yatırım öngördüklerini bildirdi",
@@ -1154,15 +1172,6 @@
    "published": "2026-11-10T08:55:38+00:00"
   },
   {
-   "title": "Almanya’da aşırı soğuklarda gaz kıtlığı uyarısı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/almanya-da-asiri-soguklarda-gaz-kitligi-uyarisi/4118380",
-   "summary": "Almanya Gaz Depolama Girişimi (INES), yaklaşan kış dönemi öncesinde doğal gaz depolama tesislerindeki doluluk oranının yüzde 61'e gerilediğini belirterek aşırı soğuklarda gaz kıtlığı yaşanabileceği uyarısında bulundu.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-10T08:42:01+00:00"
-  },
-  {
    "title": "Bakan Bak: Dünyanın en geniş kapsamlı öğrenci barınma modeline sahibiz",
    "link": "https://www.aa.com.tr/tr/spor/bakan-bak-dunyanin-en-genis-kapsamli-ogrenci-barinma-modeline-sahibiz/4118356",
    "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, Bakanlığın yurt kapasitesinde dünyada zirvede olduğunu belirterek, \"1 milyonu aşkın yatak kapasitesiyle dünyanın en geniş kapsamlı ve işlevsel öğrenci barınma modeline sahibiz\"…",
@@ -1224,15 +1233,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-10T07:18:47+00:00"
-  },
-  {
-   "title": "İspanya'da makinistler demir yollarının güvenliği için greve gitti",
-   "link": "https://www.aa.com.tr/tr/dunya/ispanyada-makinistler-demir-yollarinin-guvenligi-icin-greve-gitti/4118217",
-   "summary": "İspanya'da bu yıl meydana gelen büyük çaplı iki hızlı tren kazasının ardından makinistler, demir yolu güvenliği talebiyle 24 saatlik greve gitti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-10T07:17:01+00:00"
   },
   {
    "title": "A Milli Kadın Basketbol Takımı, yarın Karadağ'ı konuk edecek",
