@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-11T22:12:28.433587+00:00",
+ "updated": "2026-11-11T23:01:29.243633+00:00",
  "items": [
+  {
+   "title": "New York'ta çöken binanın enkazı altında kalan en az bir kişi hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/dunya/new-yorkta-coken-binanin-enkazi-altinda-kalan-en-az-bir-kisi-hayatini-kaybetti/4121532",
+   "summary": "New York'un Brooklyn kentinde çöken binanın enkazı altında kalan en az bir kişinin öldüğü, bazı apartman sakinlerinin yaralandığı bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-11T22:37:15+00:00"
+  },
+  {
+   "title": "ABD Temsilciler Meclisi, Savunma Bakanı Hegseth'e yönelik azil girişimini engelledi",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-temsilciler-meclisi-savunma-bakani-hegsethe-yonelik-azil-girisimini-engelledi/4121524",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-11T22:25:49+00:00"
+  },
+  {
+   "title": "Rusya'nın Washington Büyükelçisi Darçiyev hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/dunya/rusyanin-washington-buyukelcisi-darciyev-hayatini-kaybetti/4121519",
+   "summary": "Rusya'nın Washington Büyükelçisi Aleksandr Darçiyev'in 66 yaşında hayatını kaybettiği bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-11T22:23:41+00:00"
+  },
+  {
+   "title": "ACWA Türkiye'deki yenilenebilir enerji yatırımlarını artırmayı hedefliyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/acwa-turkiyedeki-yenilenebilir-enerji-yatirimlarini-artirmayi-hedefliyor/4121505",
+   "summary": "Suudi Arabistanlı küresel enerji şirketi ACWA, Türkiye'nin yenilenebilir enerji hedefleri doğrultusunda güneş enerjisi, elektrik iletim altyapısı ve batarya depolama alanlarındaki yatırımlarını artırmayı hedefliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-11T22:18:43+00:00"
+  },
   {
    "title": "İspanya'da 14 yıl sonra ilk genel grev: Madrid ve Barcelona'da 200 bine yakın kişi sokağa çıktı",
    "link": "https://www.bbc.com/turkce/articles/cmvg2rvpg774o?at_medium=RSS&at_campaign=rss",
@@ -63,6 +99,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-11T20:58:00+00:00"
+  },
+  {
+   "title": "Ünlü isimlerden iklim değişikliğiyle mücadele için ortak sorumluluk ve somut adım vurgusu",
+   "link": "https://www.aa.com.tr/tr/gundem/unlu-isimlerden-iklim-degisikligiyle-mucadele-icin-ortak-sorumluluk-ve-somut-adim-vurgusu/4121463",
+   "summary": "COP31 kapsamındaki Bakanlar Yemeği'ne katılan oyuncular Hatice Şendil, Hande Erçel ve Ekin Koç ile sunucu Saba Tümer, iklim değişikliğiyle mücadelede ortak hareket edilmesi, farkındalığın artırılması ve somut adımlar…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-11T20:50:44+00:00"
   },
   {
    "title": "Ukrayna Devlet Başkanı Zelenskiy, liderler düzeyinde üçlü zirve için görüşmelerin sürdüğünü belirtti",
@@ -339,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/netanyahunun-ofisi-abdnin-israile-4-milyar-dolarlik-yardimini-kademeli-olarak-azaltacagini-one-surdu/4121336",
    "summary": "İsrail'in geçici Başbakanı Binyamin Netanyahu'nun ofisi, ABD Başkanı Donald Trump'ın İsrail'e 4 milyar dolarlık yardımın durdurulacağı yönündeki açıklamasının aksine, yardımların kademeli olarak azaltılacağını savundu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-11T18:21:55+00:00"
   },
@@ -348,7 +393,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/rusyadan-israile-gazzeye-insani-yardimin-ulastirilmasi-icin-acilen-onlem-alma-cagrisi/4121331",
    "summary": "Rusya Dışişleri Bakanlığı Sözcüsü Mariya Zaharova, İsrail’e Gazze'deki durumun daha da kötüleşmesini önlemek ve insani yardım üzerindeki engelleri kaldırmak için acilen önlemler alma çağrısında bulundu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-11T18:15:08+00:00"
   },
@@ -416,15 +461,6 @@
    "published": "2026-11-11T17:41:00+00:00"
   },
   {
-   "title": "Bakan Kurum'dan Sıfır Atık Mutfağı'na ilişkin paylaşım",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-sifir-atik-mutfagina-iliskin-paylasim/4121294",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"COP31'de bugün Sıfır Atık günü. Anadolu'nun eşsiz lezzetlerini tanıtırken Sıfır Atık Mutfağı'nda Sıfır Atık bilincini dünyayla paylaşıyoruz.\"…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-11T17:34:52+00:00"
-  },
-  {
    "title": "MİT Başkanı Kalın, IKBY Başkanı Neçirvan Barzani ile görüştü",
    "link": "https://www.trthaber.com/haber/gundem/mit-baskani-kalin-ikby-baskani-necirvan-barzani-ile-gorustu-962962.html",
    "summary": "Milli İstihbarat Teşkilatı MİT Başkanı İbrahim Kalın, Antalya'da düzenlenen Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 kapsamında Irak Kürt Bölgesel Yönetimi IKBY Başkanı…",
@@ -447,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/portekizde-siddetli-yagis-ve-firtina-yasami-felc-etti/4121231",
    "summary": "Portekiz'i etkisi altına alan \"Charles\" adı verilen tropikal kasırga, ülkede yaşamı felç etti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-11T17:12:05+00:00"
   },
@@ -794,15 +830,6 @@
    "published": "2026-11-11T13:20:18+00:00"
   },
   {
-   "title": "GSI projesi için Fransa'nın Ankara'yla angajmanı Atina'da tartışmalara neden oldu",
-   "link": "https://www.aa.com.tr/tr/dunya/gsi-projesi-icin-fransanin-ankarayla-angajmani-atinada-tartismalara-neden-oldu/4120741",
-   "summary": "Yunanistan, Güney Kıbrıs Rum Yönetimi ve İsrail arasında yapılması planlanan elektrik hattı projesine (GSI) ilişkin Fransa'nın Türkiye ile angajmana girmesi Atina'da tartışmalara yol açtı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-11T13:17:47+00:00"
-  },
-  {
    "title": "Emine Erdoğan, COP31'e katılan liderler ve eşleriyle yakından ilgilendi",
    "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-cop31e-katilan-liderler-ve-esleriyle-yakindan-ilgilendi-962951.html",
    "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı COP31 Liderler Zirvesi'ne katılan liderler ve eşleriyle yakından ilgilendi.",
@@ -819,15 +846,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-11T13:10:50+00:00"
-  },
-  {
-   "title": "İngiltere Başbakanı Burnham, Gazze'ye insani yardım için İsrail'e baskıyı sürdüreceklerini söyledi",
-   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-basbakani-burnham-gazzeye-insani-yardim-icin-israile-baskiyi-surdureceklerini-soyledi/4120730",
-   "summary": "İngiltere Başbakanı Andy Burnham, Gazze'ye yardımların girişi ve yardımlardaki kısıtlamaların kaldırılması için İsrail'e baskıyı sürdüreceklerini söyledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-11T13:09:46+00:00"
   },
   {
    "title": "İngiltere Başbakanı Burnham: Gazze'ye insani yardım için İsrail'e baskıyı sürdüreceğiz",
@@ -927,15 +945,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-11T11:59:46+00:00"
-  },
-  {
-   "title": "Hollanda'da 6 parti, İsrailli şirketle ortak silah üretimi planına karşı çıktı",
-   "link": "https://www.aa.com.tr/tr/dunya/hollandada-6-parti-israilli-sirketle-ortak-silah-uretimi-planina-karsi-cikti/4120598",
-   "summary": "Hollanda'da 6 parti, Hollandalı savunma şirketi Artillerie Inrichtingen Armaments'ın (AIA), İsrail ordusunun ana silah tedarikçisi Israel Weapon Industries (IWI) ile ortak silah üretimi planına karşı belediyeye soru…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-11T11:51:48+00:00"
   },
   {
    "title": "Dünya Bankası IFC aracılığıyla finansmanının yaklaşık yüzde 35'ini yerel para biriminde sağlıyor",
@@ -1260,15 +1269,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-11T08:14:27+00:00"
-  },
-  {
-   "title": "T3 Vakfı, çocukları iklim sorunlarına teknolojiyle çözüm üretmeye teşvik ediyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/t3-vakfi-cocuklari-iklim-sorunlarina-teknolojiyle-cozum-uretmeye-tesvik-ediyor/4119817",
-   "summary": "Türkiye Teknoloji Takımı Vakfı (T3 Vakfı) bünyesinde yürütülen \"Bilim Türkiye\" adlı proje sayesinde erken yaşta bilimle buluşturulan çocuklar, iklim değişikliği ve sürdürülebilirlik alanlarında bilimsel çözümler…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-11T08:07:26+00:00"
   },
   {
    "title": "Türkiye ile Belçika, bugün 13. kez karşı karşıya gelecek",
