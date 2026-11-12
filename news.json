@@ -1,6 +1,60 @@
 {
- "updated": "2026-11-12T21:15:03.416078+00:00",
+ "updated": "2026-11-12T22:00:05.682223+00:00",
  "items": [
+  {
+   "title": "Microsoft'un bazı hizmetlerinde erişim sorunu yaşanıyor",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoftun-bazi-hizmetlerinde-erisim-sorunu-yasaniyor/4123522",
+   "summary": "ABD merkezli teknoloji şirketi Microsoft'un Microsoft 365, Outlook ve Teams hizmetlerinde erişim sorunları yaşandığı bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T21:53:44+00:00"
+  },
+  {
+   "title": "BM Güvenlik Konseyi, Yemen'e yönelik yaptırımları 1 yıl daha uzattı",
+   "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyi-yemene-yonelik-yaptirimlari-1-yil-daha-uzatti/4123511",
+   "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), Yemen'e uygulanan yaptırımların 1 yıl daha uzatılmasına karar verdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T21:28:35+00:00"
+  },
+  {
+   "title": "Okullarda ilk ara tatil için son ders zili bugün çalacak",
+   "link": "https://www.trthaber.com/haber/gundem/okullarda-ilk-ara-tatil-icin-son-ders-zili-bugun-calacak-963116.html",
+   "summary": "Milli Eğitim Bakanlığı'na MEB bağlı ilk ve ortaöğretim kurumlarındaki yaklaşık 17 milyon öğrenci, 1620 Kasım'da 20262027 eğitim öğretim yılının ilk ara tatilini yapacak.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T21:27:00+00:00"
+  },
+  {
+   "title": "Avrupa araştırması 900 milyon galaksiyi ortaya çıkardı",
+   "link": "https://www.trthaber.com/haber/dunya/avrupa-arastirmasi-900-milyon-galaksiyi-ortaya-cikardi-963117.html",
+   "summary": "Avrupa Uzay Ajansı'nın evrenin en büyük üç boyutlu haritasını oluşturmak amacıyla hayata geçirdiği Euclid misyonu, ilk büyük veri akışında 900 milyondan fazla galaksi ve binlerce kütleçekimsel merceklenme adayı ortaya…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T21:26:00+00:00"
+  },
+  {
+   "title": "Kremlin Dış Politika Danışmanı Uşakov: ABD temsilcileriyle temaslara başlanması konusunda mutabık kalındı",
+   "link": "https://www.aa.com.tr/tr/dunya/kremlin-dis-politika-danismani-usakov-abd-temsilcileriyle-temaslara-baslanmasi-konusunda-mutabik-kalindi/4123501",
+   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in Steve Witkoff ve Jared Kushner ile yaptığı görüşmede, Ukrayna krizinin çözümüne yönelik müzakere sürecinin sürdürülmesi konusunda…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T21:11:50+00:00"
+  },
+  {
+   "title": "Arjantin Milli Takımı'nda Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı",
+   "link": "https://www.aa.com.tr/tr/spor/arjantin-milli-takiminda-lionel-scaloninin-sozlesmesi-2030a-kadar-uzatildi/4123499",
+   "summary": "Arjantin Milli Futbol Takımı'nda teknik direktör Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T21:11:30+00:00"
+  },
   {
    "title": "İBB davasında ara karar: İmamoğlu'nun avukatı Mehmet Pehlivan dahil sekiz kişiye tahliye",
    "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss",
@@ -272,15 +326,6 @@
    "published": "2026-11-12T18:04:51+00:00"
   },
   {
-   "title": "Emine Erdoğan, Uluslararası Göç Örgütü Genel Direktörü Pope ile görüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-uluslararasi-goc-orgutu-genel-direktoru-pope-ile-gorustu/4123325",
-   "summary": "Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Uluslararası Göç Örgütü Genel Direktörü Amy Pope ile bir araya geldi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T18:01:14+00:00"
-  },
-  {
    "title": "İsrail Savunma Bakanı Katz: İran'a saldırı konusunda Netanyahu, ben ve Genelkurmay Başkanı aynı görüşteyiz",
    "link": "https://www.aa.com.tr/tr/dunya/israil-savunma-bakani-katz-irana-saldiri-konusunda-netanyahu-ben-ve-genelkurmay-baskani-ayni-gorusteyiz/4123308",
    "summary": "İsrail Savunma Bakanı Yisrael Katz, İran'a saldırı konusunda kendisinin, geçici Başbakan Binyamin Netanyahu'nun ve Genelkurmay Başkanı Eyal Zamir'in aynı görüşte olduğunu savundu.",
@@ -506,15 +551,6 @@
    "published": "2026-11-12T15:25:00+00:00"
   },
   {
-   "title": "TİKA Başkanı Eren, COP31'in tüm paydaşların faaliyete geçeceği bir zirve olmasını diledi",
-   "link": "https://www.aa.com.tr/tr/gundem/tika-baskani-eren-cop31in-tum-paydaslarin-faaliyete-gececegi-bir-zirve-olmasini-diledi/4123036",
-   "summary": "TİKA Başkanı Eren, COP31 kapsamında hazırladıkları İklim Eylem Planı çerçevesinde bu yıl 31 ülkede 56 projeyi hayata geçirdiklerini belirterek, zirvenin somut adımların atıldığı bir süreç olmasını temenni ettiklerini…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T15:23:36+00:00"
-  },
-  {
    "title": "Borsa günü yükselişle tamamladı",
    "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yukselisle-tamamladi/4123035",
    "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yüzde 1,24 değer kazanarak 11.811,19 puandan tamamladı.",
@@ -531,15 +567,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-12T15:21:14+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz, barış ve çevre diplomasilerinin önemine dikkati çekti",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-baris-ve-cevre-diplomasilerinin-onemine-dikkati-cekti/4123025",
-   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, barış diplomasisiyle çevre diplomasisinin örtüşmek durumunda olduğunu belirterek, \"Savaşlar yerine diplomasinin, insani ölçütlerin ön plana çıkması önemli.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T15:14:05+00:00"
   },
   {
    "title": "İsrail ateşkese rağmen Lübnan'ın güneyine karadan ve havadan saldırılarını sürdürüyor",
@@ -576,15 +603,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-12T14:44:00+00:00"
-  },
-  {
-   "title": "Cevdet Yılmaz: Ortak görevimiz, iklim eylemlerinin fırsatları kısıtlaması yerine desteklemesini sağlamaktır",
-   "link": "https://www.aa.com.tr/tr/gundem/cevdet-yilmaz-ortak-gorevimiz-iklim-eylemlerinin-firsatlari-kisitlamasi-yerine-desteklemesini-saglamaktir/4122848",
-   "summary": "Cumhurbaşkanı Yardımcısı Yılmaz, Afrika'nın sürdürülebilir büyüme için önemli fırsatlar sunduğunu belirterek, \"Ortak görevimiz, iklim eylemlerinin bu fırsatları kısıtlaması yerine desteklemesini sağlamaktır.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T14:34:06+00:00"
   },
   {
    "title": "ABD'de F35 uçaklarına ait yaklaşık 17 bin yedek parçanın Pentagon sisteminde kayıtlı olmadığı belirtildi",
@@ -1064,33 +1082,6 @@
    "published": "2026-11-12T11:57:00+00:00"
   },
   {
-   "title": "ABD'de Kongre üyesi Omar'ın vatandaşlığının iptali sürecinin \"sonuçlandırılmak üzere\" olduğu iddiası",
-   "link": "https://www.aa.com.tr/tr/dunya/abdde-kongre-uyesi-omarin-vatandasliginin-iptali-surecinin-sonuclandirilmak-uzere-oldugu-iddiasi/4122429",
-   "summary": "ABD Adalet Bakanlığının, göçmenlik işlemlerinde \"usulsüzlük\" yaptığı iddia edilen Demokrat Kongre üyesi Ilhan Omar'ın vatandaşlığının iptali sürecini \"sonuçlandırmak üzere\" olduğu iddia edildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-12T11:55:53+00:00"
-  },
-  {
-   "title": "ABD Başkanı Trump, Demokratları yolsuzluk iddialarını örtbas etmeye çalışmakla suçladı",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-demokratlari-yolsuzluk-iddialarini-ortbas-etmeye-calismakla-sucladi/4122427",
-   "summary": "ABD Başkanı Donald Trump, Demokratların, kendi yönetimlerindeki eyaletlerde yaşandığını öne sürdüğü yolsuzlukları örtbas etmek amacıyla federal yönetimi suçladığını belirtti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-12T11:55:31+00:00"
-  },
-  {
-   "title": "İşgalci İsrail ordusu, Gazze'de alıkoyduğu balıkçılardan 5'ini denize attı",
-   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-ordusu-gazzede-alikoydugu-balikcilardan-5ini-denize-atti-963066.html",
-   "summary": "İşgalci İsrail ordusu, Gazze Şeridi açıklarında alıkoyduğu balıkçılardan 5'ini denize attı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T11:53:00+00:00"
-  },
-  {
    "title": "BM Genel Sekreter Yardımcısı ve UNOPS İcra Direktörü Silva: İklim sorunu tek bir ülke tarafından çözülemez",
    "link": "https://www.aa.com.tr/tr/dunya/bm-genel-sekreter-yardimcisi-ve-unops-icra-direktoru-silva-iklim-sorunu-tek-bir-ulke-tarafindan-cozulemez/4122421",
    "summary": "",
@@ -1107,15 +1098,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T11:50:04+00:00"
-  },
-  {
-   "title": "Emine Erdoğan: Bilginin değeri, onu hangi kararlara dönüştürebildiğimizle de ölçülür",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogan-bilginin-degeri-onu-hangi-kararlara-donusturebildigimizle-de-olculur-963067.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi, Birleşmiş Milletler BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, \"Artık iklim krizinin boyutlarını ortaya koyan raporların, uyarıların ve…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T11:49:00+00:00"
   },
   {
    "title": "BM: Ülkeler metan emisyonlarını azaltmada somut ilerleme kaydediyor",
@@ -1350,6 +1332,24 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-11T12:51:33+00:00"
+  },
+  {
+   "title": "TEST: İklim değişikliği hakkında ne kadar bilgi sahibisiniz?",
+   "link": "https://www.bbc.com/turkce/articles/cmkgdwrqwvdyo?at_medium=RSS&at_campaign=rss",
+   "summary": "Atmosferdeki karbondioksit artışından sera gazlarının ısıyı nasıl hapsettiğine kadar, iklim değişikliği hakkında bildiklerinizi bu kısa testle sınayın",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/14d8/live/76e567a0-ddde-11f1-b465-b9821c2582d4.jpg",
+   "published": "2026-11-11T11:17:48+00:00"
+  },
+  {
+   "title": "İstanbul'daki 2027 İspanya Süper Kupası'nın biletleri satışta",
+   "link": "https://www.aa.com.tr/tr/spor/istanbuldaki-2027-ispanya-super-kupasinin-biletleri-satista/4120098",
+   "summary": "İspanyol futbolunun dört büyük kulübünü İstanbul'da bir araya getiren 2027 Türk Hava Yolları İspanya Süper Kupası'nda maç biletlerinin satışı başladı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-11T10:31:08+00:00"
   }
  ]
 }
