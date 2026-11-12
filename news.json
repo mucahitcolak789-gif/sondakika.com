@@ -1,6 +1,87 @@
 {
- "updated": "2026-11-12T18:30:10.632452+00:00",
+ "updated": "2026-11-12T19:29:18.345573+00:00",
  "items": [
+  {
+   "title": "İBB davasında savcı 46 sanığın tutukluluğunun devamını istedi",
+   "link": "https://www.bbc.com/turkce/articles/cm87zngy4y5no?at_medium=RSS&at_campaign=rss",
+   "summary": "Görevden uzaklaştırılan İBB Başkanı Ekrem İmamoğlu'nun da aralarında bulunduğu 46'sı tutuklu 436 sanığın yargılandığı İBB davasında savcı, ara karar için mütalaasını verdi ve tüm sanıkların tutukluluk halinin devamını…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f533/live/cc6ada00-d692-11f1-8f56-0b6ab08f384e.jpg",
+   "published": "2026-11-12T19:15:21+00:00"
+  },
+  {
+   "title": "Malatya'da düşen helikopterde dört asker hayatını kaybetti",
+   "link": "https://www.bbc.com/turkce/articles/cj4gn99v0693o?at_medium=RSS&at_campaign=rss",
+   "summary": "Milli Savunma Bakanlığı, Malatya'da Skorsky tipi bir helikopterin düştüğünü ve dört askerin hayatını kaybettiğini duyurdu.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9905/live/79fbdf40-deb6-11f1-8fb5-a771a656a227.jpg",
+   "published": "2026-11-12T18:58:36+00:00"
+  },
+  {
+   "title": "Sırbistan'da Öğrenci Listesi: Filistin halkını yok etme girişiminin suç ortağı olmayacağız",
+   "link": "https://www.aa.com.tr/tr/dunya/sirbistanda-ogrenci-listesi-filistin-halkini-yok-etme-girisiminin-suc-ortagi-olmayacagiz/4123375",
+   "summary": "Sırbistan'da seçimi kazanan Öğrenci Listesi, İsrail'in Gazze'de yürüttüğü Filistin halkını sistematik olarak yok etme girişiminin suç ortağı olmayacaklarını ve Filistin'e insani yardım gönderimini yoğunlaştıracaklarını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:56:58+00:00"
+  },
+  {
+   "title": "İsrail basını: CENTCOM, orduya İran'a yeni saldırı ihtimaline hazırlıklı olma mesajı gönderdi",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-basini-centcom-orduya-irana-yeni-saldiri-ihtimaline-hazirlikli-olma-mesaji-gonderdi/4123366",
+   "summary": "İsrail devlet televizyonu KAN, \"yeni bir savaşa hazırlıklı olunması gerektiği\" yönündeki mesajın, İsrail'in yanı sıra Körfez ülkelerine de iletildiğini iddia etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:48:59+00:00"
+  },
+  {
+   "title": "Milli Takım Belçika'ya kaybetti",
+   "link": "https://www.trthaber.com/haber/gundem/milli-takim-belcikaya-kaybetti-963110.html",
+   "summary": "UEFA Uluslar A Ligi 1. Grup beşinci maçında Belçika'ya 21 mağlup olan A Milli Futbol Takımı, yine puanla tanışamadı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:48:00+00:00"
+  },
+  {
+   "title": "Nvidia'nın eski CEO'su Jensen Huang, ABD Kongresi'nde ifade vermeyi kabul etti",
+   "link": "https://www.aa.com.tr/tr/dunya/nvidianin-eski-ceosu-jensen-huang-abd-kongresinde-ifade-vermeyi-kabul-etti/4123360",
+   "summary": "ABD'li çip üreticisi Nvidia'nın eski Üst Yöneticisi (CEO) Jensen Huang'ın, ABD'nin ulusal güvenliğine yönelik tehditlerin ele alınacağı kapalı oturumda ifade vermeyi kabul ettiği bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:39:10+00:00"
+  },
+  {
+   "title": "İşitme engelli milli judocular, Avrupa Şampiyonası'nı 10 madalya ile tamamladı",
+   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-judocular-avrupa-sampiyonasini-10-madalya-ile-tamamladi/4123355",
+   "summary": "İşitme engelli milli judocular, Azerbaycan'da düzenlenen Avrupa Şampiyonası'nda 10 madalya elde etti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:36:38+00:00"
+  },
+  {
+   "title": "Fed, gelecek yıl ekim toplantısında para politikası kararı vermeyecek",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-gelecek-yil-ekim-toplantisinda-para-politikasi-karari-vermeyecek/4123349",
+   "summary": "ABD Merkez Bankası (Fed), 26-27 Ekim 2027'de yapılacak Federal Açık Piyasa Komitesi (FOMC) toplantısında, geniş kapsamlı para politikası stratejisi konularının tartışılacağını ve politika kararı açıklanmayacağını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:29:24+00:00"
+  },
+  {
+   "title": "Emine Erdoğan'dan Antalya'da ikili temaslar",
+   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-antalyada-ikili-temaslar-963107.html",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı COP31 kapsamında ikili görüşmeler gerçekleştirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:22:00+00:00"
+  },
   {
    "title": "Bakan Bolat, uluslararası finans ve ticaret dünyasının temsilcileriyle görüştü",
    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-uluslararasi-finans-ve-ticaret-dunyasinin-temsilcileriyle-gorustu/4123340",
@@ -38,6 +119,15 @@
    "published": "2026-11-12T18:07:58+00:00"
   },
   {
+   "title": "A Milli Takım, kötü gidişi durduramadı",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-takim-kotu-gidisi-durduramadi/4123328",
+   "summary": "UEFA Uluslar A Ligi 1. Grup beşinci maçında Belçika'ya 2-1 mağlup olan A Milli Futbol Takımı, yine puanla tanışamadı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T18:04:51+00:00"
+  },
+  {
    "title": "Emine Erdoğan, Uluslararası Göç Örgütü Genel Direktörü Pope ile görüştü",
    "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-uluslararasi-goc-orgutu-genel-direktoru-pope-ile-gorustu/4123325",
    "summary": "Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Uluslararası Göç Örgütü Genel Direktörü Amy Pope ile bir araya geldi.",
@@ -56,13 +146,13 @@
    "published": "2026-11-12T17:46:57+00:00"
   },
   {
-   "title": "MSB: Malatya'da düşen helikopterde dört asker şehit oldu",
-   "link": "https://www.bbc.com/turkce/articles/cj4gn99v0693o?at_medium=RSS&at_campaign=rss",
-   "summary": "Milli Savunma Bakanlığı, Malatya'da Skorsky tipi bir helikopterin düştüğünü ve dört askerin hayatını kaybettiğini duyurdu.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9905/live/79fbdf40-deb6-11f1-8fb5-a771a656a227.jpg",
-   "published": "2026-11-12T17:38:09+00:00"
+   "title": "AA Yönetim Kurulu Başkanı ve Genel Müdürü Karagöz, Antalya'daki COP31 Liderler Zirvesi’ne katıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/aa-yonetim-kurulu-baskani-ve-genel-muduru-karagoz-antalyadaki-cop31-liderler-zirvesi-ne-katildi/4123306",
+   "summary": "Anadolu Ajansı (AA) Yönetim Kurulu Başkanı ve Genel Müdürü Serdar Karagöz, Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Liderler…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T17:46:18+00:00"
   },
   {
    "title": "Emine Erdoğan Sıfır Atık Müzesi'ni açtı",
@@ -119,6 +209,15 @@
    "published": "2026-11-12T17:23:36+00:00"
   },
   {
+   "title": "İran Cumhurbaşkanı Pezeşkiyan, COP31 kapsamında gerçekleştirdiği temasların olumlu geçtiğini söyledi",
+   "link": "https://www.aa.com.tr/tr/gundem/iran-cumhurbaskani-pezeskiyan-cop31-kapsaminda-gerceklestirdigi-temaslarin-olumlu-gectigini-soyledi-/4123274",
+   "summary": "İran Cumhurbaşkanı Mesud Pezeşkiyan, Antalya'da çeşitli ülkelerin liderleriyle yaptığı görüşmelerde olumlu işbirliklerinin sağlandığını ve gelecekte bu diyalogun devam etmesini umduğunu belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T17:23:24+00:00"
+  },
+  {
    "title": "Jensen Huang'ın yükselişi ve düşüşü: Teknoloji yıldızının adı nasıl skandala karıştı?",
    "link": "https://www.bbc.com/turkce/articles/cmn4kyyd2vxko?at_medium=RSS&at_campaign=rss",
    "summary": "Küresel teknoloji yarışında dokunulmaz bir figür gibi görünen Huang'ın itibarı birkaç gün içinde yerle bir oldu.",
@@ -173,13 +272,13 @@
    "published": "2026-11-12T16:54:58+00:00"
   },
   {
-   "title": "Emine Erdoğan, COP31 alanındaki Sıfır Atık Müzesi'ni açtı",
-   "link": "https://www.aa.com.tr/tr/gundem/emine-erdogan-cop31-alanindaki-sifir-atik-muzesini-acti/4123221",
-   "summary": "Birleşmiş Milletler (BM) Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu Başkanı Emine Erdoğan, Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında, Sıfır…",
+   "title": "\"Eşyaların Dilinden Asr-ı Saadet\" sergisi Hz. Peygamber dönemine ışık tutuyor",
+   "link": "https://www.aa.com.tr/tr/kultur/esyalarin-dilinden-asr-i-saadet-sergisi-hz-peygamber-donemine-isik-tutuyor/4123218",
+   "summary": "Merhum Mahmut Karakış'ın kaleme aldığı eser ile Hz. Muhammed döneminde kullanılan 425 eşyanın incelendiği sergi, düzenlenen vefa programıyla sanat ve ilim dünyasının beğenisine sunuldu.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
-   "published": "2026-11-12T16:44:10+00:00"
+   "published": "2026-11-12T16:40:01+00:00"
   },
   {
    "title": "Türkiye'nin yeşil dönüşümünde uluslararası yatırımcılarla işbirliği vurgusu",
@@ -191,15 +290,6 @@
    "published": "2026-11-12T16:37:53+00:00"
   },
   {
-   "title": "Malatya'da kaza kırıma uğrayan S-70 tipi helikopterdeki 4 asker şehit oldu",
-   "link": "https://www.aa.com.tr/tr/gundem/malatyada-kaza-kirima-ugrayan-s-70-tipi-helikopterdeki-4-asker-sehit-oldu/4123177",
-   "summary": "Milli Savunma Bakanlığı (MSB), Malatya'da kaza kırıma uğrayan S-70 tipi helikopterdeki 4 askerin şehit olduğunu bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T16:24:36+00:00"
-  },
-  {
    "title": "Malatya'da helikopter düştü: 4 askerimiz şehit oldu",
    "link": "https://www.trthaber.com/haber/gundem/malatyada-helikopter-dustu-4-askerimiz-sehit-oldu-963100.html",
    "summary": "Milli Savunma Bakanlığı MSB, Malatya'da S70 tipi helikopterin henüz bilinmeyen bir nedenle kaza kırıma uğradığını açıkladı. Düşen askeri helikopterde 4 askerimiz şehit oldu.",
@@ -209,13 +299,13 @@
    "published": "2026-11-12T16:20:00+00:00"
   },
   {
-   "title": "Bakan Kacır elektrikli ve hibrit araç sayısını 16 milyona çıkarmayı hedeflediklerini belirtti",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/bakan-kacir-elektrikli-ve-hibrit-arac-sayisini-16-milyona-cikarmayi-hedeflediklerini-belirtti/4123111",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye'de elektrikli ve hibrit araç sayısını 2040 yılına kadar 16 milyona, güneş ve rüzgar enerjisinin toplam kurulu gücünü ise 175 gigavata çıkarmayı hedeflediklerini…",
+   "title": "Bakan Göktaş: Aile politikalarımızı geleceğin ihtiyaçlarına göre şekillendireceğiz",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-goktas-aile-politikalarimizi-gelecegin-ihtiyaclarina-gore-sekillendirecegiz/4123112",
+   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, \"Aile ve Nüfus On Yılı'nda, değişen nüfus yapısını dikkate alarak aile politikalarımızı geleceğin ihtiyaçlarına göre şekillendireceğiz.\" dedi.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
-   "published": "2026-11-12T16:13:01+00:00"
+   "published": "2026-11-12T16:13:07+00:00"
   },
   {
    "title": "Sergen Yalçın yönetimindeki A Milliler Belçika karşısında",
@@ -240,7 +330,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/abdde-ikinci-el-konut-satislari-ekimde-16-yilin-en-dusuk-seviyesine-geriledi/4123080",
    "summary": "ABD'de ikinci el konut satışları, ekimde aylık bazda yüzde 5,5 azalarak Ağustos 2010'dan bu yana en düşük seviyesine indi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T15:59:53+00:00"
   },
@@ -249,18 +339,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/ab-rusyaya-yonelik-22-yaptirim-paketinin-yakinda-sunulacagini-bildirdi/4123078",
    "summary": "Avrupa Birliği (AB), Rusya'ya yönelik 22. yaptırım paketinin yakın zamanda sunulacağını duyurdu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T15:58:20+00:00"
-  },
-  {
-   "title": "Suç örgütü elebaşı Mehmet Recep Demir'in Azerbaycan'dan iadesi için talepname",
-   "link": "https://www.aa.com.tr/tr/gundem/suc-orgutu-elebasi-mehmet-recep-demirin-azerbaycandan-iadesi-icin-talepname/4123071",
-   "summary": "Azerbaycan’da tutuklanan \"Barış Boyun Suç Örgütü\" elebaşı Mehmet Recep Demir'in Türkiye'ye iadesi için İstanbul Cumhuriyet Başsavcılığınca talepname düzenlendi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T15:51:36+00:00"
   },
   {
    "title": "İletişim Başkanı Duran: En kıymetli miras daha yeşil ve daha adil bir dünya",
@@ -270,15 +351,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-12T15:40:00+00:00"
-  },
-  {
-   "title": "İletişim Başkanı Duran: Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-duran-turkiye-iklim-adaletini-konusurken-insani-degerleri-ve-vicdani-da-masaya-koydu/4123057",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Burhanettin Duran, \"Türkiye, iklim adaletini konuşurken insani değerleri ve vicdanı da masaya koydu.\" ifadesini kullandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T15:37:26+00:00"
   },
   {
    "title": "ABİsrail Ortaklık Anlaşması'nın askıya alınması için toplanan 1 milyondan fazla imza AB'ye sunuldu",
@@ -425,15 +497,6 @@
    "published": "2026-11-12T14:34:06+00:00"
   },
   {
-   "title": "Sağlık Bakanım Memişoğlu: Türkiye'de koruyan, geliştiren ve üreten sağlık anlayışını hayata geçirdik",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanim-memisoglu-turkiyede-koruyan-gelistiren-ve-ureten-saglik-anlayisini-hayata-gecirdik/4122837",
-   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Türkiye'de Cumhurbaşkanımızın liderliğinde 'Sağlıkta Türkiye Yüzyılı' diyerek koruyan, geliştiren ve üreten sağlık anlayışını hayata geçirdik.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T14:29:53+00:00"
-  },
-  {
    "title": "ABD'de F35 uçaklarına ait yaklaşık 17 bin yedek parçanın Pentagon sisteminde kayıtlı olmadığı belirtildi",
    "link": "https://www.trthaber.com/haber/dunya/abdde-f-35-ucaklarina-ait-yaklasik-17-bin-yedek-parcanin-pentagon-sisteminde-kayitli-olmadigi-belirtildi-963092.html",
    "summary": "ABD'de Hükümet Hesap Verebilirlik Ofisi GAO, ABD Savunma Bakanlığının Pentagon, F35 savaş uçaklarına ait yedek parçaların takibi ve envanter kayıtlarının tutulmasında sorun yaşamaya devam ettiğini ve yaklaşık 17 bin…",
@@ -468,15 +531,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/421f/live/87d7cef0-deaa-11f1-8253-3f203a001288.jpg",
    "published": "2026-11-12T14:25:35+00:00"
-  },
-  {
-   "title": "Cumhurbaşkanı Erdoğan: İklim krizi küresel ölçekte kararlı adımlar atılmasını zorunlu kılıyor",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-erdogan-iklim-krizi-kuresel-olcekte-kararli-adimlar-atilmasini-zorunlu-kiliyor/4122821",
-   "summary": "Cumhurbaşkanı Erdoğan, \"İklim krizinin ulaştığı ürkütücü boyutlar, küresel ölçekte kararlı adımlar atılmasını zorunlu kılıyor.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T14:23:28+00:00"
   },
   {
    "title": "AB: Gelecek haftalar Rusya'nın savaşı sona erdirme istekliliği için belirleyici olacak",
@@ -816,7 +870,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/en-az-gelismis-ulkeler-yesil-sanayilesmeyi-kolaylastirma-mekanizmasi-tanitildi/4122491",
    "summary": "Antalya'da gerçekleştirilen COP31 kapsamında, \"En Az Gelişmiş Ülkeler Yeşil Sanayileşmeyi Kolaylaştırma Mekanizması\" tanıtıldı",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T12:19:03+00:00"
   },
@@ -1001,15 +1055,6 @@
    "published": "2026-11-12T11:46:00+00:00"
   },
   {
-   "title": "Manifest'in menajerine 'müstehcen yayın' davasının ilk duruşmasında tahliye",
-   "link": "https://www.bbc.com/turkce/articles/c93eqpwjd7wo?at_medium=RSS&at_campaign=rss",
-   "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında tutuklanan Manifest grubunun menajeri Tolga Akış hakkında altı aydan üç yıla kadar hapis istemiyle iddianame düzenlendi.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6b9e/live/335e0950-a220-11f1-8d29-591eef351b23.jpg",
-   "published": "2026-11-12T11:44:46+00:00"
-  },
-  {
    "title": "Merkez Bankası rezervleri 161,1 milyar dolar oldu",
    "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-1611-milyar-dolar-oldu-963062.html",
    "summary": "Türkiye Cumhuriyet Merkez Bankasının TCMB toplam rezervleri, 6 Kasım haftasında bir önceki haftaya göre 2 milyar 956 milyon dolar artarak 161 milyar 63 milyon dolar oldu.",
@@ -1037,15 +1082,6 @@
    "published": "2026-11-12T11:36:00+00:00"
   },
   {
-   "title": "Hamaney'in danışmanı: ABD şartlarımızı kabul etmezlerse hiçbir müzakere yapılmayacak",
-   "link": "https://www.trthaber.com/haber/dunya/hamaneyin-danismani-abd-sartlarimizi-kabul-etmezlerse-hicbir-muzakere-yapilmayacak-963060.html",
-   "summary": "İran lideri Mücteba Hamaneyin danışmanı Muhammed Muhbir, ABDnin, İran'ın sunduğu 7 maddeyi kabul etmemesi durumunda hiçbir müzakere gerçekleşmeyeceğini söyledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T11:36:00+00:00"
-  },
-  {
    "title": "Gazze'de bir bebek daha soğuktan öldü",
    "link": "https://www.trthaber.com/haber/dunya/gazzede-bir-bebek-daha-soguktan-oldu-963061.html",
    "summary": "Gazze'de işgalci İsrail'in saldırıları ve ağırlaşan insani koşullar nedeniyle yerinden edilen Filistinliler, kış şartlarıyla da mücadele ediyor.",
@@ -1055,15 +1091,6 @@
    "published": "2026-11-12T11:35:00+00:00"
   },
   {
-   "title": "İstanbul Kuzey Demir Yolu Geçişi Projesi için 25 teklif verildi",
-   "link": "https://www.trthaber.com/haber/ekonomi/istanbul-kuzey-demir-yolu-gecisi-projesi-icin-25-teklif-verildi-963059.html",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, İstanbul Kuzey Demir Yolu Geçişi Projesi'nin ihalesine ilişkin ilk tekliflerin dün alındığını belirterek, Türkiye'den firmaların yanı sıra Çin ve İtalya'dan 4 yabancı…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T11:31:00+00:00"
-  },
-  {
    "title": "BM: Ülkeler metan emisyonlarını azaltmada somut ilerleme kaydediyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/bm-ulkeler-metan-emisyonlarini-azaltmada-somut-ilerleme-kaydediyor/4122365",
    "summary": "Birleşmiş Milletler Çevre Programı (UNEP), ülkelerin metan emisyonlarının azaltımında somut ilerleme sağlamaya başladığını ve toplam azaltımın bir yıl boyunca 26 milyon otomobilin trafikten çekilmesine eş değer miktarda…",
@@ -1071,6 +1098,15 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T11:26:16+00:00"
+  },
+  {
+   "title": "Hamaney'in danışmanı: (ABD) Şartlarımızı kabul etmezlerse hiçbir müzakere yapılmayacak",
+   "link": "https://www.aa.com.tr/tr/dunya/hamaneyin-danismani-abd-sartlarimizi-kabul-etmezlerse-hicbir-muzakere-yapilmayacak/4122363",
+   "summary": "İran lideri Mücteba Hamaney’in danışmanı Muhammed Muhbir, ABD’nin, İran'ın sunduğu 7 maddeyi kabul etmemesi durumunda hiçbir müzakere gerçekleşmeyeceğini söyledi.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-12T11:24:46+00:00"
   },
   {
    "title": "Netanyahu, hükümeti kurma görevi alan Eisenkot'u \"güvenlik konularında\" bilgilendirecek",
@@ -1089,15 +1125,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-12T11:18:50+00:00"
-  },
-  {
-   "title": "Netanyahu'ya 'ülke güvenliğini tehlikeye atma' uyarısı",
-   "link": "https://www.trthaber.com/haber/dunya/netanyahuya-ulke-guvenligini-tehlikeye-atma-uyarisi-963058.html",
-   "summary": "İsrail'de muhalefet bloğunun bileşenlerinden İsrail Evimiz Partisi lideri Avigdor Liberman, Başbakan Binyamin Netanyahu'yu ülkeyi savaşa sürükleyecek güvenlik kararları almaması konusunda uyardı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T11:16:00+00:00"
   },
   {
    "title": "Kazakistan Ekoloji ve Doğal Kaynaklar Bakanı Kuantyrov'dan Türkiye ile ilişkilere \"mükemmel\" nitelemesi",
@@ -1127,15 +1154,6 @@
    "published": "2026-11-12T11:10:03+00:00"
   },
   {
-   "title": "Türkiye ile Çin arasında 15 milyar dolarlık yatırım anlaşması",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiye-ile-cin-arasinda-15-milyar-dolarlik-yatirim-anlasmasi-963057.html",
-   "summary": "COP31 marjında, Enerji ve Tabii Kaynaklar Bakanı Alparslan Bayraktarın refakatinde, Enerji ve Tabii Kaynaklar Bakanlığı ile Çin Halk Cumhuriyeti Ulusal Enerji İdaresi arasında \"Yenilenebilir Enerji Alanında İş Birliğine…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T11:04:00+00:00"
-  },
-  {
    "title": "Arap Birliği Taiz'de \"insani felaket\" yaşanabileceği uyarısıyla Husilerden kısıtlamaları kaldırmalarını istedi",
    "link": "https://www.aa.com.tr/tr/dunya/arap-birligi-taizde-insani-felaket-yasanabilecegi-uyarisiyla-husilerden-kisitlamalari-kaldirmalarini-istedi/4122290",
    "summary": "Arap Birliği Genel Sekreteri Nebil Fehmi, Yemen'in güneybatısındaki Taiz vilayetine hayati öneme sahip malzemelerin ulaştırılmasının İran destekli Husiler tarafından engellenmeye devam etmesinin insani felakete yol…",
@@ -1145,24 +1163,6 @@
    "published": "2026-11-12T10:58:13+00:00"
   },
   {
-   "title": "Belçika İçişleri Bakanı, süpermarketlerdeki siber saldırıları \"İranlı aktörlerin\" yapmış olabileceğine işaret etti",
-   "link": "https://www.aa.com.tr/tr/dunya/belcika-icisleri-bakani-supermarketlerdeki-siber-saldirilari-iranli-aktorlerin-yapmis-olabilecegine-isaret-etti/4122285",
-   "summary": "Belçika İçişleri Bakanı Bernard Quintin, 2 Kasım'da süpermarketlerin soğutma sistemlerinin işleyişini aksatan siber saldırıların \"İranlı aktörler\" tarafından gerçekleştirilmiş olabileceğine dair kanıtlara sahip…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-12T10:53:34+00:00"
-  },
-  {
-   "title": "Fransa’nın kuzeyinde tren istasyonunda bomba alarmı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransa-nin-kuzeyinde-tren-istasyonunda-bomba-alarmi/4122264",
-   "summary": "Fransa’nın kuzeyindeki Calais-Frethun tren istasyonunda bomba alarmı nedeniyle Londra hattında Eurostar yüksek hızlı tren seferleri aksadı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-12T10:42:22+00:00"
-  },
-  {
    "title": "Türkiye'de yıllık 600 milyon fidan ve tohum hedefine ulaşıldı",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-yillik-600-milyon-fidan-ve-tohum-hedefine-ulasildi/4122242",
    "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, \"Cumhurbaşkanı'mız Sayın Recep Tayyip Erdoğan'ın belirlediği 1 yılda 600 milyon fidan ve tohum hedefimizi gerçekleştirdik.\" ifadesini kullandı.",
@@ -1170,15 +1170,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T10:31:50+00:00"
-  },
-  {
-   "title": "Türkiye Sanayi Karbonsuzlaşma Yatırım Platformu COP31'de tanıtıldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-sanayi-karbonsuzlasma-yatirim-platformu-cop31de-tanitildi/4122233",
-   "summary": "Türkiye'nin ev sahipliğinde ilk kez düzenlenen COP31 kapsamında\"Türkiye Sanayi Karbonsuzlaşma Yatırım Platformu Resmi Lansman Etkinliği ve Ortaklık Katılım Töreni\" düzenlendi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-12T10:26:45+00:00"
   },
   {
    "title": "Merkez Bankası yıl sonu enflasyon tahminini %29,5'e yükseltti",
@@ -1197,15 +1188,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T09:44:56+00:00"
-  },
-  {
-   "title": "BM: İklim değişikliği nedeniyle 2050'ye kadar yaklaşık 216 milyon kişi göç edebilir",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-iklim-degisikligi-nedeniyle-2050ye-kadar-yaklasik-216-milyon-kisi-goc-edebilir/4122125",
-   "summary": "Birleşmiş Milletler (BM) Uluslararası Göç Örgütü (IOM), 2050'ye kadar iklim değişikliği nedeniyle yaklaşık 216 milyon kişinin ülke içinde göç etmek zorunda kalabileceğini bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-12T09:33:28+00:00"
   },
   {
    "title": "Araştırma: 'Escitalopram' depresyonun nüksetmesini engellemede daha etkili bir ilaç",
@@ -1350,6 +1332,24 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-11T18:11:24+00:00"
+  },
+  {
+   "title": "Sergen Yalçın: Bütün planımızı kazanmak üzerine yaptık",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-butun-planimizi-kazanmak-uzerine-yaptik/4121136",
+   "summary": "UEFA Uluslar A Ligi 1. Grup'taki 5. maçında İzmir'de Belçika ile karşı karşıya gelecek A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, bütün planlarını galibiyet üzerine yaptıklarını söyledi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-11T16:17:24+00:00"
+  },
+  {
+   "title": "Galatasaray Kulübünde kasım ayı olağan divan kurulu toplantısı yapıldı",
+   "link": "https://www.aa.com.tr/tr/spor/galatasaray-kulubunde-kasim-ayi-olagan-divan-kurulu-toplantisi-yapildi/4121003",
+   "summary": "Başkan yardımcısı Mehmet Cibara, \"Zemin için SIS firmasıyla çalışıyoruz. Bu konulardaki en iyi firmalardan bir tanesi. Burada hepimizin kusuru var.\" dedi.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-11T15:24:02+00:00"
   }
  ]
 }
