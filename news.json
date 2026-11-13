@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-13T01:16:43.938230+00:00",
+ "updated": "2026-11-13T02:20:08.193950+00:00",
  "items": [
+  {
+   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, \"Lübnan-Türkiye Stratejik Liderlik Diyaloğu\" toplantısına katıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnan-turkiye-stratejik-liderlik-diyalogu-toplantisina-katildi/4123556",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T00:40:11+00:00"
+  },
   {
    "title": "Nvidia CEO'su Huang, ABD Kongresi'nde ifade verecek",
    "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
@@ -119,15 +128,6 @@
    "published": "2026-11-12T22:07:00+00:00"
   },
   {
-   "title": "Microsoft'un bazı hizmetlerinde erişim sorunu yaşanıyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoftun-bazi-hizmetlerinde-erisim-sorunu-yasaniyor/4123522",
-   "summary": "ABD merkezli teknoloji şirketi Microsoft'un Microsoft 365, Outlook ve Teams hizmetlerinde erişim sorunları yaşandığı bildirildi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T21:53:44+00:00"
-  },
-  {
    "title": "UEFA Uluslar Ligi'nin 5. haftası 8 maçla başladı",
    "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasi-8-macla-basladi/4123521",
    "summary": "",
@@ -141,7 +141,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/abd-baskani-trump-bu-is-bittiginde-israile-gidip-basbakan-olabilirim/4123519",
    "summary": "ABD Başkanı Donald Trump, İsrail'e desteğinin tam olduğunu vurgulayarak, \"İsrail'de destek oranım yüzde 99, oradaki en popüler kişiyim. Bu iş bittiğinde İsrail'e gidip başbakan olabilirim.\" dedi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-12T21:53:31+00:00"
   },
@@ -159,7 +159,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/bm-guvenlik-konseyi-yemene-yonelik-yaptirimlari-1-yil-daha-uzatti/4123511",
    "summary": "Birleşmiş Milletler Güvenlik Konseyi (BMGK), Yemen'e uygulanan yaptırımların 1 yıl daha uzatılmasına karar verdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-12T21:28:35+00:00"
   },
@@ -186,7 +186,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-bati-seriada-37-donumluk-arazideki-agaclarin-sokulmesi-emrini-verdi/4123506",
    "summary": "İsrail makamları, işgal altındaki Batı Şeria'nın güneyinde yer alan El Halil kentine bağlı Dura ve Terkumya beldelerinde, 37 dönümü aşkın tarım arazisindeki badem ağaçlarının ve bitki örtüsünün sökülmesi yönünde askeri…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-12T21:23:15+00:00"
   },
@@ -195,7 +195,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/kremlin-dis-politika-danismani-usakov-abd-temsilcileriyle-temaslara-baslanmasi-konusunda-mutabik-kalindi/4123501",
    "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya Devlet Başkanı Vladimir Putin'in Steve Witkoff ve Jared Kushner ile yaptığı görüşmede, Ukrayna krizinin çözümüne yönelik müzakere sürecinin sürdürülmesi konusunda…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-12T21:11:50+00:00"
   },
@@ -204,7 +204,7 @@
    "link": "https://www.aa.com.tr/tr/spor/arjantin-milli-takiminda-lionel-scaloninin-sozlesmesi-2030a-kadar-uzatildi/4123499",
    "summary": "Arjantin Milli Futbol Takımı'nda teknik direktör Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-12T21:11:30+00:00"
   },
@@ -294,7 +294,7 @@
    "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-mucadeleden-memnunuz/4123474",
    "summary": "UEFA Uluslar A Ligi 1. Grup beşinci maçında konuk ettiği Belçika'ya 2-1 yenilen A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, kaybetmelerine rağmen oyuncularının mücadelesinden memnun olduğunu söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-12T20:48:34+00:00"
   },
@@ -450,15 +450,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T18:29:24+00:00"
-  },
-  {
-   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan, Beyrut'ta Lübnanlı siyasilerle görüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-beyrutta-lubnanli-siyasilerle-gorustu/4123348",
-   "summary": "Bilal Erdoğan ve beraberindeki Türk heyeti, başkent Beyrut'ta Lübnan Meclis Başkanı Nebih Berri, Müstakbel Hareketi Başkan Yardımcısı Behiye el-Hariri ve Dürzi lider, eski İlerici Sosyalist Parti Başkanı Velid Canbolat…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T18:29:11+00:00"
   },
   {
    "title": "Emine Erdoğan'dan Antalya'da ikili temaslar",
@@ -630,6 +621,15 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T15:58:20+00:00"
+  },
+  {
+   "title": "COP31 CEO'su Fatma Varank, Türkiye Kadın Pavilyonunun açılışını gerçekleştirdi",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-ceosu-fatma-varank-turkiye-kadin-pavilyonunun-acilisini-gerceklestirdi-/4123065",
+   "summary": "COP31 CEO'su ve Çevre, Şehircilik ve İklim Değişikliği Bakan Yardımcısı Fatma Varank, iklim diplomasisinde kadın liderliğini ve yerel üretim gücünü küresel gündeme taşıyacak Mavi Bölge'deki Türkiye Kadın Pavilyonunun…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T15:44:20+00:00"
   },
   {
    "title": "Oyuncular Kenan İmirzalıoğlu ve Sinem Kobal'dan COP31'de iklim eylemi çağrısı",
@@ -1145,15 +1145,6 @@
    "published": "2026-11-12T12:03:00+00:00"
   },
   {
-   "title": "Türkiye ile Çin arasında yenilenebilir enerji alanında yaklaşık 15 milyar dolarlık yatırım anlaşması",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-cin-arasinda-yenilenebilir-enerji-alaninda-yaklasik-15-milyar-dolarlik-yatirim-anlasmasi/4122419",
-   "summary": "Bakan Bayraktar, Çin ile yaklaşık 15 milyar dolarlık yatırım öngören işbirliği kapsamında toplam 7 bin megavatlık güneş ve rüzgar enerjisi santrali ve 4 bin megavatlık elektrik iletim altyapısını hayata geçirmeyi…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-12T11:50:04+00:00"
-  },
-  {
    "title": "COP31 katılımcıları Uluslararası Ormancılık Eğitim Merkezi'ni gezdi",
    "link": "https://www.aa.com.tr/tr/gundem/cop31-katilimcilari-uluslararasi-ormancilik-egitim-merkezini-gezdi/4122388",
    "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Antalya'ya gelen farklı ülkelerden 62 katılımcı, Orman Genel Müdürlüğünün (OGM) Uluslararası Ormancılık Eğitim…",
@@ -1172,13 +1163,13 @@
    "published": "2026-11-12T11:31:14+00:00"
   },
   {
-   "title": "BM: Ülkeler metan emisyonlarını azaltmada somut ilerleme kaydediyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bm-ulkeler-metan-emisyonlarini-azaltmada-somut-ilerleme-kaydediyor/4122365",
-   "summary": "Birleşmiş Milletler Çevre Programı (UNEP), ülkelerin metan emisyonlarının azaltımında somut ilerleme sağlamaya başladığını ve toplam azaltımın bir yıl boyunca 26 milyon otomobilin trafikten çekilmesine eş değer miktarda…",
+   "title": "Cezayir, 2035'e kadar sera gazı emisyonunu yüzde 14 azaltmayı hedefliyor",
+   "link": "https://www.aa.com.tr/tr/gundem/cezayir-2035e-kadar-sera-gazi-emisyonunu-yuzde-14-azaltmayi-hedefliyor/4122369",
+   "summary": "Cezayir, 2035 yılına kadar sera gazı emisyonlarını yüzde 14 azaltmayı, uluslararası destek sağlanması halinde ise bu oranı yüzde 31'e çıkarmayı hedefliyor.",
    "source": "AA",
-   "category": "Ekonomi",
+   "category": "Gündem",
    "image": null,
-   "published": "2026-11-12T11:26:16+00:00"
+   "published": "2026-11-12T11:27:51+00:00"
   },
   {
    "title": "COP31'de iklim uyumunu destekleyecek ARISE programının ilk ülkeleri açıklandı",
@@ -1188,6 +1179,24 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T11:10:03+00:00"
+  },
+  {
+   "title": "Lübnan Başbakanı: İsrail saldırılarında 2023-2024 yılında çevresel kayıplar 512 milyon doları aştı",
+   "link": "https://www.aa.com.tr/tr/gundem/lubnan-basbakani-israil-saldirilarinda-2023-2024-yilinda-cevresel-kayiplar-512-milyon-dolari-asti/4122283",
+   "summary": "Lübnan Başbakanı Nevvaf Selam, “(Lübnan’da) Uluslararası insancıl hukukun ihlali niteliğindeki İsrail saldırılarından kaynaklanan çevresel kayıplar, 2023-2024 döneminde 512 milyon ABD dolarını aşmış, 2026 yılında da…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T10:52:15+00:00"
+  },
+  {
+   "title": "Filistin Başbakanı: Gazze insani, çevre ve iklim dahil zorlukların somutlaştığı yerdir",
+   "link": "https://www.aa.com.tr/tr/gundem/filistin-basbakani-gazze-insani-cevre-ve-iklim-dahil-zorluklarin-somutlastigi-yerdir/4122258",
+   "summary": "Filistin Başbakanı Muhammed Mustafa, \"Gazze insani, çevre ve iklim dahil tüm zorlukların acı verici biçimde somutlaştığı yerdir.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T10:39:23+00:00"
   },
   {
    "title": "Merkez Bankası yıl sonu enflasyon tahminini %29,5'e yükseltti",
@@ -1208,6 +1217,15 @@
    "published": "2026-11-12T09:44:56+00:00"
   },
   {
+   "title": "Bakan Yumaklı: Krizlere müdahale etmek yerine riskleri önceden yönetmek zorundayız",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-yumakli-krizlere-mudahale-etmek-yerine-riskleri-onceden-yonetmek-zorundayiz/4122084",
+   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, iklim değişikliğinin su kaynakları üzerindeki etkilerine karşı risklerin önceden yönetilmesi gerektiğini bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T09:15:23+00:00"
+  },
+  {
    "title": "Araştırma: 'Escitalopram' depresyonun nüksetmesini engellemede daha etkili bir ilaç",
    "link": "https://www.bbc.com/turkce/articles/c69w9j8k9y2zo?at_medium=RSS&at_campaign=rss",
    "summary": "Üç ilaç en üst sırada yer aldı ve çok sayıda hastada depresyonun yeniden ortaya çıkmasını önlemede Prozac'tan daha iyi performans gösterdi.",
@@ -1215,6 +1233,24 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ea69/live/913e2170-dda0-11f1-93e1-3b657b665bcf.jpg",
    "published": "2026-11-12T08:49:05+00:00"
+  },
+  {
+   "title": "Sağlık Bakanlığının \"Antalya Dayanıklı Sağlık Sistemleri Girişimi\"ne ülkelerden ilgi",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanliginin-antalya-dayanikli-saglik-sistemleri-girisimine-ulkelerden-ilgi/4121993",
+   "summary": "Sağlık Bakanlığı Avrupa Birliği ve Dış İlişkiler Genel Müdürü Dr. Aziz Alper Biten, COP31 kapsamında başlatılan \"Antalya Dayanıklı Sağlık Sistemleri (AIR) Girişimi\"ne ülkelerin sağlık bakanları düzeyinde ilgi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T08:47:48+00:00"
+  },
+  {
+   "title": "Türk Telekom, sürdürülebilir teknoloji çözümlerini COP31'de tanıtıyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekom-surdurulebilir-teknoloji-cozumlerini-cop31de-tanitiyor/4121958",
+   "summary": "Türk Telekom CEO'su Ebubekir Şahin, \"Türk Telekom'un yaptığı bütün çalışmaların temelinde sürdürülebilirlik, geri dönüşüm ve sıfır emisyon var.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T08:26:13+00:00"
   },
   {
    "title": "Kulüpler Birliği Genel Sekreteri Çağrı İlk'ten \"Futbol Zirvesi\"ne ilişkin değerlendirme",
@@ -1314,42 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-11T22:31:57+00:00"
-  },
-  {
-   "title": "Lewis Hamilton'dan Gazze'ye insani yardım çağrısı",
-   "link": "https://www.aa.com.tr/tr/spor/lewis-hamiltondan-gazzeye-insani-yardim-cagrisi/4121375",
-   "summary": "Formula 1 ekibi Ferrari'nin Büyük Britanyalı pilotu Lewis Hamilton, Gazze'ye insani yardım ulaştırılmasına yönelik çağrıda bulundu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-11T19:09:14+00:00"
-  },
-  {
-   "title": "A Milli Kadın Basketbol Takımı, Karadağ’ı 79-62 mağlup etti",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-karadag-i-79-62-maglup-etti/4121328",
-   "summary": "A Milli Kadın Basketbol Takımı, 2027 Avrupa Şampiyonası elemeleri 2. tur I Grubu ilk maçında konuk ettiği Karadağ'ı 79-62 yendi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-11T18:11:24+00:00"
-  },
-  {
-   "title": "Sergen Yalçın: Bütün planımızı kazanmak üzerine yaptık",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-butun-planimizi-kazanmak-uzerine-yaptik/4121136",
-   "summary": "UEFA Uluslar A Ligi 1. Grup'taki 5. maçında İzmir'de Belçika ile karşı karşıya gelecek A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, bütün planlarını galibiyet üzerine yaptıklarını söyledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-11T16:17:24+00:00"
-  },
-  {
-   "title": "Galatasaray Kulübünde kasım ayı olağan divan kurulu toplantısı yapıldı",
-   "link": "https://www.aa.com.tr/tr/spor/galatasaray-kulubunde-kasim-ayi-olagan-divan-kurulu-toplantisi-yapildi/4121003",
-   "summary": "Başkan yardımcısı Mehmet Cibara, \"Zemin için SIS firmasıyla çalışıyoruz. Bu konulardaki en iyi firmalardan bir tanesi. Burada hepimizin kusuru var.\" dedi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-11T15:24:02+00:00"
   }
  ]
 }
