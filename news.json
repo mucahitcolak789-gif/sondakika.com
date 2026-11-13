@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-13T00:06:47.392358+00:00",
+ "updated": "2026-11-13T01:16:43.938230+00:00",
  "items": [
+  {
+   "title": "Nvidia CEO'su Huang, ABD Kongresi'nde ifade verecek",
+   "link": "https://www.bbc.com/turkce/articles/cvj6l247pr4ro?at_medium=RSS&at_campaign=rss",
+   "summary": "Teknoloji milyarderi Jensen Huang, dünyanın en değerli şirketlerinden birinde patlak veren büyük bir skandalın ardından, ABD ulusal güvenliğine ilişkin Kongre önünde ifade vermeye hazır olduğunu belirtti.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/08af/live/640dfe40-de73-11f1-9115-cfe6d179af3a.jpg",
+   "published": "2026-11-13T00:28:40+00:00"
+  },
   {
    "title": "Belçika medyası Türkiye karşısında elde edilen galibiyeti nasıl yorumladı?",
    "link": "https://www.bbc.com/turkce/articles/c9p83m2e2ze6o?at_medium=RSS&at_campaign=rss",
@@ -90,15 +99,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-12T22:19:00+00:00"
-  },
-  {
-   "title": "Milli Eğitim Bakanı Tekin, TBMM Plan ve Bütçe Komisyonunda soruları yanıtladı",
-   "link": "https://www.aa.com.tr/tr/gundem/milli-egitim-bakani-tekin-tbmm-plan-ve-butce-komisyonunda-sorulari-yanitladi/4123534",
-   "summary": "Milli Eğitim Bakanı Yusuf Tekin, Yeni Parti İstanbul Milletvekili Suat Özçağdaş'ın \"Sayıştay'ın Milli Eğitim Bakanlığının mal alımında yolsuzluk tespit etmesine rağmen gereğini yapmadığı\" iddiasına ilişkin açıklamalarda…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T22:16:37+00:00"
   },
   {
    "title": "COP31 kapsamında Antalya-Serik istikametinde gidiş-geliş şeklinde sürdürülen trafik uygulaması sona erdi",
@@ -299,24 +299,6 @@
    "published": "2026-11-12T20:48:34+00:00"
   },
   {
-   "title": "SpaceX, ABD'de yapay zeka altyapısına 74 milyar doları aşkın yatırım planlıyor",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/spacex-abdde-yapay-zeka-altyapisina-74-milyar-dolari-askin-yatirim-planliyor/4123466",
-   "summary": "SpaceX, Texas ve Arizona eyaletlerinde kurulması planlanan 2 süper bilgisayar tesisi için toplam 74 milyar doları aşan yatırım yapmayı öngördüğünü bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T20:33:49+00:00"
-  },
-  {
-   "title": "AK Parti Genel Başkanvekili Ala'dan Cumhurbaşkanı Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşım",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskanvekili-aladan-cumhurbaskani-erdoganin-cop31-liderler-zirvesindeki-gorusmelerine-iliskin-paylasim/4123462",
-   "summary": "AK Parti Genel Başkanvekili Efkan Ala, Cumhurbaşkanı Recep Tayyip Erdoğan'ın COP31 Liderler Zirvesi'ndeki görüşmelerine ilişkin paylaşımda bulundu.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-12T20:30:26+00:00"
-  },
-  {
    "title": "Malatya'da düşen helikopterde dört asker hayatını kaybetti",
    "link": "https://www.bbc.com/turkce/articles/cj4gn99v0693o?at_medium=RSS&at_campaign=rss",
    "summary": "Milli Savunma Bakanlığı, Malatya'da Skorsky tipi bir helikopterin düştüğünü ve dört askerin hayatını kaybettiğini duyurdu.",
@@ -330,7 +312,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/abdli-senatorlerden-butce-anlasmasinda-trumpin-irana-yonelik-saldirilarini-fonlamayi-engelleyecekleri-sozu/4123437",
    "summary": "ABD Senatosundaki 4 senatör, ABD Başkanı Donald Trump'ın İran'a saldırıları sürdürme imkanını kısıtlamayan yıl sonu bütçe anlaşmasını kabul etmeyeceklerini açıkladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-12T19:58:44+00:00"
   },
@@ -650,6 +632,15 @@
    "published": "2026-11-12T15:58:20+00:00"
   },
   {
+   "title": "Oyuncular Kenan İmirzalıoğlu ve Sinem Kobal'dan COP31'de iklim eylemi çağrısı",
+   "link": "https://www.aa.com.tr/tr/kultur/oyuncular-kenan-imirzalioglu-ve-sinem-kobaldan-cop31de-iklim-eylemi-cagrisi/4123064",
+   "summary": "Antalya'da düzenlenen COP31'e katılan oyuncular Kenan İmirzalıoğlu ve Sinem Kobal, iklim değişikliğiyle mücadelede alınan kararların hayata geçirilmesinin önemine dikkati çekti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T15:40:20+00:00"
+  },
+  {
    "title": "İletişim Başkanı Duran: En kıymetli miras daha yeşil ve daha adil bir dünya",
    "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-en-kiymetli-miras-daha-yesil-ve-daha-adil-bir-dunya-963098.html",
    "summary": "İletişim Başkanı Burhanettin Duran, \"Gelecek nesillere bırakacağımız en kıymetli miras, daha temiz, daha yeşil ve daha adil bir dünya olacaktır\" dedi.",
@@ -729,6 +720,24 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-12T15:01:00+00:00"
+  },
+  {
+   "title": "COP31'de Hükümetlerarası Bina ve İklim Konseyi 2. Bakanlar Toplantısı yapıldı",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-hukumetlerarasi-bina-ve-iklim-konseyi-2-bakanlar-toplantisi-yapildi/4122937",
+   "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Hükümetlerarası Bina ve İklim Konseyi (ICBC) 2. Bakanlar Toplantısı düzenlendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T14:53:16+00:00"
+  },
+  {
+   "title": "Kırgızistan Bakanlar Kurulu Başkanı Kasımaliyev: Kırgızistan ile Türkiye arasındaki ilişkiler özel bir niteliğe sahiptir",
+   "link": "https://www.aa.com.tr/tr/gundem/kirgizistan-bakanlar-kurulu-baskani-kasimaliyev-kirgizistan-ile-turkiye-arasindaki-iliskiler-ozel-bir-nitelige-sahiptir/4122929",
+   "summary": "Kırgızistan Bakanlar Kurulu Başkanı Adılbek Kasımaliyev, Türkiye ile Kırgızistan'ın ortak tarih, kültürel yakınlık ve manevi değerlerle birbirine bağlandığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T14:51:57+00:00"
   },
   {
    "title": "Nvidia CEO'su Jensen Huang istifa etti",
@@ -1145,6 +1154,24 @@
    "published": "2026-11-12T11:50:04+00:00"
   },
   {
+   "title": "COP31 katılımcıları Uluslararası Ormancılık Eğitim Merkezi'ni gezdi",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31-katilimcilari-uluslararasi-ormancilik-egitim-merkezini-gezdi/4122388",
+   "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) dolayısıyla Antalya'ya gelen farklı ülkelerden 62 katılımcı, Orman Genel Müdürlüğünün (OGM) Uluslararası Ormancılık Eğitim…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T11:34:56+00:00"
+  },
+  {
+   "title": "OSB'lerdeki Şirketlere Özel Yeşil Dönüşüm Destek Paketi imzalandı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/osblerdeki-sirketlere-ozel-yesil-donusum-destek-paketi-imzalandi/4122376",
+   "summary": "Sanayi ve Teknoloji Bakanı Kacır, OSB'lerdeki Şirketlere Özel Yeşil Dönüşüm Destek Paketiyle, organize sanayi bölgelerindeki işletmelerin yeşil dönüşüm yatırımları için finansmana erişiminin kolaylaştırılmasının…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-12T11:31:14+00:00"
+  },
+  {
    "title": "BM: Ülkeler metan emisyonlarını azaltmada somut ilerleme kaydediyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/bm-ulkeler-metan-emisyonlarini-azaltmada-somut-ilerleme-kaydediyor/4122365",
    "summary": "Birleşmiş Milletler Çevre Programı (UNEP), ülkelerin metan emisyonlarının azaltımında somut ilerleme sağlamaya başladığını ve toplam azaltımın bir yıl boyunca 26 milyon otomobilin trafikten çekilmesine eş değer miktarda…",
@@ -1152,15 +1179,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-12T11:26:16+00:00"
-  },
-  {
-   "title": "Bundesbank: Finansal istikrara yönelik riskler yüksek seyrediyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bundesbank-finansal-istikrara-yonelik-riskler-yuksek-seyrediyor/4122332",
-   "summary": "Almanya Merkez Bankası (Bundesbank), finansal istikrara yönelik risklerin yüksekliğini koruduğunu bildirerek ülkedeki bankalar için artan tehditlere karşı uyarıda bulundu.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-12T11:12:13+00:00"
   },
   {
    "title": "COP31'de iklim uyumunu destekleyecek ARISE programının ilk ülkeleri açıklandı",
@@ -1289,15 +1307,6 @@
    "published": "2026-11-12T00:29:49+00:00"
   },
   {
-   "title": "Beyaz ailenin büyüttüğü siyah kız çocuğu: 'Bana gerçeği neden söylemediniz?'",
-   "link": "https://www.bbc.com/turkce/articles/ckz6qx8841zjo?at_medium=RSS&at_campaign=rss",
-   "summary": "Lacey Tezino, Teksas'ta ırkçılığın kol gezdiği bir kasabada beyaz bir aile tarafından büyütüldü. Babası Ronnie ile mutlu bir çocukluk geçirdi. Öldüğü söylenen annesinin izini sürdüğünde ise hakikatle yüzleşti.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/77ab/live/369c8410-ddcc-11f1-93e1-3b657b665bcf.jpg",
-   "published": "2026-11-12T00:29:30+00:00"
-  },
-  {
    "title": "Fenerbahçe Tarfin, Paris Basketbol'a 111-109 mağlup oldu",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-paris-basketbola-111-109-maglup-oldu/4121529",
    "summary": "Avrupa Ligi'nin 11. haftasında Fenerbahçe Tarfin, konuk olduğu Fransa ekibi Paris Basketbol'a uzatmada 111-109 yenildi.",
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-11T15:24:02+00:00"
-  },
-  {
-   "title": "Doğu Akdeniz'de Türk-Yunan 'kablo' düğümü çözüldü mü?",
-   "link": "https://www.bbc.com/turkce/articles/cq772l6n4rlyo?at_medium=RSS&at_campaign=rss",
-   "summary": "Türkiye, Yunanistan ve Fransa arasında aylardır süren müzakereler neticesinde Girit adasından Kıbrıs Cumhuriyeti'ne denizaltından döşenecek elektrik hattı konusunda ilk somut adım 10 Kasım'da atıldı. Ankara ve Atina,…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab70/live/1ae4ccc0-ddd9-11f1-b865-d17d8611efca.jpg",
-   "published": "2026-11-11T14:10:22+00:00"
   }
  ]
 }
