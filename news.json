@@ -1,19 +1,73 @@
 {
- "updated": "2026-11-13T21:38:39.781158+00:00",
+ "updated": "2026-11-13T22:25:43.883318+00:00",
  "items": [
   {
-   "title": "ABD'de 'olağanüstü koşullar ve güvenlik' nedeniyle tüm uçuşlar durduruldu",
+   "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
    "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD Federal Havacılık İdaresi (FAA), \"olağanüstü koşullar ve güvenlik gerekçeleri nedeniyle\" ülke genelinde uçuşları durdurdu. Uluslararası uçuşların her biri durum özelinde değerlendirilecek.",
+   "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Mullin, \"Bu yeni bir 11 Eylül değil\" dedi.",
    "source": "BBC Türkçe",
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-11-13T21:26:06+00:00"
+   "published": "2026-11-13T22:20:55+00:00"
+  },
+  {
+   "title": "UEFA Uluslar Ligi'nin 5. haftasında 10 maç oynandı",
+   "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginin-5-haftasinda-10-mac-oynandi/4124797",
+   "summary": "UEFA Uluslar Ligi'nin 5. haftasına 10 maçla devam edildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T21:59:15+00:00"
+  },
+  {
+   "title": "'Ulusal Adil Geçiş Stratejisi ve Eylem Planı' Resmi Gazetede",
+   "link": "https://www.trthaber.com/haber/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-resmi-gazetede-963233.html",
+   "summary": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı 20272029 konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T21:46:00+00:00"
+  },
+  {
+   "title": "\"Ulusal Adil Geçiş Stratejisi ve Eylem Planı\" konulu genelge Resmi Gazete’de",
+   "link": "https://www.aa.com.tr/tr/gundem/ulusal-adil-gecis-stratejisi-ve-eylem-plani-konulu-genelge-resmi-gazete-de/4124787",
+   "summary": "Ulusal Adil Geçiş Stratejisi ve Eylem Planı (2027-2029) konulu Cumhurbaşkanlığı Genelgesi, Resmi Gazete'de yayımlandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T21:43:49+00:00"
+  },
+  {
+   "title": "ABD'de yük gemisi ile çarpışan kruz gemisi yan yattı",
+   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-13T21:43:28+00:00"
+  },
+  {
+   "title": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
+   "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
+   "summary": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T21:42:50+00:00"
+  },
+  {
+   "title": "ABD Federal Havacılık İdaresi ülke genelinde uçuşları durdurma kararı aldı",
+   "link": "https://www.aa.com.tr/tr/dunya/abd-federal-havacilik-idaresi-ulke-genelinde-ucuslari-durdurma-karari-aldi/4124785",
+   "summary": "ABD Federal Havacılık İdaresi (FAA), hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T21:39:40+00:00"
   },
   {
    "title": "ABDde tüm uçuşlar durduruldu",
    "link": "https://www.trthaber.com/haber/dunya/abdde-tum-ucuslar-durduruldu-963232.html",
-   "summary": "ABD Federal Havacılık İdaresi FAA, ülke genelindeki tüm havalimanlarında kalkışları durdurdu. ABD Ulaştırma Bakanı Sean Duffy, kararın tüm hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle…",
+   "summary": "ABD Ulaştırma Bakanı Duffy, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu yaşandığını açıkladı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -380,8 +434,8 @@
    "published": "2026-11-13T17:01:00+00:00"
   },
   {
-   "title": "Bakan Uraloğlu: Ulaşım altyapımızın acil durumlarda üstlenebileceği rolü de ortaya koydu",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglu-ulasim-altyapimizin-acil-durumlarda-ustlenebilecegi-rolu-de-ortaya-koydu-963212.html",
+   "title": "Bakan Uraloğlu, AKINCI ve Bayraktar TB2'nin kara yoluna inişkalkış yapmasını değerlendirdi",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglu-akinci-ve-bayraktar-tb2nin-kara-yoluna-inis-kalkis-yapmasini-degerlendirdi-963212.html",
    "summary": "Bakan Uraloğlu, ManisaBalıkesir kara yolunda AKINCI ve Bayraktar TB2'nin acil durum senaryoları kapsamında iniş ve yeniden kalkış gerçekleştirmesine ilişkin, \"Baykar'ın milli teknoloji birikimiyle geliştirilen bu…",
    "source": "TRT Haber",
    "category": "Gündem",
@@ -479,15 +533,6 @@
    "published": "2026-11-13T16:04:00+00:00"
   },
   {
-   "title": "Konya'da jandarmanın motosikletli akrobasi timi TULPAR gösteri düzenledi",
-   "link": "https://www.aa.com.tr/tr/gundem/konyada-jandarmanin-motosikletli-akrobasi-timi-tulpar-gosteri-duzenledi/4124578",
-   "summary": "Konya’nın Çumra ilçesinde, Jandarma Genel Komutanlığı bünyesinde kurulan motosikletli akrobasi timi TULPAR'ın gösterisi ilgiyle izlendi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T15:58:35+00:00"
-  },
-  {
    "title": "Bakan Gürlek: Hiçbir cinayetin üzerinin zamanla örtülmesine izin vermeyeceğiz",
    "link": "https://www.trthaber.com/haber/gundem/bakan-gurlek-hicbir-cinayetin-uzerinin-zamanla-ortulmesine-izin-vermeyecegiz-963206.html",
    "summary": "Adalet Bakanı Akın Gürlek, \"Hiçbir cinayetin üzerinin zamanla örtülmesine izin vermeyeceğiz. 76 dosyada 83 cinayeti faili meçhul olmaktan çıkardık. Bursa ve Bitliste 14, 16 ve 20 yıldır aydınlatılamayan üç ayrı cinayet…",
@@ -497,15 +542,6 @@
    "published": "2026-11-13T15:55:00+00:00"
   },
   {
-   "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Bilal Erdoğan: Türkiye, Lübnan'ın refahını, istikrarını ve barışını istiyor",
-   "link": "https://www.aa.com.tr/tr/gundem/ilim-yayma-vakfi-mutevelli-heyeti-baskani-bilal-erdogan-turkiye-lubnanin-refahini-istikrarini-ve-barisini-istiyor/4124571",
-   "summary": "Erdoğan, Lübnan'ın Trablusşam kentinde Türk İşbirliği ve Koordinasyon Ajansı Başkanlığı (TİKA) tarafından restore edilen Mevlevihane'yi ziyaret ederek Türkiye ile Lübnan arasındaki tarihi ve kültürel bağların…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T15:52:25+00:00"
-  },
-  {
    "title": "MEB, gençleri yeşil ve dijital dönüşüme eğitimle hazırlıyor",
    "link": "https://www.aa.com.tr/tr/gundem/meb-gencleri-yesil-ve-dijital-donusume-egitimle-hazirliyor/4124568",
    "summary": "MEB, iklim değişikliğiyle mücadele ve sürdürülebilir gelecek hedefleri doğrultusunda yürüttüğü Yeşil Beceri ve Dijital Dönüşüm Programı ile öğrencilerin çevre bilinci ve dijital yetkinliklerini geliştirmeye yönelik…",
@@ -513,15 +549,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-13T15:51:56+00:00"
-  },
-  {
-   "title": "BM Genel Sekreteri Guterres: Türkiye şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor",
-   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-turkiye-suphesiz-bu-yilin-en-buyuk-bm-konferansina-ev-sahipligi-yapiyor/4124531",
-   "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, \"Türkiye, şimdiye kadarki en büyük COP'lardan birine ve şüphesiz bu yılın en büyük BM konferansına ev sahipliği yapıyor.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T15:44:00+00:00"
   },
   {
    "title": "Bu hafta yatırım araçlarının performansı",
@@ -573,7 +600,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/yemen-ordusu-husilerle-girilen-catismalarin-ardindan-lahicde-stratejik-bir-mevziyi-geri-aldi/4124347",
    "summary": "Yemen ordusu, İran destekli Husilerle girilen çatışmaların ardından ülkenin güneyindeki Lahic vilayetinde bulunan stratejik Es-Sarih Kavşağı'nın ele geçirildiğini, 50 Husi milisin öldüğü veya yaralandığını açıkladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-13T14:54:21+00:00"
   },
@@ -902,15 +929,6 @@
    "published": "2026-11-13T11:33:00+00:00"
   },
   {
-   "title": "ABD Savunma Bakanı Hegseth'ten sözlü uyarı yapan askere madalya",
-   "link": "https://www.bbc.com/turkce/articles/cmwy43jnqg9zo?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD Savunma Bakanı Pete Hegseth, beraberindeki grupla birlikte kendisini uyaran askere hizmet madalyası taktı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ac99/live/be8b7220-df55-11f1-b8ca-0348146d1a32.png",
-   "published": "2026-11-13T11:32:26+00:00"
-  },
-  {
    "title": "64 ilde kaçakçılara operasyon: 371 şüpheli hakkında adli işlem",
    "link": "https://www.trthaber.com/haber/gundem/64-ilde-kacakcilara-operasyon-371-supheli-hakkinda-adli-islem-963186.html",
    "summary": "İçişleri Bakanlığı, 64 ildeki kaçakçılık suçlarıyla mücadele kapsamında düzenlenen operasyonlarda 371 şüpheli hakkında adli işlem yapıldığını bildirdi.",
@@ -1064,15 +1082,6 @@
    "published": "2026-11-13T10:41:00+00:00"
   },
   {
-   "title": "Kar maskeliler suç örgütü davasında iki sanığa hapis cezası",
-   "link": "https://www.trthaber.com/haber/turkiye/kar-maskeliler-suc-orgutu-davasinda-iki-saniga-hapis-cezasi-963180.html",
-   "summary": "\"Kara Maskeliler\" silahlı suç örgütüne ilişkin davada, iki sanığa çeşitli suçlardan toplam 116 yıl 11 ay 7 gün hapis cezası verildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T10:39:00+00:00"
-  },
-  {
    "title": "Dünya'nın yeni bir 'mini ay'ı var",
    "link": "https://www.bbc.com/turkce/articles/cq8e0lprzn93o?at_medium=RSS&at_campaign=rss",
    "summary": "2026 QQ8 adlı mini uydu ağustos ayında keşfedildi, ancak bu Dünya'ya eşlik eden tek geçici gök cismi değil.",
@@ -1098,15 +1107,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-13T10:17:44+00:00"
-  },
-  {
-   "title": "Fransa'da haftalardır süren gösterilerde yaklaşık 350 öğrenci yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransada-haftalardir-suren-gosterilerde-yaklasik-350-ogrenci-yaralandi/4123913",
-   "summary": "Fransa'da haftalardır devam eden ve şiddet olaylarına da sahne olan gösterilerde yaklaşık 350 öğrenci ve 2 bin 600 polis ve jandarmanın yaralandığı bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-13T10:16:44+00:00"
   },
   {
    "title": "İlim Yayma Vakfı Mütevelli Heyeti Başkanı Erdoğan, Trablusşam'da Müslüman ve Hristiyan din adamlarıyla görüştü",
@@ -1300,7 +1300,7 @@
   {
    "title": "Ampute Futbol Milli Takımı, 2026 Dünya Kupası'nda sahaya çıkacak",
    "link": "https://www.aa.com.tr/tr/spor/ampute-futbol-milli-takimi-2026-dunya-kupasinda-sahaya-cikacak/4123618",
-   "summary": "Ampute Futbol Milli Takımı'nın Meksika'da düzenlenen 2026 Dünya Kupası'ndaki mücadelesi yarın başlayacak.",
+   "summary": "Ampute Futbol Milli Takımı'nın Meksika'da düzenlenen 2026 Dünya Kupası'ndaki mücadelesi bugün başlayacak.",
    "source": "AA",
    "category": "Spor",
    "image": null,
