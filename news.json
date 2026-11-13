@@ -1,6 +1,51 @@
 {
- "updated": "2026-11-13T17:22:02.113204+00:00",
+ "updated": "2026-11-13T18:13:47.981307+00:00",
  "items": [
+  {
+   "title": "Türkiye'den BAE'deki trafik kazasında hayatını kaybedenler için taziye mesajı",
+   "link": "https://www.trthaber.com/haber/gundem/turkiyeden-baedeki-trafik-kazasinda-hayatini-kaybedenler-icin-taziye-mesaji-963217.html",
+   "summary": "Dışişleri Bakanlığı, Birleşik Arap Emirlikleri'nde BAE meydana gelen zincirleme trafik kazasında hayatını kaybedenler için derin üzüntü duyulduğunu belirterek, ölenlerin yakınlarına ve BAE halkına başsağlığı dileğinde…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:41:00+00:00"
+  },
+  {
+   "title": "Microsoft, sorun yaşanan hizmetlerinde geniş çaplı iyileşme sağlandığını açıkladı",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/microsoft-sorun-yasanan-hizmetlerinde-genis-capli-iyilesme-saglandigini-acikladi/4124635",
+   "summary": "ABD merkezli teknoloji şirketi Microsoft, bazı hizmetlerinde yaşanan erişim sorununun ardından hizmetlerinin genelinde geniş çaplı iyileşme ve istikrar sağlandığını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:34:09+00:00"
+  },
+  {
+   "title": "OpenAI, yapay zeka destekli ödemeler için ChatGPT Wallet'ı duyurdu",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/openai-yapay-zeka-destekli-odemeler-icin-chatgpt-walleti-duyurdu/4124633",
+   "summary": "OpenAI, yapay zeka ajanlarının kullanıcıların gerçek kart bilgilerine erişmeden ödeme yapmasına imkan tanıyan ve her satın alma işlemi için güvenlik kontrolü gerektiren ChatGPT Wallet adlı dijital cüzdanı tanıttı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:29:16+00:00"
+  },
+  {
+   "title": "Küresel elektrifikasyon hedefinin yatırımcı ilgisini artırması bekleniyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-elektrifikasyon-hedefinin-yatirimci-ilgisini-artirmasi-bekleniyor/4124630",
+   "summary": "Uluslararası Enerji Ajansı (IEA) Başkanı Fatih Birol, COP31'de gündeme gelen küresel elektrifikasyon hedefinin ülkeler tarafından benimsenmesinin, elektrifikasyon odaklı enerji dönüşümüne yönelik yatırımcı ilgisini…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:27:34+00:00"
+  },
+  {
+   "title": "Soykırımcı İsrail Gazze'ye düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+   "link": "https://www.trthaber.com/haber/dunya/soykirimci-israil-gazzeye-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti-963216.html",
+   "summary": "Soykırımcı İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin orta kesimindeki Deyr elBelah kentinde bir eve düzenlediği saldırıda 3 Filistinlinin yaşamını yitirdiği, 20 kişinin yaralandığı belirtildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:25:00+00:00"
+  },
   {
    "title": "HABAŞ fabrikası patlamasından sonra aranan işçinin de cenazesine ulaşıldı",
    "link": "https://www.bbc.com/turkce/articles/c539gl7dw2l0o?at_medium=RSS&at_campaign=rss",
@@ -9,6 +54,33 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4907/live/27a01b00-df5e-11f1-a8af-15d7a25dc0d1.jpg",
    "published": "2026-11-13T17:18:52+00:00"
+  },
+  {
+   "title": "Bakan Kurum, BM Genel Sekreteri Guterres ile görüştü",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurum-bm-genel-sekreteri-guterres-ile-gorustu/4124624",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres ile görüştü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:17:36+00:00"
+  },
+  {
+   "title": "Eisenkot, Netanyahu'nun İsrail vatandaşı Araplara karşı \"ırkçı\" bir kampanya yürüttüğünü söyledi",
+   "link": "https://www.aa.com.tr/tr/dunya/eisenkot-netanyahunun-israil-vatandasi-araplara-karsi-irkci-bir-kampanya-yuruttugunu-soyledi/4124622",
+   "summary": "İsrail'de 27 Ekim seçimlerinin ardından hükümet kurma yetkisi verilen Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun seçim süreci boyunca İsrail vatandaşı Filistinlilere karşı \"ırkçı\" bir…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:15:30+00:00"
+  },
+  {
+   "title": "Eisenkot: Netanyahu Arap vatandaşlara karşı ırkçı kampanya yürütüyor",
+   "link": "https://www.trthaber.com/haber/dunya/eisenkot-netanyahu-arap-vatandaslara-karsi-irkci-kampanya-yurutuyor-963215.html",
+   "summary": "İsrail'de 27 Ekim seçimlerinin ardından hükümet kurma yetkisi verilen Yashar Partisi lideri Eisenkot, geçici Başbakan Netanyahu'nun seçim süreci boyunca İsrail vatandaşı Filistinlilere karşı \"ırkçı\" bir kampanya…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-13T17:14:00+00:00"
   },
   {
    "title": "Dışişleri Bakanlığından BAE'deki trafik kazasında hayatını kaybedenler için taziye mesajı",
@@ -227,9 +299,9 @@
    "published": "2026-11-13T15:12:00+00:00"
   },
   {
-   "title": "İsrail ordusunun, Gazze'nin Deyr el-Belah kentinde düzenlediği saldırıda 2 Filistinli hayatını kaybetti",
-   "link": "https://www.aa.com.tr/tr/israilin-gazze-saldirilari/israil-ordusunun-gazzenin-deyr-el-belah-kentinde-duzenledigi-saldirida-2-filistinli-hayatini-kaybetti/4124348",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin orta kesimindeki Deyr el-Belah kentinde bir eve düzenlediği saldırıda 2 Filistinlinin yaşamını yitirdiği, 10 kişinin yaralandığı belirtildi.",
+   "title": "İsrail ordusunun, Gazze'nin Deyr el-Belah kentinde düzenlediği saldırıda 3 Filistinli hayatını kaybetti",
+   "link": "https://www.aa.com.tr/tr/israilin-gazze-saldirilari/israil-ordusunun-gazzenin-deyr-el-belah-kentinde-duzenledigi-saldirida-3-filistinli-hayatini-kaybetti/4124348",
+   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin orta kesimindeki Deyr el-Belah kentinde bir eve düzenlediği saldırıda 3 Filistinlinin yaşamını yitirdiği, 20 kişinin yaralandığı belirtildi.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -366,7 +438,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-ruzgar-enerjisi-sektoru-temiz-enerji-donusumunu-hizlandirmak-icin-ortak-bildiri-yayimladi-/4124270",
    "summary": "Küresel rüzgar enerjisi sektörü, dünya genelinde rüzgar enerjisi santrallerinin geliştirilmesini ve inşasını hızlandırmak amacıyla ortak bildiri yayımladı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-13T14:01:53+00:00"
   },
@@ -378,15 +450,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-13T13:52:27+00:00"
-  },
-  {
-   "title": "İletişim Başkanı Duran'dan Cumhurbaşkanı Erdoğan'ın COP31 temaslarına ilişkin paylaşım",
-   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-cumhurbaskani-erdoganin-cop31-temaslarina-iliskin-paylasim/4124210",
-   "summary": "Cumhurbaşkanlığı İletişim Başkanı Duran,\"Türkiye bir yandan bölgesinde barış ve istikrarın sağlanması için diplomatik girişimlerini sürdürürken diğer yandan farklı coğrafyalarla siyasi, ekonomik ve stratejik…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T13:47:02+00:00"
   },
   {
    "title": "Milli atıcılar, Katar'da dünya üçüncüsü oldu",
@@ -416,15 +479,6 @@
    "published": "2026-11-13T13:34:46+00:00"
   },
   {
-   "title": "BM Genel Sekreteri Guterres: (İklim değişikliği) Yapmamız gereken bu sıcaklık aşımını olabildiğince küçük ve kısa tutmak",
-   "link": "https://www.aa.com.tr/tr/gundem/bm-genel-sekreteri-guterres-iklim-degisikligi-yapmamiz-gereken-bu-sicaklik-asimini-olabildigince-kucuk-ve-kisa-tutmak/4124170",
-   "summary": "BM Genel Sekreteri Guterres \"Sıcaklık konusunda 1,5 derecenin üzerine çıkmaya doğru ilerliyoruz ve çok fazla lider erteleme yolunu seçiyor. Dolayısıyla şimdi yapmamız gereken bu aşımı olabildiğince küçük ve kısa tutmak\"…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T13:30:24+00:00"
-  },
-  {
    "title": "Tasfiyesine karar verilen fonlara ilişkin ara ödemeler devam edecek",
    "link": "https://www.trthaber.com/haber/gundem/tasfiyesine-karar-verilen-fonlara-iliskin-ara-odemeler-devam-edecek-963197.html",
    "summary": "İletişim Başkanlığı, tasfiyesine karar verilen fonlara ilişkin, sorumlu kurumların koordinasyonunda ara ödemelere devam edileceğini duyurdu.",
@@ -447,7 +501,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-13-kasim-2026/4124157",
    "summary": "60 Saniyede Ekonomide Bugün... Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-13T13:21:13+00:00"
   },
@@ -456,7 +510,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/qnb-turkiye-5-uluslararasi-kalkinma-finansmani-kurulusuyla-isbirligine-imza-atti/4124155",
    "summary": "QNB Türkiye, Asya Kalkınma Bankası, Asya Altyapı Yatırım Bankası, Avrupa İmar ve Kalkınma Bankası, Hollanda Kalkınma Bankası ve Uluslararası Finans Kurumu olmak üzere beş uluslararası kalkınma kuruluşuyla (DFI)…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-13T13:19:05+00:00"
   },
@@ -1217,42 +1271,6 @@
    "published": "2026-11-13T08:04:00+00:00"
   },
   {
-   "title": "Tunus'taki Maarif Okulları, Türkiye'nin \"Geleceğe Nefes Ol\" seferberliğine destek için fidan dikti",
-   "link": "https://www.aa.com.tr/tr/dunya/tunustaki-maarif-okullari-turkiyenin-gelecege-nefes-ol-seferberligine-destek-icin-fidan-dikti/4123712",
-   "summary": "Tunus Uluslararası Maarif Okulları, Türkiye'de 2019 yılında \"Geleceğe Nefes Ol\" sloganıyla başlatılan 11 Kasım Milli Ağaçlandırma Günü etkinliklerine destek vermek ve çevre bilincini geliştirmek amacıyla fidan dikme…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-13T07:58:21+00:00"
-  },
-  {
-   "title": "Bitcoin, satış baskısı ve jeopolitik risklerle yeniden 70 bin doların altına geriledi",
-   "link": "https://www.trthaber.com/haber/dunya/bitcoin-satis-baskisi-ve-jeopolitik-risklerle-yeniden-70-bin-dolarin-altina-geriledi-963164.html",
-   "summary": "Orta Doğu'da yeniden tırmanan askeri gerilimin tetiklediği jeopolitik riskler ve artan satış baskısının etkisiyle Bitcoin'in fiyatı yeniden 70 bin doların altına düştü.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T07:55:00+00:00"
-  },
-  {
-   "title": "Kanada'daki Toronto Üniversitesi, Müslüman ve Araplara yönelik ayrımcılık raporunu reddetti",
-   "link": "https://www.trthaber.com/haber/dunya/kanadadaki-toronto-universitesi-musluman-ve-araplara-yonelik-ayrimcilik-raporunu-reddetti-963163.html",
-   "summary": "",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T07:54:00+00:00"
-  },
-  {
-   "title": "Trump, İran ile hala savaş halinde olmalarının nedenlerinden birinin İsrail olduğunu söyledi",
-   "link": "https://www.trthaber.com/haber/dunya/trump-iran-ile-hala-savas-halinde-olmalarinin-nedenlerinden-birinin-israil-oldugunu-soyledi-963162.html",
-   "summary": "ABD Başkanı Donald Trump, İran'a karşı savaşı hemen bitirebileceğini ancak savaşı sürdürmesinin bir nedeninin de İsrail'in bunu istemesi olduğunu söyledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-13T07:52:00+00:00"
-  },
-  {
    "title": "Cunningham'ın 52 sayıyla kariyer rekoru kırdığı maçta Pistons, uzatmalarda Wizards'ı yendi",
    "link": "https://www.aa.com.tr/tr/spor/cunninghamin-52-sayiyla-kariyer-rekoru-kirdigi-macta-pistons-uzatmalarda-wizardsi-yendi/4123662",
    "summary": "Amerikan Basketbol Ligi'nde (NBA) Detroit Pistons, Cade Cunningham'ın 52 sayıyla oynadığı maçta Washington Wizards'ı uzatmalarda 144-140 yendi.",
@@ -1260,15 +1278,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-13T07:12:30+00:00"
-  },
-  {
-   "title": "Bakan Bolat: Amacımız katma değeri daha yüksek bir ekonomi oluşturmak",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-bolat-amacimiz-katma-degeri-daha-yuksek-bir-ekonomi-olusturmak-/4123659",
-   "summary": "Ticaret Bakanı Ömer Bolat, iklim hedeflerini somut adımlara ve ölçülebilir sonuçlara dönüştürerek taahhütlerden uygulamaya geçme konusunda ticaretin hayati bir yeri olduğunu söyledi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-13T07:07:37+00:00"
   },
   {
    "title": "Nvidia'nın eski CEO'su Huang, ABD Kongresi'nde ifade verecek",
@@ -1341,15 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/72b0/live/8a390190-ded8-11f1-a75a-dbf83836672c.jpg",
    "published": "2026-11-12T20:59:59+00:00"
-  },
-  {
-   "title": "A Milli Futbol Takımı Teknik Direktörü Sergen Yalçın: Mücadeleden memnunuz",
-   "link": "https://www.aa.com.tr/tr/spor/a-milli-futbol-takimi-teknik-direktoru-sergen-yalcin-mucadeleden-memnunuz/4123474",
-   "summary": "UEFA Uluslar A Ligi 1. Grup beşinci maçında konuk ettiği Belçika'ya 2-1 yenilen A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, kaybetmelerine rağmen oyuncularının mücadelesinden memnun olduğunu söyledi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-12T20:48:34+00:00"
   }
  ]
 }
