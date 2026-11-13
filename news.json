@@ -1,13 +1,31 @@
 {
- "updated": "2026-11-13T22:25:43.883318+00:00",
+ "updated": "2026-11-13T23:08:54.638692+00:00",
  "items": [
+  {
+   "title": "Mekke Anlaşması Resmi Gazete'de yayımlanarak yürürlüğe girdi",
+   "link": "https://www.bbc.com/turkce/articles/cm3elqk438e2o?at_medium=RSS&at_campaign=rss",
+   "summary": "Türkiye, Pakistan ve Suudi Arabistan arasında imzalanan Mekke Anlaşması, TBMM Genel Kurulu'nda kabul edilmesinin ardından 14 Kasım'da Resmi Gazete'de yayımlanarak yürürlüğe girdi.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7f98/live/93599450-d8f3-11f1-a701-fddedf244c16.jpg",
+   "published": "2026-11-13T22:59:46+00:00"
+  },
+  {
+   "title": "ABD'de yük gemisinin çarptığı kruz gemisi yan yattı",
+   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
+   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
+   "published": "2026-11-13T22:46:58+00:00"
+  },
   {
    "title": "ABD'de tüm uçuşlar durduruldu: 'Bu yeni bir 11 Eylül değil'",
    "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
    "summary": "ABD İç Güvenlik Bakanı Markwayne Mullin, \"uçakların yerde tutulması kararına bir telekomünikasyon kesintisinin yol açtığını\" söyledi. Mullin, \"Bu yeni bir 11 Eylül değil\" dedi.",
    "source": "BBC Türkçe",
    "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/467b/live/44176640-dfa8-11f1-b441-2b33b063138f.jpg",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6e32/live/525bb5e0-dfb6-11f1-93e1-3b657b665bcf.jpg",
    "published": "2026-11-13T22:20:55+00:00"
   },
   {
@@ -38,15 +56,6 @@
    "published": "2026-11-13T21:43:49+00:00"
   },
   {
-   "title": "ABD'de yük gemisi ile çarpışan kruz gemisi yan yattı",
-   "link": "https://www.bbc.com/turkce/articles/cv0l3wyrnzw2o?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD'nin Louisiana eyaletindeki Mississippi Nehri'nde, New Orleans Limanı yakınlarında bir tanker ile bir kruz gemisi çarpıştı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e97d/live/a9f7f4f0-dfaa-11f1-93e1-3b657b665bcf.jpg",
-   "published": "2026-11-13T21:43:28+00:00"
-  },
-  {
    "title": "BUDO'nun 8 seferi olumsuz hava koşulları nedeniyle iptal edildi",
    "link": "https://www.aa.com.tr/tr/gundem/budonun-8-seferi-olumsuz-hava-kosullari-nedeniyle-iptal-edildi/4124786",
    "summary": "Bursa Deniz Otobüslerinin (BUDO) 8 seferi olumsuz hava koşulları nedeniyle iptal edildi.",
@@ -67,7 +76,7 @@
   {
    "title": "ABDde tüm uçuşlar durduruldu",
    "link": "https://www.trthaber.com/haber/dunya/abdde-tum-ucuslar-durduruldu-963232.html",
-   "summary": "ABD Ulaştırma Bakanı Duffy, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu yaşandığını açıkladı.",
+   "summary": "ABD Federal Havacılık İdaresi, hava trafik kontrol merkezlerini etkileyen bir iletişim sorunu nedeniyle ABD genelindeki tüm havalimanlarında uçuşları durdurma kararı aldı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -1341,15 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-12T21:53:27+00:00"
-  },
-  {
-   "title": "Arjantin Milli Takımı'nda Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı",
-   "link": "https://www.aa.com.tr/tr/spor/arjantin-milli-takiminda-lionel-scaloninin-sozlesmesi-2030a-kadar-uzatildi/4123499",
-   "summary": "Arjantin Milli Futbol Takımı'nda teknik direktör Lionel Scaloni'nin sözleşmesi 2030'a kadar uzatıldı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-12T21:11:30+00:00"
   }
  ]
 }
