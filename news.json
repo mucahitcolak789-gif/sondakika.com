@@ -1,6 +1,24 @@
 {
- "updated": "2026-11-14T18:51:03.761160+00:00",
+ "updated": "2026-11-14T19:33:27.906537+00:00",
  "items": [
+  {
+   "title": "Anadolu Ateşi COP31'de sahne aldı",
+   "link": "https://www.aa.com.tr/tr/kultur/anadolu-atesi-cop31de-sahne-aldi-/4125397",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Anadolu Ateşi dans topluluğu gösteri sundu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-14T18:54:12+00:00"
+  },
+  {
+   "title": "İran'da işçi servisi devrildi, 5 kişi öldü, 17 kişi yaralandı",
+   "link": "https://www.trthaber.com/haber/dunya/iranda-isci-servisi-devrildi-5-kisi-oldu-17-kisi-yaralandi-963305.html",
+   "summary": "İran'ın İlam eyaletinde işçileri taşıyan bir otobüsün devrilmesi sonucu 5 kişi hayatını kaybetti, 17 kişi yaralandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-14T18:47:00+00:00"
+  },
   {
    "title": "İran: ABD Dışişleri Bakanı abluka yoluyla İran halkını aç bırakmakla tehdit ediyor",
    "link": "https://www.trthaber.com/haber/dunya/iran-abd-disisleri-bakani-abluka-yoluyla-iran-halkini-ac-birakmakla-tehdit-ediyor-963304.html",
@@ -29,9 +47,18 @@
    "published": "2026-11-14T18:23:00+00:00"
   },
   {
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz TRT Haber'de",
-   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-trt-haberde-963302.html",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, TRT Haber'de gündeme dair açıklamalarda bulunuyor.",
+   "title": "İzmir merkezli uyuşturucu operasyonunda 16 şüpheli tutuklandı",
+   "link": "https://www.aa.com.tr/tr/gundem/izmir-merkezli-uyusturucu-operasyonunda-16-supheli-tutuklandi/4125377",
+   "summary": "İzmir merkezli 2 ilde düzenlenen uyuşturucu operasyonunda örgüt elebaşı olduğu belirtilen şüphelinin de aralarında bulunduğu 16 şüpheli tutuklandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-14T18:22:06+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: 444 bin 987 fon yatırımcısına ödeme yapıldı",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-yardimcisi-yilmaz-444-bin-987-fon-yatirimcisina-odeme-yapildi-963302.html",
+   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, TRT Haber'de gündeme dair açıklamalarda bulundu. Yılmaz, \"Fonların tasfiyesi için devlet bütçesinden tek bir lira kullanılmadı. Bugüne kadar 161 milyar TL ödeme yapıldı, gönüllü…",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -135,6 +162,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-14T16:45:00+00:00"
+  },
+  {
+   "title": "Rafadan Tayfa'nın yeni filmi \"Gordion\" 25 Aralık'ta vizyona girecek",
+   "link": "https://www.aa.com.tr/tr/kultur/rafadan-tayfanin-yeni-filmi-gordion-25-aralikta-vizyona-girecek/4125325",
+   "summary": "TRT ve ISF Studios ortak yapımı \"Rafadan Tayfa Gordion\" filmi, 25 Aralık'ta izleyiciyle buluşacak.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-14T16:43:26+00:00"
   },
   {
    "title": "Uluslararası sinemacılar, 14. Boğaziçi Film Festivali'nde dekolonizasyonu konuştu",
@@ -258,7 +294,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/kerkukte-yeni-secilen-vali-vendaviden-siyasi-uzlasiyi-guclendirme-huzuru-koruma-ve-ayrimsiz-hizmet-mesaji/4125285",
    "summary": "Irak'ın Kerkük vilayetinde valilik görevine seçilen Irak Türkmen Cephesi (ITC) Kerkük İl Başkanı Kahtan Vendavi, kentte siyasi uzlaşının korunması, kamu hizmetlerinin iyileştirilmesi ve sorunlarının çözülmesi için…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-14T15:20:48+00:00"
   },
@@ -267,7 +303,7 @@
    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-teknik-direktoru-emre-belozoglunun-hedefi-guclu-oyun/4125283",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-14T15:18:12+00:00"
   },
@@ -279,24 +315,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0089/live/b2ed94e0-e00c-11f1-9fd4-8b3c9f9dfc89.jpg",
    "published": "2026-11-14T15:12:47+00:00"
-  },
-  {
-   "title": "MSB'den Estonya'da konuşlu F-16 uçaklarına ilişkin paylaşım",
-   "link": "https://www.aa.com.tr/tr/gundem/msbden-estonyada-konuslu-f-16-ucaklarina-iliskin-paylasim/4125280",
-   "summary": "Milli Savunma Bakanlığından (MSB) NATO hava savunma görevi kapsamında Estonya'da konuşlu F-16 uçaklarına ilişkin paylaşım yapıldı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-14T15:12:28+00:00"
-  },
-  {
-   "title": "MHP Genel Başkanı Bahçeli'den KKTC'nin 43. kuruluş yıl dönümü mesajı",
-   "link": "https://www.aa.com.tr/tr/gundem/mhp-genel-baskani-bahceliden-kktcnin-43-kurulus-yil-donumu-mesaji/4125279",
-   "summary": "MHP Genel Başkanı Devlet Bahçeli, \"Kıbrıs Türk Devleti'nin yaşatılması, egemenliğinin güçlendirilmesi ve uluslararası alanda hak ettiği konuma ulaşması, milli davamızın vazgeçilmez hedefidir.\" ifadelerini kullandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-14T15:10:22+00:00"
   },
   {
    "title": "Portekiz halkı konut krizini protesto için 30'dan fazla şehirde meydanlara çıktı",
@@ -366,7 +384,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/ilim-yayma-vakfi-mutevelli-heyeti-baskani-erdogan-lubnanda-turkmen-koylerini-ziyaret-etti/4125243",
    "summary": "",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-14T14:25:20+00:00"
   },
@@ -486,6 +504,15 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-14T13:06:00+00:00"
+  },
+  {
+   "title": "AK Parti Genel Başkan Yardımcısı Uygur: İklim krizi aynı zamanda bir sosyal krizdir",
+   "link": "https://www.aa.com.tr/tr/gundem/ak-parti-genel-baskan-yardimcisi-uygur-iklim-krizi-ayni-zamanda-bir-sosyal-krizdir/4125181",
+   "summary": "AK Parti Genel Başkan Yardımcısı Uygur, Sıfır Atık Hareketi'nin bireyleri iklim mücadelesinde pasif gözlemci olmaktan çıkararak çözümün bir parçası haline getirdiğini belirterek \"İklim krizi aynı zamanda bir sosyal…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-14T13:05:06+00:00"
   },
   {
    "title": "Türkiye'de bu yıl 9,6 milyon diyabet taraması yapıldı",
@@ -675,6 +702,15 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-14T11:08:19+00:00"
+  },
+  {
+   "title": "32. Proje Yönetim Zirvesi'nde yapay zeka ve insan odaklı yönetim öne çıktı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/32-proje-yonetim-zirvesinde-yapay-zeka-ve-insan-odakli-yonetim-one-cikti/4125067",
+   "summary": "Project Management Institute (Proje Yönetim Enstitüsü-PMI) Türkiye tarafından düzenlenen 32. Proje Yönetim Zirvesi'nin öğleden önceki bölümünde yapay zekanın proje yönetimine etkisi ele alındı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-14T11:05:04+00:00"
   },
   {
    "title": "ABD, 26 yılın ardından kızamığı tamamen ortadan kaldırmış ülke statüsünü kaybetti",
@@ -1001,15 +1037,6 @@
    "published": "2026-11-14T08:39:25+00:00"
   },
   {
-   "title": "Ölümcül çarpışmaya sebep olan kaleciye 12 maç men cezası",
-   "link": "https://www.trthaber.com/haber/dunya/olumcul-carpismaya-sebep-olan-kaleciye-12-mac-men-cezasi-963255.html",
-   "summary": "İspanya Futbol Federasyonu, Tenerife forveti Jesus de Miguel'in ölümüne yol açan sert müdahalesi nedeniyle FC Andorra kalecisi Jesus Owonoya 12 maç men cezası verdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-14T08:39:00+00:00"
-  },
-  {
    "title": "Türk savunma sanayisi Avrupa'daki Türk yeteneklerin peşinde",
    "link": "https://www.aa.com.tr/tr/ekonomi/turk-savunma-sanayisi-avrupadaki-turk-yeteneklerin-pesinde/4124966",
    "summary": "Cumhurbaşkanlığı Savunma Sanayii Başkanlığı (SSB), Milli Yetkinlik Hamlesi kapsamında Avrupa'daki genç yetenekleri Türk savunma sanayisine kazandırmak için çalışmalarını sürdürüyor.",
@@ -1323,33 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-13T12:14:38+00:00"
-  },
-  {
-   "title": "Milli voleybolcu Zehra Güneş ve UNICEF Türkiye Temsilcisi Marchi gençlerle bir araya geldi",
-   "link": "https://www.aa.com.tr/tr/spor/milli-voleybolcu-zehra-gunes-ve-unicef-turkiye-temsilcisi-marchi-genclerle-bir-araya-geldi/4124067",
-   "summary": "Milli voleybolcu Zehra Güneş, \"Çok küçük yaşlarda harekete geçmemiz, geleceğimizi görmemiz gerekiyor. Bence çocukların hayatında iklim krizi gelecek açısından çok önemli.\" dedi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-13T12:08:10+00:00"
-  },
-  {
-   "title": "Dünya'nın yeni bir 'mini ay'ı var",
-   "link": "https://www.bbc.com/turkce/articles/cq8e0lprzn93o?at_medium=RSS&at_campaign=rss",
-   "summary": "2026 QQ8 adlı mini uydu ağustos ayında keşfedildi, ancak bu Dünya'ya eşlik eden tek geçici gök cismi değil.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6058/live/b11dbc70-ddd3-11f1-9053-236ccb99630c.jpg",
-   "published": "2026-11-13T10:36:22+00:00"
-  },
-  {
-   "title": "Sigorta Evi kapsamında \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\" başladı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/sigorta-evi-kapsaminda-cop31-kuresel-surdurulebilir-sigortacilik-zirvesi-basladi/4123922",
-   "summary": "Türkiye Sigorta Birliğinin Birleşmiş Milletler (BM) COP31 kapsamındaki Sigorta Evi etkinliğinde BM Çevre Programı Finans Girişimi (UNEP FI) işbirliğinde düzenlenen \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\"…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-13T10:21:25+00:00"
   }
  ]
 }
