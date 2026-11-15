@@ -1,6 +1,15 @@
 {
- "updated": "2026-11-15T01:40:02.594609+00:00",
+ "updated": "2026-11-15T02:30:59.010797+00:00",
  "items": [
+  {
+   "title": "Bahreyn İçişleri Bakanlığından vatandaşlara \"en yakın güvenli yere gidin\" çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/bahreyn-icisleri-bakanligindan-vatandaslara-en-yakin-guvenli-yere-gidin-cagrisi/4125473",
+   "summary": "Bahreyn İçişleri Bakanlığı, mevcut bir tehlike uyarısı kapsamında vatandaşlara ve ülkede ikamet edenlere sükuneti koruyarak en yakın güvenli yere gitmeleri çağrısında bulundu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-15T02:00:53+00:00"
+  },
   {
    "title": "Muğlada otomobil elektrik direğine çarpıp alev aldı: Ölü ve yaralılar var",
    "link": "https://www.trthaber.com/haber/turkiye/muglada-otomobil-elektrik-diregine-carpip-alev-aldi-olu-ve-yaralilar-var-963313.html",
@@ -333,15 +342,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-14T16:43:26+00:00"
-  },
-  {
-   "title": "Uluslararası sinemacılar, 14. Boğaziçi Film Festivali'nde dekolonizasyonu konuştu",
-   "link": "https://www.aa.com.tr/tr/kultur/uluslararasi-sinemacilar-14-bogazici-film-festivalinde-dekolonizasyonu-konustu/4125322",
-   "summary": "AA'nın Global İletişim Ortağı olduğu \"14. Boğaziçi Film Festivali\" kapsamında, sinemada kültürel temsil, kolektif hafıza ve güç ilişkilerinin ele alındığı \"Sinemanın Dekolonizasyonu: Hikaye Kimin, Bakış Açısı Kimin?\"…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-14T16:32:02+00:00"
   },
   {
    "title": "AK Parti'den Cumhurbaşkanı Erdoğan paylaşımı",
@@ -1019,15 +1019,6 @@
    "published": "2026-11-14T09:01:55+00:00"
   },
   {
-   "title": "Moldova'ya bağlı Gagauz Özerk Yeri'nde başkan ve meclis seçimleri yapılacak",
-   "link": "https://www.aa.com.tr/tr/dunya/moldovaya-bagli-gagauz-ozerk-yerinde-baskan-ve-meclis-secimleri-yapilacak/4124984",
-   "summary": "Moldova Cumhuriyeti’ne bağlı Gagauz Özerk Yeri’nde halk, yeni başkanını ve Halk Meclisi üyelerini seçmek için bugün oy kullanacak.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-14T09:01:37+00:00"
-  },
-  {
    "title": "UNFCCC İcra Sekreteri Stiell, COP31 kapsamında basın toplantısı düzenledi",
    "link": "https://www.aa.com.tr/tr/ekonomi/unfccc-icra-sekreteri-stiell-cop31-kapsaminda-basin-toplantisi-duzenledi/4124982",
    "summary": "Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi (UNFCCC) İcra Sekreteri Simon Stiell, \"Yaklaşık 200 ülke, 165 yetki alanı üzerinde çalışıyor. Her cümle üzerinde anlaşmaya varmak zor ancak bu hayati önem…",
@@ -1350,6 +1341,15 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-13T12:08:10+00:00"
+  },
+  {
+   "title": "Dünya'nın yeni bir 'mini ay'ı var",
+   "link": "https://www.bbc.com/turkce/articles/cq8e0lprzn93o?at_medium=RSS&at_campaign=rss",
+   "summary": "2026 QQ8 adlı mini uydu ağustos ayında keşfedildi, ancak bu Dünya'ya eşlik eden tek geçici gök cismi değil.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6058/live/b11dbc70-ddd3-11f1-9053-236ccb99630c.jpg",
+   "published": "2026-11-13T10:36:22+00:00"
   }
  ]
 }
