@@ -1,10 +1,28 @@
 {
- "updated": "2026-11-15T03:32:04.364577+00:00",
+ "updated": "2026-11-15T04:36:33.834004+00:00",
  "items": [
   {
-   "title": "Bahreyn İçişleri Bakanlığından vatandaşlara \"en yakın güvenli yere gidin\" çağrısı",
-   "link": "https://www.aa.com.tr/tr/dunya/bahreyn-icisleri-bakanligindan-vatandaslara-en-yakin-guvenli-yere-gidin-cagrisi/4125473",
-   "summary": "Bahreyn İçişleri Bakanlığı, mevcut bir tehlike uyarısı kapsamında vatandaşlara ve ülkede ikamet edenlere sükuneti koruyarak en yakın güvenli yere gitmeleri çağrısında bulundu.",
+   "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarparak alev aldı",
+   "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-alev-aldi-963317.html",
+   "summary": "İran Devrim Muhafızları Ordusu Deniz Kuvvetleri, Hürmüz Boğazının güneyinde gece saatlerinde 2 petrol tankerinin deniz mayınına çarparak alev aldığını duyurdu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-15T03:43:00+00:00"
+  },
+  {
+   "title": "Diyarbakır'da kayıp olarak aranan 62 yaşındaki kadın bulundu",
+   "link": "https://www.trthaber.com/haber/turkiye/diyarbakirda-kayip-olarak-aranan-62-yasindaki-kadin-bulundu-963316.html",
+   "summary": "Diyarbakır'ın Çüngüş ilçesinde ailesinin kayıp başvurusu yaptığı 62 yaşındaki Kıymet Altunbaş, ekiplerin çalışması sonucu bulundu. Altunbaş'ın sağlık durumunun iyi olduğu öğrenildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-15T03:38:00+00:00"
+  },
+  {
+   "title": "Bahreyn İçişleri Bakanlığından ikinci kez halka \"en yakın güvenli yere gidin\" çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/bahreyn-icisleri-bakanligindan-ikinci-kez-halka-en-yakin-guvenli-yere-gidin-cagrisi/4125473",
+   "summary": "Bahreyn İçişleri Bakanlığı, bir kez daha mevcut bir tehlike uyarısı kapsamında halka en yakın güvenli yere gitmeleri çağrısında bulundu.",
    "source": "AA",
    "category": "Gündem",
    "image": null,
@@ -303,7 +321,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israil-isgal-altindaki-bati-seriada-895-yeni-konut-insa-etmeyi-planliyor/4125344",
    "summary": "Filistin yönetimine bağlı Ayrım (Utanç) Duvarı ve Yasadışı Yerleşim Birimleriyle Mücadele Konseyi, İsrail işgal altındaki Batı Şeria'da 895 yeni konut inşa etmeyi planladığını belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-14T17:04:09+00:00"
   },
@@ -938,15 +956,6 @@
    "published": "2026-11-14T09:54:40+00:00"
   },
   {
-   "title": "Bakan Uraloğlu'ndan Gaziantep'e hızlı tren müjdesi",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-uraloglundan-gaziantepe-hizli-tren-mujdesi-963265.html",
-   "summary": "Ulaştırma ve Altyapı Bakanı Abdulkadir Uraloğlu, \"Gaziantep'e hızlı trenin de geleceğini belirterek, \"Hızlı tren Gaziantep'te kalmayacak, Şanlıurfa'ya, oradan Habur'a kadar devam ettireceğiz\" dedi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-14T09:54:00+00:00"
-  },
-  {
    "title": "\"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\"nin ikinci günü başladı",
    "link": "https://www.aa.com.tr/tr/ekonomi/cop31-kuresel-surdurulebilir-sigortacilik-zirvesinin-ikinci-gunu-basladi/4125014",
    "summary": "İklim zirvesi COP31 kapsamında Türkiye Sigorta Birliği (TSB) ile Birleşmiş Milletler Çevre Programı Finans Girişimi (UNEP FI) işbirliğinde gerçekleştirilen \"COP31 Küresel Sürdürülebilir Sigortacılık Zirvesi\"nin ikinci…",
@@ -972,15 +981,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-14T09:24:17+00:00"
-  },
-  {
-   "title": "Yemen'de Lahic ve Taiz'de çatışmalar sürerken yaklaşık 340 bin kişi yerinden edildi",
-   "link": "https://www.aa.com.tr/tr/dunya/yemende-lahic-ve-taizde-catismalar-surerken-yaklasik-340-bin-kisi-yerinden-edildi/4124993",
-   "summary": "Yemen'de hükümet güçleri ile İran destekli Husiler arasında Lahic ve Taiz illerinde çatışmalar sürerken, ağustos ayından bu yana yaklaşık 340 bin kişinin çatışmalar ve artan güvenlik sorunları nedeniyle yerinden…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-14T09:16:23+00:00"
   },
   {
    "title": "Emlak Katılım'dan 2026'nın 9 ayında 13 milyar lira net kar",
