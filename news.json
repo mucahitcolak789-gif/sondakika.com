@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-15T05:33:56.659062+00:00",
+ "updated": "2026-11-15T06:34:02.991508+00:00",
  "items": [
+  {
+   "title": "Eskişehir'de kazaya müdahale eden trafik polisine otomobil çarptı: 5 yaralı",
+   "link": "https://www.trthaber.com/haber/turkiye/eskisehirde-kazaya-mudahale-eden-trafik-polisine-otomobil-carpti-5-yarali-963318.html",
+   "summary": "Eskişehir bir araç, yağış nedeniyle su birikintisine kapılarak kontrolünü kaybetti. Kazaya müdahale eden trafik polisi ile 4 kişi, kaza mahalline dalan başka bir otomobilin çarpmasıyla yaralanırken, kaza nedeniyle çevre…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-15T06:22:00+00:00"
+  },
+  {
+   "title": "Rusya: Ukrayna'nın enerji, liman ve demir yolu altyapı tesislerini vurduk",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynanin-enerji-liman-ve-demir-yolu-altyapi-tesislerini-vurduk/4125506",
+   "summary": "Rusya Savunma Bakanlığı, Ukrayna'da askeri amaçla kullanılan enerji, liman ve demir yolu altyapı tesislerini vurduklarını duyurdu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-15T06:19:03+00:00"
+  },
+  {
+   "title": "Moldova'ya bağlı Gagauz Özerk Yeri'nde başkanlık ve meclis seçimleri düzenleniyor",
+   "link": "https://www.aa.com.tr/tr/dunya/moldovaya-bagli-gagauz-ozerk-yerinde-baskanlik-ve-meclis-secimleri-duzenleniyor/4125505",
+   "summary": "Moldova Cumhuriyeti’ne bağlı Gagauz Özerk Yeri’nde halk, yeni başkanını ve Halk Meclisi üyelerini seçmek için sandık başına gitti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-15T06:15:43+00:00"
+  },
+  {
+   "title": "ABD'nin Florida eyaletinde kargo ile yolcu uçağı taksi yollarının kesiştiği noktada çarpıştı",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-florida-eyaletinde-kargo-ile-yolcu-ucagi-taksi-yollarinin-kesistigi-noktada-carpisti/4125500",
+   "summary": "ABD'nin Florida eyaletinin Miami kentinde kargo uçağı ile hava yolu şirketine ait dar gövdeli yolcu uçağı havalimanında çarpıştı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-15T06:08:50+00:00"
+  },
   {
    "title": "İran Devrim Muhafızları: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarparak alev aldı",
    "link": "https://www.trthaber.com/haber/dunya/iran-devrim-muhafizlari-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-alev-aldi-963317.html",
@@ -276,7 +312,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/fransada-polis-gostericilere-biber-gaziyla-mudahale-etti/4125362",
    "summary": "Fransa'da çeşitli sendikaların ve Sarı Yelekliler'in çağrısıyla başkent Paris, Lyon, Rouen dahil çok sayıda kentte sokağa inen göstericilere polis biber gazıyla müdahalede bulundu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-14T17:50:52+00:00"
   },
@@ -303,7 +339,7 @@
    "link": "https://www.aa.com.tr/tr/spor/sergen-yalcin-milli-takimimizin-ve-ulkemizin-galibiyete-ihtiyaci-var/4125354",
    "summary": "UEFA Uluslar A Ligi 1. Grup'taki son maçında Fransa ile deplasmanda karşılaşacak A Milli Futbol Takımı'nda teknik direktör Sergen Yalçın, galibiyete ihtiyaçları olduğunu söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-14T17:24:27+00:00"
   },
@@ -360,15 +396,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-14T16:43:26+00:00"
-  },
-  {
-   "title": "AK Parti'den Cumhurbaşkanı Erdoğan paylaşımı",
-   "link": "https://www.aa.com.tr/tr/gundem/ak-partiden-cumhurbaskani-erdogan-paylasimi/4125321",
-   "summary": "AK Parti'den, Cumhurbaşkanı Recep Tayyip Erdoğan'a ilişkin \"Milletine adanmış bir ömrün, yıllara sığmayan hikayesi\" başlıklı paylaşım yapıldı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-14T16:31:34+00:00"
   },
   {
    "title": "COP31'de elektrifikasyonun 2035'e kadar yüzde 35'e çıkarılması hedefi ele alındı",
@@ -857,15 +884,6 @@
    "published": "2026-11-14T10:59:28+00:00"
   },
   {
-   "title": "İsrail ordusu Batı Şeria'da 10 Filistinliyi gözaltına aldı",
-   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-seriada-10-filistinliyi-gozaltina-aldi/4125063",
-   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'da 10 Filistinliyi gözaltına alırken, Filistin topraklarını gasbeden İsrailliler de zeytin hasadı yapan Filistinlilere saldırarak ekipmanlarını çaldı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-14T10:58:17+00:00"
-  },
-  {
    "title": "İngiliz Kraliyet Nişanı sahibi Londralı şef Khan, Kral 3. Charles'ın Türk halkına özel sevgi duyduğunu söyledi",
    "link": "https://www.aa.com.tr/tr/dunya/ingiliz-kraliyet-nisani-sahibi-londrali-sef-khan-kral-3-charlesin-turk-halkina-ozel-sevgi-duydugunu-soyledi/4125062",
    "summary": "İngiltere Kraliyet Nişanı sahibi Londralı şef Taz Khan, Kral 3. Charles'ın Türk halkına özel sevgi duyduğunu söyledi.",
@@ -893,24 +911,6 @@
    "published": "2026-11-14T10:37:00+00:00"
   },
   {
-   "title": "Araştırma: 11 AB ülkesinde katılımcıların yüzde 71’i \"Avrupa ordusunun\" kurulmasını destekliyor",
-   "link": "https://www.aa.com.tr/tr/dunya/arastirma-11-ab-ulkesinde-katilimcilarin-yuzde-71-i-avrupa-ordusunun-kurulmasini-destekliyor/4125048",
-   "summary": "Avrupa Birliği’nin 11 üye ülkesinde yapılan araştırmada, AB'nin kendi ordusuna sahip olmasına yönelik destek yüzde 71 olarak ölçüldü.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-14T10:35:01+00:00"
-  },
-  {
-   "title": "Çin'in Sincan Uygur Özerk Bölgesi'nde 5 büyüklüğünde deprem meydana geldi",
-   "link": "https://www.aa.com.tr/tr/dunya/cinin-sincan-uygur-ozerk-bolgesinde-5-buyuklugunde-deprem-meydana-geldi/4125047",
-   "summary": "",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-14T10:33:51+00:00"
-  },
-  {
    "title": "Özel eğitim ihtiyacı bulunan öğrenciler için erken tarama sistemi yaygınlaştırılacak",
    "link": "https://www.trthaber.com/haber/egitim/ozel-egitim-ihtiyaci-bulunan-ogrenciler-icin-erken-tarama-sistemi-yayginlastirilacak-963269.html",
    "summary": "Milli Eğitim Bakanlığı MEB, özel eğitim ihtiyacı olduğu düşünülen öğrencilerin erken dönemde belirlenmesine yönelik geliştirilen Eğitsel Tarama ve Değerlendirme Bataryası'nın gelecek yıl eRehberlik Modülü'ne entegre…",
@@ -927,15 +927,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-14T10:17:00+00:00"
-  },
-  {
-   "title": "Ayran, kefir ve yoğurt üretimi 9 ayda rekor seviyeye ulaştı",
-   "link": "https://www.trthaber.com/haber/ekonomi/ayran-kefir-ve-yogurt-uretimi-9-ayda-rekor-seviyeye-ulasti-963266.html",
-   "summary": "Türkiye'de ayran ve kefir üretimi ocakeylül döneminde 834 bin 27 ton, yoğurt üretimi de 1 milyon 126 bin 83 tonla rekor seviyeye ulaştı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-14T10:14:00+00:00"
   },
   {
    "title": "Bakan Tekin'den COP31'de eğitim vurgusu",
@@ -1350,6 +1341,15 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6058/live/b11dbc70-ddd3-11f1-9053-236ccb99630c.jpg",
    "published": "2026-11-13T10:36:22+00:00"
+  },
+  {
+   "title": "Fransa-Türkiye maçını İngiliz hakem Chris Kavanagh yönetecek",
+   "link": "https://www.aa.com.tr/tr/spor/fransa-turkiye-macini-ingiliz-hakem-chris-kavanagh-yonetecek/4123844",
+   "summary": "A Milli Futbol Takımı'nın UEFA Uluslar A Ligi 1. Grup'ta 15 Kasım Pazar günü Fransa'ya konuk olacağı altıncı hafta maçını İngiliz hakem Chris Kavanagh yönetecek.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-13T09:38:09+00:00"
   }
  ]
 }
