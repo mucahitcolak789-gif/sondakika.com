@@ -1,66 +1,993 @@
 {
- "updated": "2026-11-16T10:41:03.425501+00:00",
+ "updated": "2026-11-16T20:40:55.118398+00:00",
  "items": [
   {
-   "title": "ASELSAN, Yeşil Dönüşüm Merkezi Belgesi alan ilk savunma sanayisi şirketi oldu",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-yesil-donusum-merkezi-belgesi-alan-ilk-savunma-sanayisi-sirketi-oldu/4126462",
-   "summary": "Yüksek teknoloji üretimini çevresel sürdürülebilirlik hedefleriyle birleştiren ASELSAN, yeşil dönüşüm alanındaki çalışmalarına bir yenisini daha ekledi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T10:31:46+00:00"
+   "title": "Sarıgül ailesi soruşturması: Dokuz kişi daha tutuklandı",
+   "link": "https://www.bbc.com/turkce/articles/cqy80yr29952o?at_medium=RSS&at_campaign=rss",
+   "summary": "Kaynağı belirsiz para aklandığı iddialarına ilişkin Sarıgül ailesi üyelerinin de aralarında bulunduğu soruşturmada gözaltına alınan 15 şüpheliden dokuzu tutuklandı; altı kişi ise adli kontrol talebiyle serbest bırakıldı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/fd30/live/bc4b3460-e1ed-11f1-99a1-253766e7ad8b.jpg",
+   "published": "2026-11-16T20:32:11+00:00"
   },
   {
-   "title": "COP31 Zirvesi'nde Mavi Bölge'ye kayıt olanların sayısı 102 bini aştı",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31-zirvesinde-mavi-bolgeye-kayit-olanlarin-sayisi-102-bini-asti/4126453",
-   "summary": "COP31'de devlet başkanları ve bakanlar, ulusal delegasyonlar, akredite gözlemciler, uluslararası kuruluşların yer aldığı Mavi Bölge'ye ilk 7 günde 102 bin 610 kişi kayıt oldu.",
+   "title": "BM: Suriye'de yeniden imarın maliyeti 216 milyar dolar olarak tahmin ediliyor",
+   "link": "https://www.trthaber.com/haber/dunya/bm-suriyede-yeniden-imarin-maliyeti-216-milyar-dolar-olarak-tahmin-ediliyor-963462.html",
+   "summary": "Birleşmiş Milletler BM Genel Sekreteri'nin Suriye Özel Temsilci Yardımcısı Claudio Cordone, Suriye'de hasar gören fiziki varlıkların yeniden inşasının maliyetinin 216 milyar dolar olarak tahmin edildiğini belirterek,…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T20:25:00+00:00"
+  },
+  {
+   "title": "Bosna Hersek Devlet Başkanlığı Konseyinin yeni üyeleri görevlerine başladı",
+   "link": "https://www.trthaber.com/haber/dunya/bosna-hersek-devlet-baskanligi-konseyinin-yeni-uyeleri-gorevlerine-basladi-963461.html",
+   "summary": "",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T20:24:00+00:00"
+  },
+  {
+   "title": "Türkiye'nin BM Temsilcisi Yıldız: Suriye'nin uluslararası toplumla artan etkileşimi cesaret verici",
+   "link": "https://www.aa.com.tr/tr/dunya/turkiyenin-bm-temsilcisi-yildiz-suriyenin-uluslararasi-toplumla-artan-etkilesimi-cesaret-verici/4127109",
+   "summary": "Türkiye'nin BM Daimi Temsilcisi Büyükelçi Ahmet Yıldız, Suriyelilerin ülkelerini yeniden inşa etme çabalarının uluslararası desteği hak ettiğini belirterek Suriye'nin uluslararası toplumla artan etkileşiminin de cesaret…",
    "source": "AA",
    "category": "Gündem",
    "image": null,
-   "published": "2026-11-16T10:28:18+00:00"
+   "published": "2026-11-16T20:16:50+00:00"
+  },
+  {
+   "title": "Rusya: Trump'ın Ukrayna'da daha sert davranabileceğimiz yönündeki görüşüne katılıyoruz",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-trumpin-ukraynada-daha-sert-davranabilecegimiz-yonundeki-gorusune-katiliyoruz/4127106",
+   "summary": "Kremlin Sözcüsü Dmitriy Peskov, ABD Başkanı Donald Trump'ın Rusya'nın Ukrayna'da daha sert davranabileceğine ilişkin açıklamasına katıldıklarını söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T20:14:03+00:00"
+  },
+  {
+   "title": "Mantardan zehirlenen 5 kişi hastaneye kaldırıldı",
+   "link": "https://www.trthaber.com/haber/turkiye/mantardan-zehirlenen-5-kisi-hastaneye-kaldirildi-963460.html",
+   "summary": "Bingöl'de doğadan topladıkları mantarı tükettikten sonra rahatsızlanan 3'ü çocuk 5 kişi hastaneye kaldırıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T20:04:00+00:00"
+  },
+  {
+   "title": "İsrail polisinden Netanyahu'nun Arap partilerini hedef almak için polisi kullandığı iddiasına iç soruşturma",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-polisinden-netanyahunun-arap-partilerini-hedef-almak-icin-polisi-kullandigi-iddiasina-ic-sorusturma/4127102",
+   "summary": "İsrail polisi, geçici Başbakan Binyamin Netanyahu'nun İsrail vatandaşı Filistinlileri temsil eden partileri \"seçimleri çaldıkları” söylemleriyle hedef almak için polis güçlerini kullandığı yönündeki iddialara ilişkin iç…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T20:03:27+00:00"
+  },
+  {
+   "title": "Sağlık Bakanı Memişoğlu: Aşı reddini engellemek için 8 aşımızı yerli üreteceğiz",
+   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakani-memisoglu-asi-reddini-engellemek-icin-8-asimizi-yerli-uretecegiz/4127100",
+   "summary": "Sağlık Bakanı Kemal Memişoğlu, \"Aşı reddini engellemek ve aşı reddini azaltmak için 8 aşımızı yerli üreteceğiz, kısa sürede sözleşmelerini yapıp kendi aşısını üreten ve dünyaya ulaştıran ülke olacağız.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T20:01:12+00:00"
+  },
+  {
+   "title": "İran ordusu: Hürmüz Boğazı'nda MQ1 tipi İHA düşürüldü",
+   "link": "https://www.trthaber.com/haber/dunya/iran-ordusu-hurmuz-bogazinda-mq-1-tipi-iha-dusuruldu-963459.html",
+   "summary": "İran ordusu, Hürmüz Boğazı üzerinde tespit edilen MQ1 tipi insansız hava aracının İHA hava savunma sistemleri tarafından düşürüldüğünü duyurdu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:54:00+00:00"
+  },
+  {
+   "title": "ABD'li bazı bankaların çevrim içi hizmetlerinde kesintiler yaşandığı duyuruldu",
+   "link": "https://www.trthaber.com/haber/dunya/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-duyuruldu-963458.html",
+   "summary": "Chase, Bank of America ve Wells Fargo'nun da aralarında bulunduğu bazı ABD'li bankaların müşterilerinin çevrim içi olarak hesaplarına erişmekte sorunlar yaşadığı duyuruldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:31:00+00:00"
+  },
+  {
+   "title": "Bakırköy Belediyesi'ne yönelik irtikap soruşturmasında 9 şüpheli hakkında iddianame",
+   "link": "https://www.trthaber.com/haber/turkiye/bakirkoy-belediyesine-yonelik-irtikap-sorusturmasinda-9-supheli-hakkinda-iddianame-963457.html",
+   "summary": "Bakırköy Belediyesinde ruhsat ve tadilat işlemleri karşılığında para istendiği iddialarına ilişkin soruşturma tamamlandı. Aralarında belediye başkan yardımcılarının da bulunduğu 9 şüpheli hakkında iddianame hazırlandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:31:00+00:00"
+  },
+  {
+   "title": "ABD'li bazı bankaların çevrim içi hizmetlerinde kesintiler yaşandığı bildirildi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/abdli-bazi-bankalarin-cevrim-ici-hizmetlerinde-kesintiler-yasandigi-bildirildi/4127070",
+   "summary": "Chase, Bank of America ve Wells Fargo'nun da aralarında bulunduğu bazı ABD'li bankaların müşterilerinin çevrim içi olarak hesaplarına erişmekte sorunlar yaşadığı bildirildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:26:43+00:00"
+  },
+  {
+   "title": "Araştırma: ABD'deki 403 veri merkezinin yıllık karbondioksit salımı küçük bir Avrupa ülkesinden fazla",
+   "link": "https://www.trthaber.com/haber/dunya/arastirma-abddeki-403-veri-merkezinin-yillik-karbondioksit-salimi-kucuk-bir-avrupa-ulkesinden-fazla-963456.html",
+   "summary": "ABD merkezli araştırmada, ülkedeki en büyük 403 veri merkezinin bir yıllık karbondioksit salımının, küçük bir Avrupa ülkesinin toplam yıllık salımını aştığı ortaya kondu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:26:00+00:00"
+  },
+  {
+   "title": "Dışişleri: ITU Konsey üyeliği, Türkiye'ye bilim ve teknolojide duyulan güvenin teyididir",
+   "link": "https://www.trthaber.com/haber/gundem/disisleri-itu-konsey-uyeligi-turkiyeye-bilim-ve-teknolojide-duyulan-guvenin-teyididir-963455.html",
+   "summary": "Dışişleri Bakanlığı, Türkiye'nin üst üste 7. kez Uluslararası Telekomünikasyon Birliği ITU konsey üyeliğine seçilmesinin, ülkeye uluslararası düzeyde duyulan güvenin güçlü bir teyidi olduğunu vurguladı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:22:00+00:00"
+  },
+  {
+   "title": "Fed Başkanı Warsh, yapay zekanın ekonomi üzerindeki etkisinin önemini vurguladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/fed-baskani-warsh-yapay-zekanin-ekonomi-uzerindeki-etkisinin-onemini-vurguladi/4127063",
+   "summary": "ABD Merkez Bankası (Fed) Başkanı Kevin Warsh, yapay zekanın yaygın biçimde benimsenmesinin ekonomi üzerinde çok önemli etkisi olacağını ve para politikası açısından önemli sonuçlar doğuracağını kabul etmenin bankanın…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:06:41+00:00"
+  },
+  {
+   "title": "Bakan Fidan, Türkiye'nin Kafkaslar, Avrupa ve Orta Asya bağlantısallığındaki merkezi rolünü vurguladı",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-fidan-turkiyenin-kafkaslar-avrupa-ve-orta-asya-baglantisalligindaki-merkezi-rolunu-vurguladi/4127062",
+   "summary": "Bakan Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merkezi rolü, herkes tarafından tabii ki…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:04:48+00:00"
+  },
+  {
+   "title": "Bakan Fidan: Türkiye'nin merkezi rolü, herkes tarafından takdir ediliyor",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-turkiyenin-merkezi-rolu-herkes-tarafindan-takdir-ediliyor-963454.html",
+   "summary": "Dışişleri Bakanı Fidan, bağlantısallık konusunda Türkiye'nin Avrupa, Karadeniz, Kafkaslar ve Orta Asya için ortak bir konum olarak ön plana çıktığına işaret ederek, \"Türkiye'nin buradaki merkezi rolü, herkes tarafından…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T19:00:00+00:00"
+  },
+  {
+   "title": "İstanbul'daki kara para aklama soruşturmasında 9 kişi tutuklandı",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbuldaki-kara-para-aklama-sorusturmasinda-9-kisi-tutuklandi-963453.html",
+   "summary": "İstanbulda Sarıgül ailesi üyelerinin de aralarında bulunduğu kara para soruşturmasında adliyeye sevk edilen 9 şüpheli tutuklandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T18:50:00+00:00"
+  },
+  {
+   "title": "Ankara'da bazı mahallelerde su kesintisi uygulanacak",
+   "link": "https://www.trthaber.com/haber/turkiye/ankarada-bazi-mahallelerde-su-kesintisi-uygulanacak-963452.html",
+   "summary": "Ankara'nın Keçiören ve Yenimahalle ilçelerinin bazı mahallelerinde perşembe günü su kesintisi uygulanacak.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T17:58:00+00:00"
+  },
+  {
+   "title": "İşgalci İsrailliler, Batı Şeria'da Filistinlilerin evlerine el koydu",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israilliler-bati-seriada-filistinlilerin-evlerine-el-koydu-963451.html",
+   "summary": "Filistin topraklarını gasbeden İsrailliler, işgal altındaki Batı Şeria'da Filistinlilere ait 2 eve el koydu ve ekili tarım arazilerine zarar verdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T17:56:00+00:00"
+  },
+  {
+   "title": "Başkentte bazı mahallelerde su kesintisi uygulanacak",
+   "link": "https://www.aa.com.tr/tr/gundem/baskentte-bazi-mahallelerde-su-kesintisi-uygulanacak/4127017",
+   "summary": "Ankara Su ve Kanalizasyon İdaresi (ASKİ) Genel Müdürlüğü, Keçiören ve Yenimahalle ilçelerinin bazı mahallelerinde perşembe günü su kesintisi uygulanacağını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T17:53:57+00:00"
+  },
+  {
+   "title": "Menzil Cemaati'nde neler oluyor, Uşak ve Manisa'daki protestoların arkasında ne var?",
+   "link": "https://www.bbc.com/turkce/articles/cq1430xx0p02o?at_medium=RSS&at_campaign=rss",
+   "summary": "Türkiye'nin en büyük dini oluşumlarından Menzil Cemaati'nde, 2023'te grubun eski lideri Abdulbaki Erol’un ölümünden sonra ortaya çıkan sorunlar devam ediyor. Son olarak Menzil içindeki bazı gruplar, Manisa ve Uşak'ta…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ca91/live/cf8f8000-e1be-11f1-a339-49d4d3ed4c86.png",
+   "published": "2026-11-16T17:41:44+00:00"
+  },
+  {
+   "title": "Bakan Kurum: Belem 1,5 Derece Misyonu'nu çok önemsiyorum",
+   "link": "https://www.trthaber.com/haber/cevre/bakan-kurum-belem-15-derece-misyonunu-cok-onemsiyorum-963450.html",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Kurum, \"1,5 derece, ilk bakışta teknik bir eşik gibi görünebilir. Oysa bu rakamın arkasında su var, gıda var, şehirler var, insan sağlığı ve ülkelerin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T17:26:00+00:00"
+  },
+  {
+   "title": "Bakan Fidan, Brüksel'de AB Bakanlar Toplantısı'na katıldı",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-brukselde-ab-bakanlar-toplantisina-katildi-963449.html",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Avrupa Birliği AB Dış İlişkiler Konseyi kapsamında Belçika'nın başkenti Brüksel'de düzenlenen \"Bölgelerarası Güvenlik ve Bağlantısallık Konulu İkinci Bakanlar Toplantısı\"na katıldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T17:17:00+00:00"
+  },
+  {
+   "title": "Bakan Kurum'dan Türkiye Pavilyonu'na ziyaret",
+   "link": "https://www.aa.com.tr/tr/gundem/bakan-kurumdan-turkiye-pavilyonuna-ziyaret/4126983",
+   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Tüm dünya bugün Türkiye'den, Antalya'dan Türkiye'nin sesini dinliyor, sözünü merak ediyor. Biz de bu merakı boşa çıkarmayacağız.\" dedi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T17:00:09+00:00"
+  },
+  {
+   "title": "Suriye heyeti yarın Türkiye'ye geliyor",
+   "link": "https://www.trthaber.com/haber/gundem/suriye-heyeti-yarin-turkiyeye-geliyor-963448.html",
+   "summary": "Suriye Dışişleri Bakanı Esad Hasan Şeybani ve beraberindeki heyet, çalışma ziyareti gerçekleştirmek üzere yarın Türkiye'ye gelecek.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:57:00+00:00"
+  },
+  {
+   "title": "Beş AB ülkesi, göçmenler için Ruanda'da sınır dışı merkezi açıyor",
+   "link": "https://www.bbc.com/turkce/articles/cve87n0233k4o?at_medium=RSS&at_campaign=rss",
+   "summary": "Almanya, Hollanda, Avusturya, Yunanistan ve Danimarka, Afrika ülkesi Ruanda'da bir göçmen sınır dışı merkezi açma planlarını duyurdu. Merkezin amacı sınırdışı sayılarını artırmak ve düzensiz göçü azaltmak olarak…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f47b/live/694a8d60-e1c0-11f1-a339-49d4d3ed4c86.jpg",
+   "published": "2026-11-16T16:52:25+00:00"
+  },
+  {
+   "title": "California Valisi Newsom'dan ABD'nin seçim finansmanı sisteminde kapsamlı reform çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/california-valisi-newsomdan-abdnin-secim-finansmani-sisteminde-kapsamli-reform-cagrisi/4126976",
+   "summary": "ABD'de California Valisi Gavin Newsom, \"karanlık paranın ve güçlü çıkar gruplarının\" ABD siyaseti üzerinde önemli bir etki oluşturduğu uyarısında bulunarak, seçim finansmanı sisteminde kapsamlı reformlar yapılması…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:50:44+00:00"
+  },
+  {
+   "title": "Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine karşı eğitimde iyi uygulama örnekleri ele alındı",
+   "link": "https://www.aa.com.tr/tr/gundem/turkiye-iklim-okulundaki-panellerde-iklim-degisikligine-karsi-egitimde-iyi-uygulama-ornekleri-ele-alindi/4126964",
+   "summary": "Milli Eğitim Bakanlığınca BM İklim Değişikliği Çerçeve Sözleşmesi'nin 31. Taraflar Konferansı (COP31) kapsamında oluşturulan Türkiye İklim Okulu'ndaki panellerde iklim değişikliğine ve afet risklerine karşı eğitimde iyi…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:33:30+00:00"
+  },
+  {
+   "title": "TBMM Başkanı Kurtulmuş, Antalya'daki COP31 alanını ziyaret etti",
+   "link": "https://www.aa.com.tr/tr/gundem/tbmm-baskani-kurtulmus-antalyadaki-cop31-alanini-ziyaret-etti/4126962",
+   "summary": "Türkiye Büyük Millet Meclisi (TBMM) Başkanı Numan Kurtulmuş, Türkiye’nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) için hazırlanan…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:32:51+00:00"
+  },
+  {
+   "title": "Trump, Çin ziyaretinde \"İran, nükleer silahsızlanma ve Ukrayna\" konularını görüşecek",
+   "link": "https://www.aa.com.tr/tr/dunya/trump-cin-ziyaretinde-iran-nukleer-silahsizlanma-ve-ukrayna-konularini-gorusecek/4126961",
+   "summary": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile yapacağı görüşmede, \"İran, nükleer silahsızlanma, Rusya-Ukrayna Savaşı ile ekonomi ve ticaret başlıklarını ele alacaklarını\" bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:31:59+00:00"
+  },
+  {
+   "title": "Kastamonu'da yağışlarla debisi artan Ilıca Şelalesi'nde güzel görüntüler oluştu",
+   "link": "https://www.aa.com.tr/tr/gundem/kastamonuda-yagislarla-debisi-artan-ilica-selalesinde-guzel-goruntuler-olustu/4126959",
+   "summary": "Kastamonu'nun Pınarbaşı ilçesindeki Ilıca Şelalesi'nde su seviyesinin yükselmesiyle sonbahar renkleri arasında güzel görüntüler ortaya çıktı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:31:15+00:00"
+  },
+  {
+   "title": "COP31'de Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı yapıldı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-yapay-zeka-destekli-temiz-teknolojiler-girisimi-lansmani-yapildi/4126954",
+   "summary": "Antalya'daki Birleşmiş Milletler (BM) İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Yapay Zeka Destekli Temiz Teknolojiler Girişimi Lansmanı düzenlendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:25:32+00:00"
+  },
+  {
+   "title": "Çelik: Fon meselesinde ihmali, kusuru ve kastı olanlar muhakkak surette hesap verecek",
+   "link": "https://www.trthaber.com/haber/gundem/celik-fon-meselesinde-ihmali-kusuru-ve-kasti-olanlar-muhakkak-surette-hesap-verecek-963447.html",
+   "summary": "AK Parti Sözcüsü Ömer Çelik, fon soruşturmasına ilişkin, \"İhmali, kusuru ve kastı olanlar muhakkak surette hesap vereceklerdir. Bu mesele hiçbir şekilde faili meçhul kalmayacaktır. Bütün boyutlarıyla bu dolandırıcılık,…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:18:00+00:00"
+  },
+  {
+   "title": "AB, Suriye ile Ortaklık Anlaşması'nın imzalanması için ilerleme kararı aldı",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-suriye-ile-ortaklik-anlasmasinin-imzalanmasi-icin-ilerleme-karari-aldi/4126951",
+   "summary": "Avrupa Birliği (AB) Yüksek Temsilcisi Kaja Kallas, AB dışişleri bakanlarının Suriye ile Ortaklık Anlaşması'nın imzalanması yönünde ilerlemeyi desteklediğini belirterek, teknik ve hukuki hazırlıkların üye ülkelerle…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T16:15:37+00:00"
+  },
+  {
+   "title": "Çin, APEC Zirvesi'nde bölgesel serbest ticaret anlaşmasını ilerletme arayışında",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cin-apec-zirvesinde-bolgesel-serbest-ticaret-anlasmasini-ilerletme-arayisinda/4126938",
+   "summary": "Çin, ev sahipliğini yaptığı Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi'nde, daha önce gündeme gelen bölgesel serbest ticaret anlaşması fikrini ilerletmek üzere eylem planları önerecek.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:51:40+00:00"
+  },
+  {
+   "title": "ABD, gelişmiş yapay zeka çiplerine uzaktan erişimi engellemeye yönelik düzenleme yayımladı",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/abd-gelismis-yapay-zeka-ciplerine-uzaktan-erisimi-engellemeye-yonelik-duzenleme-yayimladi-/4126935",
+   "summary": "ABD Ticaret Bakanlığı, gelişmiş yapay zeka çiplerine ve sunucularına uzaktan erişim yoluyla mevcut ihracat kısıtlamalarının aşılmasını önlemek amacıyla düzenleme yaptı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:50:27+00:00"
+  },
+  {
+   "title": "Almanya'da vatandaşların dijital kamu hesaplarına yönelik büyük ölçekli siber saldırı girişimi",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/almanyada-vatandaslarin-dijital-kamu-hesaplarina-yonelik-buyuk-olcekli-siber-saldiri-girisimi/4126933",
+   "summary": "Almanya'da bilgisayar korsanları, federal hükümetin vatandaşlara dijital kamu hizmetleri sunduğu merkezi kimlik doğrulama sistemi \"BundID\" hesaplarına yönelik büyük ölçekli siber saldırı girişiminde bulundu.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:48:03+00:00"
+  },
+  {
+   "title": "Kuzey Atlantik buzul balinasının popülasyonu yaklaşık yüzde 2 azalarak 382'ye geriledi",
+   "link": "https://www.aa.com.tr/tr/dunya/kuzey-atlantik-buzul-balinasinin-populasyonu-yaklasik-yuzde-2-azalarak-382ye-geriledi/4126932",
+   "summary": "Dünyanın nesli en fazla tehlike altındaki balina türlerinden biri olan Kuzey Atlantik buzul balinasının popülasyonu yaklaşık yüzde 2 azalarak 382'ye düştü.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:43:10+00:00"
+  },
+  {
+   "title": "COP31'de 'Sıfır Atık' damgası",
+   "link": "https://www.trthaber.com/haber/cevre/cop31de-sifir-atik-damgasi-963445.html",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da devam eden COP31 İklim Zirvesi'nde ilk kez sıfır atık özelinde tematik bir gün düzenlendi. BM Sıfır Atık Yüksek Düzeyli Danışma Kurulu Üyesi Carlos Silva Filho, Emine Erdoğan…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:43:00+00:00"
+  },
+  {
+   "title": "Yeni James Bond, Robert Pattinson oldu",
+   "link": "https://www.bbc.com/turkce/articles/cwlyljmgq2m6o?at_medium=RSS&at_campaign=rss",
+   "summary": "Twilight serisi, Batman ve Odysseia'da rol alan Robert Pattinson'ın yeni James Bond olarak seçildiği açıklandı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/be15/live/d42fa4f0-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
+   "published": "2026-11-16T15:34:42+00:00"
+  },
+  {
+   "title": "Borsa günü yatay seyirle tamamladı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gunu-yatay-seyirle-tamamladi/4126916",
+   "summary": "Borsa İstanbul'da BIST 100 endeksi, günü yatay seyirle 11.841,81 puandan tamamladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:23:49+00:00"
+  },
+  {
+   "title": "Bu hafta birçok ülkede kültür sanat etkinliği gerçekleştirilecek",
+   "link": "https://www.aa.com.tr/tr/kultur/bu-hafta-bircok-ulkede-kultur-sanat-etkinligi-gerceklestirilecek/4126913",
+   "summary": "Dünyada bu hafta festivallerden fuarlara, tiyatro gösterilerinden söyleşilere ve sergilerden konserlere birçok etkinlik düzenlenecek.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:17:51+00:00"
+  },
+  {
+   "title": "Özlale'den fon iddiaları, AKP'li Karaaslan'dan 'itibar suikastı' yanıtı",
+   "link": "https://www.bbc.com/turkce/articles/cwgklxd3274po?at_medium=RSS&at_campaign=rss",
+   "summary": "YENİ Parti İzmir Milletvekili Ümit Özlale, fon krizine dair TBMM'de düzenlediği basın toplantısında, AKP Samsun milletvekili Çiğdem Karaaslan'ın eşi ve kardeşi ile ilgili iddialarda bulundu. Karaaslan iddiaları…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ce1/live/6c466740-e1cb-11f1-99b6-a35a62fa4264.png",
+   "published": "2026-11-16T15:15:40+00:00"
+  },
+  {
+   "title": "COP31'de Türkiye'nin deniz üstü rüzgar enerjisinde bölgesel merkez olma potansiyeli değerlendirildi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-turkiyenin-deniz-ustu-ruzgar-enerjisinde-bolgesel-merkez-olma-potansiyeli-degerlendirildi/4126909",
+   "summary": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında düzenlenen deniz üstü rüzgar enerjisine ilişkin panelde, sektörün teknolojik gelişimi, Türkiye'nin yatırım potansiyeli ve bölgesel…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:15:04+00:00"
+  },
+  {
+   "title": "COP31'de \"5 Problem, 5 Teknoloji, 5 Kadın\" söyleşisi düzenlendi",
+   "link": "https://www.aa.com.tr/tr/gundem/cop31de-5-problem-5-teknoloji-5-kadin-soylesisi-duzenlendi/4126901",
+   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında, AK Parti Kadın Kolları Başkanlığınca \"5 Problem, 5 Teknoloji, 5 Kadın\" başlıklı…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T15:06:05+00:00"
+  },
+  {
+   "title": "DSÖ'den COP31'de başlatılan \"Antalya Dayanıklı Sağlık Sistemleri Girişimi\" için destek çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/dsoden-cop31de-baslatilan-antalya-dayanikli-saglik-sistemleri-girisimi-icin-destek-cagrisi/4126889",
+   "summary": "Dünya Sağlık Örgütü (DSÖ) Genel Direktörü Ghebreyesus, Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda (COP31) başlatılan \"Antalya Dayanıklı Sağlık Sistemleri Girişimi\" için destek…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:54:48+00:00"
+  },
+  {
+   "title": "Beyoğlu Belediye Başkanvekili Sefer Karaahmetoğlu CHP'den istifa etti",
+   "link": "https://www.bbc.com/turkce/articles/crpdwn4de92vo?at_medium=RSS&at_campaign=rss",
+   "summary": "Beyoğlu Belediye Başkanı İnan Güney'in tutuklanarak görevden uzaklaştırılması sonrasında başkanvekilliği görevini yürüten Sefer Karaahmetoğlu CHP'den istifa ettiğini duyurdu.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b30c/live/2204f670-e1ca-11f1-b8c8-67fa35f5afdb.jpg",
+   "published": "2026-11-16T14:51:34+00:00"
+  },
+  {
+   "title": "Rusya: Putin-Trump-Şi zirvesi büyük önem taşıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/rusya-putin-trump-si-zirvesi-buyuk-onem-tasiyor/4126885",
+   "summary": "Kremlin Dış Politika Danışmanı Yuriy Uşakov, Rusya, ABD ve Çin liderlerinin 19 Kasım'da Çin'de ilk kez üçlü formatta gerçekleştireceği görüşmenin büyük önem taşıdığını belirtti.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:50:54+00:00"
+  },
+  {
+   "title": "İşgalci İsrail, 2026'da Batı Şeria'da 100'den fazla yasa dışı yerleşim birimi ve çiftlik kurdu",
+   "link": "https://www.trthaber.com/haber/dunya/isgalci-israil-2026da-bati-seriada-100den-fazla-yasa-disi-yerlesim-birimi-ve-ciftlik-kurdu-963446.html",
+   "summary": "İşgalci İsrail Başbakanı Binyamin Netanyahu hükümetinin, 2026'nın başından bu yana Batı Şeria'da Filistinlilerin topraklarını gasbederek 100'den fazla yasa dışı yerleşim ve çiftlik kurduğu duyuruldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:49:00+00:00"
+  },
+  {
+   "title": "Tesla, Almanya'daki fabrikasına 3 milyar avroluk yatırım yapacak",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tesla-almanyadaki-fabrikasina-3-milyar-avroluk-yatirim-yapacak/4126880",
+   "summary": "Tesla, yerel otomobil üreticilerinin yüksek maliyetler ve düşük taleple mücadele ettiği bir dönemde, Almanya'nın başkenti Berlin yakınlarındaki Grünheide fabrikasını genişletmek için 3 milyar avro yatırım yapacağını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:42:25+00:00"
+  },
+  {
+   "title": "409 internet sitesine erişim engeli",
+   "link": "https://www.trthaber.com/haber/turkiye/409-internet-sitesine-erisim-engeli-963444.html",
+   "summary": "Ankara İl Jandarma Komutanlığınca yürütülen sanal devriye faaliyetlerinde 409 internet sitesine erişim engellendi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:40:00+00:00"
+  },
+  {
+   "title": "Katil İsrail'in Gazze'ye düzenlediği saldırılarda son 24 saatte 3 kişi hayatını kaybetti",
+   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-son-24-saatte-3-kisi-hayatini-kaybetti-963443.html",
+   "summary": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 3 Filistinli yaşamını yitirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:34:00+00:00"
+  },
+  {
+   "title": "COP31'de \"Yarını Tasarlayanlar\" paneli düzenlendi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-yarini-tasarlayanlar-paneli-duzenlendi/4126868",
+   "summary": "Sanayi ve Teknoloji Bakan Yardımcısı Kasım Gönüllü, Türkiye'nin 2053 net sıfır emisyon hedefi doğrultusunda sanayide yeşil dönüşüm yatırımlarını hızlandırdıklarını bildirdi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:32:45+00:00"
+  },
+  {
+   "title": "Beyoğlu Belediyesi Başkanvekili CHP'den istifa etti",
+   "link": "https://www.trthaber.com/haber/turkiye/beyoglu-belediyesi-baskanvekili-chpden-istifa-etti-963442.html",
+   "summary": "Beyoğlu Belediyesi Başkanvekili Sefer Karaahmetoğlu, Cumhuriyet Halk Partisi CHP üyeliğinden istifa etti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:23:00+00:00"
+  },
+  {
+   "title": "ABD'nin BM Daimi Temsilcisi Waltz, Lübnan'da Hizbullah'ın silah bırakması gerektiğini belirtti",
+   "link": "https://www.aa.com.tr/tr/dunya/abdnin-bm-daimi-temsilcisi-waltz-lubnanda-hizbullahin-silah-birakmasi-gerektigini-belirtti/4126840",
+   "summary": "ABD'nin Birleşmiş Milletler (BM) Daimi Temsilcisi Mike Waltz, hiçbir ülkede iki ordu bulunamayacağını belirterek Lübnan'daki Hizbullah'ın gönüllü olarak silahsızlanması gerektiğini söyledi.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T14:20:19+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan, Sezai Karakoç'u andı",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-sezai-karakocu-andi-963440.html",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, 16 Kasım 2021'de vefat eden şair, yazar ve fikir insanı Sezai Karakoç'u andı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T14:06:00+00:00"
+  },
+  {
+   "title": "Sanayide düşük karbonlu projeleri destekleyecek ITA Türkiye Proje Hızlandırma Programı başlatıldı",
+   "link": "https://www.aa.com.tr/tr/dunya/sanayide-dusuk-karbonlu-projeleri-destekleyecek-ita-turkiye-proje-hizlandirma-programi-baslatildi/4126821",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, ITA Türkiye Proje Hızlandırma Programı'nın, emisyon azaltımı sağlama potansiyeline sahip, erken aşamadaki ve ticari ölçekli projeleri destekleyeceğini belirtti.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T14:03:00+00:00"
+  },
+  {
+   "title": "İngiltere Dışişleri Bakanı Miliband, Brexit anlaşmasının ekonomiye zarar verdiğini belirtti",
+   "link": "https://www.aa.com.tr/tr/dunya/ingiltere-disisleri-bakani-miliband-brexit-anlasmasinin-ekonomiye-zarar-verdigini-belirtti/4126792",
+   "summary": "İngiltere Dışişleri Bakanı Ed Miliband, ülkesinin Avrupa Birliği'nden (AB) ayrılmasının (Brexit) ekonomik açıdan beklenen faydaları sağlamadığını belirterek, mevcut Brexit anlaşmasının iyi bir anlaşma olmadığını söyledi.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T13:49:43+00:00"
+  },
+  {
+   "title": "Altın fiyatlarında son durum",
+   "link": "https://www.trthaber.com/haber/ekonomi/altin-fiyatlarinda-son-durum-963439.html",
+   "summary": "Borsa İstanbul Kıymetli Madenler ve Kıymetli Taşlar Piyasası'nda KMKTP standart altının kilogram fiyatı, günün sonunda 6 milyon 313 bin liraya geriledi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T13:41:00+00:00"
+  },
+  {
+   "title": "Arap Koalisyonu: Husilerin Mekke ve Riyad bölgelerine İHA saldırısı engellendi",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-mekke-ve-riyad-bolgelerine-iha-saldirisi-engellendi/4126782",
+   "summary": "Yemen'deki meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, İran destekli Husilerin 2 insansız hava aracıyla (İHA) Mekke ve başkent Riyad bölgelerine yönelik düzenlediği saldırının…",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T13:38:52+00:00"
+  },
+  {
+   "title": "Brüksel'de farelerle mücadele için gelincik ve köpek kullanılıyor",
+   "link": "https://www.trthaber.com/haber/dunya/brukselde-farelerle-mucadele-icin-gelincik-ve-kopek-kullaniliyor-963437.html",
+   "summary": "Belçika'nın başkenti Brüksel'de fare sorununa çözüm bulmak amacıyla gelincik ve köpeklerin kullanıldığı pilot uygulamanın ilk çalışmasında 97 fare itlaf edildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T13:35:00+00:00"
+  },
+  {
+   "title": "İletişim Başkanı Duran: İsrail'in yalan makinesine karşı amansız bir mücadele verdik",
+   "link": "https://www.trthaber.com/haber/gundem/iletisim-baskani-duran-israilin-yalan-makinesine-karsi-amansiz-bir-mucadele-verdik-963438.html",
+   "summary": "İletişim Başkanı Burhanettin Duran, \"İsrail yönetiminin gerçeklerle yüzleşmek yerine Sayın Cumhurbaşkanı'mızı hedef alması, içine düştüğü acziyetin çok açık bir göstergesidir\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T13:33:00+00:00"
+  },
+  {
+   "title": "Bakan Fidan, Brüksel'de Yunan mevkidaşı Gerapetritis ile görüştü",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-brukselde-yunan-mevkidasi-gerapetritis-ile-gorustu-963436.html",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Avrupa Birliği Dış İlişkiler Konseyi kapsamında Brüksel'de düzenlenen Bölgelerarası Güvenlik ve Bağlantısallık Konulu İkinci Bakanlar Toplantısı marjında Yunanistan Dışişleri Bakanı Giorgos…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T13:31:00+00:00"
+  },
+  {
+   "title": "Bakan Fidan, Brüksel'de Maltalı mevkidaşı Fearne ile görüştü",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-brukselde-maltali-mevkidasi-fearne-ile-gorustu-963435.html",
+   "summary": "Dışişleri Bakanı Hakan Fidan, Brüksel'de Malta Dışişleri ve Avrupa İşleri Bakanı Chris Fearne ile bir araya geldi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T13:27:00+00:00"
+  },
+  {
+   "title": "Gabon Çevre Bakanı, Afrika'da iklim taahhütlerinin hayata geçirilmesini istedi",
+   "link": "https://www.aa.com.tr/tr/dunya/gabon-cevre-bakani-afrikada-iklim-taahhutlerinin-hayata-gecirilmesini-istedi/4126758",
+   "summary": "Gabon Çevre ve İklim Bakanı Stanislas Stephen Mouba Olouna, Paris İklim Anlaşması'nın üstünden 10 yılı aşkın süre geçmesine rağmen Afrika ülkelerinin uluslararası iklim taahhütlerinin sahada somut sonuçlar vermesini…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T13:26:44+00:00"
+  },
+  {
+   "title": "ECB ve Fed'den yapay zekanın finansal istikrarı bozabileceği uyarısı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ecb-ve-fedden-yapay-zekanin-finansal-istikrari-bozabilecegi-uyarisi/4126742",
+   "summary": "Avrupa Merkez Bankası (ECB) ve ABD Merkez Bankası (Fed) yetkilileri, yapay zekanın hızlı gelişiminin piyasalarda sürü davranışına, manipülasyona ve siber saldırılara yol açarak finansal istikrarı bozabileceği uyarısında…",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T13:19:23+00:00"
+  },
+  {
+   "title": "COP31 Müzakereler Başkanı Bowen, müzakerelerin \"yapıcı bir yaklaşımla\" ilerlediğini bildirdi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/cop31-muzakereler-baskani-bowen-muzakerelerin-yapici-bir-yaklasimla-ilerledigini-bildirdi/4126727",
+   "summary": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) Müzakereler Başkanı ve Avustralya İklim Değişikliği ve Enerji Bakanı Chris Bowen, zirve kapsamındaki iklim müzakerelerinin oldukça \"yapıcı bir…",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T13:08:30+00:00"
+  },
+  {
+   "title": "Bolu Dağı'nda zorunlu kış lastiği denetimi yapıldı",
+   "link": "https://www.trthaber.com/haber/turkiye/bolu-daginda-zorunlu-kis-lastigi-denetimi-yapildi-963434.html",
+   "summary": "D100 kara yolunun Bolu Dağı geçişinde şehirler arası yük ve yolcu taşıyan ticari araçlara yönelik zorunlu kış lastiği uygulaması kapsamında denetim gerçekleştirildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T13:08:00+00:00"
+  },
+  {
+   "title": "Gaziantep FK Volkan Demirel ile 1,5 yıllık sözleşme imzaladı",
+   "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-volkan-demirel-ile-1-5-yillik-sozlesme-imzaladi/4126718",
+   "summary": "Trendyol Süper Lig ekiplerinden Gaziantep FK, teknik direktör Volkan Demirel ile 1 yılı opsiyonlu 1,5 yıllık sözleşme imzaladı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-16T13:04:52+00:00"
+  },
+  {
+   "title": "60 saniyede ekonomide bugün (16 Kasım 2026)",
+   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-16-kasim-2026/4126707",
+   "summary": "60 Saniyede Ekonomide Bugün... Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T12:58:52+00:00"
+  },
+  {
+   "title": "Finlandiya Cumhurbaşkanı Stubbdan Türkiyenin Avrupa güvenliğindeki rolüne vurgu",
+   "link": "https://www.trthaber.com/haber/dunya/finlandiya-cumhurbaskani-stubbdan-turkiyenin-avrupa-guvenligindeki-rolune-vurgu-963431.html",
+   "summary": "Finlandiya Cumhurbaşkanı Alexander Stubb, Türkiyenin Avrupa güvenliğinin önemli bir aktörü ve vazgeçilmez bir NATO müttefiki olduğunu vurgulayarak, ortak çıkarların bulunduğu alanlarda işbirliğinin derinleştirilmesi…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T12:42:00+00:00"
+  },
+  {
+   "title": "İtalya'da bazı okullara yeniden bomba ve zehirleme tehdidi içeren epostalar gönderildi",
+   "link": "https://www.trthaber.com/haber/dunya/italyada-bazi-okullara-yeniden-bomba-ve-zehirleme-tehdidi-iceren-e-postalar-gonderildi-963430.html",
+   "summary": "İtalya'da geçen hafta binlerce okula gönderilen ve asılsız olduğu belirlenen bomba ihbarı epostalarının ardından bugün de bazı okullara benzer tehdit içerikli epostalar gönderildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T12:41:00+00:00"
+  },
+  {
+   "title": "Bakan Kacır: COP31'in bir uygulama COP'u olmasını önemsiyoruz",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kacir-cop31in-bir-uygulama-copu-olmasini-onemsiyoruz-963432.html",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, \"Bizler COP31'in bir uygulama COP'u olmasını önemsiyoruz. Yani sadece hedeflerin ve programların değil, doğrudan uygulama adımlarının da hayata geçmesine vesile olan bir…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T12:39:00+00:00"
+  },
+  {
+   "title": "Bakan Kacır, COP31'de \"Bilim, Sanayi ve Teknoloji Günü\"nü değerlendirdi",
+   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-cop31de-bilim-sanayi-ve-teknoloji-gununu-degerlendirdi/4126670",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Antalya'daki Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nın (COP31) Bilim, Sanayi ve Teknoloji Günü kapsamında değerlendirmede bulundu.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T12:36:37+00:00"
+  },
+  {
+   "title": "Ürdün'den sonra Irak da Telegram'ı yasakladı",
+   "link": "https://www.aa.com.tr/tr/dunya/urdunden-sonra-irak-da-telegrami-yasakladi/4126665",
+   "summary": "Ürdün'ün ardından Irak'ta da ulusal güvenliği koruma gerekçesiyle sosyal medya platformu Telegram'a erişim engeli getirilmesi kararı alındı.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T12:32:23+00:00"
+  },
+  {
+   "title": "AB: Rusya-Ukrayna barış müzakerelerine ev sahipliği yapmaya hazırız",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-rusya-ukrayna-baris-muzakerelerine-ev-sahipligi-yapmaya-haziriz/4126642",
+   "summary": "Avrupa Birliği (AB), Rusya-Ukrayna barış müzakerelerine ev sahipliği yapmaya ve görüşmelerin çok taraflı formatta sürdürülmesine hazır olduklarını bildirdi.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T12:21:59+00:00"
+  },
+  {
+   "title": "Beytüllahim Rum Ortodoks Kilisesi Papazı Thaljieh: ABD, Filistinli olduğum için vize vermeyi reddetti",
+   "link": "https://www.aa.com.tr/tr/dunya/beytullahim-rum-ortodoks-kilisesi-papazi-thaljieh-abd-filistinli-oldugum-icin-vize-vermeyi-reddetti/4126640",
+   "summary": "Beytüllahim kentindeki Rum Ortodoks Kilisesi Papazı İsa Thaljieh, ABD'ye vize başvurusunun neden reddedildiğine ilişkin olarak, \"Bence başvurumun reddedilmesinin nedeni Filistinli olmam ve bu kutsal topraklarda yaşıyor…",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T12:20:31+00:00"
+  },
+  {
+   "title": "10. İstanbul Ekonomi Zirvesi \"AB ile Ekonomik İlişkilerde Yeni Dönem\" temasıyla gerçekleştirilecek",
+   "link": "https://www.aa.com.tr/tr/ekonomi/10-istanbul-ekonomi-zirvesi-ab-ile-ekonomik-iliskilerde-yeni-donem-temasiyla-gerceklestirilecek/4126639",
+   "summary": "10. İstanbul Ekonomi Zirvesi, \"AB ile Ekonomik İlişkilerde Yeni Dönem\" temasıyla 10-11 Aralık'ta katılımcıları bir araya getirecek.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T12:20:27+00:00"
+  },
+  {
+   "title": "İsrail askerlerince alıkonulan Lübnanlı gençlerin babası Hamdan: Beni kimsesiz bıraktılar",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-askerlerince-alikonulan-lubnanli-genclerin-babasi-hamdan-beni-kimsesiz-biraktilar/4126631",
+   "summary": "Lübnan'ın güneyindeki Şeba beldesinde İsrail askerleri tarafından 3 oğlu alıkonulan Faris Hamdan, çocuklarının serbest bırakılmasını isteyerek, \"İlk oğlum için hala ağlıyordum, şimdi ikisi daha götürüldü. Beni kimsesiz…",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T12:16:50+00:00"
+  },
+  {
+   "title": "İklim değişikliği don riskini artırıyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/iklim-degisikligi-don-riskini-artiriyor/4126628",
+   "summary": "Prof. Dr. Elman Bahar, iklim değişikliğine bağlı don olaylarının alışılmış mevsimlerin dışında ve daha önce risk taşımayan bölgelerde görülmeye başlandığını belirterek, bu durumun meyve üretiminde kayıplara yol…",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T12:16:01+00:00"
+  },
+  {
+   "title": "Babacan'dan fon krizi yorumu: 'Tarihin en büyük dolandırıcılık vakası'",
+   "link": "https://www.bbc.com/turkce/articles/cme87n2yjr86o?at_medium=RSS&at_campaign=rss",
+   "summary": "DEVA Partisi Genel Başkanı Ali Babacan, en az dört yıldır sürdüğünü belirttiği fon dolandırıcılığının siyasi ve bürokratik destek olmadan gerçekleşmesinin mümkün olmadığını savundu. Babacan, dolandırıcılığa konu…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/59f3/live/608b02e0-e1b1-11f1-a094-5fdc692f3e33.jpg",
+   "published": "2026-11-16T12:04:01+00:00"
+  },
+  {
+   "title": "AB, Rusya'ya yönelik yaptırım listesini genişletti",
+   "link": "https://www.trthaber.com/haber/dunya/ab-rusyaya-yonelik-yaptirim-listesini-genisletti-963429.html",
+   "summary": "Avrupa Birliği AB, Rusya'nın Ukrayna ile savaşını finanse etmesine katkı sağladıkları gerekçesiyle 12 kişi ve 101 kuruluşa yaptırım uygulama kararı aldı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T12:04:00+00:00"
+  },
+  {
+   "title": "Rekabet Kurulu'ndan Siemens'e soruşturma",
+   "link": "https://www.trthaber.com/haber/ekonomi/rekabet-kurulundan-siemense-sorusturma-963428.html",
+   "summary": "Rekabet Kurulu, Siemens Aktiengesellschaft, Siemens Beteiligungen Europa GmbH ve Siemens Industry Software Yazılım Hizmetleri AŞ'den oluşan ekonomik bütünlük, Siemens'in distribütörü Boğaziçi Yazılım AŞ ile bu şirketin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T11:59:00+00:00"
+  },
+  {
+   "title": "İsrail ordusu, Batı Şeria'nın El Halil kentinde biri gazeteci 11 Filistinliyi gözaltına aldı",
+   "link": "https://www.aa.com.tr/tr/dunya/israil-ordusu-bati-serianin-el-halil-kentinde-biri-gazeteci-11-filistinliyi-gozaltina-aldi/4126569",
+   "summary": "İsrail ordusu, işgal altındaki Batı Şeria'nın güneyindeki El Halil kentindeki iki beldede Filistinlilerin evlerine düzenlediği baskınlarda biri gazeteci 11 kişiyi gözaltına aldı.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T11:56:25+00:00"
+  },
+  {
+   "title": "AB, Rusya bağlantılı dezenformasyon ve siber faaliyetler nedeniyle 30 kişi ve 2 kuruluşa yaptırım uyguladı",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-rusya-baglantili-dezenformasyon-ve-siber-faaliyetler-nedeniyle-30-kisi-ve-2-kurulusa-yaptirim-uyguladi/4126565",
+   "summary": "Avrupa Birliği (AB), Rusya bağlantılı bilgi manipülasyonu, müdahale ve kötü niyetli siber faaliyetler nedeniyle 30 kişi ve 2 kuruluşu yaptırım listesine aldı.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T11:52:30+00:00"
+  },
+  {
+   "title": "Erdemir, yeşil dönüşümle stratejik bir fırsat yakalamaya hazırlanıyor",
+   "link": "https://www.aa.com.tr/tr/ekonomi/erdemir-yesil-donusumle-stratejik-bir-firsat-yakalamaya-hazirlaniyor/4126563",
+   "summary": "ERDEMİR Genel Müdürü Şaban Yazıcı, \"Hedefimiz, yalnızca değişen koşullara uyum sağlayan değil, geliştirdiği teknolojiler ve ortaya koyduğu üretim gücüyle sanayinin dönüşümünde etkin rol üstlenen bir Erdemir.\" dedi.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T11:48:41+00:00"
+  },
+  {
+   "title": "Rusya: Ukrayna'da geçici ateşkes yerine yıllarca sürecek barış istiyoruz",
+   "link": "https://www.trthaber.com/haber/dunya/rusya-ukraynada-gecici-ateskes-yerine-yillarca-surecek-baris-istiyoruz-963427.html",
+   "summary": "Kremlin Sözcüsü Dmitriy Peskov, Ukrayna'da geçici ateşkes yerine yıllarca sürecek barış istediklerini belirterek, \"Müzakere süreci ise bizi bu barışa götürmesi gereken bir süreçtir.\" dedi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T11:43:00+00:00"
+  },
+  {
+   "title": "Cumhurbaşkanı Erdoğan: Bugün dünyada artık Türkiye konuşuluyor",
+   "link": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-bugun-dunyada-artik-turkiye-konusuluyor-963424.html",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, AK Parti Gençlik Kolları Üniversiteli Gençlik Buluşması'nda konuştu. Cumhurbaşkanı Erdoğan, \"Bugün dünyada artık Türkiye konuşuluyor. Türkiye'nin içerde ve dışarda yaptığı hamleler…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T11:41:00+00:00"
+  },
+  {
+   "title": "BM'den, \"otonom silah sistemlerinin kullanımı ve yayılmasını önlemek için harekete geçme\" çağrısı",
+   "link": "https://www.aa.com.tr/tr/dunya/bmden-otonom-silah-sistemlerinin-kullanimi-ve-yayilmasini-onlemek-icin-harekete-gecme-cagrisi/4126542",
+   "summary": "Birleşmiş Milletler (BM) Genel Sekreteri Antonio Guterres, otonom silah sistemlerinin kullanımını ve yayılmasını önlemek için acilen harekete geçme çağrısında bulundu.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T11:39:40+00:00"
+  },
+  {
+   "title": "Fransız bakandan Ukrayna'da Rus talimatlarına uymanın Avrupa güvenlik mimarisini çökertebileceği uyarısı",
+   "link": "https://www.aa.com.tr/tr/dunya/fransiz-bakandan-ukraynada-rus-talimatlarina-uymanin-avrupa-guvenlik-mimarisini-cokertebilecegi-uyarisi/4126541",
+   "summary": "Fransa Dışişleri Bakanı Jean-Noel Barrot, Ukrayna'nın geleceği konusunda Rusya'nın talimatlarına uymanın Avrupa'da İkinci Dünya Savaşı sonunda inşa edilen güvenlik mimarisini çökme riskiyle karşı karşıya bırakabileceği…",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T11:39:36+00:00"
+  },
+  {
+   "title": "İsrail'de Netanyahu'ya 'sahte seçim hırsızlığı ihbarı' suçlaması: 'Bu bir darbe girişimiydi'",
+   "link": "https://www.bbc.com/turkce/articles/ckr5g6207ezro?at_medium=RSS&at_campaign=rss",
+   "summary": "İsrail Başbakanı Binyamin Netanyahu'nun ofisinin, geçen ayki genel seçimlerden önce İsrailli Arapların oy verdiği bir partinin üyelerini, seçim yolsuzluğu iddiasına dayanak yapmak için tutuklatmaya çalıştığı iddia…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/716c/live/f74944a0-e1aa-11f1-b89e-033edd7e6cd1.jpg",
+   "published": "2026-11-16T11:36:21+00:00"
+  },
+  {
+   "title": "Gençlik ve Spor Bakanı Bak: Spor yapan bir gençlik istiyoruz",
+   "link": "https://www.aa.com.tr/tr/spor/genclik-ve-spor-bakani-bak-spor-yapan-bir-genclik-istiyoruz/4126535",
+   "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, \"Amacımız gençlerimizin sporla bir arada olması. Sporun iyileştirici ve birleştirici gücüyle beraber sporun tabana yayılmasını arzu ediyoruz. Spor yapan bir gençlik istiyoruz\"…",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-16T11:36:11+00:00"
+  },
+  {
+   "title": "İtalyan bakan, ABD, Rusya ve Çin liderlerinin buluşmasından somut sonuçlar çıkacağına inanmıyor",
+   "link": "https://www.aa.com.tr/tr/dunya/italyan-bakan-abd-rusya-ve-cin-liderlerinin-bulusmasindan-somut-sonuclar-cikacagina-inanmiyor/4126532",
+   "summary": "İtalya Başbakan Yardımcısı ve Dışişleri Bakanı Antonio Tajani, ABD, Rusya ve Çin liderlerinin 19 Kasım'da yapacağı üçlü görüşmeden somut sonuçlar çıkacağına inanmadığını belirtti.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T11:35:07+00:00"
+  },
+  {
+   "title": "Yemen'de Husilerin Aden'e yaklaşması Taiz ve Babulmendeb cephelerindeki dengeleri değiştirdi",
+   "link": "https://www.aa.com.tr/tr/dunya/yemende-husilerin-adene-yaklasmasi-taiz-ve-babulmendeb-cephelerindeki-dengeleri-degistirdi/4126526",
+   "summary": "Yemen'de İran destekli Husilerin eylül ayından bu yana ülkenin batı kıyısı ve güneyindeki ilerleyişi, Taiz, Babulmendeb ve Aden çevresindeki cephelerde askeri dengeleri değiştirdi.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T11:26:46+00:00"
+  },
+  {
+   "title": "Şanlıurfa ve Hakkari'de 566 kilo uyuşturucu ele geçirildi",
+   "link": "https://www.trthaber.com/haber/turkiye/sanliurfa-ve-hakkaride-566-kilo-uyusturucu-ele-gecirildi-963425.html",
+   "summary": "İçişleri Bakanlığı'ndan yapılan açıklamada Şanlıurfa ve Hakkari'de jandarma ekiplerince düzenlenen operasyonlarda 566 kilogram uyuşturucu madde ele geçirildiği belirtildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T11:21:00+00:00"
+  },
+  {
+   "title": "Milli bocceciler Mine Türker ile Burak Altay, dünya 3'üncüsü oldu",
+   "link": "https://www.aa.com.tr/tr/spor/milli-bocceciler-mine-turker-ile-burak-altay-dunya-3uncusu-oldu/4126509",
+   "summary": "Dünya Erkekler ve Karma Volo Şampiyonası'na katılan milli bocceciler Mine Türker ile Burak Altay, karışık röle kategorisinde bronz madalya kazandı.",
+   "source": "AA",
+   "category": "Spor",
+   "image": null,
+   "published": "2026-11-16T11:10:06+00:00"
+  },
+  {
+   "title": "80 yaşında ölen 'patronların patronu' uyuşturucu baronu Gallardo'nun sıradışı hayatı",
+   "link": "https://www.bbc.com/turkce/articles/cqj9m00mz8vvo?at_medium=RSS&at_campaign=rss",
+   "summary": "'Patronların Patronu' olarak bilinen Miguel Angel Felix Gallardo, Kolombiya kartelleriyle ortaklık kurarak, And Dağları'ndaki üretimi Meksika sınırından ABD'ye taşıdı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg",
+   "published": "2026-11-16T11:05:15+00:00"
+  },
+  {
+   "title": "Bakan Kacır, Bakan Kurum'a Etkinlik Sürdürülebilirliği Yönetim Sistemi Belgesi takdim etti",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-kacir-bakan-kuruma-etkinlik-surdurulebilirligi-yonetim-sistemi-belgesi-takdim-etti-963423.html",
+   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum'a, Türkiye'nin ilk \"Etkinlik Sürdürülebilirliği Yönetim Sistemi Belgesi\"ni takdim etti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T11:00:00+00:00"
+  },
+  {
+   "title": "Türk Telekom'un dijital altyapısını üstlendiği COP31'de eş zamanlı bağlı cihaz rekoru kırıldı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/turk-telekomun-dijital-altyapisini-ustlendigi-cop31de-es-zamanli-bagli-cihaz-rekoru-kirildi/4126498",
+   "summary": "Türk Telekom'un \"Küresel Dijital Dönüşüm ve Teknoloji Destekçisi\" olarak yer aldığı COP31'de, Mavi Bölge'de eş zamanlı bağlı cihaz sayısı 27 bin 794'e ulaşarak, COP organizasyonları tarihindeki en yüksek seviyeye çıktı.",
+   "source": "AA",
+   "category": "Ekonomi",
+   "image": null,
+   "published": "2026-11-16T10:59:25+00:00"
+  },
+  {
+   "title": "İstanbul için sağanak uyarısı",
+   "link": "https://www.trthaber.com/haber/turkiye/istanbul-icin-saganak-uyarisi-963422.html",
+   "summary": "İstanbul Valiliği, yarın kentte sağanağın etkili olacağını belirterek, vatandaşlara dikkatli olmaları uyarısında bulundu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T10:42:00+00:00"
+  },
+  {
+   "title": "Norveç: Kuş gribi salgını yumurta ve tavuk kıtlığına neden olabilir",
+   "link": "https://www.trthaber.com/haber/dunya/norvec-kus-gribi-salgini-yumurta-ve-tavuk-kitligina-neden-olabilir-963421.html",
+   "summary": "Norveç Gıda Güvenliği Kurumu, kuş gribinin yaygınlaşmasının yumurta ve tavuk kıtlığına yol açabileceğini belirtti.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T10:42:00+00:00"
+  },
+  {
+   "title": "Filistin'den uluslararası topluma Gazze'ye yardımların ulaştırılması için İsrail'e baskı yapılması çağrısı",
+   "link": "https://www.trthaber.com/haber/dunya/filistinden-uluslararasi-topluma-gazzeye-yardimlarin-ulastirilmasi-icin-israile-baski-yapilmasi-cagrisi-963420.html",
+   "summary": "Filistin hükümeti, Gazze Şeridi'ndeki sınır kapılarının açılması, insani yardımların ve barınma malzemelerinin bölgeye girişine izin verilmesi için uluslararası topluma soykırımcı İsrail'e acilen baskı yapması…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T10:42:00+00:00"
+  },
+  {
+   "title": "Yapay zeka destekli çocuk istismarı materyali ihbarları yüzde 8 bin 400'den fazla arttı",
+   "link": "https://www.trthaber.com/haber/dunya/yapay-zeka-destekli-cocuk-istismari-materyali-ihbarlari-yuzde-8-bin-400den-fazla-artti-963418.html",
+   "summary": "Yapay zeka bağlantılı çocuk cinsel istismarı materyali ihbarları, 20232025 döneminde yüzde 8 bin 400'ün üzerinde artarken dünya genelinde bir yılda 300 milyondan fazla çocuğun teknoloji aracılığıyla cinsel istismara…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T10:40:00+00:00"
+  },
+  {
+   "title": "AB Komisyonu Üyesi Lahbib: İnsani yardım tek başına Suriye'de istikrar sağlayamaz",
+   "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonu-uyesi-lahbib-insani-yardim-tek-basina-suriyede-istikrar-saglayamaz/4126468",
+   "summary": "Avrupa Birliği (AB) Komisyonunun Eşitlik, Hazırlıklılık ve Kriz Yönetiminden Sorumlu Üyesi Hadja Lahbib, \"İnsani yardım tek başına Suriye'de istikrar sağlayamaz. İşbirliğine ve kalkınmaya yatırım yapmalıyız.\" dedi.",
+   "source": "AA",
+   "category": "Dünya",
+   "image": null,
+   "published": "2026-11-16T10:38:11+00:00"
+  },
+  {
+   "title": "Ziraat Bankası, COP31’de 2 milyar dolarlık sürdürülebilirlik odaklı finansmana imza attı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/ziraat-bankasi-cop31-de-2-milyar-dolarlik-surdurulebilirlik-odakli-finansmana-imza-atti/4126456",
+   "summary": "Ziraat Bankası, COP31 kapsamında uluslararası finans kuruluşlarıyla gerçekleştirdiği yeni işbirlikleri ile 2 milyar dolar karşılığı sürdürülebilir kalkınma odaklı finansman anlaşmalarına imza attı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-16T10:29:56+00:00"
   },
   {
    "title": "AB Komisyonu Başkanı von der Leyen’den aday ülkelere \"reform karşılığında aşamalı bütünleşme\" mesajı",
    "link": "https://www.aa.com.tr/tr/dunya/ab-komisyonu-baskani-von-der-leyen-den-aday-ulkelere-reform-karsiliginda-asamali-butunlesme-mesaji/4126451",
    "summary": "Von der Leyen, aday ülkelerin temel reformları gerçekleştirmeleri karşılığında tek pazarın belirli sektörlerine üyelik öncesinde aşamalı erişim sağlanmasını öngören yaklaşımla, bütünleşmenin faydalarını daha erken…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-16T10:27:39+00:00"
   },
   {
-   "title": "Türk tiyatro sahnesinde iz bırakan usta oyuncu: Yıldız Kenter",
-   "link": "https://www.aa.com.tr/tr/kultur/turk-tiyatro-sahnesinde-iz-birakan-usta-oyuncu-yildiz-kenter/4126424",
-   "summary": "Yaşamını tiyatroya adayan, sahnedeki güçlü yorumunun yanı sıra oyuncu yetiştirme, yönetmenlik ve tiyatro kuruculuğuyla da Türk sanat hayatında iz bırakan Yıldız Kenter'in vefatının ardından 7 yıl geçti.",
-   "source": "AA",
+   "title": "Güney Kore'de, 75 yıl önce savaşta ölen askerin kalıntıları ailesine teslim edildi",
+   "link": "https://www.trthaber.com/haber/dunya/guney-korede-75-yil-once-savasta-olen-askerin-kalintilari-ailesine-teslim-edildi-963419.html",
+   "summary": "Güney Kore'de, Kore Savaşı'nda hayatını kaybeden bir askerin kalıntılarının 75 yılın ardından ailesine teslim edildiği bildirildi.",
+   "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
-   "published": "2026-11-16T10:14:24+00:00"
+   "published": "2026-11-16T10:19:00+00:00"
   },
   {
-   "title": "Bahçelievler Belediye Meclisi'nde 15 Temmuz'a \"tiyatro\" dedikleri iddia edilen 2 meclis üyesine dava",
-   "link": "https://www.aa.com.tr/tr/gundem/bahcelievler-belediye-meclisinde-15-temmuza-tiyatro-dedikleri-iddia-edilen-2-meclis-uyesine-dava/4126402",
-   "summary": "",
-   "source": "AA",
+   "title": "ASELSAN, Yeşil Dönüşüm Merkezi Belgesi alan ilk savunma sanayisi şirketi oldu",
+   "link": "https://www.trthaber.com/haber/savunma/aselsan-yesil-donusum-merkezi-belgesi-alan-ilk-savunma-sanayisi-sirketi-oldu-963417.html",
+   "summary": "Yüksek teknoloji üretimini çevresel sürdürülebilirlik hedefleriyle birleştiren ASELSAN, yeşil dönüşüm alanındaki çalışmalarına bir yenisini daha ekledi.",
+   "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
-   "published": "2026-11-16T09:59:27+00:00"
-  },
-  {
-   "title": "Yazar ve şair Saadettin Acar, Sezai Karakoç'un geride bıraktığı mirası anlattı",
-   "link": "https://www.aa.com.tr/tr/kultur/yazar-ve-sair-saadettin-acar-sezai-karakocun-geride-biraktigi-mirasi-anlatti/4126401",
-   "summary": "Saadettin Acar, \"Bütün şöhretine rağmen Sezai Karakoç'un hakkıyla ve tam olarak anlaşılabildiğini düşünmüyorum açıkçası. \" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T09:59:09+00:00"
+   "published": "2026-11-16T10:17:00+00:00"
   },
   {
    "title": "Basketbol Avrupa Ligi'nde \"çift maç haftası\" heyecanı",
    "link": "https://www.aa.com.tr/tr/spor/basketbol-avrupa-liginde-cift-mac-haftasi-heyecani/4126395",
    "summary": "Basketbol Avrupa Ligi'nde (EuroLeague) bu sezon 4. kez çift maç haftası heyecanı yaşanacak.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-16T09:52:35+00:00"
   },
@@ -74,29 +1001,20 @@
    "published": "2026-11-16T09:52:00+00:00"
   },
   {
-   "title": "Ortak Yazılı Sınav Sistemi'nin \"Analiz ve Raporlama\" modülü erişime açıldı",
-   "link": "https://www.aa.com.tr/tr/gundem/ortak-yazili-sinav-sisteminin-analiz-ve-raporlama-modulu-erisime-acildi/4126386",
-   "summary": "Milli Eğitim Bakanlığınca (MEB) geliştirilen Ortak Yazılı Sınav Sistemi'nin (OYSS) \"Analiz ve Raporlama\" modülü öğretmen, öğrenci ve velilerin erişimine açıldı.",
-   "source": "AA",
+   "title": "Ortak Yazılı Sınav Sistemi'nin Analiz ve Raporlama modülü erişime açıldı",
+   "link": "https://www.trthaber.com/haber/egitim/ortak-yazili-sinav-sisteminin-analiz-ve-raporlama-modulu-erisime-acildi-963415.html",
+   "summary": "Milli Eğitim Bakanlığınca MEB geliştirilen Ortak Yazılı Sınav Sistemi'nin OYSS \"Analiz ve Raporlama\" modülü öğretmen, öğrenci ve velilerin erişimine açıldı.",
+   "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
-   "published": "2026-11-16T09:43:39+00:00"
-  },
-  {
-   "title": "Almanya'da Müslümanların tepkisini çeken afiş kampanyası durduruldu",
-   "link": "https://www.aa.com.tr/tr/dunya/almanyada-muslumanlarin-tepkisini-ceken-afis-kampanyasi-durduruldu/4126367",
-   "summary": "Almanya'nın Bremen eyaletinde Anayasayı Koruma Teşkilatı'nın Müslümanları şüphe altında bıraktığı gerekçesiyle eleştirilen afiş kampanyası, İslami kuruluşların tepkileri üzerine erken sonlandırıldı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T09:28:58+00:00"
+   "published": "2026-11-16T09:34:00+00:00"
   },
   {
    "title": "Milli basketbolcu Ömer Faruk Yurtseven, NBA G League'de 42 sayı kaydetti",
    "link": "https://www.aa.com.tr/tr/spor/milli-basketbolcu-omer-faruk-yurtseven-nba-g-leaguede-42-sayi-kaydetti/4126363",
    "summary": "Amerikan Basketbol Ligi'nin alt organizasyonu G Lig'de (NBA G League) forma giyen milli oyuncu Ömer Faruk Yurtseven, takımı Rio Grande Valley Vipers'ın Texas Legends'ı 105-97 yendiği maçta 42 sayı attı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-16T09:28:16+00:00"
   },
@@ -105,27 +1023,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-yesil-donusum-icin-3-milyar-liralik-yeni-destek-cagrisini-acikladi/4126355",
    "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye Yeşil Sanayi Projesi kapsamında 3 milyar liralık yeni bir destek çağrısı başlattıklarını belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-16T09:23:28+00:00"
-  },
-  {
-   "title": "Siber suçlarla mücadele operasyonlarında 32 şüpheli tutuklandı",
-   "link": "https://www.aa.com.tr/tr/gundem/siber-suclarla-mucadele-operasyonlarinda-32-supheli-tutuklandi/4126347",
-   "summary": "İçişleri Bakanlığı, Emniyet Genel Müdürlüğü ekiplerince siber suçlarla mücadele kapsamında 12 ilde düzenlenen operasyonlarda yakalanan 167 şüpheliden 32'sinin tutuklandığını bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T09:17:31+00:00"
-  },
-  {
-   "title": "İstanbul'da bu hafta birçok etkinlik düzenlenecek",
-   "link": "https://www.aa.com.tr/tr/kultur/istanbulda-bu-hafta-bircok-etkinlik-duzenlenecek/4126339",
-   "summary": "Tiyatro gösterimleri, konserler, sergiler ve çocuk etkinliklerinin yanı sıra festivaller de hafta boyunca sanatseverlerle buluşacak.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T09:12:54+00:00"
   },
   {
    "title": "Bakan Kurum: Türk devletleri arasında yeni bir platform kuruyoruz",
@@ -146,33 +1046,6 @@
    "published": "2026-11-16T09:07:00+00:00"
   },
   {
-   "title": "Down Erişilebilir Kafe, çalışma hayatında fırsat eşitliğine dikkati çekiyor",
-   "link": "https://www.aa.com.tr/tr/gundem/down-erisilebilir-kafe-calisma-hayatinda-firsat-esitligine-dikkati-cekiyor/4126331",
-   "summary": "COP31 kapsamında görev alan Down sendromlu gençler, açtıkları COP Down Erişilebilir Kafe'de yerli ve yabancı ziyaretçilere sosyal hayata katılım ve çalışma hayatında fırsat eşitliğinin önemini gösteriyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T09:06:22+00:00"
-  },
-  {
-   "title": "Guterres'ten çatışmaların sona erdirilmesi ve iklim eyleminin hızlandırılması çağrısı",
-   "link": "https://www.aa.com.tr/tr/dunya/guterresten-catismalarin-sona-erdirilmesi-ve-iklim-eyleminin-hizlandirilmasi-cagrisi/4126330",
-   "summary": "BM Genel Sekreteri Antonio Guterres, dünyanın farklı bölgelerinde devam eden çatışmaların sona erdirilmesi, insani yardımların ihtiyaç sahiplerine ulaştırılması ve iklim değişikliğiyle mücadele için daha hızlı adımlar…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T09:05:17+00:00"
-  },
-  {
-   "title": "ASELSAN ile ROKETSAN 1,3 milyar avroluk sözleşme imzaladı",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/aselsan-ile-roketsan-1-3-milyar-avroluk-sozlesme-imzaladi/4126329",
-   "summary": "ASELSAN ile ROKETSAN arasında füze veri bağı ve arayıcı başlık sistemlerinin tedariki kapsamında toplam tutarı 1,3 milyar avro olan sözleşme imzalandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T09:05:07+00:00"
-  },
-  {
    "title": "Bütçe uygulama sonuçları açıklandı",
    "link": "https://www.trthaber.com/haber/ekonomi/butce-uygulama-sonuclari-aciklandi-963412.html",
    "summary": "Türkiye'nin merkezi yönetim bütçe gelirleri ekimde 1 trilyon 298,3 milyar lira, giderleri 1 trilyon 779,4 milyar lira olarak belirlendi.",
@@ -191,83 +1064,11 @@
    "published": "2026-11-16T08:59:00+00:00"
   },
   {
-   "title": "Fransa'nın başkenti Paris'te bazı okulların çevresinde eylem yasağı",
-   "link": "https://www.aa.com.tr/tr/dunya/fransanin-baskenti-pariste-bazi-okullarin-cevresinde-eylem-yasagi/4126321",
-   "summary": "Fransa'nın başkenti Paris'te bazı lise ve üniversitelerin etrafında toplanmak ve eylem yapmak yasaklandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:58:25+00:00"
-  },
-  {
-   "title": "İsrail'in Gazze'ye saldırılarında 1 kişi hayatını kaybetti, biri çocuk 4 kişi yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-gazzeye-saldirilarinda-1-kisi-hayatini-kaybetti-biri-cocuk-4-kisi-yaralandi/4126318",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyi ve güneyine düzenlediği saldırılarda 1 kişi hayatını kaybetti, biri çocuk, biri kadın olmak üzere 4 kişi yaralandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:57:35+00:00"
-  },
-  {
-   "title": "ABD ve Nijerya'dan yola çıkan 2 LNG gemisi 22 Kasım'a kadar Türkiye'ye gelecek",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ve-nijeryadan-yola-cikan-2-lng-gemisi-22-kasima-kadar-turkiyeye-gelecek/4126313",
-   "summary": "ABD ve Nijerya'dan yola çıkan LNG Sokoto ve Umm Heesh adlı sıvılaştırılmış doğal gaz (LNG) gemilerinin 22 Kasım'a kadar Türkiye'de olması bekleniyor.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:54:05+00:00"
-  },
-  {
-   "title": "Gürbulak Gümrük Kapısı'nda 2 kilo 716 gram uyuşturucu ele geçirildi",
-   "link": "https://www.trthaber.com/haber/turkiye/gurbulak-gumruk-kapisinda-2-kilo-716-gram-uyusturucu-ele-gecirildi-963410.html",
-   "summary": "Ağrı'nın Doğubayazıt ilçesindeki Gürbulak Gümrük Kapısı'nda valiz içerisinde 2 kilo 716 gram uyuşturucu ele geçirildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:50:00+00:00"
-  },
-  {
-   "title": "Altının ons fiyatı Ekim 2025'ten bu yana en düşük seviyesinde",
-   "link": "https://www.trthaber.com/haber/ekonomi/altinin-ons-fiyati-ekim-2025ten-bu-yana-en-dusuk-seviyesinde-963409.html",
-   "summary": "Küresel piyasalarda altının ons fiyatı, artan enflasyon ve önde gelen merkez bankalarının faiz oranlarını yükselteceği beklentisinin yarattığı baskıyla Ekim 2025'ten bu yana en düşük seviyesine geriledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:49:00+00:00"
-  },
-  {
-   "title": "ASELSAN ve ROKETSAN'dan 1,28 milyar euroluk dev anlaşma",
-   "link": "https://www.trthaber.com/haber/ekonomi/aselsan-ve-roketsandan-128-milyar-euroluk-dev-anlasma-963408.html",
-   "summary": "ASELSAN ile ROKETSAN arasında Füze Veri Bağı ve Arayıcı Başlık Sistemlerinin tedariki kapsamında toplam tutarı 1,28 milyar euro olan sözleşmeler imzalandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:44:00+00:00"
-  },
-  {
-   "title": "Ukrayna, Kırım Köprüsü'ne saldırdı",
-   "link": "https://www.trthaber.com/haber/dunya/ukrayna-kirim-koprusune-saldirdi-963407.html",
-   "summary": "Rusya'nın yasa dışı ilhak ettiği Kırım'ın sözde yönetim başkanı Sergey Aksyonov, Ukrayna ordusunun Kırım Köprüsü'ne saldırı düzenlediğini bildirdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:44:00+00:00"
-  },
-  {
-   "title": "Pakistan: Bölgesel işbirliği için Afganistan, komşularının güvenlik endişelerini ele almalı",
-   "link": "https://www.aa.com.tr/tr/dunya/pakistan-bolgesel-isbirligi-icin-afganistan-komsularinin-guvenlik-endiselerini-ele-almali/4126304",
-   "summary": "Pakistan Dışişleri Bakanı Muhammed İshak Dar, bölgesel işbirliği açısından ilerleme kaydedilmesi için Afganistan'ın, terör tehdidi başta olmak üzere komşularının güvenlik endişelerini ele alması​​​​​​​ gerektiğini…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:43:03+00:00"
-  },
-  {
    "title": "Türk iş dünyası COP31 ile karbon ekosistemine entegre oluyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/turk-is-dunyasi-cop31-ile-karbon-ekosistemine-entegre-oluyor/4126303",
    "summary": "SEKA Investment Yönetici Ortağı ve DEİK Türkiye-Arnavutluk İş Konseyi Başkanı Kısakürek, karbon maliyetlerinin belirsizlik oluşturduğunu, şirketlerin COP31'deki katılımdan da görüldüğü üzere bu ekosisteme uyum sağlamaya…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-16T08:42:49+00:00"
   },
@@ -281,40 +1082,13 @@
    "published": "2026-11-16T08:41:26+00:00"
   },
   {
-   "title": "12 ilde siber suç operasyonu: 167 şüpheli yakalandı",
-   "link": "https://www.trthaber.com/haber/gundem/12-ilde-siber-suc-operasyonu-167-supheli-yakalandi-963406.html",
-   "summary": "İçişleri Bakanlığı, 12 il merkezli siber suç operasyonlarında son 5 günde 167 şüphelinin yakalandığını açıkladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:33:00+00:00"
-  },
-  {
-   "title": "AB Yüksek Temsilcisi Kallas, Rusyanın müzakere taleplerini saçma bulduğunu söyledi",
-   "link": "https://www.trthaber.com/haber/dunya/ab-yuksek-temsilcisi-kallas-rusyanin-muzakere-taleplerini-sacma-buldugunu-soyledi-963405.html",
-   "summary": "Avrupa Birliği AB Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, Rusyanın barış müzakerelerindeki taleplerini \"saçma\" olarak nitelendirerek, ABnin karşılığında bir şey almadan adım atmaması ve…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:32:00+00:00"
-  },
-  {
-   "title": "Türkiye, dünyaya iklim diplomasisinde öncülük edebilir",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiye-dunyaya-iklim-diplomasisinde-onculuk-edebilir/4126286",
-   "summary": "AK Parti Genel Başkan Yardımcısı Hasan Basri Yalçın, \"Türkiye bütün bu savaş coğrafyalarında öylesine bir diplomatik repertuvar geliştirdi ki bunun iklim diplomasisi konusunda da dünyaya çok büyük yardımı ve katkısı…",
+   "title": "ASELSAN \"İleri Dönüşen Bir Gelecek\" koleksiyonuyla COP31'de",
+   "link": "https://www.aa.com.tr/tr/ekonomi/aselsan-ileri-donusen-bir-gelecek-koleksiyonuyla-cop31de/4126283",
+   "summary": "ASELSAN, işlevini tamamlamış elektronik ve endüstriyel atıkları sanatla yeniden hayata döndürdüğü \"İleri Dönüşen Bir Gelecek Vizyonu Projesi Sanat Koleksiyonu\"ndan 5 seçkiyi, Birleşmiş Milletler COP31'de sergiliyor.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
-   "published": "2026-11-16T08:31:05+00:00"
-  },
-  {
-   "title": "Ürdün'den \"ulusal güvenliği tehdit\" gerekçesiyle Telegram'a erişim engeli",
-   "link": "https://www.aa.com.tr/tr/dunya/urdunden-ulusal-guvenligi-tehdit-gerekcesiyle-telegrama-erisim-engeli/4126285",
-   "summary": "Ürdün \"aşırılık ve radikalizmin yayılmasında kullanıldığı ve ulusal güvenliği etkileyecek siber suçlara zemin hazırladığı\" gerekçesiyle Telegram uygulamasına erişim engeli getirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:30:50+00:00"
+   "published": "2026-11-16T08:29:14+00:00"
   },
   {
    "title": "BM Çevre Programı'ndan iklim dayanıklılığında \"sigorta\" vurgusu",
@@ -335,67 +1109,13 @@
    "published": "2026-11-16T08:26:28+00:00"
   },
   {
-   "title": "COP31'de çocuklar denge bisikletiyle hem trafiği hem iklimi öğreniyor",
-   "link": "https://www.aa.com.tr/tr/gundem/cop31de-cocuklar-denge-bisikletiyle-hem-trafigi-hem-iklimi-ogreniyor/4126277",
-   "summary": "BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31) kapsamında Türkiye Bisiklet Federasyonu tarafından Gençlik ve Spor Bakanlığının katkılarıyla kurulan parkta, çocuklara denge bisikletiyle trafik ve…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:23:53+00:00"
-  },
-  {
-   "title": "Sağlık Bakanlığının 2027 yılı bütçesi TBMM Plan ve Bütçe Komisyonunda",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanliginin-2027-yili-butcesi-tbmm-plan-ve-butce-komisyonunda/4126267",
-   "summary": "TBMM Plan ve Bütçe Komisyonunda, Sağlık Bakanlığının 2027 yılı bütçesinin görüşmelerine başlandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:19:12+00:00"
-  },
-  {
-   "title": "Camın ateşle dansının ortaya çıkardığı sanatı geleceğe taşımak için çalışıyor",
-   "link": "https://www.aa.com.tr/tr/kultur/camin-atesle-dansinin-ortaya-cikardigi-sanati-gelecege-tasimak-icin-calisiyor/4126264",
-   "summary": "Kültür ve Turizm Bakanlığınca \"cam üfleme sanatçısı\" kartı verilen Fatma Turan'ın hazırladığı eserler yurt içinden ve yurt dışından talep görüyor.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:15:58+00:00"
-  },
-  {
    "title": "FAO'dan tarımda kadın ve gençlerin katılımının artırılması çağrısı",
    "link": "https://www.aa.com.tr/tr/ekonomi/faodan-tarimda-kadin-ve-genclerin-katiliminin-artirilmasi-cagrisi/4126263",
    "summary": "Birleşmiş Milletler (BM) Gıda ve Tarım Örgütü (FAO) Türkiye Temsilci Yardımcısı Dr. Ayşegül Selışık, COP31'de tarım ve gıda sistemlerinde kadınların ve gençlerin daha etkin rol alması gerektiğini söyledi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-16T08:15:52+00:00"
-  },
-  {
-   "title": "Sada’dan Sana’ya: Husilerin iktidara yükselişi",
-   "link": "https://www.aa.com.tr/tr/analiz/sada-dan-sana-ya-husilerin-iktidara-yukselisi/4126262",
-   "summary": "Husilerin bölgedeki gücü ve başarısı, Yemen’in kendi içerisindeki parçalanmışlığı, bölgesel gerilimler ve küresel kaos düzleminde sürdürülen bir çatışma döngüsüne bağlıdır.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:15:25+00:00"
-  },
-  {
-   "title": "COP31 rekora gidiyor",
-   "link": "https://www.trthaber.com/haber/gundem/cop31-rekora-gidiyor-963404.html",
-   "summary": "COP31 Zirvesine ev sahipliği yapan Antalyadaki Mavi Bölgeye ilk hafta kayıt olanların sayısı 102 bin 610a yükseldi, Yeşil Bölgeyi 212 bin kişi ziyaret etti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:15:00+00:00"
-  },
-  {
-   "title": "Rusya: Ukrayna'nın demiryolu altyapısına ve gemilerine yönelik saldırıları sürdürdük",
-   "link": "https://www.aa.com.tr/tr/dunya/rusya-ukraynanin-demiryolu-altyapisina-ve-gemilerine-yonelik-saldirilari-surdurduk/4126259",
-   "summary": "Rusya Savunma Bakanlığı, Ukrayna'nın demiryolu altyapısı tesislerine ve gemilerine yönelik saldırıları sürdürdüklerini bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:14:41+00:00"
   },
   {
    "title": "Bitcoin 65 bin doların altına geriledi",
@@ -407,42 +1127,6 @@
    "published": "2026-11-16T08:14:30+00:00"
   },
   {
-   "title": "İran ordusu: Hürmüz Boğazı'nda bir petrol tankeri mayına çarptı",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-ordusu-hurmuz-bogazinda-bir-petrol-tankeri-mayina-carpti/4126256",
-   "summary": "İran ordusu, Hürmüz Boğazı'nın doğusunda Tahran'ın onaylamadığı \"alternatif\" güzergahı kullanmaya çalışan bir petrol tankerinin deniz mayınına çarptığını öne sürdü.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:14:22+00:00"
-  },
-  {
-   "title": "İstanbul Boğazı'ndan 9 ayda 27 bin 211 gemi geçti",
-   "link": "https://www.trthaber.com/haber/ekonomi/istanbul-bogazindan-9-ayda-27-bin-211-gemi-gecti-963402.html",
-   "summary": "İstanbul Boğazı'ndan bu yılın ocakeylül döneminde 27 bin 211 gemi geçti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:14:00+00:00"
-  },
-  {
-   "title": "Kimlik ve ehliyetlerde 10 yıl uyarısı",
-   "link": "https://www.trthaber.com/haber/gundem/kimlik-ve-ehliyetlerde-10-yil-uyarisi-963403.html",
-   "summary": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğünün verilerine göre, 20272031 döneminde, süresi dolacak 45 milyonu aşkın kimlik kartı ile 13 milyon sürücü belgesinin yenileme işlemleri gerçekleştirilecek. Mağduriyet…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:13:00+00:00"
-  },
-  {
-   "title": "Çöp kutuları ve yağ tenekeleri COP31'de ritim aletine dönüştü",
-   "link": "https://www.aa.com.tr/tr/gundem/cop-kutulari-ve-yag-tenekeleri-cop31de-ritim-aletine-donustu/4126254",
-   "summary": "Antalya'da Güzel Sanatlar Lisesi öğrencileri, kullanılmayan atıkları enstrümana dönüştürerek oluşturdukları perküsyon grubuyla İklim Zirvesi COP31'e renk kattı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:12:39+00:00"
-  },
-  {
    "title": "Türkiye'nin yenilenebilir enerji potansiyeli küresel elektrifikasyon hedeflerini destekliyor",
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiyenin-yenilenebilir-enerji-potansiyeli-kuresel-elektrifikasyon-hedeflerini-destekliyor/4126252",
    "summary": "Londra merkezli uluslararası enerji düşünce kuruluşu Ember'in enerji analisti Gümüş, Türkiye'nin rüzgar ve güneş enerjisi potansiyeliyle güçlü hidroelektrik kapasitesinin elektrifikasyon hedeflerine ulaşılmasında önemli…",
@@ -450,24 +1134,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-16T08:12:22+00:00"
-  },
-  {
-   "title": "Liderler Zirvesi'nin \"Yeşil Yoluna\" dünyadan işbirliği teklifleri geliyor",
-   "link": "https://www.aa.com.tr/tr/gundem/liderler-zirvesinin-yesil-yoluna-dunyadan-isbirligi-teklifleri-geliyor/4126251",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Çevre Yönetimi Genel Müdürü Turan, COP31 Liderler Zirvesi öncesinde liderlerin karşılandığı bölgede uygulanan \"Düşük Karbonlu Yeşil Yol Projesi\"ne birçok ülkeden…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:12:06+00:00"
-  },
-  {
-   "title": "Türkiye'nin ulaşımda yeşil dönüşümü için yol haritası çizildi",
-   "link": "https://www.trthaber.com/haber/ekonomi/turkiyenin-ulasimda-yesil-donusumu-icin-yol-haritasi-cizildi-963400.html",
-   "summary": "Türkiye'de ulaştırma sektörünün karbonsuzlaştırılması için alternatif yakıt kullanım imkanlarını araştıracak, bu kapsamdaki ağır tonajlı araçlara yönelik yüksek kapasiteli şarj imkanları oluşturulacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:11:00+00:00"
   },
   {
    "title": "Körfez Basket \"6'da 5\" ile Avrupa'da lider",
@@ -483,36 +1149,9 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/turkiye-otobus-uretimi-ve-elektrikli-ulasimda-one-cikiyor/4126243",
    "summary": "Avrasya E-Mobilite Derneği Başkanı Haluk Sayar, Türkiye'nin otobüs üretip dünyaya sattığını belirterek, \"Elektrikli otobüsler ile elektrikli ağır vasıtalar da Türkiye'de üretilerek, dünyanın birçok ülkesine ihraç…",
    "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T08:08:22+00:00"
-  },
-  {
-   "title": "APEC Zirvesi, ABD, Çin ve Rusya'nın stratejik istikrar diyaloğuna tanıklık edecek",
-   "link": "https://www.aa.com.tr/tr/dunya/apec-zirvesi-abd-cin-ve-rusyanin-stratejik-istikrar-diyaloguna-taniklik-edecek/4126238",
-   "summary": "Çin'in Şıncın kentinde düzenlenecek Asya-Pasifik Ekonomik İşbirliği (APEC) Zirvesi'nde ABD, Çin ve Rusya liderleri, ilk kez \"stratejik istikrar diyaloğu\" niteliğinde bir üçlü toplantı gerçekleştirecek.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:06:44+00:00"
-  },
-  {
-   "title": "AB, Suriye ile ilişkilerini Akdeniz'deki diğer ortaklarıyla aynı düzeye yükseltmek istiyor",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-suriye-ile-iliskilerini-akdenizdeki-diger-ortaklariyla-ayni-duzeye-yukseltmek-istiyor/4126237",
-   "summary": "Avrupa Birliği (AB) Dış İlişkiler ve Güvenlik Politikası Yüksek Temsilcisi Kaja Kallas, ülkenin yatırım, kurumsal yapılanma ve reformlar konusunda desteğe ihtiyaç duyduğunu söyledi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:06:28+00:00"
-  },
-  {
-   "title": "Gümrüklerde sonradan ve ikincil kontrol denetimleriyle vergi kaybına geçit verilmiyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/gumruklerde-sonradan-ve-ikincil-kontrol-denetimleriyle-vergi-kaybina-gecit-verilmiyor/4126236",
-   "summary": "Ticaret Bakanlığınca, bu yılın 10 ayında dış ticaret işlemleri doğrultusunda yapılan sonradan ve ikincil kontrol denetimleri sonucunda, toplam 14,1 milyar liralık ek tahakkuk ve ceza kararı düzenlendi.",
-   "source": "AA",
    "category": "Ekonomi",
    "image": null,
-   "published": "2026-11-16T08:06:21+00:00"
+   "published": "2026-11-16T08:08:22+00:00"
   },
   {
    "title": "TÜREB Başkanı Erden, Türkiye'nin bölgesel enerji işbirliğinde önemli rol üstlenebileceğini belirtti",
@@ -533,33 +1172,6 @@
    "published": "2026-11-16T08:04:40+00:00"
   },
   {
-   "title": "BM: İsrail cezaevlerindeki binlerce Filistinli tutsak, işkence ve sistematik kötü muamele görüyor",
-   "link": "https://www.aa.com.tr/tr/dunya/bm-israil-cezaevlerindeki-binlerce-filistinli-tutsak-iskence-ve-sistematik-kotu-muamele-goruyor/4126231",
-   "summary": "BM İnsan Hakları Yüksek Komiserliği Sözcüsü Thameen Al-Kheetan, İsrail cezaevlerinde tutulan binlerce Filistinlinin işkenceye maruz kaldığını belirterek, keyfi olarak alıkonulan tüm Filistinlilerin serbest bırakılması…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T08:04:19+00:00"
-  },
-  {
-   "title": "Kripto para piyasasında satış baskısı altı haftadır dinmiyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kripto-para-piyasasinda-satis-baskisi-alti-haftadir-dinmiyor/4126225",
-   "summary": "Kripto piyasasındaki paraların toplam değerini ifade eden Total Market, 6 haftadır düşüş gösterirken bu sürede bitcoin ve ethereum da yatırımcısını üzdü.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T08:02:57+00:00"
-  },
-  {
-   "title": "THY'den yurt dışına avantajlı bilet kampanyası",
-   "link": "https://www.aa.com.tr/tr/ekonomi/thyden-yurt-disina-avantajli-bilet-kampanyasi/4126223",
-   "summary": "Türk Hava Yolları (THY) Doğu Avrupa, Balkanlar ve Kafkaslar'daki bazı kentlere avantajlı fiyatlarla gidiş dönüş uçuş kampanyası düzenledi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T08:00:55+00:00"
-  },
-  {
    "title": "Fenerbahçe Tarfin, Avrupa Ligi'nde yarın LDLC Asvel'i konuk edecek",
    "link": "https://www.aa.com.tr/tr/spor/fenerbahce-tarfin-avrupa-liginde-yarin-ldlc-asveli-konuk-edecek/4126220",
    "summary": "Fenerbahçe Tarfin, Basketbol Avrupa Ligi'nin (EuroLeague) 12. haftasında Fransa'nın LDLC Asvel ekibini ağırlayacak.",
@@ -567,24 +1179,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-16T07:58:10+00:00"
-  },
-  {
-   "title": "Trafiğe kayıtlı araç sayısı ekim sonu itibarıyla 35,2 milyon oldu",
-   "link": "https://www.trthaber.com/haber/ekonomi/trafige-kayitli-arac-sayisi-ekim-sonu-itibariyla-352-milyon-oldu-963397.html",
-   "summary": "Trafiğe ekimde 130 bin 697 taşıtın kaydı yapılırken 5 bin 975'inin kaydı silindi, böylece trafikteki toplam araç sayısı 124 bin 722 arttı. Trafiğe kayıtlı araç sayısı, geçen yılın aynı ayına göre yüzde 6 artarak 35…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T07:46:00+00:00"
-  },
-  {
-   "title": "ABD Ulaştırma Bakanı Duffy, ülke genelinde uçuşların durdurulmasından Kongre'yi sorumlu tuttu",
-   "link": "https://www.trthaber.com/haber/dunya/abd-ulastirma-bakani-duffy-ulke-genelinde-ucuslarin-durdurulmasindan-kongreyi-sorumlu-tuttu-963396.html",
-   "summary": "ABD Ulaştırma Bakanı Sean Duffy, iletişim altyapısını yenileme çalışmaları için \"yeterince para vermediğini\" belirttiği Kongre'yi, 13 Kasım'da ülke genelinde uçuşların durdurulmasına neden olan iletişim kesintisinden…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T07:46:00+00:00"
   },
   {
    "title": "Anadolu Efes, Basketbol Avrupa Ligi'nde yarın Dubai Basketbol'a konuk olacak",
@@ -596,15 +1190,6 @@
    "published": "2026-11-16T07:45:37+00:00"
   },
   {
-   "title": "Trafiğe ekimde 130 bin 697 taşıtın kaydı yapıldı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/trafige-ekimde-130-bin-697-tasitin-kaydi-yapildi/4126209",
-   "summary": "",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T07:43:49+00:00"
-  },
-  {
    "title": "Genç muaythai sporcuları, dünya şampiyonasında 23 madalya kazandı",
    "link": "https://www.aa.com.tr/tr/spor/genc-muaythai-sporculari-dunya-sampiyonasinda-23-madalya-kazandi/4126205",
    "summary": "Dünya Gençler Muaythai Şampiyonası'nda Türkiye'yi temsil eden sporcular 6'sı altın, 23 madalya kazandı.",
@@ -614,38 +1199,11 @@
    "published": "2026-11-16T07:40:54+00:00"
   },
   {
-   "title": "Bakan Kurum: Antalya'da konuşulanların konferans salonlarında kalmasını istemiyoruz",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-antalyada-konusulanlarin-konferans-salonlarinda-kalmasini-istemiyoruz-963395.html",
-   "summary": "COP31 Başkanı ve Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, \"Ülkelerin kalkınma hakkını koruyan, finansmanı ihtiyacın bulunduğu yere ulaştıran, dönüşümün yükünü hakkaniyetle paylaşan bir sistem kurmamız…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T07:39:00+00:00"
-  },
-  {
-   "title": "İran Dışişleri Bakanı Erakçi'den EİT ülkelerine \"enerji alanında sürdürülebilir bölgesel mekanizma\" çağrısı",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-disisleri-bakani-erakciden-eit-ulkelerine-enerji-alaninda-surdurulebilir-bolgesel-mekanizma-cagrisi/4126201",
-   "summary": "İran Dışişleri Bakanı Abbas Erakçi, Ekonomik İşbirliği Teşkilatı (EİT) üyesi ülkelere enerji arzı ve naklinin güvence altına alınması için sürdürülebilir bir bölgesel mekanizma oluşturulması çağrısında bulundu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T07:38:52+00:00"
-  },
-  {
-   "title": "Kanada temiz elektrik yatırımlarını uzun vadeli anlaşmalar ve vergi teşvikleriyle hızlandırıyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kanada-temiz-elektrik-yatirimlarini-uzun-vadeli-anlasmalar-ve-vergi-tesvikleriyle-hizlandiriyor/4126195",
-   "summary": "Kanada'nın temiz elektrik yatırımlarını artırmak amacıyla federal yatırım vergi kredileri ve eyaletlerin 20 ila 35 yıl vadeli elektrik alım anlaşmalarını bir araya getiren finansman modeli, COP31 kapsamında düzenlenen…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T07:35:08+00:00"
-  },
-  {
    "title": "Yapı Kredi'den 2030'a kadar 1,5 trilyon liralık sürdürülebilir finansman sağlama hedefi",
    "link": "https://www.aa.com.tr/tr/ekonomi/yapi-krediden-2030a-kadar-1-5-trilyon-liralik-surdurulebilir-finansman-saglama-hedefi/4126194",
    "summary": "Yapı Kredi, 2030'a kadar toplam 1,5 trilyon lira tutarında sürdürülebilir finansman sağlamayı hedeflediğini duyurdu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-16T07:34:59+00:00"
   },
@@ -659,42 +1217,6 @@
    "published": "2026-11-16T07:34:15+00:00"
   },
   {
-   "title": "Axios: ABD Başkan Yardımcısı Vance, 2028 adaylığına ilişkin kararını yeni yıldan önce vermeyecek",
-   "link": "https://www.trthaber.com/haber/dunya/axios-abd-baskan-yardimcisi-vance-2028-adayligina-iliskin-kararini-yeni-yildan-once-vermeyecek-963394.html",
-   "summary": "ABD Başkan Yardımcısı JD Vance'in, 2028'deki başkanlık seçimlerinde aday olma konusunda \"kararsız kaldığı\" ve nihai kararını ancak yeni yıldan sonra verebileceği iddia edildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T07:28:00+00:00"
-  },
-  {
-   "title": "Antalya Yapay Zeka Taahhüdü'ne 80 destek beyanı, 271 somut taahhüt",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/antalya-yapay-zeka-taahhudune-80-destek-beyani-271-somut-taahhut/4126180",
-   "summary": "Sanayi ve Teknoloji Bakanı Kacır, yapay zekanın çevresel etkilerini azaltmayı ve iklim mücadelesinde kullanımını yaygınlaştırmayı hedefleyen Antalya Yapay Zeka Taahhüdü'ne 80 destek beyanı verildiğini ve 271 somut…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T07:24:36+00:00"
-  },
-  {
-   "title": "'Patronların patronu' hayatını kaybetti: Meksikalı uyuşturucu baronu Felix Gallardo'nun sıradışı hayatı",
-   "link": "https://www.bbc.com/turkce/articles/cqj9m00mz8vvo?at_medium=RSS&at_campaign=rss",
-   "summary": "'Patronların Patronu' olarak bilinen Miguel Angel Felix Gallardo, Kolombiya kartelleriyle ortaklık kurarak, And Dağları'ndaki üretimi Meksika sınırından ABD'ye taşıdı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e43a/live/4a4493e0-e169-11f1-89b7-092cfa4897c7.jpg",
-   "published": "2026-11-16T07:21:02+00:00"
-  },
-  {
-   "title": "Ücretli çalışan sayısı eylülde arttı",
-   "link": "https://www.trthaber.com/haber/ekonomi/ucretli-calisan-sayisi-eylulde-artti-963393.html",
-   "summary": "Sanayi, inşaat ve ticarethizmet sektörleri toplamında ücretli çalışan sayısı, eylülde geçen yılın aynı ayına göre yüzde 1,7 artarak 16 milyon 448 bin 397 oldu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T07:15:00+00:00"
-  },
-  {
    "title": "NBA'de Rockets, Alperen Şengün'ün \"triple-double\"a yaklaştığı maçta Wizards'ı mağlup etti",
    "link": "https://www.aa.com.tr/tr/dunyadan-spor/nbade-rockets-alperen-sengunun-triple-doublea-yaklastigi-macta-wizardsi-maglup-etti/4126163",
    "summary": "Milli basketbolcu Alperen Şengün, Rockets'ın Wizards'ı 147-119 yendiği maçı 19 sayı, 8 ribaunt, 8 asistle tamamladı.",
@@ -704,42 +1226,6 @@
    "published": "2026-11-16T07:13:23+00:00"
   },
   {
-   "title": "Ücretli çalışan sayısı eylülde yıllık yüzde 1,7 arttı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ucretli-calisan-sayisi-eylulde-yillik-yuzde-1-7-artti/4126162",
-   "summary": "Sanayi, inşaat ve ticaret-hizmet sektörleri toplamında ücretli çalışan sayısı, eylülde geçen yılın aynı ayına göre yüzde 1,7 artarak 16 milyon 448 bin 397 oldu.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T07:12:28+00:00"
-  },
-  {
-   "title": "Koruyucu ailelere yönelik ödemeler hesaplara yatırıldı",
-   "link": "https://www.trthaber.com/haber/ekonomi/koruyucu-ailelere-yonelik-odemeler-hesaplara-yatirildi-963392.html",
-   "summary": "Aile ve Sosyal Hizmetler Bakanı Mahinur Özdemir Göktaş, koruyucu aile hizmeti kapsamında bu ay toplam 228 milyon 334 bin lira ödeme yapıldığını açıkladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T07:05:00+00:00"
-  },
-  {
-   "title": "Borsa güne düşüşle başladı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/borsa-gune-dususle-basladi/4126152",
-   "summary": "Borsa İstanbul'da BIST 100 endeksi, güne yüzde 0,29 düşüşle 11.808,77 puandan başladı.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T06:59:06+00:00"
-  },
-  {
-   "title": "53 ilin ihracat rakamları arttı",
-   "link": "https://www.trthaber.com/haber/ekonomi/53-ilin-ihracat-rakamlari-artti-963391.html",
-   "summary": "Ticaret Bakanlığı, ocakekim döneminde 30 ilin ihracatının 1 milyar doların üzerine çıktığını ve 53 ilde ihracatın artış gösterdiğini belirtti.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:47:00+00:00"
-  },
-  {
    "title": "Ampute Futbol Milli Takımı, Mısır'ı mağlup etti",
    "link": "https://www.aa.com.tr/tr/spor/ampute-futbol-milli-takimi-misiri-maglup-etti/4126139",
    "summary": "Ampute Futbol Milli Takımı, 2026 Dünya Kupası B Grubu'ndaki 2. maçında Mısır'ı 2-1 mağlup etti.",
@@ -747,51 +1233,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-16T06:45:41+00:00"
-  },
-  {
-   "title": "Türkiye'de yılın 10 ayında 53 ilin ihracatı arttı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/turkiyede-yilin-10-ayinda-53-ilin-ihracati-artti/4126138",
-   "summary": "Ticaret Bakanlığı, ocak-ekim döneminde 30 ilin ihracatının 1 milyar doların üzerine çıktığını, 53 ilde de ihracat artışı kaydedildiğini bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T06:43:12+00:00"
-  },
-  {
-   "title": "Brent petrolün varili 96,13 dolardan işlem görüyor",
-   "link": "https://www.trthaber.com/haber/dunya/brent-petrolun-varili-9613-dolardan-islem-goruyor-963390.html",
-   "summary": "Brent petrolün varili, uluslararası vadeli piyasalarda 96,13 dolardan işlem görüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:41:00+00:00"
-  },
-  {
-   "title": "Amazon'un 40 internet uydusunu taşıyan Vulcan roketi görevinde başarısız oldu",
-   "link": "https://www.trthaber.com/haber/dunya/amazonun-40-internet-uydusunu-tasiyan-vulcan-roketi-gorevinde-basarisiz-oldu-963389.html",
-   "summary": "ABD'li United Launch Alliance ULA şirketine ait Vulcan roketi, fırlatılmasından yaklaşık 10 dakika sonra arızalanarak Amazon'un Leo uydu internet ağı için taşıdığı 40 uyduyu yörüngeye yerleştiremedi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:40:00+00:00"
-  },
-  {
-   "title": "Altın haftaya nasıl başladı?",
-   "link": "https://www.trthaber.com/haber/ekonomi/altin-haftaya-nasil-basladi-963388.html",
-   "summary": "Gram altın haftanın ilk işlem gününe düşüşle başlamasının ardından 6 bin 240 liradan işlem görüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:38:00+00:00"
-  },
-  {
-   "title": "TCMB, COP31 kapsamında \"İklim Değişikliği ve Merkez Bankacılığı Konferansı\" düzenledi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/tcmb-cop31-kapsaminda-iklim-degisikligi-ve-merkez-bankaciligi-konferansi-duzenledi/4126126",
-   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), COP31 etkinlikleri kapsamında \"İklim Değişikliği ve Merkez Bankacılığı: Makroekonomik ve Finansal Perspektifler\" başlıklı uluslararası bir konferans düzenledi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T06:24:49+00:00"
   },
   {
    "title": "Bugün vücut sıcaklığımız neden atalarımızdan daha düşük?",
@@ -812,15 +1253,6 @@
    "published": "2026-11-16T06:17:02+00:00"
   },
   {
-   "title": "ABD ve 9 ülke, yapay zekada tedarik zinciri ve altyapı güvenliği için iş birliği yapacak",
-   "link": "https://www.trthaber.com/haber/dunya/abd-ve-9-ulke-yapay-zekada-tedarik-zinciri-ve-altyapi-guvenligi-icin-is-birligi-yapacak-963386.html",
-   "summary": "ABD ile 9 ülke arasında yapay zeka alanında tedarik zinciri ve kritik altyapının güçlendirilmesi konusunda iş birliğini öngören bildiri imzalandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:16:00+00:00"
-  },
-  {
    "title": "A Milli Kadın Basketbol Takımı, Avrupa Şampiyonası elemelerinde yarın Polonya'ya konuk olacak",
    "link": "https://www.aa.com.tr/tr/spor/a-milli-kadin-basketbol-takimi-avrupa-sampiyonasi-elemelerinde-yarin-polonyaya-konuk-olacak/4126120",
    "summary": "A Milli Kadın Basketbol Takımı, 2027 Avrupa Şampiyonası elemeleri 2. tur I Grubu'ndaki 3. maçında yarın deplasmanda Polonya ile karşı karşıya gelecek.",
@@ -828,231 +1260,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-16T06:15:44+00:00"
-  },
-  {
-   "title": "Edirne'de servisle otomobil çarpıştı: 2 ölü, 5 yaralı",
-   "link": "https://www.trthaber.com/haber/turkiye/edirnede-servisle-otomobil-carpisti-2-olu-5-yarali-963385.html",
-   "summary": "Edirne'de fabrika servisiyle otomobilin çarpışması sonucu 2 kişi hayatını kaybetti, 5 kişi yaralandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:15:00+00:00"
-  },
-  {
-   "title": "Financial Times: Nvidia'nın eski CEO'su Huang'ın göreve dönmesi için girişimler başlatıldı",
-   "link": "https://www.trthaber.com/haber/dunya/financial-times-nvidianin-eski-ceosu-huangin-goreve-donmesi-icin-girisimler-baslatildi-963384.html",
-   "summary": "ABD'li çip üreticisi Nvidia'nın eski Üst Yöneticisi CEO Jensen Huang'ın görevine dönmesi için teknoloji dünyasından isimler şirketin yönetim kuruluna baskı yaparken, Huang'ın ABD Kongresindeki üç komitenin kapalı…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:15:00+00:00"
-  },
-  {
-   "title": "Küresel piyasalar haftaya temkinli başladı",
-   "link": "https://www.trthaber.com/haber/ekonomi/kuresel-piyasalar-haftaya-temkinli-basladi-963383.html",
-   "summary": "Küresel piyasalar, ABD'li çip devi Nvidia'daki yönetim çalkantıları ile yapay zeka ve teknoloji alanındaki gelişmelerin ekseninde yoğun gündemli haftaya karışık başlarken, gözler bugün ABD Merkez Bankası Fed Başkanı…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:07:00+00:00"
-  },
-  {
-   "title": "Küresel piyasalar yoğun gündemli haftaya temkinli başladı",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kuresel-piyasalar-yogun-gundemli-haftaya-temkinli-basladi/4126115",
-   "summary": "Küresel piyasalar, ABD'li çip devi Nvidia'daki yönetim çalkantıları ile teknoloji alanındaki gelişmelerin ekseninde yoğun gündemli haftaya karışık başlarken, gözler bugün ABD Merkez Bankası (Fed) Başkanı Kevin Warsh'un…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-16T06:01:42+00:00"
-  },
-  {
-   "title": "Diriliş şairi: Sezai Karakoç",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/dirilis-sairi-sezai-karakoc-963381.html",
-   "summary": "Hayatını \"Diriliş Nesli\" dediği, yeni bir gençliğin yetişmesine adayan Karakoç, \"diriliş\" düşüncesi etrafında şekillendirdiği medeniyet tasavvuruyla Türk edebiyatı ve fikir hayatında derin izler bıraktı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T06:00:00+00:00"
-  },
-  {
-   "title": "Rusya'daki İHA saldırılarında bir kişi öldü, 14 kişi yaralandı, enerji ve sanayi tesisleri hasar gördü",
-   "link": "https://www.aa.com.tr/tr/dunya/rusyadaki-iha-saldirilarinda-bir-kisi-oldu-14-kisi-yaralandi-enerji-ve-sanayi-tesisleri-hasar-gordu/4126113",
-   "summary": "Rusya'nın çeşitli bölgelerine gece saatlerinde insansız hava araçlarıyla (İHA) düzenlenen saldırılarda bir kişi hayatını kaybetti, 14 kişi yaralandı, enerji ve sanayi tesisleri hasar gördü.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T05:58:33+00:00"
-  },
-  {
-   "title": "Beyin ameliyatından sonra insanları kedi gibi görmeye başladı",
-   "link": "https://www.trthaber.com/haber/dunya/beyin-ameliyatindan-sonra-insanlari-kedi-gibi-gormeye-basladi-963382.html",
-   "summary": "Tıp dünyasındaki ilginç vakalara bir yenisi daha eklendi. ABD'nin kuzeydoğusunda yaşayan 28 yaşındaki bir adam, gün içinde karşılaştığı insanların yüzünde evcil kedisi Luna'yı görüyor.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T05:58:00+00:00"
-  },
-  {
-   "title": "Gökbilimciler ilk kez dev bir gezegenin kaybolduğunu gözlemledi",
-   "link": "https://www.trthaber.com/haber/dunya/gokbilimciler-ilk-kez-dev-bir-gezegenin-kayboldugunu-gozlemledi-963379.html",
-   "summary": "Gökbilimciler, şans eseri bir ötegezegenin daha önce hiç görülmemiş bir şey yaptığını, yani gözden kaybolduğunu gözlemledi. Gezegenler normal şartlarda ortadan kaybolmaz. Bu durumun 1993 yılında Hubble teleskobunda…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T05:53:00+00:00"
-  },
-  {
-   "title": "COP31'de 5 günde toplanan 100 ton katı atık ayrıştırıldı",
-   "link": "https://www.trthaber.com/haber/gundem/cop31de-5-gunde-toplanan-100-ton-kati-atik-ayristirildi-963380.html",
-   "summary": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığının ev sahipliğinde Antalya'da düzenlenen COP31 İklim Zirvesi'nin ilk 5 gününde toplanan yaklaşık 100 ton atığın yüzde 80'i geri dönüşüme kazandırılırken, atık yağlar…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T05:40:00+00:00"
-  },
-  {
-   "title": "Sınavda birinci olan kişi yapay zeka ile kopya çektiğini itiraf etti",
-   "link": "https://www.trthaber.com/haber/dunya/sinavda-birinci-olan-kisi-yapay-zeka-ile-kopya-cektigini-itiraf-etti-963378.html",
-   "summary": "Güney Kore'de bu yıl vergi muhasebecisi adaylarına yönelik düzenlenen ulusal sınavda birinci olan kişinin aldığı puanlar gerçek olamayacak kadar yüksek görünüyordu. Şüphe duyanlar, sınav birincisinin pazar günü üretken…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T05:38:00+00:00"
-  },
-  {
-   "title": "Bakan Fidan, Brüksel'de AB toplantısına katılacak",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-brukselde-ab-toplantisina-katilacak-963377.html",
-   "summary": "Dışişleri Bakanı Hakan Fidan, Avrupa Birliği AB Dış İlişkiler Konseyi kapsamında bugün Brükselde gerçekleştirilecek Bölgelerarası Güvenlik ve Bağlantısallık Konulu İkinci Bakanlar Toplantısına katılacak.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T05:33:00+00:00"
-  },
-  {
-   "title": "İran: Hürmüz Boğazı'nda 2 petrol tankeri mayına çarparak infilak etti",
-   "link": "https://www.aa.com.tr/tr/dunya/iran-hurmuz-bogazinda-2-petrol-tankeri-mayina-carparak-infilak-etti/4126097",
-   "summary": "İran Devrim Muhafızları Ordusu, Hürmüz Boğazı'nda ABD ordusunun yönlendirmesi ve savaş uçaklarının desteğiyle boğazın güneyindeki güzergahı kullanmaya çalışan 2 petrol tankerinin deniz mayınına çarparak infilak ettiğini…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T05:12:04+00:00"
-  },
-  {
-   "title": "ABD, Bahreyn'deki vatandaşlarını İran ve Husilerin muhtemel saldırılarına karşı uyardı",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-bahreyndeki-vatandaslarini-iran-ve-husilerin-muhtemel-saldirilarina-karsi-uyardi/4126095",
-   "summary": "ABD'nin Bahreyn Büyükelçiliği, İran ve İran destekli Husilerin bölgedeki muhtemel saldırı tehditlerine karşı ülkedeki vatandaşlarına \"yüksek düzeyde teyakkuzda olma\" çağrısında bulundu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-16T05:03:08+00:00"
-  },
-  {
-   "title": "İsrail basını: Netanyahu seçimler çalındı kampanyası için istihbarat ve polisi kullandı",
-   "link": "https://www.trthaber.com/haber/dunya/israil-basini-netanyahu-secimler-calindi-kampanyasi-icin-istihbarat-ve-polisi-kullandi-963375.html",
-   "summary": "İsrail basını, ülkede 27 Ekim'de yapılan seçimlerin ardından geçici Başbakan Binyamin Netanyahu'nun, İsrail vatandaşı Filistinlileri temsil eden partilerin yüksek oy almasına işaret ederek \"seçimler çalındı\" iddiasını…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T04:58:00+00:00"
-  },
-  {
-   "title": "İspanya'da 14 yıl sonra ilk genel grev: Milyonlar sokaklara çıktı",
-   "link": "https://www.trthaber.com/haber/dunya/ispanyada-14-yil-sonra-ilk-genel-grev-milyonlar-sokaklara-cikti-963374.html",
-   "summary": "İspanya'da konut fiyatları ve yükselen kiralara tepki gösteren yaklaşık 4 milyon çalışan, 14 yıl aradan sonra düzenlenen ilk genel greve katıldı. Ülke genelinde iş yerleri kapatılırken limanlarda ve otomotiv…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T04:42:00+00:00"
-  },
-  {
-   "title": "Estonya, Rusya sınırındaki tüm geçiş noktalarını kapatıyor",
-   "link": "https://www.trthaber.com/haber/dunya/estonya-rusya-sinirindaki-tum-gecis-noktalarini-kapatiyor-963373.html",
-   "summary": "Estonya, Rus askeri istihbarat servisi GRU'nun talimatıyla düzenlendiği öne sürülen insansız hava aracı üreticisine yönelik sabotaj girişiminin ardından Rusya ile tüm sınır kapılarını 1 Aralık'tan itibaren kapatma…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T04:31:00+00:00"
-  },
-  {
-   "title": "Kenya'da tarikat liderine 191 kişinin ölümünden 200 yıl hapis cezası",
-   "link": "https://www.trthaber.com/haber/dunya/kenyada-tarikat-liderine-191-kisinin-olumunden-200-yil-hapis-cezasi-963372.html",
-   "summary": "Kenya'da müritlerini aç bırakarak cennete ulaşabileceklerine inandıran tarikat lideri Paul Mackenzie, 191 kişinin ölümünden dolayı 200 yıl hapis cezasına çarptırıldı. Hayatını kaybedenlerin 190'ının çocuk olduğu davada,…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T04:28:00+00:00"
-  },
-  {
-   "title": "ABDde uçuş krizi sürüyor: Binlerce sefer iptal edildi veya gecikti",
-   "link": "https://www.trthaber.com/haber/dunya/abdde-ucus-krizi-suruyor-binlerce-sefer-iptal-edildi-veya-gecikti-963371.html",
-   "summary": "ABDde hava trafik kontrol sisteminde yaşanan teknik arızanın üzerinden iki gün geçmesine rağmen uçuşlardaki aksama devam ediyor. Pazar günü 8 bin 800den fazla uçuş gecikirken, 2 bin 400 sefer iptal edildi. Ulaştırma…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T04:02:00+00:00"
-  },
-  {
-   "title": "Dijital Konaklama Platformları düzenlemesi Meclis Genel Kurulu'nda",
-   "link": "https://www.trthaber.com/haber/ekonomi/dijital-konaklama-platformlari-duzenlemesi-meclis-genel-kurulunda-963369.html",
-   "summary": "Yabancı dijital konaklama platformlarının Türkiye'deki elektronik ticaret faaliyetlerine ilişkin usul ve esasları belirleyen kanun teklifi, bu hafta TBMM Genel Kurulu'nda görüşülecek.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T03:41:00+00:00"
-  },
-  {
-   "title": "Eisenkot, Netanyahu görevde olduğu sürece İsrail'de adil seçim yapılamayacağını belirtti",
-   "link": "https://www.trthaber.com/haber/dunya/eisenkot-netanyahu-gorevde-oldugu-surece-israilde-adil-secim-yapilamayacagini-belirtti-963370.html",
-   "summary": "İsrail'de hükümet kurmakla görevlendirilen Yashar Partisi lideri Gadi Eisenkot, geçici Başbakan Binyamin Netanyahu'nun İsrail demokrasisi üzerinde somut, doğrudan ve acil bir tehdit oluşturduğunu belirterek, \"O görevde…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T03:40:00+00:00"
-  },
-  {
-   "title": "Milletvekili Tıybi, Netanyahu hakkında seçimlere müdahale soruşturması istedi",
-   "link": "https://www.trthaber.com/haber/dunya/milletvekili-tiybi-netanyahu-hakkinda-secimlere-mudahale-sorusturmasi-istedi-963368.html",
-   "summary": "İsrail vatandaşı Filistinlileri temsil eden Ortak Liste bileşenlerinden Taal Partisi lideri ve milletvekili Ahmed Tıybi, \"seçimlere müdahale\" şüphesiyle geçici hükümetin Başbakanı Binyamin Netanyahu ve ofisindeki…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T03:36:00+00:00"
-  },
-  {
-   "title": "Yurt genelinde yağış sürecek, hava sıcaklıkları artacak",
-   "link": "https://www.trthaber.com/haber/gundem/yurt-genelinde-yagis-surecek-hava-sicakliklari-artacak-963367.html",
-   "summary": "Yeni haftada yurdun büyük bölümünde yağmur ve sağanak, Doğu Karadeniz ile Doğu Anadolu'nun yüksek kesimlerinde ise kar yağışı etkili olacak. Hafta ortasından itibaren artışa geçecek hava sıcaklıklarının kuzey, iç ve…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-16T03:06:00+00:00"
-  },
-  {
-   "title": "Yemen hükümet güçleri Babülmendep Boğazı civarından çekiliyor",
-   "link": "https://www.bbc.com/turkce/articles/cm4gnznnnxvxo?at_medium=RSS&at_campaign=rss",
-   "summary": "Yemen hükümet güçleri, Aden'deki ana üslerini savunmaya odaklanmak amacıyla Babülmendep Boğazı çevresindeki bölgelerden çekildiklerini açıkladı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6ae1/live/e1f59d10-e141-11f1-b838-e76e4fa8abe5.jpg",
-   "published": "2026-11-16T00:48:13+00:00"
-  },
-  {
-   "title": "İngiltere'de Russell Brand davasının ardından cinsel rıza yaşı tartışması",
-   "link": "https://www.bbc.com/turkce/articles/cvp8678kx3gzo?at_medium=RSS&at_campaign=rss",
-   "summary": "İngiltere'de komedyen ve aktör Russell Brand'ın tecavüz ve cinsel saldırı suçlarından 10 yıldan fazla hapis cezasına çarptırılmasının ardından, cinsel rıza yaşı tartışmaları başladı. Bir kampanya grubu 16 ve 17…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/786b/live/57899d60-e0f2-11f1-a701-fddedf244c16.jpg",
-   "published": "2026-11-16T00:06:08+00:00"
-  },
-  {
-   "title": "Husiler, Yemen'in Aden kentindeki askeri kampı balistik füzelerle hedef aldı",
-   "link": "https://www.aa.com.tr/tr/dunya/husiler-yemenin-aden-kentindeki-askeri-kampi-balistik-fuzelerle-hedef-aldi/4126069",
-   "summary": "Yemen'de İran destekli Husilerin, geçici başkent Aden'deki El-Kava Askeri Kampı'na balistik füzelerle saldırı düzenlediği bildirildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T22:37:43+00:00"
   },
   {
    "title": "UEFA Uluslar Ligi'nin 6. haftası 8 maçla başladı",
@@ -1064,42 +1271,6 @@
    "published": "2026-11-15T22:18:22+00:00"
   },
   {
-   "title": "NYT: USS Theodore Roosevelt uçak gemisi, Orta Doğu’daki görevine başlıyor",
-   "link": "https://www.aa.com.tr/tr/dunya/nyt-uss-theodore-roosevelt-ucak-gemisi-orta-dogu-daki-gorevine-basliyor/4126063",
-   "summary": "ABD ordusuna ait USS Theodore Roosevelt uçak gemisinin birkaç gün içinde Orta Doğu'ya ulaşarak görevine başlayacağı iddia edildi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T22:07:25+00:00"
-  },
-  {
-   "title": "Çekya'da yüz binlerce kişi kamu yayıncılarının finansmanının değiştirilmesini protesto etti",
-   "link": "https://www.aa.com.tr/tr/dunya/cekyada-yuz-binlerce-kisi-kamu-yayincilarinin-finansmaninin-degistirilmesini-protesto-etti/4126062",
-   "summary": "Çekya'nın başkenti Prag'da, yüz binlerce kişi, hükümetin kamu yayıncılarının finansman sistemini değiştirmeyi öngören yasa tasarısını protesto etti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T22:02:04+00:00"
-  },
-  {
-   "title": "ABD'de binlerce iç hat uçuşunun iptali ve rötarı devam ediyor",
-   "link": "https://www.bbc.com/turkce/articles/cqx2wyd99w13o?at_medium=RSS&at_campaign=rss",
-   "summary": "ABD'de hava trafik kontrolündeki \"iletişim sorunu\" nedeniyle yaklaşık dört saat boyunca ülkede tüm hava trafiği durduruldu. FlightAware verilerine göre, süreçte 8.500'den fazla uçuş ertelendi ve yaklaşık 8.000 uçuş…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ba6/live/580c5210-e01a-11f1-ad34-45f8f10f7c55.jpg",
-   "published": "2026-11-15T21:47:52+00:00"
-  },
-  {
-   "title": "Türkiye UEFA Uluslar A Ligi'ni puansız tamamladı",
-   "link": "https://www.trthaber.com/haber/gundem/turkiye-uefa-uluslar-a-ligini-puansiz-tamamladi-963366.html",
-   "summary": "UEFA Uluslar A Ligi 1. Grup 6. maçında Fransa'ya 21 mağlup olan A Milli Futbol Takımımız, grup aşamasını puansız tamamladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-15T21:40:00+00:00"
-  },
-  {
    "title": "Türkiye, UEFA Uluslar Ligi'ni puansız tamamladı",
    "link": "https://www.aa.com.tr/tr/spor/turkiye-uefa-uluslar-ligini-puansiz-tamamladi/4126057",
    "summary": "UEFA Uluslar A Ligi 1. Grup altıncı ve son maçında Fransa'ya 2-1 mağlup olan A Milli Futbol Takımı, grubu puansız son sırada bitirdi.",
@@ -1107,33 +1278,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-15T21:39:22+00:00"
-  },
-  {
-   "title": "İşgal altındaki Batı Şeria'da İsrail askeri aracının çarptığı 2 Filistinli yaralandı",
-   "link": "https://www.aa.com.tr/tr/dunya/isgal-altindaki-bati-seriada-israil-askeri-aracinin-carptigi-2-filistinli-yaralandi/4126052",
-   "summary": "İşgal altındaki Batı Şeria'nın Cenin kentinde İsrail güçlerine ait askeri aracın çarpması sonucu iki Filistinli yaralandı.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T21:23:02+00:00"
-  },
-  {
-   "title": "NATO: Bir sonraki zirve Arnavutluk'ta düzenlenecek, henüz tarihi belli değil",
-   "link": "https://www.aa.com.tr/tr/dunya/nato-bir-sonraki-zirve-arnavutlukta-duzenlenecek-henuz-tarihi-belli-degil-/4126035",
-   "summary": "NATO, bir sonraki liderler zirvesinin Arnavutluk'ta düzenleneceğini, ancak zirvenin tarihinin henüz belirlenmediğini bildirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T20:35:39+00:00"
-  },
-  {
-   "title": "Batılı 4 ülke, İsrail'e Gazze'ye insani yardımların girişine izin vermesi çağrısı yaptı",
-   "link": "https://www.aa.com.tr/tr/dunya/batili-4-ulke-israile-gazzeye-insani-yardimlarin-girisine-izin-vermesi-cagrisi-yapti/4126017",
-   "summary": "Avustralya, Kanada, İtalya ve İngiltere, kış koşullarının Gazze'deki insani krizi ağırlaştırdığına dikkati çekerek, İsrail'e Gazze'ye insani yardımların girişine izin vermesi çağrısında bulundu.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T20:09:01+00:00"
   },
   {
    "title": "Trump, Şi ve Putin'den tarihi zirve: Dünya için nasıl sonuçlar çıkabilir?",
@@ -1145,51 +1289,6 @@
    "published": "2026-11-15T18:23:01+00:00"
   },
   {
-   "title": "İsrail'in ateşkese rağmen Gazze'ye düzenlediği saldırılarda son 24 saatte 4 kişi hayatını kaybetti",
-   "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-son-24-saatte-4-kisi-hayatini-kaybetti/4125977",
-   "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 24 saatte 4 kişi yaşamını yitirdi.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T17:46:18+00:00"
-  },
-  {
-   "title": "Bakan Kacır: Hedefimiz, 2030 yılına kadar 5 milyar avronun üzerinde sanayide karbonsuzlaşma yatırımını desteklemek",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-kacir-hedefimiz-2030-yilina-kadar-5-milyar-avronun-uzerinde-sanayide-karbonsuzlasma-yatirimini-desteklemek/4125972",
-   "summary": "Sanayi ve Teknoloji Bakanı Mehmet Fatih Kacır, Türkiye Sanayide Karbonsuzlaşma Yatırım Platformu'na ilişkin, \"Hedefimiz, 2030 yılına kadar 5 milyar avronun üzerinde sanayide karbonsuzlaşma yatırımını desteklemek.\"…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-15T17:34:42+00:00"
-  },
-  {
-   "title": "ABD Ulaştırma Bakanı, kesintinin ardından hava trafiğinin pazartesi gününe kadar normale dönmesini bekliyor",
-   "link": "https://www.aa.com.tr/tr/dunya/abd-ulastirma-bakani-kesintinin-ardindan-hava-trafiginin-pazartesi-gunune-kadar-normale-donmesini-bekliyor/4125966",
-   "summary": "ABD Ulaştırma Bakanı Sean Duffy, cuma günü uçuşların durdurulmasına neden olan iletişim kesintisinin ardından, ülke genelindeki hava trafiği operasyonlarının pazartesi gününe kadar normale döneceğini belirtti.",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-15T17:22:57+00:00"
-  },
-  {
-   "title": "SPK'den \"Olağanüstü Tasfiyede Halka Açık Ortaklıkların Geri Aldığı Paylara İlişkin\" açıklama",
-   "link": "https://www.aa.com.tr/tr/ekonomi/spkden-olaganustu-tasfiyede-halka-acik-ortakliklarin-geri-aldigi-paylara-iliskin-aciklama/4125941",
-   "summary": "Sermaye Piyasası Kurulu (SPK), olağanüstü tasfiyede halka açık ortaklıkların geri aldığı paylara ilişkin açıklamada bulundu.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-15T16:39:54+00:00"
-  },
-  {
-   "title": "Yeni Parti'nin ilk kurultayı: 160 kişiye çıkarılan Parti Meclisi'nde kimler var?",
-   "link": "https://www.bbc.com/turkce/articles/cwlylvd3374po?at_medium=RSS&at_campaign=rss",
-   "summary": "Yeni Parti'nin \"Türkiye Yenileniyor\" sloganıyla Ankara Spor Salonu'nda gerçekleştirdiği 1. Olağan Kurultayı'nın ikinci gününde Parti Meclisi (PM) ve 15 üyeli Yüksek Disiplin Kurulu (YDK) üyelikleri için seçim yapıldı.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f357/live/ada178a0-e0e1-11f1-8175-3108136b4191.jpg",
-   "published": "2026-11-15T15:54:42+00:00"
-  },
-  {
    "title": "Türkiye Ralli Şampiyonası'nda Kerem Kazaz, üst üste 3. kez mutlu sona ulaştı",
    "link": "https://www.aa.com.tr/tr/spor/turkiye-ralli-sampiyonasinda-kerem-kazaz-ust-uste-3-kez-mutlu-sona-ulasti/4125909",
    "summary": "Petrol Ofisi Maxima Türkiye Ralli Şampiyonası'nda Team Petrol Ofisi pilotu Red Bull sporcusu Kerem Kazaz, şampiyonluğa ulaşarak üst üste 3. kez zirveye çıktı.",
@@ -1199,15 +1298,6 @@
    "published": "2026-11-15T15:35:38+00:00"
   },
   {
-   "title": "Yörüngeden dönen Starship roketi ilk kez fırlatma rampasında tutuldu: SpaceX ne amaçlıyor?",
-   "link": "https://www.bbc.com/turkce/articles/cmdx1ydrdyppo?at_medium=RSS&at_campaign=rss",
-   "summary": "SpaceX, 22 buçuk saat süren bir uçuşun ardından dev Starship roketinin üst bölümünü ilk kez başarıyla yakaladı. Peki amaç ne, SpaceX bu fonksiyonu neden geliştirmeye çalışıyor?",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/f7be/live/5c1b5060-e077-11f1-9ec0-713bf094c3d1.png",
-   "published": "2026-11-15T14:31:58+00:00"
-  },
-  {
    "title": "Gaziantep FK, teknik direktör Volkan Demirel ile prensipte anlaştı",
    "link": "https://www.aa.com.tr/tr/spor/gaziantep-fk-teknik-direktor-volkan-demirel-ile-prensipte-anlasti/4125850",
    "summary": "Trendyol Süper Lig ekiplerinden Gaziantep FK'de başkan Memik Yılmaz, teknik direktör Volkan Demirel ile prensipte anlaştıklarını söyledi.",
@@ -1215,15 +1305,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-15T14:24:15+00:00"
-  },
-  {
-   "title": "Üreticilere ekimde 2 milyar lira hasar tazminatı ödendi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/ureticilere-ekimde-2-milyar-lira-hasar-tazminati-odendi/4125842",
-   "summary": "Tarım ve Orman Bakanı İbrahim Yumaklı, 1-31 Ekim tarihlerinde, Devlet Destekli Tarım Sigortası kapsamında ödenen 2 milyar lira hasar tazminatıyla üreticinin yanında olduklarını bildirdi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-15T14:09:27+00:00"
   },
   {
    "title": "Milli trampolin cimnastikçi Sinan Cankurt'tan tarihi madalya",
@@ -1244,13 +1325,13 @@
    "published": "2026-11-15T13:11:49+00:00"
   },
   {
-   "title": "Kütahya'da genç çift TKDK desteğiyle hayal ettikleri çiftliği kurdu",
-   "link": "https://www.aa.com.tr/tr/ekonomi/kutahyada-genc-cift-tkdk-destegiyle-hayal-ettikleri-ciftligi-kurdu/4125774",
-   "summary": "Kütahya'nın Hisarcık ilçesinde yaşayan Halil (28) ve Ayşe Nur Özçelik (26) çifti, hayalini kurdukları büyükbaş hayvan çiftliğini, Tarım ve Kırsal Kalkınmayı Destekleme Kurumunun (TKDK) sağladığı destekle kurdu.",
+   "title": "Acil durum ilan edilen Kanarya Adaları'na bir günde 1488 düzensiz göçmen geldi",
+   "link": "https://www.aa.com.tr/tr/dunya/acil-durum-ilan-edilen-kanarya-adalarina-bir-gunde-1488-duzensiz-gocmen-geldi/4125766",
+   "summary": "İspanya'nın güneybatısında göç sorunundan dolayı acil durum ilan edilen Kanarya Adaları'na, bir günde 1488 düzensiz göçmen geldiği bildirildi.",
    "source": "AA",
-   "category": "Ekonomi",
+   "category": "Dünya",
    "image": null,
-   "published": "2026-11-15T12:12:57+00:00"
+   "published": "2026-11-15T12:02:13+00:00"
   },
   {
    "title": "Yeni Mersin İdmanyurdu-Karaman FK maçı ertelendi",
@@ -1269,87 +1350,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-15T10:58:07+00:00"
-  },
-  {
-   "title": "Bakan Şimşek: Fonların tasfiyesinde, bugüne kadar 444 bin 987 kişiye 161 milyar lira ödendi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/bakan-simsek-fonlarin-tasfiyesinde-bugune-kadar-444-bin-987-kisiye-161-milyar-lira-odendi/4125708",
-   "summary": "Hazine ve Maliye Bakanı Şimşek, olağan ve olağanüstü fonların tasfiyesinde, bugüne kadar toplamda 131 fonun 119'unda, 444 bin 987 kişiye 161 milyar lira ödendiğini söyledi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-15T10:47:25+00:00"
-  },
-  {
-   "title": "OYAK 65. Yıl Koşusu, Ankara'da gerçekleştirildi",
-   "link": "https://www.aa.com.tr/tr/spor/oyak-65-yil-kosusu-ankarada-gerceklestirildi-/4125691",
-   "summary": "OYAK 65. Yıl Koşusu, Ankara'da yapıldı. Anadolu Ajansı Spor Kulübünden Hasan Hüseyin Kul, 5 kilometre kategorisinde birinci oldu.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-15T10:15:08+00:00"
-  },
-  {
-   "title": "Milli tenisçi Ergi Kırkın, Tayland’daki turnuvada şampiyon oldu",
-   "link": "https://www.aa.com.tr/tr/spor/milli-tenisci-ergi-kirkin-tayland-daki-turnuvada-sampiyon-oldu/4125683",
-   "summary": "Ergi Kırkın, 2 numaralı seribaşı olduğu Hua Hin Erkekler Tenis Turnuvası'nın finalinde 1 numaralı seribaşı Kazak Denis Yevseyev’i 2-1 yenerek şampiyonluğa ulaştı.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-15T09:58:58+00:00"
-  },
-  {
-   "title": "QNB Leasing ile Proparco'dan 75 milyon avroluk sürdürülebilir enerji anlaşması",
-   "link": "https://www.aa.com.tr/tr/ekonomi/qnb-leasing-ile-proparcodan-75-milyon-avroluk-surdurulebilir-enerji-anlasmasi/4125664",
-   "summary": "QNB Leasing, COP31 kapsamında, Fransız Kalkınma Ajansı (AFD) Grubu bünyesinde faaliyet gösteren Proparco ile Türkiye'deki sürdürülebilir enerji yatırımlarını desteklemek üzere 75 milyon avroluk finansman anlaşması…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-15T09:42:58+00:00"
-  },
-  {
-   "title": "İklim risklerine karşı sigorta sektörü \"karar masası\"nda yer almayı bekliyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/iklim-risklerine-karsi-sigorta-sektoru-karar-masasinda-yer-almayi-bekliyor/4125649",
-   "summary": "Türkiye Sigorta Birliği (TSB) Başkanı Yaşar, politika yapıcıların sigortacılığın önleyici rolünden faydalanması gerektiğini belirterek, \"İklim riskleri konuşulacaksa sigortacıların masada bulunması hatta masanın baş…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-15T09:29:57+00:00"
-  },
-  {
-   "title": "THY'den Japonya pazarı için özel reklam filmi",
-   "link": "https://www.aa.com.tr/tr/ekonomi/thyden-japonya-pazari-icin-ozel-reklam-filmi-/4125646",
-   "summary": "THY Yönetim Kurulu ve İcra Komitesi Başkanı Prof. Dr. Murat Şeker, \"Filmde, Japoncada kimi duyguları anlatan kelimeler Türkiye’nin doğasında, kültüründe ve misafirperverliğinde karşılık buluyor.\" dedi.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-15T09:27:15+00:00"
-  },
-  {
-   "title": "300 yıllık Gulliver'in Gezileri romanı neden bu kadar yanlış anlaşılıyor?",
-   "link": "https://www.bbc.com/turkce/articles/c6zjryk78z4ro?at_medium=RSS&at_campaign=rss",
-   "summary": "İlk kez 1726'da yayımlanan Jonathan Swift'in macera romanı, o günden bu yana pek çok kez kısaltıldı, değiştirildi ve uyarlandı. Peki bu eser, \"insanlardan nefret eden bir hiciv\" mi, yoksa \"fantastik bir çocuk masalı\" mı?",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/0d92/live/95911db0-dde9-11f1-b441-2b33b063138f.jpg",
-   "published": "2026-11-15T09:12:42+00:00"
-  },
-  {
-   "title": "Gençlerbirliği Kulübünün olağanüstü seçimli ve tüzük tadil genel kurulu ertelendi",
-   "link": "https://www.aa.com.tr/tr/spor/genclerbirligi-kulubunun-olaganustu-secimli-ve-tuzuk-tadil-genel-kurulu-ertelendi/4125637",
-   "summary": "",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-15T09:11:10+00:00"
-  },
-  {
-   "title": "İspanya gerçekten bir 'öpüşme ülkesi' mi?",
-   "link": "https://www.bbc.com/turkce/articles/cq36gnknx14lo?at_medium=RSS&at_campaign=rss",
-   "summary": "İspanya'da, insanların toplum içinde öpüşmesi gündelik bir manzara. Ancak ülkenin, kamusal alanda sevgi gösterilerinde bulunma konusundaki bu rahatlığı, baskı ve başkaldırıyla dolu şaşırtıcı bir geçmişi gözler önüne…",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/c076/live/68835800-ddea-11f1-9204-cdcddf7d901c.jpg",
-   "published": "2026-11-15T09:06:01+00:00"
   }
  ]
 }
