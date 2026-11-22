@@ -1,10 +1,28 @@
 {
- "updated": "2026-11-21T23:35:47.470830+00:00",
+ "updated": "2026-11-22T03:29:49.178037+00:00",
  "items": [
   {
-   "title": "Hatay'da zincirleme trafik kazası: 1 ölü 10 yaralı",
+   "title": "Bursa'da dere yatağına uçan otomobilin sürücüsüne 350 bin lira ceza kesildi",
+   "link": "https://www.trthaber.com/haber/turkiye/bursada-dere-yatagina-ucan-otomobilin-surucusune-350-bin-lira-ceza-kesildi-964107.html",
+   "summary": "Bursa'nın İnegöl ilçesinde kontrolden çıkarak dere yatağına uçan otomobil çalılara çarparak durabildi. Alkol testini reddeden ve ehliyeti daha önce alkollü araç kullanmaktan alınan sürücüye 350 bin lira ceza kesildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-22T01:36:00+00:00"
+  },
+  {
+   "title": "Muş'ta fırtına yangın merdivenini devirdi",
+   "link": "https://www.trthaber.com/haber/turkiye/musta-firtina-yangin-merdivenini-devirdi-964106.html",
+   "summary": "Muş'ta etkili olan şiddetli rüzgar nedeniyle 11 katlı binanın dış cephesindeki yangın merdiveni seyir halindeki aracın üzerine devrildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-22T00:12:00+00:00"
+  },
+  {
+   "title": "Hatay'da zincirleme trafik kazası: 1 ölü, 10 yaralı",
    "link": "https://www.trthaber.com/haber/turkiye/hatayda-zincirleme-trafik-kazasi-1-olu-10-yarali-964105.html",
-   "summary": "Hatay'ın merkez Antakya ilçesinde 5 aracın karıştığı zincirleme trafik kazasında 1 kişi öldü, 10 kişi yaralandı.",
+   "summary": "Hatay'ın merkez Antakya ilçesinde 5 aracın karıştığı zincirleme trafik kazasında 1 kişi hayatını kaybetti, 10 kişi yaralandı.",
    "source": "TRT Haber",
    "category": "Gündem",
    "image": null,
@@ -38,6 +56,15 @@
    "published": "2026-11-21T21:43:03+00:00"
   },
   {
+   "title": "Yanan ormanlık alanlar dronla atılan tohumlarla yeşertiliyor",
+   "link": "https://www.aa.com.tr/tr/gundem/yanan-ormanlik-alanlar-dronla-atilan-tohumlarla-yesertiliyor/4133270",
+   "summary": "Türkiye'de 2021'de çeşitli nedenlerle çıkan yangınlarda zarar gören alanları yeniden ağaçlandırmak amacıyla yürütülen proje kapsamında bazı illerde dron kullanılarak kızılçam ve karaçam tohumları toprakla buluşturuluyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-21T21:35:57+00:00"
+  },
+  {
    "title": "Bitcoin, sert satış dalgasının ardından yeniden 60 bin doların üzerine çıktı",
    "link": "https://www.trthaber.com/haber/dunya/bitcoin-sert-satis-dalgasinin-ardindan-yeniden-60-bin-dolarin-uzerine-cikti-964103.html",
    "summary": "Kripto türev piyasalarındaki sert satış ve tasfiye dalgasının ardından tepki alımlarıyla karşılaşan bitcoinin fiyatı yeniden 60 bin dolar kritik seviyesinin üzerine yükseldi.",
@@ -45,6 +72,42 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-21T21:35:00+00:00"
+  },
+  {
+   "title": "Aras Kargo'nun Challenge Kupası'ndaki hedefi \"finaller\"",
+   "link": "https://www.aa.com.tr/tr/spor/aras-kargonun-challenge-kupasindaki-hedefi-finaller/4133267",
+   "summary": "Vodafone Sultanlar Ligi'nde üçüncü sezonunu geçiren ve tarihinde ilk defa Avrupa kupalarında mücadele edecek Aras Kargo, kupada finalleri görmeyi hedefliyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-21T21:33:21+00:00"
+  },
+  {
+   "title": "Prostat kanserinde ölçülen tümör hacmi, yaşam süresini öngörmede önemli gösterge oldu",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/prostat-kanserinde-olculen-tumor-hacmi-yasam-suresini-ongormede-onemli-gosterge-oldu/4133266",
+   "summary": "Doç. Dr. Adem Maman'ın da yer aldığı araştırmada, prostat kanserinde toplam tümör hacmi arttıkça hastaların yaşam süresinin kısaldığı, tümör hacmi azaldıkça sağ kalım olasılığının yükseldiği 14 bine yakın hastanın…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-21T21:32:42+00:00"
+  },
+  {
+   "title": "Akademisyenler PKU hastalığının teşhisi için sardunya yaprakları kullanarak biyosensör geliştirdi",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/akademisyenler-pku-hastaliginin-teshisi-icin-sardunya-yapraklari-kullanarak-biyosensor-gelistirdi/4133265",
+   "summary": "Doç. Dr. Merve Keskin liderliğindeki ekip, kalıcı zeka geriliği ve beyin hasarına yol açabilen bir çeşit kalıtsal hastalık olan fenilketonürinin (PKU) teşhisi için sardunya bitkisinin yapraklarından yararlanarak…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-21T21:32:00+00:00"
+  },
+  {
+   "title": "Milli bocceciler yeni şampiyonluklar için birlikte çalışıyor",
+   "link": "https://www.aa.com.tr/tr/spor/milli-bocceciler-yeni-sampiyonluklar-icin-birlikte-calisiyor/4133264",
+   "summary": "Milli bocceciler Dilçin Oğuz ile Selamet Keşli, yeni şampiyonluklar için birlikte çalışıyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-21T21:31:21+00:00"
   },
   {
    "title": "Bazı illerde sağanak ve şiddetli rüzgar etkili oldu",
@@ -420,7 +483,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/trump-iranin-nukleer-silah-edinmesini-engelleyecek-kalici-bir-anlasma-yapacagini-soyledi/4133094",
    "summary": "ABD Başkanı Donald Trump, İran'ın gelecekte de nükleer silah edinmesini engelleyecek kalıcı bir anlaşma yapmayı hedeflediğini belirtti.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-21T16:17:19+00:00"
   },
@@ -434,29 +497,11 @@
    "published": "2026-11-21T16:14:06+00:00"
   },
   {
-   "title": "Japon ustalar, Kastamonu'daki bir köy okulunun yerden ısıtma sistemini yaptı",
-   "link": "https://www.aa.com.tr/tr/yasam/japon-ustalar-kastamonudaki-bir-koy-okulunun-yerden-isitma-sistemini-yapti/4133074",
-   "summary": "Japon marangoz ve taş ustaları tarafından Kastamonu'nun Cide ilçesindeki bir köy okuluna yerden ısıtma sistemi yapıldı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-21T15:47:18+00:00"
-  },
-  {
-   "title": "Ankara'da gök gürültülü sağanak ve dolu etkili oldu",
-   "link": "https://www.aa.com.tr/tr/gundem/ankarada-gok-gurultulu-saganak-ve-dolu-etkili-oldu/4133072",
-   "summary": "",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-21T15:43:42+00:00"
-  },
-  {
    "title": "Çin'in Çinghay eyaletinde 5,6 büyüklüğünde deprem",
    "link": "https://www.aa.com.tr/tr/dunya/cinin-cinghay-eyaletinde-5-6-buyuklugunde-deprem/4133069",
    "summary": "Çin'in kuzeybatısındaki Çinghay eyaletinde 5,6 büyüklüğünde deprem meydana geldi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-21T15:37:19+00:00"
   },
@@ -810,24 +855,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-21T10:39:00+00:00"
-  },
-  {
-   "title": "Hititlerden Cumhuriyete Anadolu'nun doğa mirası COP31'de",
-   "link": "https://www.trthaber.com/haber/gundem/hititlerden-cumhuriyete-anadolunun-doga-mirasi-cop31de-964056.html",
-   "summary": "Türkiye'nin ev sahipliğinde Antalya'da düzenlenen Birleşmiş Milletler BM İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı'nda COP31 kurulan Anadolu Hazineleri Bahçesi'nde, Hititlerden Cumhuriyet dönemine…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-21T10:36:00+00:00"
-  },
-  {
-   "title": "Emine Erdoğan'dan Kadın Kooperatifleri Fuarı'na ilişkin paylaşım",
-   "link": "https://www.trthaber.com/haber/gundem/emine-erdogandan-kadin-kooperatifleri-fuarina-iliskin-paylasim-964055.html",
-   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın eşi Emine Erdoğan, Türkiye Yüzyılı'nda Kadın Emeğinin Güçlendirilmesi Kadın Kooperatifleri Fuarı'na ilişkin paylaşım yaptı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-21T10:31:00+00:00"
   },
   {
    "title": "FBI'ın suç kayıtları veri tabanında güvenlik ihlali şüphesi",
@@ -1323,33 +1350,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-20T13:45:44+00:00"
-  },
-  {
-   "title": "UEFA Uluslar Ligi'nde çeyrek final ve play-off eşleşmeleri belli oldu",
-   "link": "https://www.aa.com.tr/tr/spor/uefa-uluslar-liginde-ceyrek-final-ve-play-off-eslesmeleri-belli-oldu/4132234",
-   "summary": "UEFA Uluslar Ligi'nde play-off ve çeyrek finallerin ilk maçları 25-27 Mart, rövanşları ise 28-30 Mart 2027'de oynanacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-20T13:37:42+00:00"
-  },
-  {
-   "title": "60 saniyede ekonomide bugün (20 Kasım 2026)",
-   "link": "https://www.aa.com.tr/tr/ekonomi/60-saniyede-ekonomide-bugun-20-kasim-2026/4132170",
-   "summary": "Bir bakışta ekonomide günün gelişmeleri. Halkbank'ın katkılarıyla…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-20T13:00:25+00:00"
-  },
-  {
-   "title": "Füzyon enerjisi küresel enerji rekabetinde stratejik alan olarak öne çıkıyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/fuzyon-enerjisi-kuresel-enerji-rekabetinde-stratejik-alan-olarak-one-cikiyor/4132155",
-   "summary": "Dünyada artan elektrik talebi, enerji arz güvenliğine ilişkin kaygılar ve düşük karbonlu kaynaklara yönelim, nükleer füzyonu öne çıkarırken, bu alandaki gelişmeler ülkeler arasındaki bilimsel ve endüstriyel rekabete…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-20T12:42:49+00:00"
   }
  ]
 }
