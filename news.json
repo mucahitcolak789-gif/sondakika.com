@@ -1,6 +1,312 @@
 {
- "updated": "2026-11-26T19:26:38.314194+00:00",
+ "updated": "2026-11-27T02:21:31.100856+00:00",
  "items": [
+  {
+   "title": "Beşiktaş, İsrail ekibi Hapoel'i Batum'daki maçta 2-1'le geçti",
+   "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
+   "summary": "Beşiktaş, UEFA Avrupa Ligi'nde beşinci maçında İsrail ekibi Hapoel ile karşılaştı. Siyah-beyazlılar Olaitan ve Kökçü'nün golleriyle maçtan 2-1 galip ayrıldı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/7a9a/live/c5a8efb0-e9c8-11f1-aab6-291bfb79f59f.jpg",
+   "published": "2026-11-27T01:29:04+00:00"
+  },
+  {
+   "title": "Küresel cihatçılık başarısız mı oldu, yoksa sadece şekil mi değiştiriyor?",
+   "link": "https://www.bbc.com/turkce/articles/c51k9z72nlrdo?at_medium=RSS&at_campaign=rss",
+   "summary": "Cihatçı gruplar küresel emelleri yerine yerel sorunlara odaklanıyor gibi görünüyor. Peki, bu gerçek bir değişimin işareti mi?",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ae31/live/2d66b8d0-e8d9-11f1-99a1-253766e7ad8b.jpg",
+   "published": "2026-11-27T01:02:13+00:00"
+  },
+  {
+   "title": "DEHB ve otizm teşhisinden memnun olmayanlar: Yeniden muayene talep edenlerin sayısı artıyor",
+   "link": "https://www.bbc.com/turkce/articles/cm8940051ddwo?at_medium=RSS&at_campaign=rss",
+   "summary": "Pek çok insan DEHB veya otizm teşhisini kendilerini doğrulayan ve onlara yardımcı bir süreç olarak görürken İsveç'te devlet destekli bir klinik, bu teşhisin kendilerini yansıtmadığını düşünen kişileri yeniden muayene…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/6add/live/9161e4a0-e9aa-11f1-859a-37130cd3a1d7.jpg",
+   "published": "2026-11-27T00:46:40+00:00"
+  },
+  {
+   "title": "Husilerin saldırılarını artırdığı Suudi başkenti Riyad'da neler yaşanıyor?",
+   "link": "https://www.bbc.com/turkce/articles/crjwj6nlx3peo?at_medium=RSS&at_campaign=rss",
+   "summary": "Riyad gibi Suudi şehirleri, Husilerin düzenlediği insansız hava aracı ve füze saldırılarına son dönemde düzenli olarak maruz kalıyor. Saldırılara rağmen, Riyad'daki pazarlar ve restoranlar hareketliliğini koruyor;…",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/56c4/live/551558a0-e96f-11f1-99a1-253766e7ad8b.jpg",
+   "published": "2026-11-27T00:31:11+00:00"
+  },
+  {
+   "title": "BDDK Başkanlığı'na Yusuf Kenan Bağır atandı",
+   "link": "https://www.bbc.com/turkce/articles/c5742lzd1m20o?at_medium=RSS&at_campaign=rss",
+   "summary": "Şahap Kavcıoğlu'nun fon kriziyle ilgili hakkında çıkan iddialar nedeniyle istifa etmesinin ardından Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı olarak Yusuf Kenan Bağır atandı.",
+   "source": "BBC Türkçe",
+   "category": "Dünya",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a541/live/74090930-e9f3-11f1-9c56-b1b6306ef9e3.jpg",
+   "published": "2026-11-27T00:29:34+00:00"
+  },
+  {
+   "title": "Bakanlık ve kamu kurumlarına ilişkin atama ile Yargıtay üyeliği kararları Resmi Gazete'de",
+   "link": "https://www.aa.com.tr/tr/gundem/bakanlik-ve-kamu-kurumlarina-iliskin-atama-ile-yargitay-uyeligi-kararlari-resmi-gazetede/4139867",
+   "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan'ın imzasıyla bazı bakanlık ve kamu kurumlarına ilişkin atama kararları Resmi Gazete'de yayımlanırken, Hakimler ve Savcılar Kurulu (HSK) Genel Kurulunca yapılan seçim sonucunda 5 isim…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-27T00:25:58+00:00"
+  },
+  {
+   "title": "Yargıtay üyeliklerine seçme kararı Resmi Gazete'de",
+   "link": "https://www.trthaber.com/haber/turkiye/yargitay-uyeliklerine-secme-karari-resmi-gazetede-964602.html",
+   "summary": "Hakimler ve Savcılar Kurulu HSK Başkanlığı Genel Kurulunca, Yargıtay'daki 5 üyelik için yapılan seçime yönelik karar Resmi Gazete'de yayımlandı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-27T00:20:00+00:00"
+  },
+  {
+   "title": "Arap Koalisyonu: Husilerin Suudi Arabistan'ın Güney bölgesine fırlattığı İHA imha edildi",
+   "link": "https://www.aa.com.tr/tr/dunya/arap-koalisyonu-husilerin-suudi-arabistanin-guney-bolgesine-firlattigi-iha-imha-edildi/4139861",
+   "summary": "Yemen'de meşru hükümeti destekleyen Suudi Arabistan öncülüğündeki Arap Koalisyonu, Yemen'deki İran destekli Husilerin Güney bölgesine fırlattığı bir insansız hava aracının (İHA) hava savunma sistemleriyle imha…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T23:53:38+00:00"
+  },
+  {
+   "title": "Bankacılık Düzenleme ve Denetleme Kurumunun Başkanlığına Yusuf Kenan Bağır atandı",
+   "link": "https://www.aa.com.tr/tr/gundem/bankacilik-duzenleme-ve-denetleme-kurumunun-baskanligina-yusuf-kenan-bagir-atandi/4139858",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T23:34:47+00:00"
+  },
+  {
+   "title": "Trabzonspor Bulgaristan'dan galibiyetle dönüyor",
+   "link": "https://www.trthaber.com/haber/gundem/trabzonspor-bulgaristandan-galibiyetle-donuyor-964600.html",
+   "summary": "Trabzonspor, UEFA Konferans Ligi'nde CSKA Sofya'yı 21 yendi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:57:00+00:00"
+  },
+  {
+   "title": "Filistin bayrağı açan Beşiktaşlı taraftarlar: Tek yaptığımız özgür olan bir Filistin devletinin bayrağını açmak",
+   "link": "https://www.aa.com.tr/tr/spor/filistin-bayragi-acan-besiktasli-taraftarlar-tek-yaptigimiz-ozgur-olan-bir-filistin-devletinin-bayragini-acmak/4139829",
+   "summary": "UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş'ın İsrail ekibi Hapoel Beer-Sheva'yı 2-1 yendiği karşılaşma sırasında Filistin bayrağı açtıkları için müdahale edilen Beşiktaş taraftarları Selçuk Maz ve Emre Atak…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:45:54+00:00"
+  },
+  {
+   "title": "Fransız haber ajansı AFP, siber saldırıya uğradı",
+   "link": "https://www.trthaber.com/haber/dunya/fransiz-haber-ajansi-afp-siber-saldiriya-ugradi-964599.html",
+   "summary": "Fransız haber ajansı Agence FrancePresse'in AFP siber saldırıya uğradığı öğrenildi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:39:00+00:00"
+  },
+  {
+   "title": "Beşiktaş Kulübü Başkanı Adalı: Gürcistan polisinin çok dengesiz ve şuursuzca, orantısızca bir müdahalesi vardı",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-kulubu-baskani-adali-gurcistan-polisinin-cok-dengesiz-ve-suursuzca-orantisizca-bir-mudahalesi-vardi/4139824",
+   "summary": "Beşiktaş Kulübü Başkanı Serdal Adalı, Gürcistan polisinin siyah-beyazlı taraftarlara müdahalesinin \"dengesiz\" ve \"şuursuzca\" olduğunu söyledi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:34:30+00:00"
+  },
+  {
+   "title": "Süper ve Godzilladan sonra Mega El Nino: Gerçek etkisi ne?",
+   "link": "https://www.trthaber.com/haber/dunya/super-ve-godzilladan-sonra-mega-el-nino-gercek-etkisi-ne-964598.html",
+   "summary": "Pasifik Okyanusu'ndaki olağan dışı ısınma sonrası sosyal medyada \"Süper\" ve \"Godzilla\" ifadelerinin ardından gündeme gelen \"Mega El Nino\" adlandırmasını değerlendiren bilim insanları, resmi sınıflandırmada yeni bir…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:21:00+00:00"
+  },
+  {
+   "title": "ABDde 800 binden fazla kişi elektriksiz kaldı",
+   "link": "https://www.trthaber.com/haber/dunya/abdde-800-binden-fazla-kisi-elektriksiz-kaldi-964597.html",
+   "summary": "ABDnin doğu eyaletlerini etkisi altına alan şiddetli fırtına, su baskınlarına ve geniş çaplı elektrik kesintilerine yol açarken, hava ulaşımını durma noktasına getirdi ve geleneksel Macy's Şükran Günü Geçit Töreninin…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:19:00+00:00"
+  },
+  {
+   "title": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Elemeleri'nde İtalya'ya mağlup oldu",
+   "link": "https://www.aa.com.tr/tr/spor/a-milli-erkek-basketbol-takimi-2027-dunya-kupasi-elemelerinde-italyaya-maglup-oldu/4139814",
+   "summary": "A Milli Erkek Basketbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri 2. Tur J Grubu'ndaki üçüncü maçta konuk olduğu İtalya'ya 86-72 yenildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:07:34+00:00"
+  },
+  {
+   "title": "12 Dev Adam İtalya'ya mağlup oldu",
+   "link": "https://www.trthaber.com/haber/gundem/12-dev-adam-italyaya-maglup-oldu-964596.html",
+   "summary": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Elemeleri'nde İtalya'ya 8672 mağlup oldu.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T21:06:00+00:00"
+  },
+  {
+   "title": "Trabzonspor, Bulgaristan'dan 3 puanla dönüyor",
+   "link": "https://www.aa.com.tr/tr/spor/trabzonspor-bulgaristandan-3-puanla-donuyor-/4139806",
+   "summary": "Trabzonspor, UEFA Konferans Ligi'nde uzatma dakikalarında attığı golle CSKA Sofya'yı deplasmanda 2-1 yendi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:59:12+00:00"
+  },
+  {
+   "title": "Yıldız milli tekvandocular, Avrupa Şampiyonası'nın ilk gününde 3 bronz madalya kazandı",
+   "link": "https://www.aa.com.tr/tr/spor/yildiz-milli-tekvandocular-avrupa-sampiyonasinin-ilk-gununde-3-bronz-madalya-kazandi/4139790",
+   "summary": "Milli tekvandocular, Romanya'nın başkenti Bükreş'te düzenlenen Avrupa Yıldızlar Tekvando Şampiyonası'nın ilk gününde 3 bronz madalya kazandı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:36:51+00:00"
+  },
+  {
+   "title": "Kulüpler Birliğinden Beşiktaş-Hapoel Beer-Sheva maçında yaşanan olaylara tepki",
+   "link": "https://www.aa.com.tr/tr/spor/kulupler-birliginden-besiktas-hapoel-beer-sheva-macinda-yasanan-olaylara-tepki/4139780",
+   "summary": "Kulüpler Birliği Vakfı, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva arasında Gürcistan'ın Batum kentinde oynanan mücadelede yaşanan olayların ardından tepki mesajı yayımladı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:26:25+00:00"
+  },
+  {
+   "title": "Milli takıma seçilen down sendromlu Hamza Dönmez'in hedefi masa tenisinde uluslararası başarı",
+   "link": "https://www.aa.com.tr/tr/spor/milli-takima-secilen-down-sendromlu-hamza-donmezin-hedefi-masa-tenisinde-uluslararasi-basari/4139779",
+   "summary": "Down sendromlu masa tenisi sporcusu Hamza Dönmez, Türkiye şampiyonluklarının ardından milli takıma seçilerek uluslararası başarılar için çalışmalarını sürdürüyor.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:25:19+00:00"
+  },
+  {
+   "title": "ABD'de olumsuz hava şartları, doğu kıyılarını etkisi altına aldı",
+   "link": "https://www.aa.com.tr/tr/dunya/abdde-olumsuz-hava-sartlari-dogu-kiyilarini-etkisi-altina-aldi/4139778",
+   "summary": "ABD'nin doğu kıyılarındaki şiddetli yağış ve rüzgarın hayatı olumsuz etkilediği belirtildi.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:21:04+00:00"
+  },
+  {
+   "title": "Beşiktaş, işgalci İsrail'in takımını yendi",
+   "link": "https://www.trthaber.com/haber/gundem/besiktas-isgalci-israilin-takimini-yendi-964595.html",
+   "summary": "Beşiktaş, UEFA Avrupa Ligi'nin beşinci haftasında Gürcistan'da ağırladığı işgalci İsrail ekibi Hapoel BeerSheva'yı 21 yendi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:16:00+00:00"
+  },
+  {
+   "title": "Gürcistan'da Beşiktaş taraftarına polis müdahalesi",
+   "link": "https://www.trthaber.com/haber/gundem/gurcistanda-besiktas-taraftarina-polis-mudahalesi-964594.html",
+   "summary": "UEFA Avrupa Ligi 5'inci hafta müsabakasında Beşiktaş ile İsrail ekibi Hapoel BeerSheva arasında Gürcistan'ın Batum kentindeki Batumi Dinamo Stadyumu'nda oynanan karşılaşma, tribünlerde yaşanan olaylar ve polis…",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:08:00+00:00"
+  },
+  {
+   "title": "Yemen Sanayi ve Ticaret Bakanı Eşvel: Türkiye ile ticaret hacmimiz 2025'te 732 milyon doları aştı",
+   "link": "https://www.aa.com.tr/tr/ekonomi/yemen-sanayi-ve-ticaret-bakani-esvel-turkiye-ile-ticaret-hacmimiz-2025te-732-milyon-dolari-asti/4139715",
+   "summary": "Yemen Sanayi ve Ticaret Bakanı Muhammed el-Eşvel, Türkiye ile Yemen arasındaki ticaret hacminin 2025 yılında 732 milyon doları aştığını, iki ülke arasında ortak bir iş insanları konseyi kurulmasının planlandığını…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T20:06:53+00:00"
+  },
+  {
+   "title": "Gençlik ve Spor Bakanı Bak'tan Gürcistan'da yaşanan olaylara tepki",
+   "link": "https://www.trthaber.com/haber/gundem/genclik-ve-spor-bakani-baktan-gurcistanda-yasanan-olaylara-tepki-964593.html",
+   "summary": "Gençlik ve Spor Bakanı Osman Aşkın Bak, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel BeerSheva arasında Gürcistan'ın Batum şehrinde oynanan karşılaşmada yaşanan olaylara tepki gösterdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:50:00+00:00"
+  },
+  {
+   "title": "Bakan Çiftçi, Gürcü mevkidaşı ile görüştü",
+   "link": "https://www.trthaber.com/haber/gundem/bakan-ciftci-gurcu-mevkidasi-ile-gorustu-964592.html",
+   "summary": "İçişleri Bakanı Mustafa Çiftçi, Gürcistan İçişleri Bakanı Sulkhan Tamazaşvili ile Beşiktaş'ın Batum'da oynadığı karşılaşmada yaşanan olaylarla ilgili görüştü.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:46:00+00:00"
+  },
+  {
+   "title": "Beşiktaş: Cumhurbaşkanı Erdoğan olayı yakından takip ettiğini ifade etti",
+   "link": "https://www.trthaber.com/haber/gundem/besiktas-cumhurbaskani-erdogan-olayi-yakindan-takip-ettigini-ifade-etti-964591.html",
+   "summary": "Beşiktaş Kulübü, UEFA Avrupa Ligi'nin beşinci haftasında İsrail ekibi Hapoel BeerSheva ile Gürcistan'ın Batum kentinde oynanan karşılaşmada siyahbeyazlı taraftarlara yönelik polis şiddetine dair açıklama yaptı.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:40:00+00:00"
+  },
+  {
+   "title": "Kosova'da T3 Vakfı desteğiyle İHA inovasyon merkezi açılması planlanıyor",
+   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/kosovada-t3-vakfi-destegiyle-iha-inovasyon-merkezi-acilmasi-planlaniyor/4139633",
+   "summary": "Kosova Başbakanı Kurti, T3 Vakfı ile Podujeva Belediyesi arasında imzalanan anlaşma kapsamında, kentte insansız hava araçlarına (İHA) odaklanan bilim ve teknoloji inovasyon merkezinin gelecek yıl faaliyete…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:37:36+00:00"
+  },
+  {
+   "title": "Hamas: İsrail, ateşkese rağmen Gazze'de yaklaşık 1700 Filistinliyi öldürdü",
+   "link": "https://www.trthaber.com/haber/dunya/hamas-israil-ateskese-ragmen-gazzede-yaklasik-1700-filistinliyi-oldurdu-964590.html",
+   "summary": "Hamas, İsrail'in Gazze Şeridi'nde ateşkese rağmen sürdürdüğü saldırılarda yaklaşık 1700 Filistinliyi öldürdüğünü ve halkı güneye sürmeyi hedeflediğini bildirdi.",
+   "source": "TRT Haber",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:35:00+00:00"
+  },
+  {
+   "title": "Süper Lig kulüpleri, Beşiktaş-Hapoel Beer Sheva maçındaki polis şiddetine tepki gösterdi",
+   "link": "https://www.aa.com.tr/tr/spor/super-lig-kulupleri-besiktas-hapoel-beer-sheva-macindaki-polis-siddetine-tepki-gosterdi/4139624",
+   "summary": "Trendyol Süper Lig kulüpleri, UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva arasında Gürcistan'ın Batum şehrinde oynanan müsabakada siyah-beyazlı taraftarlara yönelik polis…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:30:06+00:00"
+  },
+  {
+   "title": "TCMB'den Türk lirası likidite yönetimi ve zorunlu karşılıklara ilişkin yeni adımlar",
+   "link": "https://www.aa.com.tr/tr/ekonomi/tcmbden-turk-lirasi-likidite-yonetimi-ve-zorunlu-karsiliklara-iliskin-yeni-adimlar/4139619",
+   "summary": "Türkiye Cumhuriyet Merkez Bankası (TCMB), Türk lirası likidite yönetimi ve makroihtiyati çerçeveye ilişkin yeni kararlar aldı.",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:27:26+00:00"
+  },
+  {
+   "title": "İletişim Başkanı Duran'dan Avrupa Parlamentosu'nun Türkiye-Libya mutabakatına ilişkin kararına tepki",
+   "link": "https://www.aa.com.tr/tr/gundem/iletisim-baskani-durandan-avrupa-parlamentosunun-turkiye-libya-mutabakatina-iliskin-kararina-tepki/4139616",
+   "summary": "İletişim Başkanı Duran, Avrupa Parlamentosu'nun Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul ettiği kararın hukuki dayanaktan yoksun…",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:25:28+00:00"
+  },
+  {
+   "title": "Beşiktaş, İsrail ekibi Hapoel Beer-Sheva'yı 2 golle geçti",
+   "link": "https://www.aa.com.tr/tr/spor/besiktas-israil-ekibi-hapoel-beer-shevayi-2-golle-gecti/4139614",
+   "summary": "",
+   "source": "AA",
+   "category": "Gündem",
+   "image": null,
+   "published": "2026-11-26T19:22:43+00:00"
+  },
   {
    "title": "Bakan Fidan, Gürcü mevkidaşı ile görüştü",
    "link": "https://www.trthaber.com/haber/gundem/bakan-fidan-gurcu-mevkidasi-ile-gorustu-964589.html",
@@ -9,15 +315,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-26T19:19:00+00:00"
-  },
-  {
-   "title": "Beşiktaş ile İsrail ekibi Hapoel arasındaki maç verilen aranın ardından devam ediyor",
-   "link": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo?at_medium=RSS&at_campaign=rss",
-   "summary": "Beşiktaş, UEFA Avrupa Ligi'nde beşinci maçında İsrail ekibi Hapoel ile karşılaşıyor. Tribünlerde polisin müdahalesi sonrası çıkan olaylar nedeniyle müsabakaya 25. dakikada ara verildi.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/9cc0/live/6bbbe3d0-e9c9-11f1-aab6-291bfb79f59f.jpg",
-   "published": "2026-11-26T19:13:31+00:00"
   },
   {
    "title": "İran Dışişleri Bakanı Arakçi, Kuveytli mevkidaşıyla görüşmesinde İHA saldırısı iddiasını reddetti",
@@ -34,15 +331,6 @@
    "summary": "UEFA Avrupa Ligi'nde Beşiktaş-Hapoel Beer-Sheva karşılaşması, tribün olayları nedeniyle verilen aranın ardından devam ederken, Gürcistan güvenlik güçlerinin Beşiktaş taraftarlarına müdahalesi tepki çekti.",
    "source": "AA",
    "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T18:57:22+00:00"
-  },
-  {
-   "title": "Yaşanan olaylardan dolayı duran Beşiktaş-Hapoel Beer-Sheva maçı kaldığı yerden devam etti",
-   "link": "https://www.aa.com.tr/tr/spor/yasanan-olaylardan-dolayi-duran-besiktas-hapoel-beer-sheva-maci-kaldigi-yerden-devam-etti/4139601",
-   "summary": "UEFA Avrupa Ligi'nin beşinci haftasında Beşiktaş ile İsrail ekibi Hapoel Beer-Sheva arasında oynanan karşılaşma, tribündeki olaylar nedeniyle durduktan sonra kaldığı yerden devam etti.",
-   "source": "AA",
-   "category": "Spor",
    "image": null,
    "published": "2026-11-26T18:57:22+00:00"
   },
@@ -99,15 +387,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-26T18:27:00+00:00"
-  },
-  {
-   "title": "Fon krizinde ortak basın toplantısı: 'İddianame çıktığı zaman bütün isimleri kamuoyu duyacak'",
-   "link": "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in fon soruşturmasına ilişkin ortak basın toplantısı düzenledi.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/ab46/live/0d263ba0-e9c3-11f1-99a1-253766e7ad8b.png",
-   "published": "2026-11-26T18:24:16+00:00"
   },
   {
    "title": "İddianame, ödemeler: Fon krizi ortak basın toplantısından neler öğrendik?",
@@ -200,15 +479,6 @@
    "published": "2026-11-26T17:12:00+00:00"
   },
   {
-   "title": "Ahmet Uluçay'ın \"Karpuz Kabuğundan Gemiler Yapmak\" filmi televizyonda yayımlanacak",
-   "link": "https://www.aa.com.tr/tr/kultur/ahmet-ulucayin-karpuz-kabugundan-gemiler-yapmak-filmi-televizyonda-yayimlanacak/4139501",
-   "summary": "Yönetmen Ahmet Uluçay'ın 17'nci ölüm yıl dönümü dolayısıyla \"Karpuz Kabuğundan Gemiler Yapmak\" filmi 30 Kasım'da Kanal D ve D-Smart'ın sinema kanalı MovieSmart Türk'te izleyiciyle buluşacak.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T17:01:44+00:00"
-  },
-  {
    "title": "İstanbul'da toprak kayması nedeniyle bir bina boşaltıldı",
    "link": "https://www.trthaber.com/haber/turkiye/istanbulda-toprak-kaymasi-nedeniyle-bir-bina-bosaltildi-964579.html",
    "summary": "İstanbul Zeytinburnu'nda inşaat çalışması sırasında meydana gelen toprak kayması nedeniyle bitişikteki 4 katlı bina tahliye edildi.",
@@ -231,7 +501,7 @@
    "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-gurescilerden-avrupa-sampiyonasinda-9u-altin-olmak-uzere-20-madalya/4139469",
    "summary": "İşitme engelli milli güreşçiler, Ermenistan'da düzenlenen 2026 Avrupa Güreş Şampiyonası'nda 20 ve 17 yaş altı grekoromen stilde 9 altın, 8 gümüş ve 3 bronz madalya olmak üzere toplam 20 madalya kazandı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Spor",
    "image": null,
    "published": "2026-11-26T16:44:21+00:00"
   },
@@ -249,7 +519,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/pariste-binlerce-kisi-egitime-daha-fazla-butce-ayrilmasi-talebiyle-gosteri-duzenledi/4139415",
    "summary": "Fransa'nın başkenti Paris'te binlerce kişi, hükümetin eğitime daha fazla bütçe ayırması talebiyle gösteri yaptı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-26T16:34:12+00:00"
   },
@@ -272,20 +542,11 @@
    "published": "2026-11-26T16:16:00+00:00"
   },
   {
-   "title": "Cumhurbaşkanı Yardımcısı Yılmaz: Fon soruşturmasında bundan sonraki süreç nihai tasfiyeye yönelik bir dönem olacak",
-   "link": "https://www.aa.com.tr/tr/gundem/cumhurbaskani-yardimcisi-yilmaz-fon-sorusturmasinda-bundan-sonraki-surec-nihai-tasfiyeye-yonelik-bir-donem-olacak/4139361",
-   "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, fon soruşturmasına ilişkin, \"Bundan sonraki süreç bazı istisnai haller dışında olağan tasfiye kurallarına göre nihai tasfiyeye yönelik bir dönem olacaktır.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T16:15:03+00:00"
-  },
-  {
    "title": "Rusya'daki Slavyansk petrol rafinerisi İHA saldırısında ağır hasar gördü",
    "link": "https://www.aa.com.tr/tr/dunya/rusyadaki-slavyansk-petrol-rafinerisi-iha-saldirisinda-agir-hasar-gordu/4139357",
    "summary": "Rusya'nın Krasnodar bölgesinde bulunan Slavyansk petrol rafinerisinin insansız hava aracı (İHA) saldırısında ağır hasar gördüğü ve tesiste petrol sızıntısı yaşandığı bildirildi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-26T16:10:42+00:00"
   },
@@ -308,24 +569,6 @@
    "published": "2026-11-26T16:04:00+00:00"
   },
   {
-   "title": "Türkiye'den AP Genel Kurulu'nda Türkiye-Libya deniz yetki alanı anlaşmasına ilişkin alınan karara tepki",
-   "link": "https://www.aa.com.tr/tr/gundem/turkiyeden-ap-genel-kurulunda-turkiye-libya-deniz-yetki-alani-anlasmasina-iliskin-alinan-karara-tepki/4139353",
-   "summary": "Dışişleri Bakanlığı, AP Genel Kurulu'nda, Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına dair Mutabakat Muhtırası hakkında kabul edilen, \"taraflı ve mesnetsiz iddialar içeren…",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T16:03:54+00:00"
-  },
-  {
-   "title": "Gerard Depardieu, aktris Arnould'ya tecavüz suçlamasıyla yargılanacak",
-   "link": "https://www.bbc.com/turkce/articles/cqrmg478l99yo?at_medium=RSS&at_campaign=rss",
-   "summary": "Fransız sinemasının önde gelen isimlerinden Gerard Depardieu, aktris Charlotte Arnould'ya sekiz yıl önce tecavüz ettiği iddiasıyla yargılanacak. Davada 7 Ağustos 2018 günü yaşanan olaylar dinlenecek.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/81d1/live/0c9dec10-e9b3-11f1-859a-37130cd3a1d7.png",
-   "published": "2026-11-26T16:02:06+00:00"
-  },
-  {
    "title": "Dışişleri Bakanlığı'ndan Avrupa Parlamentosu'nun Libya kararına tepki",
    "link": "https://www.trthaber.com/haber/gundem/disisleri-bakanligindan-avrupa-parlamentosunun-libya-kararina-tepki-964573.html",
    "summary": "Dışişleri Bakanlığı, Avrupa Parlamentosu AP Genel Kurulu'nda, Türkiye ile Libya arasında 2019'da imzalanan Deniz Yetki Alanlarının Sınırlandırılmasına İlişkin Mutabakat Muhtırası hakkında kabul edilen, \"taraflı ve…",
@@ -335,47 +578,20 @@
    "published": "2026-11-26T16:01:00+00:00"
   },
   {
-   "title": "Sağlık Bakanlığından İlk Defa ve Yeniden Atama Kurası'na ilişkin açıklama",
-   "link": "https://www.aa.com.tr/tr/gundem/saglik-bakanligindan-ilk-defa-ve-yeniden-atama-kurasina-iliskin-aciklama/4139352",
-   "summary": "Sağlık Bakanlığı, 2026 Yılı 3. Dönem İlk Defa ve Yeniden Atama Kurası'nın tamamlanmasının ardından, ekranda adı \"İŞ\", soyadı \"YERİ\" olarak görünen kaydın incelendiğini bildirdi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T16:00:15+00:00"
-  },
-  {
-   "title": "\"İsmail Sarıkaya Sarı Kırmızı Kareler\" fotoğraf yarışmasının ödül töreni yapıldı",
-   "link": "https://www.aa.com.tr/tr/kultur/ismail-sarikaya-sari-kirmizi-kareler-fotograf-yarismasinin-odul-toreni-yapildi/4139345",
-   "summary": "1905 Galatasaraylı Yönetici ve İş İnsanları Derneği (1905 GSYİAD) tarafından bu yıl 24. kez düzenlenen \"İsmail Sarıkaya Sarı Kırmızı Kareler\" fotoğraf yarışmasının ödül töreni gerçekleştirildi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T15:56:42+00:00"
-  },
-  {
    "title": "Trump, NATO Genel Sekreteri Rutte ile ülkesinin silah sistemleri ve Putin ile görüşmesini ele aldı",
    "link": "https://www.aa.com.tr/tr/dunya/trump-nato-genel-sekreteri-rutte-ile-ulkesinin-silah-sistemleri-ve-putin-ile-gorusmesini-ele-aldi/4139344",
    "summary": "ABD Başkanı Donald Trump, NATO Genel Sekreteri Mark Rutte ile görüşmesinde, Amerikan savunma şirketlerinin ürettiği silah sistemleri ve Rusya Devlet Başkanı Vladimir Putin'le Çin’de gerçekleştirdiği görüşmeleri ele…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-26T15:56:11+00:00"
-  },
-  {
-   "title": "Bakan Çiftçi: Milli birlik ve kardeşliğimizi tahkim etmek için yürüttüğümüz faaliyetleri kararlılıkla sürdüreceğiz",
-   "link": "https://www.aa.com.tr/tr/gundem/bakan-ciftci-milli-birlik-ve-kardesligimizi-tahkim-etmek-icin-yuruttugumuz-faaliyetleri-kararlilikla-surdurecegiz/4139332",
-   "summary": "İçişleri Bakanı Mustafa Çiftçi, \"Milli birlik ve kardeşliğimizi tahkim etmek, vatandaşlarımızın huzur ve güvenliğini sağlamak için yürüttüğümüz çok boyutlu faaliyetleri kararlılıkla sürdüreceğiz.\" ifadesini kullandı.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T15:43:50+00:00"
   },
   {
    "title": "Hamas lideri Hayye: Ateşkesle birlikte saldırı ve ablukanın devam etmesi kabul edilemez",
    "link": "https://www.aa.com.tr/tr/dunya/hamas-lideri-hayye-ateskesle-birlikte-saldiri-ve-ablukanin-devam-etmesi-kabul-edilemez/4139331",
    "summary": "Hamas Siyasi Büro Başkanı Halil el-Hayye, Gazze'de ateşkesle birlikte saldırı ve ablukanın da sürmesinin kabul edilemez olduğunu, bu ihlallere karşı atılacak adımlara ilişkin Filistinli gruplarla görüşmeler…",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-26T15:43:36+00:00"
   },
@@ -384,7 +600,7 @@
    "link": "https://www.aa.com.tr/tr/dunya/israilin-ateskese-ragmen-gazzeye-duzenledigi-saldirilarda-1-kisi-hayatini-kaybetti/4139327",
    "summary": "İsrail ordusunun ateşkese rağmen Gazze Şeridi'nin kuzeyinde düzenlediği hava saldırısında 1 Filistinli yaşamını yitirdi.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Dünya",
    "image": null,
    "published": "2026-11-26T15:37:26+00:00"
   },
@@ -393,7 +609,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/avrupa-merkez-bankasi-baskanligina-ispanyol-ekonomist-hernandez-de-cosun-getirilmesinde-uzlasi-saglandi/4139322",
    "summary": "Avro Bölgesi ülkelerinin liderleri, Avrupa Merkez Bankası (ECB) Başkanlığına İspanya Merkez Bankasının eski Başkanı Pablo Hernandez de Cos'un getirilmesi konusunda anlaştı.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-26T15:33:52+00:00"
   },
@@ -432,15 +648,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-26T15:16:00+00:00"
-  },
-  {
-   "title": "TÜME Vakfı Mütevelli Heyeti Başkanı Karagöz: Biz TEKNOFEST gençliğinin ta kendisiyiz",
-   "link": "https://www.aa.com.tr/tr/bilim-teknoloji/tume-vakfi-mutevelli-heyeti-baskani-karagoz-biz-teknofest-gencliginin-ta-kendisiyiz/4139283",
-   "summary": "Tarım Teknolojileri Kümelenmesi (TÜME) Vakfı Mütevelli Heyeti Başkanı Abdulkadir Karagöz, \"Biz TEKNOFEST gençliğine alternatif gençler değiliz. Biz TEKNOFEST gençliğinin ta kendisiyiz.\" dedi.",
-   "source": "AA",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T15:14:24+00:00"
   },
   {
    "title": "Abdullah Öcalan'dan Özgür Özel'e İzleme Komisyonu mesajı",
@@ -510,7 +717,7 @@
    "link": "https://www.aa.com.tr/tr/ekonomi/libya-enerji-fuari-ve-konferansina-21-firmayla-en-fazla-katilim-turkiyeden/4139044",
    "summary": "Libya'nın başkenti Trablus'ta düzenlenen Libya Enerji Fuarı ve Konferansı'na (LIBYES 2026) 21 firmayla en fazla katılım sağlayan ülke Türkiye oldu.",
    "source": "AA",
-   "category": "Gündem",
+   "category": "Ekonomi",
    "image": null,
    "published": "2026-11-26T14:39:22+00:00"
   },
@@ -731,15 +938,6 @@
    "published": "2026-11-26T12:55:00+00:00"
   },
   {
-   "title": "Bulgaristan ve Türkiye iş dünyası Sofya'da buluştu",
-   "link": "https://www.trthaber.com/haber/ekonomi/bulgaristan-ve-turkiye-is-dunyasi-sofyada-bulustu-964551.html",
-   "summary": "BulgarTürk Ticaret ve Sanayi Odası BULTİŞAD ile Dış Ekonomik İlişkiler Kurulunun DEİK işbirliğinde Sofya'da gerçekleştirilen forumda, iki ülke arasındaki ekonomik ilişkilerin geliştirilmesi, yeni yatırım olanakları ve…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T12:53:00+00:00"
-  },
-  {
    "title": "ABD ve Avrupa'da siber tehdit büyüyor",
    "link": "https://www.trthaber.com/haber/dunya/abd-ve-avrupada-siber-tehdit-buyuyor-964552.html",
    "summary": "ABD'de CIA, FBI ve Hazine Bakanlığı verilerine sızıldı. Avrupa'da ise Belçika'dan Fransa'ya, Yunanistan'dan Almanya'ya kadar birçok ülkede siber saldırı olayı yaşandı. Siber saldırganlar FIFA'yı da hedef aldı.",
@@ -747,15 +945,6 @@
    "category": "Gündem",
    "image": null,
    "published": "2026-11-26T12:49:00+00:00"
-  },
-  {
-   "title": "TPAO, OMV ve OMV Petrom arasında 5 yıllık mutabakat zaptı",
-   "link": "https://www.trthaber.com/haber/ekonomi/tpao-omv-ve-omv-petrom-arasinda-5-yillik-mutabakat-zapti-964550.html",
-   "summary": "Bakan Alparslan Bayraktar, TPAO, Avusturya merkezli OMV ve Romanya merkezli OMV Petrom arasında 5 yıllık Mutabakat Zaptı imzalandığını açıkladı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T12:47:00+00:00"
   },
   {
    "title": "Bahçeşehir Koleji Başkanı Begüm Yücel, milli takımlara verdikleri katkıdan dolayı gururlu",
@@ -785,15 +974,6 @@
    "published": "2026-11-26T12:21:08+00:00"
   },
   {
-   "title": "Anayasa Mahkemesi'nden İmamoğlu'nun tutukluluk itirazına ret",
-   "link": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo?at_medium=RSS&at_campaign=rss",
-   "summary": "Anayasa Mahkemesi (AYM) görevden uzaklaştırılan İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'nun tutukluluğuna itirazını reddetti. AYM, hak ihlali olmadığına karar verdi.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/1fed/live/63daf890-e901-11f1-b9b5-17bef7133655.jpg",
-   "published": "2026-11-26T12:20:54+00:00"
-  },
-  {
    "title": "İngiltere Merkez Bankasından küresel piyasalara \"yapay zeka ve Orta Doğu\" uyarısı",
    "link": "https://www.aa.com.tr/tr/ekonomi/ingiltere-merkez-bankasindan-kuresel-piyasalara-yapay-zeka-ve-orta-dogu-uyarisi/4138719",
    "summary": "BoE, Orta Doğu'da devam eden çatışmalar, kamu borcu baskıları ve yapay zeka şirketlerinin gelecekteki kazançlarına yönelik dalgalı beklentilerin küresel finansal sistemdeki kırılganlıkların aynı anda ortaya çıkma…",
@@ -801,15 +981,6 @@
    "category": "Ekonomi",
    "image": null,
    "published": "2026-11-26T12:20:52+00:00"
-  },
-  {
-   "title": "Merkez Bankası rezervleri 142 milyar dolar oldu",
-   "link": "https://www.trthaber.com/haber/ekonomi/merkez-bankasi-rezervleri-142-milyar-dolar-oldu-964549.html",
-   "summary": "Türkiye Cumhuriyet Merkez Bankasının TCMB toplam rezervleri, 20 Kasım haftasında bir önceki haftaya göre 16 milyar 978 milyon dolar azalarak 141 milyar 972 milyon dolara geriledi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T12:17:00+00:00"
   },
   {
    "title": "Yemen'deki Husiler: Suudi Arabistan, Sana ve Hudeyde'ye hava saldırıları düzenledi",
@@ -839,31 +1010,13 @@
    "published": "2026-11-26T12:01:21+00:00"
   },
   {
-   "title": "Katil İsrail'in Gazze'ye düzenlediği saldırılarda son 48 saatte 18 Filistinli hayatını kaybetti",
-   "link": "https://www.trthaber.com/haber/dunya/katil-israilin-gazzeye-duzenledigi-saldirilarda-son-48-saatte-18-filistinli-hayatini-kaybetti-964548.html",
-   "summary": "Katil İsrail ordusunun ateşkese rağmen Gazze Şeridi'ne düzenlediği saldırılarda son 48 saatte aralarında kadın ve çocukların da bulunduğu 18 kişi hayatını kaybetti, 48 kişi yaralandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
+   "title": "Merkez Bankası rezervleri 142 milyar dolar oldu",
+   "link": "https://www.aa.com.tr/tr/ekonomi/merkez-bankasi-rezervleri-142-milyar-dolar-oldu/4138688",
+   "summary": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) toplam rezervleri, 20 Kasım haftasında bir önceki haftaya göre 16 milyar 978 milyon dolar azalarak 141 milyar 972 milyon dolara geriledi.",
+   "source": "AA",
+   "category": "Ekonomi",
    "image": null,
-   "published": "2026-11-26T11:58:00+00:00"
-  },
-  {
-   "title": "Kapadokya Havalimanı 10 ayda 739 bin yolcu ağırladı",
-   "link": "https://www.trthaber.com/haber/turkiye/kapadokya-havalimani-10-ayda-739-bin-yolcu-agirladi-964547.html",
-   "summary": "Nevşehir'deki Kapadokya Havalimanı'nda bu yılın ocakekim döneminde 739 bin 261 yolcuya hizmet sunuldu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T11:57:00+00:00"
-  },
-  {
-   "title": "İngiltere Savunma Bakanlığı 100 bin eski askere olası bir savaşa hazırlık mektubu gönderdi",
-   "link": "https://www.trthaber.com/haber/dunya/ingiltere-savunma-bakanligi-100-bin-eski-askere-olasi-bir-savasa-hazirlik-mektubu-gonderdi-964546.html",
-   "summary": "İngiltere Savunma Bakanlığı \"stratejik yedek\" konumundaki 100 bin eski askere olası bir savaşa hazır olmaları çağrısıyla mektup gönderdi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T11:56:00+00:00"
+   "published": "2026-11-26T11:56:39+00:00"
   },
   {
    "title": "Sırbistan'da cumhurbaşkanı seçimi 27 Aralık'ta yapılacak",
@@ -893,15 +1046,6 @@
    "published": "2026-11-26T11:37:38+00:00"
   },
   {
-   "title": "Tayland'da bir petrol tesisinde patlama meydana geldi",
-   "link": "https://www.trthaber.com/haber/dunya/taylandda-bir-petrol-tesisinde-patlama-meydana-geldi-964545.html",
-   "summary": "Tayland'ın başkenti Bangkok'ta büyük bir petrol tesisinde patlama meydana geldi; 4'ü ağır, 7 kişi yaralandı.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T11:33:00+00:00"
-  },
-  {
    "title": "İran'ın İsfahan ve Natanz nükleer sahaları arasında hızla yer altı tesisi inşa ettiği öne sürüldü",
    "link": "https://www.aa.com.tr/tr/dunya/iranin-isfahan-ve-natanz-nukleer-sahalari-arasinda-hizla-yer-alti-tesisi-insa-ettigi-one-suruldu/4138646",
    "summary": "ABD merkezli Uluslararası Bilim ve Güvenlik Enstitüsü, İran'ın İsfahan ve Natanz nükleer sahaları arasında yer altına gömülü ve tahkim edilmiş bir tesisin inşasını hızla sürdürdüğünü iddia etti.",
@@ -909,24 +1053,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-26T11:25:41+00:00"
-  },
-  {
-   "title": "İzlanda'da balıkçı gemisinin batması sonucu 3 denizci öldü, 14 kişi kurtarıldı",
-   "link": "https://www.trthaber.com/haber/dunya/izlandada-balikci-gemisinin-batmasi-sonucu-3-denizci-oldu-14-kisi-kurtarildi-964544.html",
-   "summary": "İzlanda açıklarında bir balıkçı gemisinin battığı, 17 kişilik mürettebattan 3 denizcinin hayatını kaybettiği bildirildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T11:18:00+00:00"
-  },
-  {
-   "title": "Bakan Kurum: Türkiye, çatı karara ilişkin müzakerelerde son dakikaya kadar gayret etmiştir",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-kurum-turkiye-cati-karara-iliskin-muzakerelerde-son-dakikaya-kadar-gayret-etmistir-964543.html",
-   "summary": "TBMM Plan ve Bütçe Komisyonunda, Çevre, Şehircilik ve İklim Değişikliği Bakanlığının 2027 yılı bütçesinin görüşmeleri başladı. Bakan Kurum görüşmelerde yaptığı sunumda, COP31'e de değinerek, \"Türkiye, çatı karara…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T11:07:00+00:00"
   },
   {
    "title": "Elon Musk'ın yörüngeye 'bir milyon uyduyla' veri merkezi kurma planı neden tepki alıyor?",
@@ -938,24 +1064,6 @@
    "published": "2026-11-26T11:05:32+00:00"
   },
   {
-   "title": "Mısır'daki 31 kişinin ölümüne sebep olan tanker kazasında sürücü gözaltına alındı",
-   "link": "https://www.trthaber.com/haber/dunya/misirdaki-31-kisinin-olumune-sebep-olan-tanker-kazasinda-surucu-gozaltina-alindi-964542.html",
-   "summary": "Mısır'ın başkenti Kahire'nin batısındaki Giza kentinde çevre yolunda 31 kişinin ölümüne, 21 kişinin de yaralanmasına yol açan kazaya sebep olmakla suçlanan kişinin gözaltına alındığı belirtildi.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T11:04:00+00:00"
-  },
-  {
-   "title": "Ayasofya'nın altındaki 1600 yıllık tarihi miras gün yüzüne çıkıyor",
-   "link": "https://www.trthaber.com/haber/kultur-sanat/ayasofyanin-altindaki-1600-yillik-tarihi-miras-gun-yuzune-cikiyor-964541.html",
-   "summary": "Ayasofyai Kebir Camii Şerifi Bilim Kurulu Üyesi ve Fatih Sultan Mehmet Vakıf Üniversitesi FSMVÜ Öğretim Üyesi Prof. Dr. Hasan Fırat Diker, mevcut yapının bünyesinde kalması nedeniyle yüzyıllardır görünür olmayan Roma…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T10:52:00+00:00"
-  },
-  {
    "title": "Almanya Başbakanı Merz: Ukrayna'nın önümüzdeki yıllarda yeterince desteklenmesini sağlamalıyız",
    "link": "https://www.aa.com.tr/tr/dunya/almanya-basbakani-merz-ukraynanin-onumuzdeki-yillarda-yeterince-desteklenmesini-saglamaliyiz/4138585",
    "summary": "Almanya Başbakanı Friedrich Merz, Ukrayna'nın gelecek yıllarda yeterince desteklenmesinin sağlanması gerektiğini söyledi.",
@@ -965,15 +1073,6 @@
    "published": "2026-11-26T10:51:32+00:00"
   },
   {
-   "title": "Bakan Güler ABD'ye gidiyor",
-   "link": "https://www.trthaber.com/haber/gundem/bakan-guler-abdye-gidiyor-964540.html",
-   "summary": "AnkaraVaşington hattında önemli bir temas gerçekleşecek. Milli Savunma Bakanı Yaşar Güler görev süresi boyunca ilk kez Amerika Birleşik Devletleri'ne gidiyor. Bakan Güler 30 Kasım3 Aralık tarihlerinde yapacağı resmi…",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T10:45:00+00:00"
-  },
-  {
    "title": "Mali Maarif Okulları, Nijer Nehri üzerindeki ada okulunda Türkçe öğretiyor",
    "link": "https://www.aa.com.tr/tr/dunya/mali-maarif-okullari-nijer-nehri-uzerindeki-ada-okulunda-turkce-ogretiyor/4138566",
    "summary": "Mali'nin başkenti Bamako'da, Nijer Nehri kıyısında yaşayan balıkçı ailelerinin çocukları, her gün geleneksel teknelerle ulaştıkları ada okulunda Türkiye Maarif Vakfının (TMV) desteğiyle Türkçe öğreniyor.",
@@ -981,15 +1080,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-26T10:44:12+00:00"
-  },
-  {
-   "title": "15 bin öğretmen adayının branş kontenjanları hafta sonu belli olacak",
-   "link": "https://www.trthaber.com/haber/gundem/15-bin-ogretmen-adayinin-brans-kontenjanlari-hafta-sonu-belli-olacak-964539.html",
-   "summary": "Milli Eğitim Bakanı Yusuf Tekin, Milli Eğitim Akademilerine 2026'da alınacak 15 bin öğretmen adayına ilişkin alanlara göre kontenjan dağılımının bu hafta sonu kamuoyuyla paylaşılacağını duyurdu.",
-   "source": "TRT Haber",
-   "category": "Gündem",
-   "image": null,
-   "published": "2026-11-26T10:44:00+00:00"
   },
   {
    "title": "Taha Akgül ve Rıza Kayaalp, bağımlılıkla mücadeleye dikkati çekmek için futbol oynadı",
@@ -1062,24 +1152,6 @@
    "category": "Dünya",
    "image": null,
    "published": "2026-11-26T10:04:12+00:00"
-  },
-  {
-   "title": "AB savaş suçlularının yüceltilmesi ve soykırımın inkar edilmesine karşı çıktı",
-   "link": "https://www.aa.com.tr/tr/dunya/ab-savas-suclularinin-yuceltilmesi-ve-soykirimin-inkar-edilmesine-karsi-cikti/4138498",
-   "summary": "Avrupa Birliği (AB), AB-Batı Balkanlar Zirvesi'nin ardından, \"Savaş suçlularının yüceltilmesi, soykırımın inkar edilmesi ve tarihsel gerçeklerin çarpıtılması, Avrupa'nın en temel değerleriyle bağdaşmamaktadır.\"…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-26T10:02:44+00:00"
-  },
-  {
-   "title": "Myanmar, UAD'nin soykırım kararının bazı bölümlerine uymayacağını duyurdu",
-   "link": "https://www.aa.com.tr/tr/dunya/myanmar-uadnin-soykirim-kararinin-bazi-bolumlerine-uymayacagini-duyurdu/4138490",
-   "summary": "Myanmar Devlet Başkanı Min Aung Hlaing, Uluslararası Adalet Divanının (UAD) Myanmar'ın Arakanlı Müslümanlara karşı soykırım suçu işlediğine ilişkin kararının bazı bölümlerini \"uygunsuz\" bulduklarını ve bu kısımlara…",
-   "source": "AA",
-   "category": "Dünya",
-   "image": null,
-   "published": "2026-11-26T10:00:03+00:00"
   },
   {
    "title": "Sanayi ve Teknoloji Bakanı Kacır: Avrupa'nın en hızlı büyüyen ekonomilerinin başında geliyoruz",
@@ -1235,15 +1307,6 @@
    "published": "2026-11-26T08:03:00+00:00"
   },
   {
-   "title": "COP31'de uzlaşıya yanaşmayan AB, Birlik içindeki iklim politikalarıyla çelişiyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/cop31de-uzlasiya-yanasmayan-ab-birlik-icindeki-iklim-politikalariyla-celisiyor/4138290",
-   "summary": "AB'nin COP31'de fosil yakıtlardan uzaklaşmaya yönelik nihai uzlaşı taslağını reddetmesi ve metan emisyonlarına ilişkin kendi kurallarının uygulanmasını ertelemek üzere adım atması, Birliğin iklim politikasındaki…",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-26T08:00:53+00:00"
-  },
-  {
    "title": "NBA'de Rockets, Alperen Şengün'ün \"triple-double\" yaptığı maçta Suns'ı yendi",
    "link": "https://www.aa.com.tr/tr/spor/nbade-rockets-alperen-sengunun-triple-double-yaptigi-macta-sunsi-yendi/4138259",
    "summary": "Amerikan Basketbol Ligi (NBA) Kupası'nda Houston Rockets, konuk ettiği Phoenix Suns'ı 116-104 yenerken milli oyuncu Alperen Şengün de yaptığı \"triple-double\"la galibiyete katkı verdi.",
@@ -1253,15 +1316,6 @@
    "published": "2026-11-26T07:38:08+00:00"
   },
   {
-   "title": "12. Dünya Helal Zirvesi ve Helal Expo Uluslararası Ticaret Fuarı ikinci gününde devam ediyor",
-   "link": "https://www.aa.com.tr/tr/ekonomi/12-dunya-helal-zirvesi-ve-helal-expo-uluslararasi-ticaret-fuari-ikinci-gununde-devam-ediyor/4138223",
-   "summary": "Helal ekosistemini küresel ölçekte bir araya getiren 12. Dünya Helal Zirvesi ve Helal Expo Uluslararası Ticaret Fuarı, ikinci gününde ziyaretçilerini ağırlamayı sürdürüyor.",
-   "source": "AA",
-   "category": "Ekonomi",
-   "image": null,
-   "published": "2026-11-26T06:59:39+00:00"
-  },
-  {
    "title": "Kasımpaşa yarın Çaykur Rizespor'a konuk olacak",
    "link": "https://www.aa.com.tr/tr/spor/kasimpasa-yarin-caykur-rizespora-konuk-olacak/4138202",
    "summary": "Kasımpaşa, Trendyol Süper Lig'in 13. haftasında yarın Çaykur Rizespor'la deplasmanda karşı karşıya gelecek.",
@@ -1269,15 +1323,6 @@
    "category": "Spor",
    "image": null,
    "published": "2026-11-26T06:32:11+00:00"
-  },
-  {
-   "title": "Yeni Parti'nin komisyona üye vermeme kararı Diyarbakır'da nasıl karşılandı?",
-   "link": "https://www.bbc.com/turkce/articles/cqp8364dklm4o?at_medium=RSS&at_campaign=rss",
-   "summary": "Diyarbakır'da seçmenlerin bir kısmı Yeni Parti'nin çözüm süreci kapsamında TBMM'de oluşturulacak İzleme Komisyonu'na üye vermeme kararının partiyi \"barış sürecine mesafeli\" bir konuma düşürdüğüne inanıyor.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4fad/live/5cb29b80-e984-11f1-bb43-d1b6102e3b60.jpg",
-   "published": "2026-11-26T06:22:32+00:00"
   },
   {
    "title": "Süper Lig'de 13. haftanın perdesi yarın açılacak",
@@ -1305,51 +1350,6 @@
    "category": "Dünya",
    "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/4145/live/b61f1040-e984-11f1-bb43-d1b6102e3b60.jpg",
    "published": "2026-11-26T00:13:12+00:00"
-  },
-  {
-   "title": "Fenerbahçe, Şampiyonlar Ligi'nde Shakhtar Donetsk'i tek golle geçti",
-   "link": "https://www.aa.com.tr/tr/spor/fenerbahce-sampiyonlar-liginde-shakhtar-donetski-tek-golle-gecti/4138081",
-   "summary": "UEFA Şampiyonlar Ligi'nin 5. haftasında Ukrayna'nın Shakhtar Donetsk ekibiyle İngiltere'nin başkenti Londra'da karşılaşan Fenerbahçe, Muric'in golüyle rakibini 1-0 yenerek puanını 8'e yükseltti.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-25T20:57:27+00:00"
-  },
-  {
-   "title": "25 Kasım'da kadınlar sokaktaydı: 'Yoksulluğa, şiddete ve baskılara karşı birbirimizin güvencesiyiz'",
-   "link": "https://www.bbc.com/turkce/articles/cq9vwr742gd3o?at_medium=RSS&at_campaign=rss",
-   "summary": "25 Kasım Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında Türkiye'nin çeşitli kentlerinde yürüyüş ve basın açıklamaları düzenleniyor.",
-   "source": "BBC Türkçe",
-   "category": "Dünya",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8aa9/live/1234b2a0-e8ee-11f1-99a1-253766e7ad8b.jpg",
-   "published": "2026-11-25T19:43:26+00:00"
-  },
-  {
-   "title": "Beşiktaş, Batum'a ulaştı",
-   "link": "https://www.aa.com.tr/tr/spor/besiktas-batuma-ulasti-/4137720",
-   "summary": "Beşiktaş Futbol Direktörü Önder Özen, \"Biraz tehlikeli bir yolculuk oldu. Uçağı kullanan pilot da benim değerlendirmek haddime değil ama çok akıllıca bir karar verdi ve son anda inişten vazgeçti.\" dedi.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-25T15:12:05+00:00"
-  },
-  {
-   "title": "NBA Avrupa için 10 milyar avroluk girişim planı",
-   "link": "https://www.aa.com.tr/tr/spor/nba-avrupa-icin-10-milyar-avroluk-girisim-plani/4137582",
-   "summary": "Amerikan Basketbol Ligi (NBA), NBA Avrupa projesi kapsamında kıta genelinde basketbol salonlarının ve çevresindeki eğlence bölgelerinin geliştirilmesiyle yenilenmesi için en az 10 milyar avroluk finansman hedefleyen…",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-25T13:37:32+00:00"
-  },
-  {
-   "title": "İşitme engelli milli güreşçiler, yarın Ermenistan'da ilk müsabakalarına çıkacak",
-   "link": "https://www.aa.com.tr/tr/spor/isitme-engelli-milli-guresciler-yarin-ermenistanda-ilk-musabakalarina-cikacak/4137548",
-   "summary": "İşitme engelli milli güreşçiler, Ermenistan'da 2026 Avrupa Güreş Şampiyonası'nda yarın ilk madalya müsabakalarına çıkacak.",
-   "source": "AA",
-   "category": "Spor",
-   "image": null,
-   "published": "2026-11-25T13:18:37+00:00"
   }
  ]
 }
